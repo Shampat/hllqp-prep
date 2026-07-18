@@ -29,6 +29,3174 @@
       "To reduce paperwork only"
     ],
     "correctAnswer": 1,
-    "explanation": "Insurance recommendations should be based on the client's needs and circumstances."
+    "explanation": "Recommendations should be based on the client's needs and circumstances."
+  },
+  {
+    "id": 3,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Who is the person whose life is insured under a life insurance policy?",
+    "options": [
+      "Policyowner",
+      "Beneficiary",
+      "Life insured",
+      "Agent"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The life insured is the individual whose death triggers the policy benefit."
+  },
+  {
+    "id": 4,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Who owns the rights and controls a life insurance policy?",
+    "options": [
+      "Beneficiary",
+      "Policyowner",
+      "Insurer",
+      "Medical examiner"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The policyowner controls policy rights including changes and assignments."
+  },
+  {
+    "id": 5,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "Who receives the death benefit when a beneficiary is properly designated?",
+    "options": [
+      "The beneficiary",
+      "The agent",
+      "The insurer",
+      "The government"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The beneficiary receives the policy proceeds according to the contract."
+  },
+  {
+    "id": 6,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Which type of insurance provides coverage for a specific period?",
+    "options": [
+      "Term insurance",
+      "Whole life insurance",
+      "Permanent insurance",
+      "Universal insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Term insurance provides protection for a defined period."
+  },
+  {
+    "id": 7,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Permanent life insurance generally provides:",
+    "options": [
+      "Temporary coverage only",
+      "Lifetime protection",
+      "No death benefit",
+      "Only investment advice"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Permanent insurance is designed to provide lifelong coverage."
+  },
+  {
+    "id": 8,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "A premium is:",
+    "options": [
+      "The amount paid for insurance coverage",
+      "The death benefit amount",
+      "The agent commission",
+      "The tax refund"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A premium is the payment required to maintain insurance coverage."
+  },
+  {
+    "id": 9,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "The purpose of underwriting is to:",
+    "options": [
+      "Assess risk",
+      "Pay claims immediately",
+      "Sell investments",
+      "Reduce benefits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Underwriting evaluates risk before approving coverage."
+  },
+  {
+    "id": 10,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Which factor may affect life insurance premiums?",
+    "options": [
+      "Age and health",
+      "Favourite colour",
+      "Postal code only",
+      "Occupation title only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Age, health, and risk factors influence premium calculations."
+  },
+  {
+    "id": 11,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "A life insurance claim is normally paid after:",
+    "options": [
+      "The insured person's death",
+      "The first premium payment",
+      "The policy application",
+      "The medical examination"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A death benefit claim is triggered by the death of the insured person."
+  },
+  {
+    "id": 12,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "A beneficiary designation determines:",
+    "options": [
+      "Who receives policy proceeds",
+      "The premium amount",
+      "The agent commission",
+      "The underwriting decision"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The beneficiary designation identifies who receives the death benefit."
+  },
+  {
+    "id": 13,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Ownership",
+    "difficulty": "Medium",
+    "question": "A policyowner may usually:",
+    "options": [
+      "Change beneficiaries",
+      "Change the insured person's medical history",
+      "Guarantee investment returns",
+      "Cancel insurer regulations"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Policyowners generally have contractual rights such as changing beneficiaries."
+  },
+  {
+    "id": 14,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Whole life insurance is considered:",
+    "options": [
+      "Permanent insurance",
+      "Temporary insurance only",
+      "Health insurance",
+      "Property insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Whole life insurance provides permanent coverage."
+  },
+  {
+    "id": 15,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Universal life insurance typically combines:",
+    "options": [
+      "Insurance protection and investment components",
+      "Only temporary coverage",
+      "Only medical benefits",
+      "Only retirement benefits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Universal life combines insurance protection with flexible investment features."
+  },
+  {
+    "id": 16,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Needs Analysis",
+    "difficulty": "Easy",
+    "question": "A needs analysis helps determine:",
+    "options": [
+      "Appropriate insurance coverage",
+      "Stock market prices",
+      "Tax rates",
+      "Agent licensing requirements"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Needs analysis helps identify the amount and type of coverage required."
+  },
+  {
+    "id": 17,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An insurance advisor should provide recommendations based on:",
+    "options": [
+      "Client needs and circumstances",
+      "Personal commission only",
+      "Competitor pricing",
+      "Social media trends"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations must focus on the client's interests."
+  },
+  {
+    "id": 18,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "Higher insurance risk generally results in:",
+    "options": [
+      "Higher premiums",
+      "Lower premiums",
+      "No premium",
+      "Automatic approval"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Higher risk generally increases the cost of insurance."
+  },
+  {
+    "id": 19,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "A medical examination may be required to:",
+    "options": [
+      "Evaluate health risk",
+      "Determine beneficiary",
+      "Set commission",
+      "Select policyowner"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Medical information helps insurers assess risk."
+  },
+  {
+    "id": 20,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The death benefit is:",
+    "options": [
+      "Amount paid when the insured dies",
+      "Monthly premium",
+      "Agent compensation",
+      "Policy application fee"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The death benefit is the amount payable under the policy contract."
+  },
+  {
+    "id": 21,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Easy",
+    "question": "Term insurance usually has:",
+    "options": [
+      "Coverage for a specified period",
+      "Lifetime guaranteed coverage",
+      "No expiration date",
+      "No premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Term insurance provides protection for a defined term."
+  },
+  {
+    "id": 22,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "A contingent beneficiary receives benefits if:",
+    "options": [
+      "The primary beneficiary cannot receive them",
+      "The agent requests payment",
+      "Premiums increase",
+      "The policy expires"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A contingent beneficiary is a backup beneficiary."
+  },
+  {
+    "id": 23,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Applications",
+    "difficulty": "Medium",
+    "question": "The application for life insurance should contain:",
+    "options": [
+      "Accurate client information",
+      "False information",
+      "Only agent opinions",
+      "No medical details"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate information is essential for proper underwriting."
+  },
+  {
+    "id": 24,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should explain policy features:",
+    "options": [
+      "Clearly and honestly",
+      "Only after purchase",
+      "Only if asked by insurer",
+      "Never"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clear disclosure helps clients make informed decisions."
+  },
+  {
+    "id": 25,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The insurer is the company that:",
+    "options": [
+      "Issues the insurance policy",
+      "Receives commissions",
+      "Chooses the beneficiary",
+      "Becomes the insured"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The insurer provides the insurance contract and coverage."
+  },
+  {
+    "id": 26,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Ownership",
+    "difficulty": "Medium",
+    "question": "The policyowner has the right to:",
+    "options": [
+      "Make changes allowed by the policy contract",
+      "Change the insurer's rules",
+      "Guarantee claim approval",
+      "Remove underwriting requirements"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The policyowner controls contractual rights provided under the policy."
+  },
+  {
+    "id": 27,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "A rider is used to:",
+    "options": [
+      "Add additional benefits or features",
+      "Cancel all coverage",
+      "Replace the insurer",
+      "Avoid premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Riders modify or enhance the original insurance contract."
+  },
+  {
+    "id": 28,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "A waiver of premium rider may:",
+    "options": [
+      "Waive premiums after qualifying disability",
+      "Increase investment returns",
+      "Guarantee dividends",
+      "Remove beneficiaries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This rider can keep coverage active if the insured becomes disabled."
+  },
+  {
+    "id": 29,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Easy",
+    "question": "Convertible term insurance allows the owner to:",
+    "options": [
+      "Convert to permanent insurance without new medical evidence",
+      "Avoid all premiums",
+      "Transfer ownership automatically",
+      "Increase coverage without limits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conversion options allow movement from term to permanent coverage."
+  },
+  {
+    "id": 30,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Renewals",
+    "difficulty": "Medium",
+    "question": "A renewable term policy allows:",
+    "options": [
+      "Continuation of coverage according to policy terms",
+      "Automatic claim payment",
+      "Free insurance forever",
+      "Removal of premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Renewability allows continuation based on the contract."
+  },
+  {
+    "id": 31,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "A revocable beneficiary designation can usually be changed by:",
+    "options": [
+      "The policyowner",
+      "The beneficiary only",
+      "The agent only",
+      "The medical examiner"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A revocable beneficiary can generally be changed by the policyowner."
+  },
+  {
+    "id": 32,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "An irrevocable beneficiary generally requires consent for:",
+    "options": [
+      "Certain policy changes",
+      "Premium payment",
+      "Medical examination",
+      "Initial application"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Irrevocable beneficiaries have stronger rights under the policy."
+  },
+  {
+    "id": 33,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "A level premium means:",
+    "options": [
+      "Premiums remain the same for a specified period",
+      "No premiums are required",
+      "Premiums decrease every month",
+      "Only one payment is made"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Level premiums remain constant according to policy terms."
+  },
+  {
+    "id": 34,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Underwriting helps insurers determine:",
+    "options": [
+      "Risk classification",
+      "Beneficiary identity",
+      "Agent licensing",
+      "Investment performance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Underwriting evaluates the level of risk."
+  },
+  {
+    "id": 35,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Applications",
+    "difficulty": "Medium",
+    "question": "Misrepresentation on an insurance application may:",
+    "options": [
+      "Affect policy decisions or claims",
+      "Increase guaranteed benefits",
+      "Remove premiums",
+      "Guarantee acceptance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Incorrect information can affect the validity of coverage."
+  },
+  {
+    "id": 36,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Permanent life insurance usually includes:",
+    "options": [
+      "Lifetime coverage",
+      "Only one-year coverage",
+      "No death benefit",
+      "No contract"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Permanent insurance is designed for long-term protection."
+  },
+  {
+    "id": 37,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "The insurer reviews a claim to:",
+    "options": [
+      "Verify policy requirements are met",
+      "Change beneficiaries",
+      "Increase premiums",
+      "Sell another product"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims are reviewed according to policy terms."
+  },
+  {
+    "id": 38,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor must avoid:",
+    "options": [
+      "Misleading clients",
+      "Explaining coverage",
+      "Reviewing needs",
+      "Providing information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional conduct requires honesty and fairness."
+  },
+  {
+    "id": 39,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The insurance contract is between:",
+    "options": [
+      "Policyowner and insurer",
+      "Agent and beneficiary",
+      "Government and agent",
+      "Doctor and insurer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The policy contract exists between owner and insurer."
+  },
+  {
+    "id": 40,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Needs Analysis",
+    "difficulty": "Medium",
+    "question": "Life insurance needs may change because of:",
+    "options": [
+      "Changes in personal circumstances",
+      "Favourite hobbies only",
+      "Weather conditions",
+      "Agent preferences"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life events can change insurance requirements."
+  },
+  {
+    "id": 41,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "A key difference between term and permanent insurance is:",
+    "options": [
+      "Term is temporary while permanent is designed for lifetime coverage",
+      "Term has no premiums",
+      "Permanent has no death benefit",
+      "They are identical"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Term insurance covers a period, while permanent insurance is intended for long-term protection."
+  },
+  {
+    "id": 42,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Values",
+    "difficulty": "Medium",
+    "question": "Cash value is commonly associated with:",
+    "options": [
+      "Certain permanent life insurance policies",
+      "All term policies",
+      "Health insurance only",
+      "Travel insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Permanent policies may build cash value depending on the contract."
+  },
+  {
+    "id": 43,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Loans",
+    "difficulty": "Medium",
+    "question": "A policy loan may be available against:",
+    "options": [
+      "Eligible cash value",
+      "A term expiration date",
+      "An agent license",
+      "A beneficiary designation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some permanent policies allow borrowing against accumulated cash value."
+  },
+  {
+    "id": 44,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "Failure to pay required premiums may result in:",
+    "options": [
+      "Policy lapse",
+      "Automatic increase in benefits",
+      "Guaranteed approval",
+      "Removal of insurer obligations"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Coverage may end if required premiums are not paid."
+  },
+  {
+    "id": 45,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should explain:",
+    "options": [
+      "Policy benefits, limitations, and costs",
+      "Only commission amounts",
+      "Only company history",
+      "Only application dates"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need clear information to make informed decisions."
+  },
+  {
+    "id": 46,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Smoking status may affect:",
+    "options": [
+      "Life insurance premiums",
+      "Beneficiary rights",
+      "Policy ownership",
+      "Agent licensing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lifestyle factors can influence underwriting and premiums."
+  },
+  {
+    "id": 47,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Applications",
+    "difficulty": "Medium",
+    "question": "The applicant should provide information that is:",
+    "options": [
+      "Complete and accurate",
+      "Estimated only",
+      "Based on another person's answers",
+      "Hidden from the insurer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate application information supports proper underwriting."
+  },
+  {
+    "id": 48,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "A beneficiary receives:",
+    "options": [
+      "Policy proceeds when entitled",
+      "The agent commission",
+      "The premium refund always",
+      "The underwriting report"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiaries receive benefits according to the policy contract."
+  },
+  {
+    "id": 49,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Life insurance is primarily designed to protect against:",
+    "options": [
+      "Financial impact of death",
+      "Daily weather changes",
+      "Stock market losses only",
+      "Vehicle repairs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance helps protect against financial loss caused by death."
+  },
+  {
+    "id": 50,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Review",
+    "difficulty": "Medium",
+    "question": "Regular policy reviews help ensure:",
+    "options": [
+      "Coverage continues to meet client needs",
+      "Premiums disappear",
+      "Claims are automatic",
+      "Underwriting is removed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life changes may require adjustments to insurance coverage."
+  },
+  {
+    "id": 51,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Insurance Principles",
+    "difficulty": "Easy",
+    "question": "Insurance works by:",
+    "options": [
+      "Sharing risk among many policyholders",
+      "Removing all financial risks",
+      "Guaranteeing profits",
+      "Replacing savings completely"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance pools risks among many individuals."
+  },
+  {
+    "id": 52,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Needs Analysis",
+    "difficulty": "Medium",
+    "question": "A major factor when determining life insurance needs is:",
+    "options": [
+      "Financial obligations",
+      "Favourite colour",
+      "Travel preference",
+      "Vehicle type"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Financial responsibilities help determine required coverage."
+  },
+  {
+    "id": 53,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "A primary beneficiary is:",
+    "options": [
+      "The first person entitled to receive benefits",
+      "The insurance agent",
+      "The insurer",
+      "The medical examiner"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The primary beneficiary receives proceeds before contingent beneficiaries."
+  },
+  {
+    "id": 54,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Changes",
+    "difficulty": "Medium",
+    "question": "A policy assignment involves:",
+    "options": [
+      "Transferring policy rights to another party",
+      "Changing medical history",
+      "Cancelling all benefits",
+      "Changing insurer ownership"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Assignment transfers some or all policy rights."
+  },
+  {
+    "id": 55,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "Premium payments keep a policy:",
+    "options": [
+      "In force",
+      "Automatically cancelled",
+      "Without a contract",
+      "Without benefits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Required premiums maintain coverage."
+  },
+  {
+    "id": 56,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "An insurer may consider occupation during:",
+    "options": [
+      "Risk assessment",
+      "Beneficiary selection",
+      "Claim payment only",
+      "Policy cancellation only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Occupation may affect risk classification."
+  },
+  {
+    "id": 57,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Easy",
+    "question": "Term insurance generally does not build:",
+    "options": [
+      "Cash value",
+      "Coverage",
+      "Premiums",
+      "A contract"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Traditional term insurance normally provides protection without cash value."
+  },
+  {
+    "id": 58,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Universal life insurance may offer:",
+    "options": [
+      "Flexible premium options",
+      "No insurance protection",
+      "No contract value",
+      "No policyowner rights"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Universal life often provides flexibility in premiums and features."
+  },
+  {
+    "id": 59,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "The purpose of a death claim is to:",
+    "options": [
+      "Request payment of the death benefit",
+      "Change ownership",
+      "Modify premiums",
+      "Add riders"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A claim requests benefits payable under the policy."
+  },
+  {
+    "id": 60,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Client information should be:",
+    "options": [
+      "Handled confidentially",
+      "Shared publicly",
+      "Sold freely",
+      "Ignored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Client information must be handled appropriately."
+  },
+  {
+    "id": 61,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Insurance Principles",
+    "difficulty": "Medium",
+    "question": "The main purpose of insurance is to:",
+    "options": [
+      "Protect against financial loss",
+      "Create guaranteed wealth",
+      "Avoid all expenses",
+      "Replace employment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance provides financial protection against specified risks."
+  },
+  {
+    "id": 62,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Ownership",
+    "difficulty": "Medium",
+    "question": "The policyowner is responsible for:",
+    "options": [
+      "Making required premium payments",
+      "Approving all claims",
+      "Changing insurer rules",
+      "Completing medical exams for everyone"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The policyowner has responsibilities under the contract."
+  },
+  {
+    "id": 63,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "A beneficiary designation should be:",
+    "options": [
+      "Clear and properly recorded",
+      "Left blank always",
+      "Selected by the agent",
+      "Ignored after purchase"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clear beneficiary designations help ensure benefits are paid correctly."
+  },
+  {
+    "id": 64,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Applications",
+    "difficulty": "Medium",
+    "question": "The insurance application becomes part of:",
+    "options": [
+      "The policy contract",
+      "The agent's personal records only",
+      "A tax document only",
+      "A medical record only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The application is an important part of the insurance agreement."
+  },
+  {
+    "id": 65,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Risk classification helps insurers:",
+    "options": [
+      "Determine appropriate premiums",
+      "Choose beneficiaries",
+      "Write explanations",
+      "Set government policy"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk classification helps determine pricing."
+  },
+  {
+    "id": 66,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Permanent insurance generally remains in force:",
+    "options": [
+      "For the insured's lifetime if requirements are met",
+      "For one month only",
+      "Without any premiums",
+      "Only during employment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Permanent policies are designed for lifelong protection."
+  },
+  {
+    "id": 67,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "A premium payment is made by:",
+    "options": [
+      "The policyowner",
+      "The beneficiary",
+      "The medical examiner",
+      "The claimant"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The policyowner is usually responsible for premiums."
+  },
+  {
+    "id": 68,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "A rider generally:",
+    "options": [
+      "Changes or adds policy benefits",
+      "Replaces the entire contract",
+      "Removes all coverage",
+      "Eliminates underwriting"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Riders modify the original policy."
+  },
+  {
+    "id": 69,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Claim payments are made according to:",
+    "options": [
+      "Policy terms and conditions",
+      "Agent preference",
+      "Market conditions",
+      "Client occupation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims are governed by the insurance contract."
+  },
+  {
+    "id": 70,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should recommend products that are:",
+    "options": [
+      "Suitable for the client's needs",
+      "Most expensive available",
+      "Most profitable for the advisor",
+      "Popular online"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability is a key professional responsibility."
+  },
+  {
+    "id": 71,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Reviews",
+    "difficulty": "Easy",
+    "question": "A policy review helps determine if:",
+    "options": [
+      "Coverage still meets client needs",
+      "The insurer can be ignored",
+      "Premiums are unnecessary",
+      "Claims are automatic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Client circumstances change over time."
+  },
+  {
+    "id": 72,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Needs Analysis",
+    "difficulty": "Medium",
+    "question": "Life insurance needs may increase after:",
+    "options": [
+      "Starting a family or taking on debts",
+      "Changing a phone",
+      "Buying clothing",
+      "Taking a vacation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Major life events affect financial protection needs."
+  },
+  {
+    "id": 73,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The insured person is:",
+    "options": [
+      "The person whose life is covered",
+      "The insurance company",
+      "The beneficiary",
+      "The advisor"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The insured is the individual covered by the policy."
+  },
+  {
+    "id": 74,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The insurer is responsible for:",
+    "options": [
+      "Providing coverage according to the contract",
+      "Choosing the client's goals",
+      "Paying all expenses",
+      "Selecting beneficiaries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The insurer provides contractual insurance protection."
+  },
+  {
+    "id": 75,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Review",
+    "difficulty": "Medium",
+    "question": "A complete insurance review considers:",
+    "options": [
+      "Client goals and circumstances",
+      "Only premium price",
+      "Only insurer name",
+      "Only product advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A review should consider the client's overall situation."
+  },
+  {
+    "id": 76,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Whole life insurance is a type of:",
+    "options": [
+      "Permanent life insurance",
+      "Temporary insurance only",
+      "Travel insurance",
+      "Property insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Whole life insurance provides permanent protection."
+  },
+  {
+    "id": 77,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Term insurance is often used for:",
+    "options": [
+      "Temporary protection needs",
+      "Vehicle repairs",
+      "Medical treatment only",
+      "Guaranteed investment returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Term insurance is commonly used for temporary financial obligations."
+  },
+  {
+    "id": 78,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Needs Analysis",
+    "difficulty": "Medium",
+    "question": "A mortgage may create a need for:",
+    "options": [
+      "Life insurance protection",
+      "Lower insurance coverage always",
+      "No financial planning",
+      "Removing beneficiaries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Debt obligations can create a need for protection."
+  },
+  {
+    "id": 79,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Applications",
+    "difficulty": "Medium",
+    "question": "False information on an application may:",
+    "options": [
+      "Impact coverage decisions",
+      "Guarantee approval",
+      "Increase benefits automatically",
+      "Remove premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accuracy is important during the application process."
+  },
+  {
+    "id": 80,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should act in the client's:",
+    "options": [
+      "Best interest",
+      "Competitor's interest",
+      "Market interest only",
+      "Agent's interest only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional conduct requires client-focused advice."
+  },
+  {
+    "id": 81,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "A contingent beneficiary receives benefits if:",
+    "options": [
+      "The primary beneficiary cannot receive them",
+      "The agent requests payment",
+      "Premiums increase",
+      "The policy expires"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A contingent beneficiary is a backup recipient."
+  },
+  {
+    "id": 82,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Ownership",
+    "difficulty": "Medium",
+    "question": "Ownership rights may include:",
+    "options": [
+      "Changing beneficiaries when permitted",
+      "Changing insurer regulations",
+      "Approving all claims",
+      "Ignoring premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Owners have contractual rights under the policy."
+  },
+  {
+    "id": 83,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "Premiums are based partly on:",
+    "options": [
+      "Risk factors",
+      "Favourite foods",
+      "Weather",
+      "Vehicle colour"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk factors influence insurance pricing."
+  },
+  {
+    "id": 84,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Medical information may be used to:",
+    "options": [
+      "Assess insurance risk",
+      "Select beneficiaries",
+      "Change ownership",
+      "Set government taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Medical details assist underwriting."
+  },
+  {
+    "id": 85,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Review",
+    "difficulty": "Easy",
+    "question": "A client review should occur:",
+    "options": [
+      "Regularly as circumstances change",
+      "Never after purchase",
+      "Only after claims",
+      "Only when premiums stop"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Regular reviews help maintain suitable coverage."
+  },
+  {
+    "id": 86,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Insurance Principles",
+    "difficulty": "Medium",
+    "question": "The amount of life insurance coverage needed depends on:",
+    "options": [
+      "Client financial needs and obligations",
+      "The advisor's preference",
+      "The insurer's advertising",
+      "The client's favourite product"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Coverage should be based on the client's situation."
+  },
+  {
+    "id": 87,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Permanent life insurance may include:",
+    "options": [
+      "A cash value component",
+      "No contract value",
+      "No death benefit",
+      "Only short-term coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some permanent policies accumulate cash value."
+  },
+  {
+    "id": 88,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "A death benefit is paid after:",
+    "options": [
+      "The insured's death according to policy terms",
+      "The first premium payment",
+      "The application date",
+      "A beneficiary request only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Death benefits are paid according to the contract."
+  },
+  {
+    "id": 89,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should explain:",
+    "options": [
+      "Important policy features and limitations",
+      "Only sales targets",
+      "Only commissions",
+      "Only company history"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients require clear and complete information."
+  },
+  {
+    "id": 90,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Applications",
+    "difficulty": "Easy",
+    "question": "The applicant should review the application before:",
+    "options": [
+      "Signing it",
+      "Ignoring it",
+      "Changing the insurer",
+      "Selecting an agent"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Applicants should confirm information is accurate."
+  },
+  {
+    "id": 91,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "A beneficiary designation determines:",
+    "options": [
+      "Who receives policy proceeds",
+      "Who sells the policy",
+      "Who pays premiums",
+      "Who performs underwriting"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiaries receive benefits according to designation."
+  },
+  {
+    "id": 92,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Medium",
+    "question": "Higher insurance risk generally results in:",
+    "options": [
+      "Higher premiums",
+      "No contract",
+      "Automatic cancellation",
+      "Lower coverage always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Greater risk often results in higher insurance costs."
+  },
+  {
+    "id": 93,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Changes",
+    "difficulty": "Medium",
+    "question": "Changing policy information should follow:",
+    "options": [
+      "The insurer's procedures",
+      "Verbal instructions only",
+      "No documentation",
+      "Agent preference only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Policy changes must follow contractual requirements."
+  },
+  {
+    "id": 94,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Needs Analysis",
+    "difficulty": "Easy",
+    "question": "Life insurance can help protect:",
+    "options": [
+      "Dependents and financial obligations",
+      "Stock prices only",
+      "Vehicle value only",
+      "Vacation plans"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance provides financial protection."
+  },
+  {
+    "id": 95,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "Adding a rider may:",
+    "options": [
+      "Increase available protection",
+      "Remove the contract",
+      "Cancel coverage",
+      "Avoid all premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Riders can provide additional benefits."
+  },
+  {
+    "id": 96,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Underwriting occurs before:",
+    "options": [
+      "Final policy approval",
+      "Beneficiary payment",
+      "Policy review",
+      "Claim settlement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Underwriting happens during the application process."
+  },
+  {
+    "id": 97,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Convertible term insurance provides:",
+    "options": [
+      "An option to change coverage type",
+      "Free permanent insurance",
+      "No premiums",
+      "Automatic investment gains"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conversion allows changing to permanent coverage under conditions."
+  },
+  {
+    "id": 98,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Good advice requires:",
+    "options": [
+      "Understanding the client's needs",
+      "Selling any available product",
+      "Ignoring financial goals",
+      "Avoiding explanations"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Advice should be based on client circumstances."
+  },
+  {
+    "id": 99,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Review",
+    "difficulty": "Easy",
+    "question": "Insurance coverage should be reviewed when:",
+    "options": [
+      "Major life changes occur",
+      "Nothing changes ever",
+      "Only premiums increase",
+      "The agent changes jobs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life events may change insurance needs."
+  },
+  {
+    "id": 100,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Review",
+    "difficulty": "Medium",
+    "question": "The goal of life insurance planning is:",
+    "options": [
+      "Providing appropriate financial protection",
+      "Maximizing sales commissions",
+      "Avoiding all expenses",
+      "Replacing financial planning"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance planning focuses on protecting financial needs."
+  },
+  {
+    "id": 101,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "A term life policy normally provides:",
+    "options": [
+      "Protection for a specific period",
+      "Guaranteed investment returns",
+      "Automatic lifetime coverage",
+      "No death benefit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Term insurance provides coverage for a defined period."
+  },
+  {
+    "id": 102,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "A permanent life policy is designed to:",
+    "options": [
+      "Provide long-term protection",
+      "Cover only short vacations",
+      "Avoid all premiums",
+      "Replace banking services"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Permanent insurance provides long-term coverage."
+  },
+  {
+    "id": 103,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "The beneficiary should be identified:",
+    "options": [
+      "Clearly in the policy records",
+      "Only verbally",
+      "By the agent alone",
+      "After the claim"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Proper designation helps ensure correct payment."
+  },
+  {
+    "id": 104,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Medium",
+    "question": "Premium rates are affected by:",
+    "options": [
+      "Risk characteristics",
+      "Favourite hobbies only",
+      "Insurance company location only",
+      "Beneficiary choice only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums reflect assessed risk."
+  },
+  {
+    "id": 105,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "The purpose of medical information in underwriting is to:",
+    "options": [
+      "Evaluate risk",
+      "Select beneficiaries",
+      "Determine ownership",
+      "Change policy wording"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Medical information helps determine insurability."
+  },
+  {
+    "id": 106,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "A valid claim must satisfy:",
+    "options": [
+      "Policy requirements",
+      "Agent preference",
+      "Market performance",
+      "Advertising rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims are paid according to the contract."
+  },
+  {
+    "id": 107,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should explain policy costs:",
+    "options": [
+      "Before the client makes a decision",
+      "Only after purchase",
+      "Only during a claim",
+      "Never"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need clear information before deciding."
+  },
+  {
+    "id": 108,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Needs Analysis",
+    "difficulty": "Medium",
+    "question": "Income replacement planning considers:",
+    "options": [
+      "Financial support needed after death",
+      "Stock market growth",
+      "Vehicle expenses only",
+      "Vacation costs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance can replace lost income."
+  },
+  {
+    "id": 109,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Ownership",
+    "difficulty": "Medium",
+    "question": "Policy ownership determines:",
+    "options": [
+      "Who controls policy rights",
+      "Who receives every benefit automatically",
+      "Who performs underwriting",
+      "Who sells insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ownership provides control over policy rights."
+  },
+  {
+    "id": 110,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Riders",
+    "difficulty": "Easy",
+    "question": "A rider is usually:",
+    "options": [
+      "An addition to the policy",
+      "A replacement for the insurer",
+      "A claim form",
+      "A premium receipt"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Riders add features or benefits."
+  },
+  {
+    "id": 111,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Applications",
+    "difficulty": "Medium",
+    "question": "The application should contain:",
+    "options": [
+      "Accurate information",
+      "Incomplete answers",
+      "False details",
+      "Guesses only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accuracy is required for proper underwriting."
+  },
+  {
+    "id": 112,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Review",
+    "difficulty": "Easy",
+    "question": "Coverage reviews help:",
+    "options": [
+      "Keep protection aligned with needs",
+      "Remove all premiums",
+      "Guarantee claims",
+      "Avoid communication"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviews ensure continued suitability."
+  },
+  {
+    "id": 113,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The death benefit is paid when:",
+    "options": [
+      "The insured dies and requirements are met",
+      "The policy is purchased",
+      "The agent requests it",
+      "The premium increases"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Death benefits are payable under policy terms."
+  },
+  {
+    "id": 114,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "Keeping premiums current helps maintain:",
+    "options": [
+      "Coverage in force",
+      "Automatic investment gains",
+      "Ownership transfer",
+      "Claim approval"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premium payment keeps coverage active."
+  },
+  {
+    "id": 115,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should document:",
+    "options": [
+      "Important client recommendations",
+      "Personal opinions only",
+      "Competitor pricing only",
+      "Unrelated information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Documentation supports professional practice."
+  },
+  {
+    "id": 116,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "A beneficiary can be changed when:",
+    "options": [
+      "The policy terms allow it",
+      "The agent decides",
+      "The insurer ignores the contract",
+      "No owner exists"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Changes depend on policy rules."
+  },
+  {
+    "id": 117,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Underwriting protects:",
+    "options": [
+      "The insurer and policyholders",
+      "Only the agent",
+      "Only beneficiaries",
+      "Only competitors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk assessment supports fair insurance pricing."
+  },
+  {
+    "id": 118,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Universal life insurance may provide:",
+    "options": [
+      "Flexible policy features",
+      "No insurance protection",
+      "No premiums",
+      "No ownership rights"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Universal life often includes flexibility."
+  },
+  {
+    "id": 119,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Needs Analysis",
+    "difficulty": "Easy",
+    "question": "Life insurance planning considers:",
+    "options": [
+      "Client goals and responsibilities",
+      "Only product advertisements",
+      "Only commissions",
+      "Only insurer profits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Planning starts with client needs."
+  },
+  {
+    "id": 120,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Claims are reviewed to confirm:",
+    "options": [
+      "Contract requirements are satisfied",
+      "New coverage is needed",
+      "Premiums should rise",
+      "Ownership changes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims must meet policy conditions."
+  },
+  {
+    "id": 121,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Review",
+    "difficulty": "Easy",
+    "question": "A policy review may be needed after:",
+    "options": [
+      "Marriage or family changes",
+      "Buying groceries",
+      "Changing phones",
+      "Watching advertisements"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life events affect coverage needs."
+  },
+  {
+    "id": 122,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Insurance is based on:",
+    "options": [
+      "Managing risk",
+      "Guaranteeing wealth",
+      "Avoiding all payments",
+      "Eliminating uncertainty"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance transfers financial risk."
+  },
+  {
+    "id": 123,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Applications",
+    "difficulty": "Medium",
+    "question": "The applicant must disclose:",
+    "options": [
+      "Relevant information requested",
+      "Only positive information",
+      "Nothing",
+      "Agent opinions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disclosure supports accurate underwriting."
+  },
+  {
+    "id": 124,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Suitable recommendations are based on:",
+    "options": [
+      "Client circumstances",
+      "Highest commission",
+      "Advertising popularity",
+      "Agent convenience"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability requires understanding the client."
+  },
+  {
+    "id": 125,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Review",
+    "difficulty": "Medium",
+    "question": "The purpose of insurance reviews is to:",
+    "options": [
+      "Confirm continued suitability",
+      "Cancel all policies",
+      "Avoid client contact",
+      "Increase paperwork"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviews keep coverage appropriate."
+  },
+  {
+    "id": 126,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Term insurance is commonly suitable for:",
+    "options": [
+      "Temporary financial obligations",
+      "Guaranteed wealth creation",
+      "Avoiding all expenses",
+      "Replacing investments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Term insurance is often used for temporary protection needs."
+  },
+  {
+    "id": 127,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Permanent insurance generally provides:",
+    "options": [
+      "Long-term protection",
+      "Only short-term coverage",
+      "No death benefit",
+      "No contract"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Permanent policies are designed for lifelong coverage."
+  },
+  {
+    "id": 128,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "The purpose of naming a beneficiary is to:",
+    "options": [
+      "Identify who receives policy proceeds",
+      "Set premium rates",
+      "Approve underwriting",
+      "Change the insurer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiary designations determine benefit recipients."
+  },
+  {
+    "id": 129,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Underwriting determines:",
+    "options": [
+      "Insurance risk",
+      "Beneficiary choices",
+      "Agent commission",
+      "Client goals"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Underwriting evaluates the risk of providing coverage."
+  },
+  {
+    "id": 130,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Medium",
+    "question": "Insurance premiums are influenced by:",
+    "options": [
+      "Risk and coverage amount",
+      "Favourite activities only",
+      "Policy colour",
+      "Agent preference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums reflect risk and coverage factors."
+  },
+  {
+    "id": 131,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "A claim decision is based on:",
+    "options": [
+      "Policy provisions",
+      "Market rumours",
+      "Agent opinion",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims are governed by contract terms."
+  },
+  {
+    "id": 132,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "A professional advisor should provide:",
+    "options": [
+      "Accurate information",
+      "Misleading promises",
+      "Incomplete details",
+      "Guaranteed profits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional conduct requires honesty."
+  },
+  {
+    "id": 133,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Needs Analysis",
+    "difficulty": "Medium",
+    "question": "A client's financial needs may include:",
+    "options": [
+      "Income replacement and debts",
+      "Entertainment expenses only",
+      "Agent targets",
+      "Company goals"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Needs analysis considers financial responsibilities."
+  },
+  {
+    "id": 134,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Ownership",
+    "difficulty": "Medium",
+    "question": "The policyowner can usually:",
+    "options": [
+      "Exercise policy rights",
+      "Change insurance law",
+      "Approve claims",
+      "Set insurer regulations"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ownership provides contractual control."
+  },
+  {
+    "id": 135,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Riders",
+    "difficulty": "Easy",
+    "question": "Riders are added to:",
+    "options": [
+      "Customize coverage",
+      "Remove all benefits",
+      "Cancel policies",
+      "Avoid underwriting"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Riders customize policy protection."
+  },
+  {
+    "id": 136,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Applications",
+    "difficulty": "Medium",
+    "question": "A complete application helps:",
+    "options": [
+      "Accurate underwriting",
+      "Avoid contracts",
+      "Remove premiums",
+      "Guarantee approval"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Complete information supports proper assessment."
+  },
+  {
+    "id": 137,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Review",
+    "difficulty": "Easy",
+    "question": "Insurance needs may change because of:",
+    "options": [
+      "Life events",
+      "Weather changes",
+      "Product advertisements",
+      "Agent schedules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life circumstances affect insurance needs."
+  },
+  {
+    "id": 138,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "A policy may lapse when:",
+    "options": [
+      "Required premiums are not paid",
+      "A review occurs",
+      "A beneficiary is named",
+      "A claim is made"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Failure to maintain premiums can end coverage."
+  },
+  {
+    "id": 139,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "A beneficiary designation should be:",
+    "options": [
+      "Reviewed when circumstances change",
+      "Ignored forever",
+      "Selected by friends",
+      "Changed randomly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Changes in life circumstances may require updates."
+  },
+  {
+    "id": 140,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Life insurance provides:",
+    "options": [
+      "Financial protection",
+      "Guaranteed wealth",
+      "Tax elimination",
+      "No contractual benefit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Protection against financial loss is the purpose of life insurance."
+  },
+  {
+    "id": 141,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "The main difference between term and permanent insurance is:",
+    "options": [
+      "Duration of coverage and policy features",
+      "Whether premiums exist",
+      "Whether a contract exists",
+      "Whether claims can occur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Term and permanent insurance differ mainly in duration and features."
+  },
+  {
+    "id": 142,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "An insurer uses underwriting to:",
+    "options": [
+      "Evaluate the risk of providing coverage",
+      "Choose the client's beneficiary",
+      "Set the client's goals",
+      "Replace financial planning"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Underwriting evaluates insurance risk."
+  },
+  {
+    "id": 143,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "A recommendation should be based on:",
+    "options": [
+      "Client needs and circumstances",
+      "Highest available commission",
+      "Agent convenience",
+      "Company advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations should be suitable for clients."
+  },
+  {
+    "id": 144,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "The purpose of a life insurance claim is to:",
+    "options": [
+      "Request payment of benefits",
+      "Change policy ownership",
+      "Add a rider",
+      "Increase premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A claim requests benefits under the policy."
+  },
+  {
+    "id": 145,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Needs Analysis",
+    "difficulty": "Medium",
+    "question": "A life insurance needs analysis considers:",
+    "options": [
+      "Income, debts, and dependents",
+      "Only product features",
+      "Only premiums",
+      "Only company history"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Needs analysis evaluates financial responsibilities."
+  },
+  {
+    "id": 146,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Ownership",
+    "difficulty": "Medium",
+    "question": "Policy ownership information should be:",
+    "options": [
+      "Accurate and updated when required",
+      "Ignored after purchase",
+      "Selected by the agent",
+      "Removed from records"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Correct ownership records are important."
+  },
+  {
+    "id": 147,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "A beneficiary receives:",
+    "options": [
+      "Benefits according to the policy",
+      "Automatic ownership",
+      "The agent commission",
+      "The underwriting decision"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiaries receive policy proceeds when entitled."
+  },
+  {
+    "id": 148,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Review",
+    "difficulty": "Medium",
+    "question": "A review of coverage helps:",
+    "options": [
+      "Ensure protection remains suitable",
+      "Remove all insurance costs",
+      "Guarantee future claims",
+      "Eliminate policy conditions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviews help maintain appropriate coverage."
+  },
+  {
+    "id": 149,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Client information should be:",
+    "options": [
+      "Protected and handled appropriately",
+      "Shared publicly",
+      "Used without permission",
+      "Ignored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Confidentiality is part of professional practice."
+  },
+  {
+    "id": 150,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Review",
+    "difficulty": "Medium",
+    "question": "The overall goal of life insurance planning is:",
+    "options": [
+      "Provide suitable financial protection",
+      "Maximize sales",
+      "Avoid all financial planning",
+      "Guarantee investment returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance planning focuses on appropriate protection."
+  },
+  {
+    "id": 151,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Insurance Principles",
+    "difficulty": "Easy",
+    "question": "Insurance helps individuals manage:",
+    "options": [
+      "Financial risk",
+      "All personal decisions",
+      "Investment markets",
+      "Government policies"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance helps transfer and manage financial risk."
+  },
+  {
+    "id": 152,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "A permanent life policy may remain active:",
+    "options": [
+      "For the insured's lifetime if requirements are met",
+      "Only for one year",
+      "Only during employment",
+      "Until the first payment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Permanent insurance is designed for lifetime coverage."
+  },
+  {
+    "id": 153,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Applications",
+    "difficulty": "Medium",
+    "question": "Providing false information on an application may:",
+    "options": [
+      "Affect policy decisions",
+      "Increase guaranteed benefits",
+      "Remove underwriting",
+      "Improve coverage automatically"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate disclosure is required during application."
+  },
+  {
+    "id": 154,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "Premium payments are made to:",
+    "options": [
+      "Maintain insurance coverage",
+      "Select beneficiaries",
+      "Approve claims",
+      "Change ownership"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums maintain the policy in force."
+  },
+  {
+    "id": 155,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Risk classification affects:",
+    "options": [
+      "Premium rates and approval terms",
+      "Beneficiary identity",
+      "Policy ownership automatically",
+      "Client financial goals"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk classification affects insurance terms."
+  },
+  {
+    "id": 156,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should act in:",
+    "options": [
+      "The client's best interest",
+      "Only personal interest",
+      "The competitor's interest",
+      "No one's interest"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional conduct focuses on client service."
+  },
+  {
+    "id": 157,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "The insurer reviews a claim to:",
+    "options": [
+      "Confirm policy eligibility",
+      "Create a new policy",
+      "Change the beneficiary",
+      "Set investment returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims are assessed against policy requirements."
+  },
+  {
+    "id": 158,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "A beneficiary designation should be:",
+    "options": [
+      "Clear and properly recorded",
+      "Temporary without records",
+      "Made by the agent",
+      "Ignored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clear designations help avoid problems."
+  },
+  {
+    "id": 159,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Review",
+    "difficulty": "Medium",
+    "question": "A client review may identify:",
+    "options": [
+      "Changes in insurance needs",
+      "Guaranteed investment profits",
+      "New insurance laws only",
+      "Agent promotions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviews identify changing protection needs."
+  },
+  {
+    "id": 160,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Needs Analysis",
+    "difficulty": "Medium",
+    "question": "A family may need life insurance because of:",
+    "options": [
+      "Future financial obligations",
+      "Entertainment choices",
+      "Advertising campaigns",
+      "Market speculation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance can protect dependents."
+  },
+  {
+    "id": 161,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Ownership",
+    "difficulty": "Medium",
+    "question": "Ownership rights may include:",
+    "options": [
+      "Changing certain policy details",
+      "Changing insurance laws",
+      "Approving all claims",
+      "Setting premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Owners have contractual rights."
+  },
+  {
+    "id": 162,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Riders",
+    "difficulty": "Easy",
+    "question": "A rider changes:",
+    "options": [
+      "The policy by adding features",
+      "The insurer's existence",
+      "The client's age",
+      "The application date"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Riders add optional benefits."
+  },
+  {
+    "id": 163,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The insured person is:",
+    "options": [
+      "The person whose life is covered",
+      "Always the beneficiary",
+      "Always the advisor",
+      "The insurer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The insured is the individual covered."
+  },
+  {
+    "id": 164,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Medium",
+    "question": "A higher coverage amount may result in:",
+    "options": [
+      "Higher premiums",
+      "No contract",
+      "Automatic approval",
+      "No underwriting"
+    ],
+    "correctAnswer": 0,
+    "explanation": "More coverage generally increases cost."
+  },
+  {
+    "id": 165,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Medical history may be used during:",
+    "options": [
+      "Underwriting",
+      "Beneficiary payment",
+      "Policy ownership transfer",
+      "Claim advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Medical information helps assess risk."
+  },
+  {
+    "id": 166,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Client records should be:",
+    "options": [
+      "Maintained accurately",
+      "Destroyed immediately",
+      "Shared publicly",
+      "Ignored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate records support professional service."
+  },
+  {
+    "id": 167,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "The death benefit amount is determined by:",
+    "options": [
+      "The policy contract",
+      "The agent alone",
+      "The beneficiary",
+      "Market conditions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benefits are defined by the contract."
+  },
+  {
+    "id": 168,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Whole life insurance is a type of:",
+    "options": [
+      "Permanent insurance",
+      "Temporary insurance only",
+      "Health insurance",
+      "Property insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Whole life is permanent insurance."
+  },
+  {
+    "id": 169,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Review",
+    "difficulty": "Easy",
+    "question": "Coverage reviews help clients:",
+    "options": [
+      "Adjust protection when needed",
+      "Avoid all insurance",
+      "Remove contracts",
+      "Guarantee profits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviews keep coverage relevant."
+  },
+  {
+    "id": 170,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Insurance Principles",
+    "difficulty": "Medium",
+    "question": "The main purpose of insurance is:",
+    "options": [
+      "Protect against financial loss",
+      "Guarantee wealth",
+      "Remove all risks",
+      "Avoid responsibility"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance protects against financial risks."
+  },
+  {
+    "id": 171,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Applications",
+    "difficulty": "Medium",
+    "question": "An application becomes part of:",
+    "options": [
+      "The insurance contract process",
+      "A marketing plan",
+      "An investment account",
+      "A tax document only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Applications are part of contract formation."
+  },
+  {
+    "id": 172,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Beneficiary information should be:",
+    "options": [
+      "Reviewed periodically",
+      "Ignored forever",
+      "Removed after purchase",
+      "Selected randomly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life changes may require updates."
+  },
+  {
+    "id": 173,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should avoid:",
+    "options": [
+      "Misleading statements",
+      "Clear explanations",
+      "Needs analysis",
+      "Documentation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional conduct requires honesty."
+  },
+  {
+    "id": 174,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Needs Analysis",
+    "difficulty": "Medium",
+    "question": "The amount of insurance needed depends on:",
+    "options": [
+      "Individual circumstances",
+      "A fixed amount for everyone",
+      "Agent preference",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance needs vary by client."
+  },
+  {
+    "id": 175,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Review",
+    "difficulty": "Easy",
+    "question": "A policy review should confirm:",
+    "options": [
+      "Coverage remains appropriate",
+      "Premiums disappear",
+      "Claims are guaranteed",
+      "Contracts are unnecessary"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviews ensure continued suitability."
+  },
+  {
+    "id": 176,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Insurance Principles",
+    "difficulty": "Easy",
+    "question": "Insurance primarily transfers:",
+    "options": [
+      "Financial risk",
+      "Personal responsibility",
+      "Ownership rights",
+      "Investment decisions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance transfers financial risk to the insurer."
+  },
+  {
+    "id": 177,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Convertible term insurance allows:",
+    "options": [
+      "Conversion to permanent coverage if permitted",
+      "Removal of all premiums",
+      "Guaranteed investment profits",
+      "Automatic beneficiary changes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some term policies allow conversion options."
+  },
+  {
+    "id": 178,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "An underwriting decision may result in:",
+    "options": [
+      "Approval, modification, or decline",
+      "Automatic payment",
+      "Guaranteed acceptance",
+      "No contract"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurers assess applications before offering coverage."
+  },
+  {
+    "id": 179,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should explain:",
+    "options": [
+      "Policy features and limitations",
+      "Only advantages",
+      "Only price",
+      "Competitor information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need balanced information."
+  },
+  {
+    "id": 180,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "A claim may require:",
+    "options": [
+      "Supporting documentation",
+      "A new application",
+      "A new beneficiary",
+      "A new policyowner"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Documentation supports claim processing."
+  },
+  {
+    "id": 181,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "A beneficiary designation affects:",
+    "options": [
+      "Who receives policy proceeds",
+      "Premium calculation",
+      "Underwriting class",
+      "Medical results"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiaries receive proceeds according to designation."
+  },
+  {
+    "id": 182,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Medium",
+    "question": "Premiums may vary based on:",
+    "options": [
+      "Risk factors",
+      "Favourite colour",
+      "Agent preference",
+      "Beneficiary age only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums reflect insurance risk."
+  },
+  {
+    "id": 183,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Needs Analysis",
+    "difficulty": "Medium",
+    "question": "A needs analysis helps determine:",
+    "options": [
+      "Appropriate coverage amount",
+      "Insurance company profits",
+      "Agent commission",
+      "Market returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Needs analysis determines suitable protection."
+  },
+  {
+    "id": 184,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Ownership",
+    "difficulty": "Medium",
+    "question": "The policyowner is responsible for:",
+    "options": [
+      "Maintaining ownership decisions",
+      "Medical underwriting",
+      "Approving claims",
+      "Changing insurance regulations"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Owners control policy rights."
+  },
+  {
+    "id": 185,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Riders",
+    "difficulty": "Easy",
+    "question": "A rider generally provides:",
+    "options": [
+      "Additional policy benefits",
+      "A replacement contract",
+      "Automatic cancellation",
+      "Lower underwriting standards"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Riders add optional benefits."
+  },
+  {
+    "id": 186,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Applications",
+    "difficulty": "Medium",
+    "question": "The application process helps the insurer:",
+    "options": [
+      "Assess eligibility for coverage",
+      "Select beneficiaries",
+      "Control client finances",
+      "Set government rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Applications provide information for assessment."
+  },
+  {
+    "id": 187,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Review",
+    "difficulty": "Easy",
+    "question": "Insurance should be reviewed when:",
+    "options": [
+      "Major life changes occur",
+      "Nothing ever changes",
+      "Only claims happen",
+      "The insurer requests it"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life events may change coverage needs."
+  },
+  {
+    "id": 188,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The insurance contract is between:",
+    "options": [
+      "Policyholder and insurer",
+      "Agent and beneficiary",
+      "Government and client",
+      "Bank and insurer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The policy creates a contract between owner and insurer."
+  },
+  {
+    "id": 189,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "A good advisor relationship requires:",
+    "options": [
+      "Trust and communication",
+      "Pressure selling",
+      "Hidden information",
+      "Avoiding questions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trust is essential in insurance advice."
+  },
+  {
+    "id": 190,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Claim payments are made according to:",
+    "options": [
+      "Policy terms",
+      "Market trends",
+      "Agent decisions",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contracts determine claim payments."
+  },
+  {
+    "id": 191,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Universal life insurance may include:",
+    "options": [
+      "Flexible features",
+      "No insurance component",
+      "No contract terms",
+      "No premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Universal life may provide flexibility."
+  },
+  {
+    "id": 192,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "Premiums are normally paid by:",
+    "options": [
+      "The policyowner",
+      "The beneficiary",
+      "The insurer",
+      "The advisor"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The policyowner usually pays premiums."
+  },
+  {
+    "id": 193,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Underwriting information should be:",
+    "options": [
+      "Accurate and complete",
+      "Estimated",
+      "Hidden",
+      "Optional"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate information supports fair decisions."
+  },
+  {
+    "id": 194,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Needs Analysis",
+    "difficulty": "Medium",
+    "question": "Life insurance can help with:",
+    "options": [
+      "Financial protection after death",
+      "Eliminating all expenses",
+      "Guaranteed wealth",
+      "Avoiding planning"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance provides financial protection."
+  },
+  {
+    "id": 195,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Beneficiary changes should follow:",
+    "options": [
+      "Policy rules",
+      "Agent preference",
+      "Market conditions",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Changes must follow contract provisions."
+  },
+  {
+    "id": 196,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Review",
+    "difficulty": "Easy",
+    "question": "Regular reviews help maintain:",
+    "options": [
+      "Suitable coverage",
+      "Guaranteed returns",
+      "No premiums",
+      "Automatic claims"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviews maintain suitability."
+  },
+  {
+    "id": 197,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should recommend products based on:",
+    "options": [
+      "Client needs",
+      "Personal profit",
+      "Advertising",
+      "Competition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations must be suitable."
+  },
+  {
+    "id": 198,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Insurance Principles",
+    "difficulty": "Easy",
+    "question": "Insurance does not remove:",
+    "options": [
+      "Risk itself",
+      "Financial protection",
+      "Contract benefits",
+      "Coverage options"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance manages financial consequences of risk."
+  },
+  {
+    "id": 199,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Life insurance is designed to provide:",
+    "options": [
+      "Protection against financial loss",
+      "Guaranteed investment success",
+      "No-cost coverage",
+      "Market returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Protection is the main purpose."
+  },
+  {
+    "id": 200,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Review",
+    "difficulty": "Medium",
+    "question": "The final purpose of insurance planning is:",
+    "options": [
+      "Meet client protection needs",
+      "Maximize commissions",
+      "Avoid documentation",
+      "Replace financial planning"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance planning focuses on client protection."
   }
 ]
