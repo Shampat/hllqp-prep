@@ -1,0 +1,211 @@
+package com.vasapps.hllqpprep.navigation
+
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Home
+import androidx.compose.material.icons.filled.MenuBook
+import androidx.compose.material.icons.filled.Quiz
+import androidx.compose.material.icons.filled.Style
+import androidx.compose.material3.*
+import androidx.compose.runtime.*
+import androidx.compose.foundation.layout.padding
+import androidx.compose.ui.Modifier
+
+import com.vasapps.hllqpprep.features.home.HomeScreen
+import com.vasapps.hllqpprep.features.practiceSetup.PracticeSetupScreen
+import com.vasapps.hllqpprep.features.module.ModuleScreen
+import com.vasapps.hllqpprep.features.practice.PracticeScreen
+
+
+@Composable
+fun AppNavigation() {
+
+    var selectedTab by remember {
+        mutableStateOf(0)
+    }
+
+
+    var practiceFlow by remember {
+        mutableStateOf("none")
+    }
+
+
+    var selectedModule by remember {
+        mutableStateOf("")
+    }
+
+
+    Scaffold(
+
+        bottomBar = {
+
+            NavigationBar {
+
+                NavigationBarItem(
+                    selected = selectedTab == 0,
+                    onClick = {
+                        selectedTab = 0
+                        practiceFlow = "none"
+                    },
+                    icon = {
+                        Icon(Icons.Default.Home, "Home")
+                    },
+                    label = {
+                        Text("Home")
+                    }
+                )
+
+
+                NavigationBarItem(
+                    selected = selectedTab == 1,
+                    onClick = {
+                        selectedTab = 1
+                    },
+                    icon = {
+                        Icon(Icons.Default.MenuBook, "Practice")
+                    },
+                    label = {
+                        Text("Practice")
+                    }
+                )
+
+
+                NavigationBarItem(
+                    selected = selectedTab == 2,
+                    onClick = {
+                        selectedTab = 2
+                    },
+                    icon = {
+                        Icon(Icons.Default.Quiz, "Mock")
+                    },
+                    label = {
+                        Text("Mock")
+                    }
+                )
+
+
+                NavigationBarItem(
+                    selected = selectedTab == 3,
+                    onClick = {
+                        selectedTab = 3
+                    },
+                    icon = {
+                        Icon(Icons.Default.Style, "Cards")
+                    },
+                    label = {
+                        Text("Cards")
+                    }
+                )
+
+            }
+
+        }
+
+    ) { padding ->
+
+
+        Surface(
+            modifier = Modifier.padding(padding)
+        ) {
+
+
+            when(selectedTab) {
+
+
+                0 -> {
+
+                    HomeScreen(
+                        onPracticeClick = {
+                            selectedTab = 1
+                        }
+                    )
+
+                }
+
+
+
+                1 -> {
+
+
+                    when(practiceFlow) {
+
+
+                        "none" -> {
+
+                            PracticeSetupScreen(
+
+                                onBack = {
+                                    selectedTab = 0
+                                },
+
+                                onStartPractice = {
+
+                                    practiceFlow = "module"
+
+                                }
+
+                            )
+
+                        }
+
+
+                        "module" -> {
+
+                            ModuleScreen(
+
+                                onBack = {
+                                    practiceFlow = "none"
+                                },
+
+                                onModuleSelected = {
+
+                                    selectedModule = it
+                                    practiceFlow = "practice"
+
+                                }
+
+                            )
+
+                        }
+
+
+                        "practice" -> {
+
+                            PracticeScreen(
+                                selectedModule = selectedModule,
+
+                                onBack = {
+                                    practiceFlow = "module"
+                                }
+                            )
+
+                        }
+
+                    }
+
+
+                }
+
+
+
+                2 -> {
+
+                    Text("Mock Exam Coming Soon")
+
+                }
+
+
+
+                3 -> {
+
+                    Text("Flashcards Coming Soon")
+
+                }
+
+
+            }
+
+        }
+
+    }
+
+}
