@@ -361,28 +361,46 @@ fun PracticeScreen(
             )
 
 
+            val answerIsCorrect =
+                state.selectedAnswer ==
+                        question.correctAnswer
+
+
             Text(
                 text =
-                    "Your Answer: " +
-                    question.options[
-                        state.selectedAnswer!!
-                    ],
+                    if (answerIsCorrect)
+
+                        "✓ Your Answer: " +
+                                question.options[
+                                    state.selectedAnswer!!
+                                ]
+
+                    else
+
+                        "Your Answer: " +
+                                question.options[
+                                    state.selectedAnswer!!
+                                ],
 
                 color =
                     androidx.compose.ui.graphics.Color(0xFFF57C00)
             )
 
 
-            Text(
-                text =
-                    "Correct Answer: " +
-                    question.options[
-                        question.correctAnswer
-                    ],
+            if (!answerIsCorrect) {
 
-                color =
-                    androidx.compose.ui.graphics.Color(0xFF2E7D32)
-            )
+                Text(
+                    text =
+                        "Correct Answer: " +
+                                question.options[
+                                    question.correctAnswer
+                                ],
+
+                    color =
+                        androidx.compose.ui.graphics.Color(0xFF2E7D32)
+                )
+
+            }
 
 
             Text(
