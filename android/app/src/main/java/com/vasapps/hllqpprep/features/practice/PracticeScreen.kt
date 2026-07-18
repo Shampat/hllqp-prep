@@ -1,6 +1,8 @@
 package com.vasapps.hllqpprep.features.practice
 
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
@@ -16,7 +18,7 @@ fun PracticeScreen(
 ) {
 
 
-    val questions = QuestionRepository.getQuestions()
+    val questions = QuestionRepository.getQuestions(selectedModule)
 
 
     var state by remember {
@@ -24,18 +26,97 @@ fun PracticeScreen(
     }
 
 
-    val question = questions[state.currentQuestion]
+    var completed by remember {
+        mutableStateOf(false)
+    }
+
+
+
+    if (completed) {
+
+
+        Column(
+
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(24.dp),
+
+            verticalArrangement =
+                Arrangement.spacedBy(20.dp)
+
+        ) {
+
+
+            Text(
+                text = "Practice Complete",
+                style = MaterialTheme.typography.headlineMedium
+            )
+
+
+            Text(
+                text =
+                    "Score: ${state.score}/${questions.size}",
+                style = MaterialTheme.typography.titleLarge
+            )
+
+
+            Button(
+                onClick = {
+
+                    state = PracticeState()
+                    completed = false
+
+                },
+
+                modifier =
+                    Modifier.fillMaxWidth()
+
+            ) {
+
+                Text("Retry Practice")
+
+            }
+
+
+            Button(
+                onClick = onBack,
+
+                modifier =
+                    Modifier.fillMaxWidth()
+
+            ) {
+
+                Text("Exit Practice")
+
+            }
+
+
+        }
+
+
+        return
+
+    }
+
+
+
+    val question =
+        questions[state.currentQuestion]
+
 
 
     Column(
 
         modifier = Modifier
             .fillMaxSize()
-            .padding(20.dp),
+            .padding(20.dp)
+            .verticalScroll(rememberScrollState()),
 
-        verticalArrangement = Arrangement.spacedBy(12.dp)
+        verticalArrangement =
+            Arrangement.spacedBy(12.dp)
 
     ) {
+
 
 
         Button(
@@ -49,56 +130,142 @@ fun PracticeScreen(
 
 
         Text(
-            text = "Question ${state.currentQuestion + 1}/${questions.size}",
+            text = question.moduleName,
+            style = MaterialTheme.typography.headlineSmall
+        )
+
+
+        Text(
+            text = "Topic: ${question.topic}    •    Difficulty: ${question.difficulty}",
+            style = MaterialTheme.typography.bodyMedium
+        )
+
+
+        Spacer(
+            modifier = Modifier.height(8.dp)
+        )
+
+
+        Text(
+            text = "Question ${state.currentQuestion + 1} of ${questions.size}",
             style = MaterialTheme.typography.labelLarge
         )
 
 
-        Text(
-            text = selectedModule.uppercase(),
-            style = MaterialTheme.typography.titleMedium
+        LinearProgressIndicator(
+            progress = {
+                (state.currentQuestion + 1).toFloat() /
+                questions.size.toFloat()
+            },
+            modifier = Modifier.fillMaxWidth()
         )
 
 
-        Text(
-            text = question.question,
-            style = MaterialTheme.typography.headlineSmall
+        Spacer(
+            modifier = Modifier.height(12.dp)
         )
+
+
+
+        Card(
+
+            modifier =
+                Modifier.fillMaxWidth()
+
+        ) {
+
+            Text(
+
+                text =
+                    question.question,
+
+                style =
+                    MaterialTheme.typography.headlineSmall,
+
+                modifier =
+                    Modifier.padding(20.dp)
+
+            )
+
+        }
 
 
 
         question.options.forEachIndexed { index, option ->
 
 
-            Button(
+            val isSelected =
+                state.selectedAnswer == index
 
-                enabled = !state.answered,
+
+            val isCorrect =
+                question.correctAnswer == index
+
+
+            Card(
+
+                modifier =
+                    Modifier.fillMaxWidth(),
 
                 onClick = {
 
-                    state = state.copy(
-                        selectedAnswer = index
-                    )
+                    if (!state.answered) {
+
+                        state =
+                            state.copy(
+                                selectedAnswer = index
+                            )
+
+                    }
 
                 },
 
-                modifier = Modifier.fillMaxWidth(),
-
                 colors =
-                    if (state.selectedAnswer == index)
 
-                        ButtonDefaults.buttonColors(
-                            containerColor =
-                                MaterialTheme.colorScheme.primary
-                        )
+                    CardDefaults.cardColors(
 
-                    else
+                        containerColor =
 
-                        ButtonDefaults.buttonColors()
+                            if (
+                                state.answered &&
+                                isCorrect
+                            )
+
+                                androidx.compose.ui.graphics.Color(0xFF2E7D32)
+
+                            else if (
+                                state.answered &&
+                                isSelected &&
+                                !isCorrect
+                            )
+
+                                androidx.compose.ui.graphics.Color(0xFFC62828)
+
+                            else if (isSelected)
+
+                                androidx.compose.ui.graphics.Color(0xFF1565C0)
+
+                            else
+
+                                MaterialTheme.colorScheme.surfaceVariant
+
+                    )
 
             ) {
 
-                Text(option)
+
+                Text(
+
+                    text =
+                        "${('A'.code + index).toChar()}. $option",
+
+                    modifier =
+                        Modifier.padding(20.dp),
+
+                    style =
+                        MaterialTheme.typography.bodyLarge
+
+                )
 
             }
 
@@ -107,39 +274,43 @@ fun PracticeScreen(
 
 
 
+
         if (!state.answered) {
 
 
             Button(
 
-                enabled = state.selectedAnswer != null,
+                enabled =
+                    state.selectedAnswer != null,
+
 
                 onClick = {
 
 
                     val correct =
-                        state.selectedAnswer == question.correctAnswer
+                        state.selectedAnswer ==
+                                question.correctAnswer
 
 
-                    state = state.copy(
+                    state =
+                        state.copy(
 
-                        answered = true,
+                            answered = true,
 
-                        score =
-                            if (correct)
-                                state.score + 1
-                            else
-                                state.score,
+                            score =
+                                if(correct)
+                                    state.score + 1
+                                else
+                                    state.score,
 
-                        answers =
-                            state.answers +
-                                    (
-                                    state.currentQuestion to
-                                            state.selectedAnswer!!
-                                    )
+                            answers =
+                                state.answers +
+                                (
+                                state.currentQuestion to
+                                state.selectedAnswer!!
+                                )
 
-                    )
-
+                        )
 
                 }
 
@@ -151,12 +322,14 @@ fun PracticeScreen(
 
 
         }
+
         else {
 
 
             Text(
+
                 text =
-                    if (
+                    if(
                         state.selectedAnswer ==
                         question.correctAnswer
                     )
@@ -168,16 +341,60 @@ fun PracticeScreen(
                         "Incorrect",
 
                 style =
-                    MaterialTheme.typography.titleLarge
+                    MaterialTheme.typography.titleLarge,
+
+                color =
+                    if(
+                        state.selectedAnswer ==
+                        question.correctAnswer
+                    )
+
+                        androidx.compose.ui.graphics.Color(0xFF2E7D32)
+
+                    else
+
+                        androidx.compose.ui.graphics.Color(0xFFC62828)
+
             )
 
 
             Text(
-                text = question.explanation
+                text =
+                    "Your Answer: " +
+                    question.options[
+                        state.selectedAnswer!!
+                    ],
+
+                color =
+                    androidx.compose.ui.graphics.Color(0xFFF57C00)
+            )
+
+
+            Text(
+                text =
+                    "Correct Answer: " +
+                    question.options[
+                        question.correctAnswer
+                    ],
+
+                color =
+                    androidx.compose.ui.graphics.Color(0xFF2E7D32)
+            )
+
+
+            Text(
+                text =
+                    "Explanation: " +
+                    question.explanation,
+
+                color =
+                    androidx.compose.ui.graphics.Color(0xFF1565C0)
             )
 
 
         }
+
+
 
 
 
@@ -192,28 +409,33 @@ fun PracticeScreen(
         ) {
 
 
+
             Button(
 
                 enabled =
                     state.currentQuestion > 0,
 
+
                 onClick = {
+
 
                     val previous =
                         state.currentQuestion - 1
 
 
-                    state = state.copy(
+                    state =
+                        state.copy(
 
-                        currentQuestion = previous,
+                            currentQuestion =
+                                previous,
 
-                        selectedAnswer =
-                            state.answers[previous],
+                            selectedAnswer =
+                                state.answers[previous],
 
-                        answered =
-                            state.answers.containsKey(previous)
+                            answered =
+                                state.answers.containsKey(previous)
 
-                    )
+                        )
 
                 }
 
@@ -225,35 +447,72 @@ fun PracticeScreen(
 
 
 
+
+
             Button(
 
                 enabled =
                     state.currentQuestion <
-                            questions.size - 1,
+                            questions.size - 1
+                            || state.answered,
+
 
                 onClick = {
 
-                    val next =
-                        state.currentQuestion + 1
+
+                    if(
+                        state.currentQuestion ==
+                        questions.size - 1
+                    ) {
 
 
-                    state = state.copy(
+                        completed = true
 
-                        currentQuestion = next,
 
-                        selectedAnswer =
-                            state.answers[next],
+                    }
 
-                        answered =
-                            state.answers.containsKey(next)
+                    else {
 
-                    )
+
+                        val next =
+                            state.currentQuestion + 1
+
+
+                        state =
+                            state.copy(
+
+                                currentQuestion =
+                                    next,
+
+                                selectedAnswer =
+                                    state.answers[next],
+
+                                answered =
+                                    state.answers.containsKey(next)
+
+                            )
+
+                    }
+
 
                 }
 
             ) {
 
-                Text("Next")
+
+                Text(
+                    if(
+                        state.currentQuestion ==
+                        questions.size - 1
+                    )
+
+                        "Finish"
+
+                    else
+
+                        "Next"
+                )
+
 
             }
 
@@ -263,10 +522,12 @@ fun PracticeScreen(
 
 
         Text(
-            text = "Score: ${state.score}"
+            text =
+                "Score: ${state.score}"
         )
 
 
     }
+
 
 }

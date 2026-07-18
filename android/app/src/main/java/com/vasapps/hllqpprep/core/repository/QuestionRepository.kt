@@ -4,7 +4,9 @@ import com.vasapps.hllqpprep.core.model.Question
 
 object QuestionRepository {
 
-    fun getQuestions(): List<Question> {
+
+    fun getQuestions(moduleId: String): List<Question> {
+
 
         return listOf(
 
@@ -25,6 +27,7 @@ object QuestionRepository {
                 explanation = "Life insurance provides financial protection to beneficiaries after death."
             ),
 
+
             Question(
                 id = 2,
                 moduleId = "ethics",
@@ -43,6 +46,7 @@ object QuestionRepository {
             )
 
         )
+
 
     }
 
