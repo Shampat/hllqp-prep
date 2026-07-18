@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "What is the main purpose of life insurance?",
+    "options": [
+      "Investment growth only",
+      "Financial protection for beneficiaries",
+      "Stock market protection",
+      "Tax avoidance"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Life insurance provides financial protection to beneficiaries after death."
+  },
+  {
+    "id": 2,
+    "moduleId": "life",
+    "moduleName": "Life Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Why is understanding client needs important before recommending life insurance?",
+    "options": [
+      "To sell the most expensive product",
+      "To recommend suitable coverage",
+      "To avoid meeting the client",
+      "To reduce paperwork only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Insurance recommendations should be based on the client's needs and circumstances."
+  }
+]
