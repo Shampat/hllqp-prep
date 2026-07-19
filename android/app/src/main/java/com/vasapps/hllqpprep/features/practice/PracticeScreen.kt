@@ -8,8 +8,11 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.runtime.rememberCoroutineScope
+import kotlinx.coroutines.launch
 
 import com.vasapps.hllqpprep.core.repository.QuestionRepository
+import com.vasapps.hllqpprep.core.utils.ProgressManager
 
 
 @Composable
@@ -20,6 +23,8 @@ fun PracticeScreen(
 
 
     val context = LocalContext.current
+
+    val scope = rememberCoroutineScope()
 
     val questions = QuestionRepository.getQuestions(context, selectedModule)
 
@@ -293,6 +298,14 @@ fun PracticeScreen(
                     val correct =
                         state.selectedAnswer ==
                                 question.correctAnswer
+
+
+                    scope.launch {
+                        ProgressManager.saveAnswer(
+                            context,
+                            correct
+                        )
+                    }
 
 
                     state =

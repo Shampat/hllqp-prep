@@ -14,6 +14,8 @@ import com.vasapps.hllqpprep.features.home.HomeScreen
 import com.vasapps.hllqpprep.features.practiceSetup.PracticeSetupScreen
 import com.vasapps.hllqpprep.features.module.ModuleScreen
 import com.vasapps.hllqpprep.features.practice.PracticeScreen
+import com.vasapps.hllqpprep.features.mockexam.MockExamScreen
+import com.vasapps.hllqpprep.features.flashcards.FlashcardsScreen
 
 
 @Composable
@@ -189,7 +191,7 @@ fun AppNavigation() {
 
                 2 -> {
 
-                    Text("Mock Exam Coming Soon")
+                    MockExamScreen()
 
                 }
 
@@ -197,7 +199,7 @@ fun AppNavigation() {
 
                 3 -> {
 
-                    Text("Flashcards Coming Soon")
+                    FlashcardsScreen()
 
                 }
 
