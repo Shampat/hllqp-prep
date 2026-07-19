@@ -26,9 +26,16 @@ object ModuleRepository {
 
 
             ExamModule(
-                id = "seg",
-                name = "Segregated Funds & Annuities",
-                description = "Investment products and retirement planning"
+                id = "segregated",
+                name = "Segregated Funds",
+                description = "Segregated funds concepts and regulations"
+            ),
+
+
+            ExamModule(
+                id = "annuities",
+                name = "Annuities",
+                description = "Annuity products and retirement planning"
             ),
 
 

@@ -1,0 +1,3202 @@
+[
+  {
+    "id": 1,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "What is the primary responsibility of an insurance advisor?",
+    "options": [
+      "Act in the client's best interest",
+      "Maximize commissions",
+      "Guarantee investment returns",
+      "Avoid documenting advice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Advisors must act ethically and in the client's best interest."
+  },
+  {
+    "id": 2,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should provide:",
+    "options": [
+      "Accurate and complete information",
+      "Only positive information",
+      "Hidden details",
+      "Guaranteed outcomes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need complete and accurate information."
+  },
+  {
+    "id": 3,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Easy",
+    "question": "Ethical behaviour requires:",
+    "options": [
+      "Honesty and integrity",
+      "Misleading statements",
+      "Hidden fees",
+      "False promises"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Integrity is a core ethical requirement."
+  },
+  {
+    "id": 4,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Needs",
+    "difficulty": "Medium",
+    "question": "Suitable recommendations are based on:",
+    "options": [
+      "Client circumstances and objectives",
+      "Highest commission",
+      "Advisor preference",
+      "Sales targets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations must be suitable for the client."
+  },
+  {
+    "id": 5,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "question": "An advisor should disclose:",
+    "options": [
+      "Relevant information about products and conflicts",
+      "Only benefits",
+      "Only fees",
+      "Nothing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Proper disclosure supports informed decisions."
+  },
+  {
+    "id": 6,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Easy",
+    "question": "A conflict of interest occurs when:",
+    "options": [
+      "Personal interests may affect professional judgment",
+      "Clients ask questions",
+      "Policies are explained",
+      "Documents are completed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conflicts can affect objective advice."
+  },
+  {
+    "id": 7,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "An advisor should handle conflicts by:",
+    "options": [
+      "Disclosing them appropriately",
+      "Hiding them",
+      "Ignoring them",
+      "Transferring them to clients"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disclosure helps clients make informed decisions."
+  },
+  {
+    "id": 8,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Needs",
+    "difficulty": "Easy",
+    "question": "Before recommending a product, an advisor should understand:",
+    "options": [
+      "Client needs and objectives",
+      "Only commission rates",
+      "Only product popularity",
+      "Only market trends"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations require understanding the client."
+  },
+  {
+    "id": 9,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Needs",
+    "difficulty": "Medium",
+    "question": "A fact-finding process helps determine:",
+    "options": [
+      "Client financial circumstances",
+      "Advisor income",
+      "Sales targets",
+      "Advertising plans"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fact finding supports suitable recommendations."
+  },
+  {
+    "id": 10,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Professional conduct requires:",
+    "options": [
+      "Honesty and fairness",
+      "Misleading statements",
+      "Hidden information",
+      "Pressure sales"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethical conduct requires honesty and fairness."
+  },
+  {
+    "id": 11,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Product information should be:",
+    "options": [
+      "Clear and understandable",
+      "Hidden",
+      "Changed frequently",
+      "Only verbal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need clear information."
+  },
+  {
+    "id": 12,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "question": "Material information includes:",
+    "options": [
+      "Important facts affecting a decision",
+      "Personal opinions only",
+      "Marketing slogans",
+      "Unrelated details"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Material facts influence decisions."
+  },
+  {
+    "id": 13,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Privacy",
+    "difficulty": "Easy",
+    "question": "Client information should be:",
+    "options": [
+      "Kept confidential",
+      "Shared publicly",
+      "Sold to others",
+      "Ignored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Client privacy must be protected."
+  },
+  {
+    "id": 14,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Personal information may be used:",
+    "options": [
+      "Only for appropriate purposes",
+      "Without permission",
+      "Publicly",
+      "For personal benefit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Information must be handled properly."
+  },
+  {
+    "id": 15,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Easy",
+    "question": "Documentation helps show:",
+    "options": [
+      "Advice and decisions made",
+      "Only sales results",
+      "Only commissions",
+      "Only product names"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Proper records support accountability."
+  },
+  {
+    "id": 16,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Advisor records should be:",
+    "options": [
+      "Accurate and complete",
+      "Missing details",
+      "Destroyed immediately",
+      "Based on memory only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Good records are accurate and complete."
+  },
+  {
+    "id": 17,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Communication",
+    "difficulty": "Easy",
+    "question": "An advisor should communicate:",
+    "options": [
+      "Clearly and honestly",
+      "With guarantees",
+      "Only through advertisements",
+      "Without explanations"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clear communication builds trust."
+  },
+  {
+    "id": 18,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Communication",
+    "difficulty": "Medium",
+    "question": "An advisor should avoid:",
+    "options": [
+      "Misleading clients",
+      "Explaining risks",
+      "Reviewing needs",
+      "Answering questions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Misleading clients violates ethical standards."
+  },
+  {
+    "id": 19,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Suitability",
+    "difficulty": "Easy",
+    "question": "Suitability means:",
+    "options": [
+      "Product matches client needs",
+      "Product has highest commission",
+      "Product is most expensive",
+      "Product is most popular"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations should fit client circumstances."
+  },
+  {
+    "id": 20,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "A suitable recommendation considers:",
+    "options": [
+      "Objectives, risk, and circumstances",
+      "Only advisor preference",
+      "Only commissions",
+      "Only sales goals"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability requires complete consideration."
+  },
+  {
+    "id": 21,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should act:",
+    "options": [
+      "With integrity",
+      "With deception",
+      "Without records",
+      "Without disclosure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Integrity is a fundamental ethical principle."
+  },
+  {
+    "id": 22,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Ethical advisors place importance on:",
+    "options": [
+      "Client interests",
+      "Personal gain only",
+      "Sales pressure",
+      "Hidden benefits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Client interests should be prioritized."
+  },
+  {
+    "id": 23,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Easy",
+    "question": "Compliance means:",
+    "options": [
+      "Following applicable rules and regulations",
+      "Ignoring laws",
+      "Avoiding records",
+      "Removing disclosure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Compliance requires following requirements."
+  },
+  {
+    "id": 24,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Medium",
+    "question": "Regulatory requirements exist to:",
+    "options": [
+      "Protect clients and maintain standards",
+      "Increase commissions",
+      "Remove documentation",
+      "Prevent advice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Regulation protects consumers."
+  },
+  {
+    "id": 25,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Medium",
+    "question": "Ethical decision-making should consider:",
+    "options": [
+      "Client impact and professional duties",
+      "Only personal benefit",
+      "Only sales results",
+      "Only market conditions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethical choices consider responsibilities and impact."
+  },
+  {
+    "id": 26,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Interests",
+    "difficulty": "Easy",
+    "question": "An advisor's first priority should be:",
+    "options": [
+      "Client interests",
+      "Personal commission",
+      "Sales targets",
+      "Product popularity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethical advisors prioritize clients."
+  },
+  {
+    "id": 27,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Interests",
+    "difficulty": "Medium",
+    "question": "Putting clients first means:",
+    "options": [
+      "Considering their goals and circumstances",
+      "Choosing the highest fee product",
+      "Ignoring their concerns",
+      "Making decisions without them"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Client-focused advice considers individual needs."
+  },
+  {
+    "id": 28,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should avoid:",
+    "options": [
+      "False or misleading statements",
+      "Clear explanations",
+      "Proper documentation",
+      "Disclosure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Misleading statements violate professional standards."
+  },
+  {
+    "id": 29,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Professional integrity requires:",
+    "options": [
+      "Honest and responsible behaviour",
+      "Hidden information",
+      "Pressure tactics",
+      "False promises"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Integrity requires responsible actions."
+  },
+  {
+    "id": 30,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Confidentiality",
+    "difficulty": "Easy",
+    "question": "Confidential client information should be:",
+    "options": [
+      "Protected",
+      "Shared freely",
+      "Posted publicly",
+      "Sold"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Confidentiality protects client information."
+  },
+  {
+    "id": 31,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Confidentiality",
+    "difficulty": "Medium",
+    "question": "Client information may be disclosed:",
+    "options": [
+      "When authorized or legally required",
+      "Whenever requested by anyone",
+      "For personal benefit",
+      "Without reason"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disclosure must be appropriate."
+  },
+  {
+    "id": 32,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Communication",
+    "difficulty": "Easy",
+    "question": "Good communication includes:",
+    "options": [
+      "Listening and explaining clearly",
+      "Using pressure",
+      "Hiding details",
+      "Making guarantees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Communication requires clarity."
+  },
+  {
+    "id": 33,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Communication",
+    "difficulty": "Medium",
+    "question": "An advisor should explain:",
+    "options": [
+      "Risks, benefits, and limitations",
+      "Only benefits",
+      "Only costs",
+      "Only guarantees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Balanced information supports decisions."
+  },
+  {
+    "id": 34,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Conflict Management",
+    "difficulty": "Easy",
+    "question": "Conflicts should be:",
+    "options": [
+      "Managed appropriately",
+      "Hidden",
+      "Ignored",
+      "Encouraged"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conflicts require proper handling."
+  },
+  {
+    "id": 35,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Conflict Management",
+    "difficulty": "Medium",
+    "question": "Conflict disclosure helps:",
+    "options": [
+      "Clients understand potential bias",
+      "Increase commissions",
+      "Remove regulations",
+      "Avoid documentation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disclosure supports transparency."
+  },
+  {
+    "id": 36,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Easy",
+    "question": "Rules and regulations help:",
+    "options": [
+      "Protect clients",
+      "Increase misleading sales",
+      "Remove responsibility",
+      "Avoid advice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Regulation protects consumers."
+  },
+  {
+    "id": 37,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Medium",
+    "question": "An advisor should remain:",
+    "options": [
+      "Up to date with requirements",
+      "Unaware of rules",
+      "Independent of laws",
+      "Without records"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professionals must understand requirements."
+  },
+  {
+    "id": 38,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Easy",
+    "question": "Records should reflect:",
+    "options": [
+      "Important advice provided",
+      "Only sales numbers",
+      "Only fees",
+      "Only signatures"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Documentation supports accountability."
+  },
+  {
+    "id": 39,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Good documentation protects:",
+    "options": [
+      "Clients and advisors",
+      "Only companies",
+      "Only salespeople",
+      "Only regulators"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Records provide evidence of proper advice."
+  },
+  {
+    "id": 40,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Suitability",
+    "difficulty": "Easy",
+    "question": "Suitability analysis considers:",
+    "options": [
+      "Client needs",
+      "Advisor commission",
+      "Sales goals",
+      "Product popularity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability is client focused."
+  },
+  {
+    "id": 41,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Risk tolerance is important because:",
+    "options": [
+      "Clients have different comfort levels with risk",
+      "All clients are identical",
+      "Risk never matters",
+      "Products are always equal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk tolerance affects recommendations."
+  },
+  {
+    "id": 42,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Easy",
+    "question": "Ethical advisors should be:",
+    "options": [
+      "Trustworthy",
+      "Misleading",
+      "Secretive",
+      "Careless"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trust is essential in advice."
+  },
+  {
+    "id": 43,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Medium",
+    "question": "An ethical dilemma occurs when:",
+    "options": [
+      "Values or duties conflict",
+      "Rules are clear",
+      "Documents are complete",
+      "Clients agree"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dilemmas involve competing responsibilities."
+  },
+  {
+    "id": 44,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Relationships",
+    "difficulty": "Easy",
+    "question": "Trust is built through:",
+    "options": [
+      "Honest service",
+      "Hidden information",
+      "Pressure tactics",
+      "False claims"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Honesty builds trust."
+  },
+  {
+    "id": 45,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Relationships",
+    "difficulty": "Medium",
+    "question": "Long-term client relationships require:",
+    "options": [
+      "Integrity and communication",
+      "Only sales",
+      "Only commissions",
+      "Only product changes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Relationships depend on ethical behaviour."
+  },
+  {
+    "id": 46,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Standards",
+    "difficulty": "Easy",
+    "question": "A professional advisor should:",
+    "options": [
+      "Follow ethical standards",
+      "Ignore rules",
+      "Hide conflicts",
+      "Guarantee results"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standards guide professional behaviour."
+  },
+  {
+    "id": 47,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Standards",
+    "difficulty": "Medium",
+    "question": "Professional standards exist to:",
+    "options": [
+      "Maintain public confidence",
+      "Increase pressure sales",
+      "Remove responsibility",
+      "Reduce disclosure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standards protect the profession and clients."
+  },
+  {
+    "id": 48,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure allows clients to:",
+    "options": [
+      "Make informed decisions",
+      "Avoid all risks",
+      "Guarantee returns",
+      "Remove contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Information helps informed choices."
+  },
+  {
+    "id": 49,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "question": "An advisor should disclose:",
+    "options": [
+      "Relevant conflicts and limitations",
+      "Only positive features",
+      "Only commissions",
+      "Nothing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disclosure must be complete and relevant."
+  },
+  {
+    "id": 50,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Medium",
+    "question": "Ethical advice is based on:",
+    "options": [
+      "Honesty, fairness, and client needs",
+      "Sales pressure",
+      "Personal gain",
+      "Hidden information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethical advice follows professional principles."
+  },
+  {
+    "id": 51,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should provide advice that is:",
+    "options": [
+      "Fair and objective",
+      "Based on personal benefit",
+      "Misleading",
+      "Hidden"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Advice should be fair and objective."
+  },
+  {
+    "id": 52,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Objectivity means:",
+    "options": [
+      "Making decisions without improper bias",
+      "Choosing highest commission",
+      "Ignoring client needs",
+      "Following sales pressure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Objectivity supports ethical advice."
+  },
+  {
+    "id": 53,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Needs",
+    "difficulty": "Easy",
+    "question": "A client profile helps determine:",
+    "options": [
+      "Appropriate recommendations",
+      "Commission amounts",
+      "Advertising plans",
+      "Sales targets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Client profiles support suitability."
+  },
+  {
+    "id": 54,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Needs",
+    "difficulty": "Medium",
+    "question": "Important client information includes:",
+    "options": [
+      "Goals, circumstances, and risk tolerance",
+      "Only age",
+      "Only income",
+      "Only product preference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Complete information supports proper advice."
+  },
+  {
+    "id": 55,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Risk tolerance describes:",
+    "options": [
+      "Ability and willingness to accept risk",
+      "Guaranteed returns",
+      "Tax level",
+      "Commission amount"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk tolerance affects recommendations."
+  },
+  {
+    "id": 56,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "An advisor should explain:",
+    "options": [
+      "Possible risks and outcomes",
+      "Only positive results",
+      "Guaranteed profits",
+      "Hidden conditions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need balanced information."
+  },
+  {
+    "id": 57,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Easy",
+    "question": "Compliance requires:",
+    "options": [
+      "Following applicable laws and rules",
+      "Ignoring regulations",
+      "Avoiding records",
+      "Hiding information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Compliance ensures proper practices."
+  },
+  {
+    "id": 58,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Medium",
+    "question": "Failure to follow rules may result in:",
+    "options": [
+      "Disciplinary action",
+      "Guaranteed success",
+      "More commissions",
+      "Less responsibility"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Non-compliance can have consequences."
+  },
+  {
+    "id": 59,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Privacy",
+    "difficulty": "Easy",
+    "question": "Privacy protection means:",
+    "options": [
+      "Safeguarding client information",
+      "Sharing information freely",
+      "Publishing records",
+      "Ignoring consent"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Privacy protects client information."
+  },
+  {
+    "id": 60,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Client consent is important when:",
+    "options": [
+      "Using personal information",
+      "Choosing advertising",
+      "Setting commissions",
+      "Predicting markets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Consent supports proper information use."
+  },
+  {
+    "id": 61,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Easy",
+    "question": "Documentation should be:",
+    "options": [
+      "Accurate",
+      "False",
+      "Incomplete",
+      "Unnecessary"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate records are required."
+  },
+  {
+    "id": 62,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Keeping records helps demonstrate:",
+    "options": [
+      "Proper advice process",
+      "Only sales volume",
+      "Only profits",
+      "Only marketing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Records show how advice was provided."
+  },
+  {
+    "id": 63,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Communication",
+    "difficulty": "Easy",
+    "question": "An advisor should answer client questions:",
+    "options": [
+      "Clearly and honestly",
+      "With guarantees",
+      "Avoiding details",
+      "Without explanation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clear answers support understanding."
+  },
+  {
+    "id": 64,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Communication",
+    "difficulty": "Medium",
+    "question": "Effective communication requires:",
+    "options": [
+      "Listening to client concerns",
+      "Ignoring questions",
+      "Using pressure",
+      "Hiding risks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Listening is part of good advice."
+  },
+  {
+    "id": 65,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Easy",
+    "question": "A conflict may occur when:",
+    "options": [
+      "Personal interests affect advice",
+      "Clients ask questions",
+      "Policies are reviewed",
+      "Records are updated"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conflicts can affect judgment."
+  },
+  {
+    "id": 66,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Managing conflicts requires:",
+    "options": [
+      "Disclosure and proper controls",
+      "Hiding information",
+      "Ignoring issues",
+      "Removing clients"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conflicts must be handled responsibly."
+  },
+  {
+    "id": 67,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Easy",
+    "question": "Ethical behaviour includes:",
+    "options": [
+      "Respect and honesty",
+      "Deception",
+      "Pressure",
+      "False promises"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethics requires honest conduct."
+  },
+  {
+    "id": 68,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Medium",
+    "question": "Ethical decisions consider:",
+    "options": [
+      "Impact on clients",
+      "Only personal benefit",
+      "Only sales",
+      "Only commissions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethical choices consider client impact."
+  },
+  {
+    "id": 69,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Relationships",
+    "difficulty": "Easy",
+    "question": "Client trust is maintained through:",
+    "options": [
+      "Consistent ethical behaviour",
+      "Hidden information",
+      "False guarantees",
+      "Pressure tactics"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trust depends on ethical actions."
+  },
+  {
+    "id": 70,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Relationships",
+    "difficulty": "Medium",
+    "question": "A strong relationship requires:",
+    "options": [
+      "Communication and transparency",
+      "Only sales",
+      "Only product changes",
+      "Only fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Transparency builds relationships."
+  },
+  {
+    "id": 71,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Standards",
+    "difficulty": "Easy",
+    "question": "Professional standards promote:",
+    "options": [
+      "Quality and ethical service",
+      "Misleading practices",
+      "Hidden conflicts",
+      "Poor records"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standards guide professional behaviour."
+  },
+  {
+    "id": 72,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Standards",
+    "difficulty": "Medium",
+    "question": "Maintaining standards helps:",
+    "options": [
+      "Protect the public",
+      "Increase pressure",
+      "Avoid responsibility",
+      "Remove disclosure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standards protect consumers."
+  },
+  {
+    "id": 73,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Suitability",
+    "difficulty": "Easy",
+    "question": "Suitability requires matching:",
+    "options": [
+      "Products to client needs",
+      "Products to commissions",
+      "Products to advertising",
+      "Products to popularity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations must fit clients."
+  },
+  {
+    "id": 74,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "An unsuitable recommendation may:",
+    "options": [
+      "Harm the client",
+      "Guarantee success",
+      "Remove risk",
+      "Improve every outcome"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Unsuitable advice can negatively affect clients."
+  },
+  {
+    "id": 75,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor demonstrates professionalism by:",
+    "options": [
+      "Acting ethically and responsibly",
+      "Guaranteeing returns",
+      "Hiding limitations",
+      "Ignoring rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professionalism requires ethical behaviour."
+  },
+  {
+    "id": 76,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure helps clients understand:",
+    "options": [
+      "Important product information",
+      "Only sales goals",
+      "Only commissions",
+      "Only advertisements"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disclosure supports informed decisions."
+  },
+  {
+    "id": 77,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "question": "An advisor must disclose:",
+    "options": [
+      "Relevant information affecting the client",
+      "Only positive features",
+      "Only guarantees",
+      "Nothing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Relevant information must be provided."
+  },
+  {
+    "id": 78,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Interests",
+    "difficulty": "Easy",
+    "question": "Acting in the client's best interest means:",
+    "options": [
+      "Putting client needs first",
+      "Maximizing advisor income",
+      "Ignoring objectives",
+      "Using pressure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Client needs should guide advice."
+  },
+  {
+    "id": 79,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Interests",
+    "difficulty": "Medium",
+    "question": "Client-focused advice avoids:",
+    "options": [
+      "Conflicts and unsuitable recommendations",
+      "Clear communication",
+      "Documentation",
+      "Reviews"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethical advice avoids unsuitable practices."
+  },
+  {
+    "id": 80,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should be accountable for:",
+    "options": [
+      "Professional actions",
+      "Market performance",
+      "Government decisions",
+      "Client choices only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Advisors are responsible for their conduct."
+  },
+  {
+    "id": 81,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Accountability requires:",
+    "options": [
+      "Taking responsibility for advice",
+      "Avoiding records",
+      "Blaming clients",
+      "Hiding mistakes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professionals accept responsibility."
+  },
+  {
+    "id": 82,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Privacy",
+    "difficulty": "Easy",
+    "question": "Client records should be:",
+    "options": [
+      "Securely maintained",
+      "Publicly available",
+      "Shared freely",
+      "Destroyed immediately"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Records must be protected."
+  },
+  {
+    "id": 83,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Unauthorized sharing of client information is:",
+    "options": [
+      "Improper",
+      "Required",
+      "Professional",
+      "Recommended"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Privacy rules restrict improper sharing."
+  },
+  {
+    "id": 84,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Easy",
+    "question": "Regulations exist to:",
+    "options": [
+      "Protect clients",
+      "Increase sales pressure",
+      "Remove ethics",
+      "Reduce information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Regulations protect consumers."
+  },
+  {
+    "id": 85,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Medium",
+    "question": "Following regulations demonstrates:",
+    "options": [
+      "Professional responsibility",
+      "Poor service",
+      "Hidden practices",
+      "Personal gain"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Compliance is part of professionalism."
+  },
+  {
+    "id": 86,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Easy",
+    "question": "Integrity means:",
+    "options": [
+      "Doing the right thing",
+      "Maximizing profit",
+      "Hiding facts",
+      "Ignoring rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Integrity is ethical behaviour."
+  },
+  {
+    "id": 87,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Medium",
+    "question": "An ethical advisor should avoid:",
+    "options": [
+      "Misrepresentation",
+      "Honest explanations",
+      "Client reviews",
+      "Documentation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Misrepresentation violates ethics."
+  },
+  {
+    "id": 88,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Communication",
+    "difficulty": "Easy",
+    "question": "Communication should be:",
+    "options": [
+      "Clear and understandable",
+      "Confusing",
+      "Hidden",
+      "Misleading"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need clear information."
+  },
+  {
+    "id": 89,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Communication",
+    "difficulty": "Medium",
+    "question": "An advisor should explain:",
+    "options": [
+      "Benefits, risks, and limitations",
+      "Only benefits",
+      "Only costs",
+      "Only guarantees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Balanced explanations are required."
+  },
+  {
+    "id": 90,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Easy",
+    "question": "Conflicts of interest should be:",
+    "options": [
+      "Identified and managed",
+      "Hidden",
+      "Ignored",
+      "Encouraged"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conflicts require proper management."
+  },
+  {
+    "id": 91,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Disclosure of conflicts promotes:",
+    "options": [
+      "Transparency",
+      "Misleading advice",
+      "Pressure sales",
+      "Hidden benefits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Transparency supports trust."
+  },
+  {
+    "id": 92,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Suitability",
+    "difficulty": "Easy",
+    "question": "Suitability depends on:",
+    "options": [
+      "Client circumstances",
+      "Advisor preference",
+      "Highest commission",
+      "Product popularity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability is client specific."
+  },
+  {
+    "id": 93,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Before recommending, an advisor should:",
+    "options": [
+      "Assess client information",
+      "Ignore objectives",
+      "Choose randomly",
+      "Focus only on fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Assessment supports suitable advice."
+  },
+  {
+    "id": 94,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Easy",
+    "question": "Records should show:",
+    "options": [
+      "Reasoning behind recommendations",
+      "Only product names",
+      "Only signatures",
+      "Only fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Documentation explains advice decisions."
+  },
+  {
+    "id": 95,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Good records support:",
+    "options": [
+      "Accountability and compliance",
+      "Hidden practices",
+      "False claims",
+      "Poor advice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Records demonstrate proper conduct."
+  },
+  {
+    "id": 96,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Standards",
+    "difficulty": "Easy",
+    "question": "Professional standards help maintain:",
+    "options": [
+      "Public confidence",
+      "Hidden information",
+      "Poor service",
+      "Conflicts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standards protect trust in the profession."
+  },
+  {
+    "id": 97,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Standards",
+    "difficulty": "Medium",
+    "question": "A professional advisor should continue:",
+    "options": [
+      "Learning and improving knowledge",
+      "Ignoring changes",
+      "Avoiding rules",
+      "Stopping education"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Continuous learning supports competence."
+  },
+  {
+    "id": 98,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Relationships",
+    "difficulty": "Easy",
+    "question": "Respecting clients includes:",
+    "options": [
+      "Listening and responding appropriately",
+      "Ignoring concerns",
+      "Using pressure",
+      "Hiding information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Respect improves client relationships."
+  },
+  {
+    "id": 99,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Relationships",
+    "difficulty": "Medium",
+    "question": "Trust is strengthened by:",
+    "options": [
+      "Honesty and transparency",
+      "False promises",
+      "Hidden conflicts",
+      "Pressure tactics"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Transparency builds trust."
+  },
+  {
+    "id": 100,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Medium",
+    "question": "Ethical advice combines:",
+    "options": [
+      "Integrity, competence, and client focus",
+      "Sales pressure only",
+      "Personal benefit only",
+      "Hidden information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethical advice requires professional principles."
+  },
+  {
+    "id": 101,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Competence",
+    "difficulty": "Easy",
+    "question": "An advisor should maintain:",
+    "options": [
+      "Professional knowledge and skills",
+      "Only sales ability",
+      "Personal opinions",
+      "Marketing skills only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Competence requires knowledge and skills."
+  },
+  {
+    "id": 102,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Competence",
+    "difficulty": "Medium",
+    "question": "Continuing education helps advisors:",
+    "options": [
+      "Remain knowledgeable",
+      "Avoid regulations",
+      "Guarantee returns",
+      "Remove responsibility"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Education supports professional competence."
+  },
+  {
+    "id": 103,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should be:",
+    "options": [
+      "Reliable and trustworthy",
+      "Misleading",
+      "Secretive",
+      "Careless"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trustworthiness is essential."
+  },
+  {
+    "id": 104,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Professional behaviour includes:",
+    "options": [
+      "Respecting ethical obligations",
+      "Ignoring clients",
+      "Hiding information",
+      "Making false promises"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethical obligations guide behaviour."
+  },
+  {
+    "id": 105,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Needs",
+    "difficulty": "Easy",
+    "question": "Understanding clients helps provide:",
+    "options": [
+      "Suitable advice",
+      "Maximum commissions",
+      "Random products",
+      "Guaranteed outcomes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding needs supports suitability."
+  },
+  {
+    "id": 106,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Needs",
+    "difficulty": "Medium",
+    "question": "Client goals should be:",
+    "options": [
+      "Considered in recommendations",
+      "Ignored",
+      "Replaced by sales goals",
+      "Hidden"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations should reflect goals."
+  },
+  {
+    "id": 107,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Risk disclosure helps clients:",
+    "options": [
+      "Understand possible outcomes",
+      "Guarantee profits",
+      "Remove all risks",
+      "Avoid contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk information supports decisions."
+  },
+  {
+    "id": 108,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "An advisor should explain:",
+    "options": [
+      "Potential risks and limitations",
+      "Only benefits",
+      "Only guarantees",
+      "Only returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Balanced disclosure is required."
+  },
+  {
+    "id": 109,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Easy",
+    "question": "A conflict should be disclosed when it:",
+    "options": [
+      "May affect advice",
+      "Never exists",
+      "Benefits the advisor only",
+      "Is hidden"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Relevant conflicts must be disclosed."
+  },
+  {
+    "id": 110,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Managing conflicts protects:",
+    "options": [
+      "Client trust",
+      "Sales targets",
+      "Commissions",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Proper management protects relationships."
+  },
+  {
+    "id": 111,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Privacy",
+    "difficulty": "Easy",
+    "question": "Privacy obligations apply to:",
+    "options": [
+      "Client personal information",
+      "Market prices",
+      "Advertising",
+      "Commission rates"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Privacy focuses on personal information."
+  },
+  {
+    "id": 112,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Client information should only be accessed by:",
+    "options": [
+      "Authorized persons",
+      "Anyone interested",
+      "Public sources",
+      "Competitors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Access should be controlled."
+  },
+  {
+    "id": 113,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Easy",
+    "question": "Compliance records should be:",
+    "options": [
+      "Maintained properly",
+      "Destroyed immediately",
+      "Hidden",
+      "Optional"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Records support compliance."
+  },
+  {
+    "id": 114,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Medium",
+    "question": "Non-compliance can:",
+    "options": [
+      "Damage professional standing",
+      "Guarantee success",
+      "Improve advice",
+      "Remove duties"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Failure to comply has consequences."
+  },
+  {
+    "id": 115,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Clear disclosure allows clients to:",
+    "options": [
+      "Make informed choices",
+      "Avoid all decisions",
+      "Guarantee results",
+      "Ignore risks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disclosure supports informed decisions."
+  },
+  {
+    "id": 116,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "question": "An advisor should not:",
+    "options": [
+      "Hide important information",
+      "Explain products",
+      "Discuss risks",
+      "Answer questions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Important information cannot be hidden."
+  },
+  {
+    "id": 117,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Easy",
+    "question": "Ethical behaviour builds:",
+    "options": [
+      "Trust",
+      "Confusion",
+      "Pressure",
+      "Misunderstanding"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethics builds client trust."
+  },
+  {
+    "id": 118,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Medium",
+    "question": "Ethical decisions should consider:",
+    "options": [
+      "Consequences for clients",
+      "Only profit",
+      "Only sales",
+      "Only convenience"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethics considers client impact."
+  },
+  {
+    "id": 119,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Easy",
+    "question": "Advice records should be:",
+    "options": [
+      "Complete and accurate",
+      "Optional",
+      "Incorrect",
+      "Unclear"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Records must be reliable."
+  },
+  {
+    "id": 120,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation demonstrates:",
+    "options": [
+      "Professional process",
+      "Personal gain",
+      "Marketing strategy",
+      "Sales pressure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Documentation shows how advice was provided."
+  },
+  {
+    "id": 121,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Relationships",
+    "difficulty": "Easy",
+    "question": "Client trust depends on:",
+    "options": [
+      "Honest interactions",
+      "Hidden information",
+      "False claims",
+      "Pressure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Honesty supports trust."
+  },
+  {
+    "id": 122,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Relationships",
+    "difficulty": "Medium",
+    "question": "Maintaining relationships requires:",
+    "options": [
+      "Transparency and communication",
+      "Only selling",
+      "Only advertising",
+      "Ignoring feedback"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Good relationships require communication."
+  },
+  {
+    "id": 123,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Suitability",
+    "difficulty": "Easy",
+    "question": "A suitable recommendation should:",
+    "options": [
+      "Meet client needs",
+      "Maximize commission",
+      "Ignore objectives",
+      "Be random"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability is client focused."
+  },
+  {
+    "id": 124,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Unsuitable advice may:",
+    "options": [
+      "Create harm for clients",
+      "Guarantee returns",
+      "Remove risk",
+      "Improve every outcome"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Unsuitable recommendations can harm clients."
+  },
+  {
+    "id": 125,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Competence",
+    "difficulty": "Medium",
+    "question": "A competent advisor demonstrates:",
+    "options": [
+      "Knowledge and professional judgment",
+      "Only sales ability",
+      "Guaranteed results",
+      "Hidden practices"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Competence requires knowledge and judgment."
+  },
+  {
+    "id": 151,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should avoid:",
+    "options": [
+      "Misleading clients",
+      "Explaining products",
+      "Keeping records",
+      "Disclosing information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Misleading clients violates professional duties."
+  },
+  {
+    "id": 152,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Professional judgement requires:",
+    "options": [
+      "Knowledge and ethical reasoning",
+      "Only sales skills",
+      "Personal benefit",
+      "Ignoring rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Judgement combines knowledge and ethics."
+  },
+  {
+    "id": 153,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Interests",
+    "difficulty": "Easy",
+    "question": "Client interests should be considered:",
+    "options": [
+      "Before making recommendations",
+      "After selling products",
+      "Only during complaints",
+      "Never"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Client interests guide recommendations."
+  },
+  {
+    "id": 154,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Interests",
+    "difficulty": "Medium",
+    "question": "Putting clients first requires:",
+    "options": [
+      "Understanding their goals",
+      "Maximizing commissions",
+      "Using pressure",
+      "Hiding limitations"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Client goals should guide advice."
+  },
+  {
+    "id": 155,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure should be:",
+    "options": [
+      "Timely and complete",
+      "Hidden",
+      "Delayed intentionally",
+      "Unnecessary"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need timely information."
+  },
+  {
+    "id": 156,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "question": "Incomplete disclosure may:",
+    "options": [
+      "Prevent informed decisions",
+      "Guarantee success",
+      "Remove risks",
+      "Improve advice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Missing information can harm decisions."
+  },
+  {
+    "id": 157,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Easy",
+    "question": "Compliance procedures help:",
+    "options": [
+      "Ensure proper practices",
+      "Avoid responsibilities",
+      "Hide information",
+      "Increase conflicts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Procedures support compliance."
+  },
+  {
+    "id": 158,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Medium",
+    "question": "Following regulations demonstrates:",
+    "options": [
+      "Professional responsibility",
+      "Poor judgement",
+      "Hidden activity",
+      "Lack of knowledge"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Compliance is a professional obligation."
+  },
+  {
+    "id": 159,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Privacy",
+    "difficulty": "Easy",
+    "question": "Protecting privacy means:",
+    "options": [
+      "Safeguarding client data",
+      "Sharing freely",
+      "Posting publicly",
+      "Ignoring consent"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Privacy requires protection."
+  },
+  {
+    "id": 160,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Client information should be:",
+    "options": [
+      "Collected and used appropriately",
+      "Used for personal gain",
+      "Shared without reason",
+      "Ignored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Information must be handled properly."
+  },
+  {
+    "id": 161,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Risk information should be:",
+    "options": [
+      "Explained clearly",
+      "Hidden",
+      "Removed",
+      "Guaranteed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need clear risk explanations."
+  },
+  {
+    "id": 162,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Risk discussions help clients:",
+    "options": [
+      "Make informed choices",
+      "Guarantee profits",
+      "Avoid all decisions",
+      "Remove contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding risk supports choices."
+  },
+  {
+    "id": 163,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Suitability",
+    "difficulty": "Easy",
+    "question": "Suitable advice considers:",
+    "options": [
+      "Client situation",
+      "Advisor income",
+      "Sales goals",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability is client focused."
+  },
+  {
+    "id": 164,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "An advisor should recommend products that:",
+    "options": [
+      "Fit client needs",
+      "Pay the highest commission",
+      "Are most expensive",
+      "Are most popular"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations should be appropriate."
+  },
+  {
+    "id": 165,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Easy",
+    "question": "Advisor records should be:",
+    "options": [
+      "Accurate",
+      "False",
+      "Optional",
+      "Missing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate records are required."
+  },
+  {
+    "id": 166,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation supports:",
+    "options": [
+      "Accountability",
+      "Hidden decisions",
+      "Poor service",
+      "Misrepresentation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Records demonstrate responsible conduct."
+  },
+  {
+    "id": 167,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Communication",
+    "difficulty": "Easy",
+    "question": "Good communication builds:",
+    "options": [
+      "Understanding",
+      "Confusion",
+      "Pressure",
+      "Distrust"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clear communication improves understanding."
+  },
+  {
+    "id": 168,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Communication",
+    "difficulty": "Medium",
+    "question": "Advisors should explain information in a way clients:",
+    "options": [
+      "Can understand",
+      "Cannot question",
+      "Must accept",
+      "Cannot review"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Information should be understandable."
+  },
+  {
+    "id": 169,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Easy",
+    "question": "Ethical advisors demonstrate:",
+    "options": [
+      "Integrity",
+      "Deception",
+      "Bias",
+      "Negligence"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Integrity is fundamental to ethics."
+  },
+  {
+    "id": 170,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Medium",
+    "question": "Ethical choices balance:",
+    "options": [
+      "Professional duties and client interests",
+      "Only profit",
+      "Only sales",
+      "Only convenience"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethics requires balanced judgement."
+  },
+  {
+    "id": 171,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Competence",
+    "difficulty": "Easy",
+    "question": "Competent advisors have:",
+    "options": [
+      "Knowledge and skills",
+      "Only sales ability",
+      "No training",
+      "Limited information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Competence requires ability and knowledge."
+  },
+  {
+    "id": 172,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Competence",
+    "difficulty": "Medium",
+    "question": "Continuing education supports:",
+    "options": [
+      "Professional improvement",
+      "Guaranteed returns",
+      "Removing duties",
+      "Avoiding rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Education maintains competence."
+  },
+  {
+    "id": 173,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Relationships",
+    "difficulty": "Easy",
+    "question": "Fair treatment means:",
+    "options": [
+      "Respecting clients",
+      "Using pressure",
+      "Hiding information",
+      "Ignoring concerns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients should be treated fairly."
+  },
+  {
+    "id": 174,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Relationships",
+    "difficulty": "Medium",
+    "question": "Client trust is damaged by:",
+    "options": [
+      "Dishonesty",
+      "Transparency",
+      "Clear advice",
+      "Good records"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dishonesty harms trust."
+  },
+  {
+    "id": 175,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Standards",
+    "difficulty": "Medium",
+    "question": "A professional advisor should maintain:",
+    "options": [
+      "Ethical standards",
+      "Hidden practices",
+      "False promises",
+      "Poor records"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional standards guide behaviour."
+  },
+  {
+    "id": 176,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor's behaviour should reflect:",
+    "options": [
+      "Integrity and professionalism",
+      "Personal gain",
+      "Pressure selling",
+      "Hidden information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional conduct requires integrity."
+  },
+  {
+    "id": 177,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Professional obligations include:",
+    "options": [
+      "Acting honestly and fairly",
+      "Ignoring client concerns",
+      "Hiding conflicts",
+      "Making guarantees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Advisors must act fairly."
+  },
+  {
+    "id": 178,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Needs",
+    "difficulty": "Easy",
+    "question": "Client information is used to:",
+    "options": [
+      "Provide suitable advice",
+      "Increase commissions",
+      "Create pressure",
+      "Ignore objectives"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Information helps determine suitability."
+  },
+  {
+    "id": 179,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Needs",
+    "difficulty": "Medium",
+    "question": "Recommendations should be based on:",
+    "options": [
+      "Client goals and circumstances",
+      "Advisor preference",
+      "Sales targets",
+      "Product popularity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations should fit clients."
+  },
+  {
+    "id": 180,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Important information should be:",
+    "options": [
+      "Disclosed to clients",
+      "Hidden",
+      "Delayed",
+      "Ignored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need important information."
+  },
+  {
+    "id": 181,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "question": "Proper disclosure supports:",
+    "options": [
+      "Informed decisions",
+      "Guaranteed results",
+      "Reduced responsibility",
+      "Hidden conflicts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disclosure allows informed choices."
+  },
+  {
+    "id": 182,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Easy",
+    "question": "An advisor should follow:",
+    "options": [
+      "Applicable laws and regulations",
+      "Personal shortcuts",
+      "Market rumours",
+      "Sales pressure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rules guide professional conduct."
+  },
+  {
+    "id": 183,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Medium",
+    "question": "Compliance failures may:",
+    "options": [
+      "Lead to consequences",
+      "Guarantee success",
+      "Improve reputation",
+      "Remove duties"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Failure to comply may have penalties."
+  },
+  {
+    "id": 184,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Privacy",
+    "difficulty": "Easy",
+    "question": "Confidential information should be:",
+    "options": [
+      "Protected",
+      "Published",
+      "Sold",
+      "Ignored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Privacy requires protection."
+  },
+  {
+    "id": 185,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy protection builds:",
+    "options": [
+      "Client trust",
+      "Confusion",
+      "Pressure",
+      "Conflict"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Protecting information builds trust."
+  },
+  {
+    "id": 186,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Explaining risk is part of:",
+    "options": [
+      "Responsible advice",
+      "Misleading advice",
+      "Poor communication",
+      "Hidden practices"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Responsible advice includes risk explanation."
+  },
+  {
+    "id": 187,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Clients should understand:",
+    "options": [
+      "Risks before decisions",
+      "Only benefits",
+      "Guaranteed outcomes",
+      "Only fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk understanding supports decisions."
+  },
+  {
+    "id": 188,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Suitability",
+    "difficulty": "Easy",
+    "question": "Suitable recommendations:",
+    "options": [
+      "Match client needs",
+      "Maximize commissions",
+      "Ignore goals",
+      "Follow trends"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability means matching needs."
+  },
+  {
+    "id": 189,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "An advisor should avoid:",
+    "options": [
+      "Unsuitable recommendations",
+      "Client reviews",
+      "Clear explanations",
+      "Documentation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Unsuitable advice can harm clients."
+  },
+  {
+    "id": 190,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Easy",
+    "question": "Records should show:",
+    "options": [
+      "Advice provided",
+      "Only sales",
+      "Only fees",
+      "Only signatures"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Records document the advice process."
+  },
+  {
+    "id": 191,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Good documentation demonstrates:",
+    "options": [
+      "Professional responsibility",
+      "Hidden actions",
+      "Poor advice",
+      "Misleading conduct"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Records support accountability."
+  },
+  {
+    "id": 192,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Communication",
+    "difficulty": "Easy",
+    "question": "An advisor should:",
+    "options": [
+      "Explain clearly",
+      "Hide information",
+      "Guarantee results",
+      "Ignore questions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clear explanations are required."
+  },
+  {
+    "id": 193,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Communication",
+    "difficulty": "Medium",
+    "question": "Effective communication includes:",
+    "options": [
+      "Listening and explaining",
+      "Pressure tactics",
+      "Hidden details",
+      "False promises"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Communication requires understanding."
+  },
+  {
+    "id": 194,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Easy",
+    "question": "Ethical advice requires:",
+    "options": [
+      "Honesty",
+      "Deception",
+      "Bias",
+      "Negligence"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Honesty is an ethical requirement."
+  },
+  {
+    "id": 195,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Medium",
+    "question": "Ethical behaviour protects:",
+    "options": [
+      "Clients and public confidence",
+      "Only sales",
+      "Only profits",
+      "Only companies"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethics protects trust."
+  },
+  {
+    "id": 196,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Competence",
+    "difficulty": "Easy",
+    "question": "An advisor should maintain:",
+    "options": [
+      "Professional knowledge",
+      "Outdated skills",
+      "Limited understanding",
+      "No training"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Knowledge must be maintained."
+  },
+  {
+    "id": 197,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Competence",
+    "difficulty": "Medium",
+    "question": "Competence improves through:",
+    "options": [
+      "Education and experience",
+      "Guessing",
+      "Sales pressure",
+      "Ignoring changes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Learning improves competence."
+  },
+  {
+    "id": 198,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Relationships",
+    "difficulty": "Easy",
+    "question": "Strong relationships require:",
+    "options": [
+      "Trust and respect",
+      "Pressure",
+      "Hidden information",
+      "False promises"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trust supports relationships."
+  },
+  {
+    "id": 199,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Relationships",
+    "difficulty": "Medium",
+    "question": "Client loyalty is supported by:",
+    "options": [
+      "Ethical service",
+      "Misleading advice",
+      "Hidden fees",
+      "Poor communication"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethical service builds loyalty."
+  },
+  {
+    "id": 200,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Medium",
+    "question": "The foundation of ethical advising is:",
+    "options": [
+      "Integrity and client focus",
+      "Maximum sales",
+      "Personal benefit",
+      "Hidden information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethical advising requires integrity."
+  },
+  {
+    "id": 126,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should always:",
+    "options": [
+      "Act honestly",
+      "Hide information",
+      "Promise results",
+      "Ignore rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Honesty is a core professional duty."
+  },
+  {
+    "id": 127,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Professional responsibility includes:",
+    "options": [
+      "Following ethical standards",
+      "Maximizing sales only",
+      "Avoiding documentation",
+      "Ignoring concerns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professionals follow ethical standards."
+  },
+  {
+    "id": 128,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Needs",
+    "difficulty": "Easy",
+    "question": "Client objectives should be:",
+    "options": [
+      "Clearly identified",
+      "Ignored",
+      "Replaced with sales goals",
+      "Hidden"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding objectives supports advice."
+  },
+  {
+    "id": 129,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Needs",
+    "difficulty": "Medium",
+    "question": "A needs analysis helps determine:",
+    "options": [
+      "Appropriate recommendations",
+      "Commission levels",
+      "Marketing plans",
+      "Sales rankings"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Needs analysis supports suitability."
+  },
+  {
+    "id": 130,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Explaining risk is part of:",
+    "options": [
+      "Responsible advice",
+      "Sales pressure",
+      "Misleading communication",
+      "Hidden practices"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk explanation is part of good advice."
+  },
+  {
+    "id": 131,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Clients should understand:",
+    "options": [
+      "Possible losses and uncertainty",
+      "Only possible gains",
+      "Guaranteed returns",
+      "Only fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need balanced risk information."
+  },
+  {
+    "id": 132,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Easy",
+    "question": "An advisor must follow:",
+    "options": [
+      "Applicable regulations",
+      "Personal preferences",
+      "Market rumours",
+      "Sales targets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Regulations guide professional conduct."
+  },
+  {
+    "id": 133,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Compliance",
+    "difficulty": "Medium",
+    "question": "Compliance supports:",
+    "options": [
+      "Consumer protection",
+      "Hidden information",
+      "Poor documentation",
+      "Unfair practices"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Compliance protects consumers."
+  },
+  {
+    "id": 134,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Privacy",
+    "difficulty": "Easy",
+    "question": "Personal information should be:",
+    "options": [
+      "Protected",
+      "Shared publicly",
+      "Sold",
+      "Ignored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Privacy requires protection."
+  },
+  {
+    "id": 135,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy breaches may:",
+    "options": [
+      "Harm client trust",
+      "Improve relationships",
+      "Increase transparency",
+      "Reduce duties"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Privacy breaches damage trust."
+  },
+  {
+    "id": 136,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "An advisor should disclose:",
+    "options": [
+      "Important product facts",
+      "Only advantages",
+      "Only commissions",
+      "Nothing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Important facts must be disclosed."
+  },
+  {
+    "id": 137,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "question": "Complete disclosure helps clients:",
+    "options": [
+      "Evaluate choices",
+      "Avoid all risk",
+      "Guarantee outcomes",
+      "Remove contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disclosure supports decisions."
+  },
+  {
+    "id": 138,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Easy",
+    "question": "Conflicts may arise from:",
+    "options": [
+      "Personal interests",
+      "Client questions",
+      "Documentation",
+      "Education"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Personal interests can create conflicts."
+  },
+  {
+    "id": 139,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Conflict management requires:",
+    "options": [
+      "Transparency",
+      "Secrecy",
+      "Ignoring issues",
+      "Removing clients"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Transparency is required."
+  },
+  {
+    "id": 140,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Easy",
+    "question": "Client files should contain:",
+    "options": [
+      "Relevant information",
+      "False information",
+      "Missing details",
+      "Only signatures"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Relevant records support advice."
+  },
+  {
+    "id": 141,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Good documentation helps:",
+    "options": [
+      "Demonstrate proper advice",
+      "Hide decisions",
+      "Avoid accountability",
+      "Remove regulations"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Records support accountability."
+  },
+  {
+    "id": 142,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Communication",
+    "difficulty": "Easy",
+    "question": "An advisor should explain information:",
+    "options": [
+      "Clearly",
+      "Confusingly",
+      "Partially",
+      "Secretly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clear communication is required."
+  },
+  {
+    "id": 143,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Communication",
+    "difficulty": "Medium",
+    "question": "Active listening helps advisors:",
+    "options": [
+      "Understand client needs",
+      "Increase pressure",
+      "Avoid questions",
+      "Hide risks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Listening improves understanding."
+  },
+  {
+    "id": 144,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Easy",
+    "question": "Ethical conduct requires:",
+    "options": [
+      "Fairness",
+      "Deception",
+      "Pressure",
+      "Hidden conflicts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fairness is an ethical principle."
+  },
+  {
+    "id": 145,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Ethics",
+    "difficulty": "Medium",
+    "question": "Ethical behaviour protects:",
+    "options": [
+      "Clients and public confidence",
+      "Only sales",
+      "Only commissions",
+      "Only companies"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethics supports trust."
+  },
+  {
+    "id": 146,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Competence",
+    "difficulty": "Easy",
+    "question": "An advisor should maintain:",
+    "options": [
+      "Required knowledge",
+      "False confidence",
+      "Limited information",
+      "Outdated skills"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Knowledge must be maintained."
+  },
+  {
+    "id": 147,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Competence",
+    "difficulty": "Medium",
+    "question": "Professional development helps:",
+    "options": [
+      "Improve advice quality",
+      "Guarantee returns",
+      "Remove responsibility",
+      "Avoid rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Learning improves competence."
+  },
+  {
+    "id": 148,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Relationships",
+    "difficulty": "Easy",
+    "question": "Respectful service includes:",
+    "options": [
+      "Treating clients fairly",
+      "Using pressure",
+      "Ignoring concerns",
+      "Hiding information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients should be treated fairly."
+  },
+  {
+    "id": 149,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Client Relationships",
+    "difficulty": "Medium",
+    "question": "Client complaints should be:",
+    "options": [
+      "Handled appropriately",
+      "Ignored",
+      "Hidden",
+      "Dismissed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Complaints require proper handling."
+  },
+  {
+    "id": 150,
+    "moduleId": "ethics",
+    "moduleName": "Ethics & Professional Conduct",
+    "topic": "Professional Standards",
+    "difficulty": "Medium",
+    "question": "Professional standards encourage:",
+    "options": [
+      "Ethical and competent service",
+      "Misleading advice",
+      "Hidden practices",
+      "Poor records"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standards support quality service."
+  }
+]

@@ -1,0 +1,3202 @@
+[
+  {
+    "id": 1,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "What is an annuity?",
+    "options": [
+      "A financial product that provides income payments",
+      "A type of home insurance",
+      "A bank loan",
+      "A government tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities provide income payments according to contract terms."
+  },
+  {
+    "id": 2,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The main purpose of an annuity is:",
+    "options": [
+      "Provide income security",
+      "Guarantee stock profits",
+      "Remove all taxes",
+      "Replace all investments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities are designed to provide income."
+  },
+  {
+    "id": 3,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Medium",
+    "question": "An immediate annuity begins payments:",
+    "options": [
+      "Shortly after purchase",
+      "Only after death",
+      "After many decades",
+      "Only during employment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Immediate annuities begin income payments soon after purchase."
+  },
+  {
+    "id": 4,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Medium",
+    "question": "A deferred annuity begins payments:",
+    "options": [
+      "At a future date",
+      "Immediately always",
+      "Only after a claim",
+      "Only after retirement ends"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Deferred annuities accumulate before income begins."
+  },
+  {
+    "id": 5,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "The annuitant is the person whose:",
+    "options": [
+      "Life determines income payments",
+      "Investment account is managed",
+      "Taxes are calculated",
+      "Premium is paid by government"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The annuitant's life affects the payment period."
+  },
+  {
+    "id": 6,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "An annuity contract is issued by:",
+    "options": [
+      "An insurance company",
+      "A stock exchange",
+      "A government office",
+      "A bank only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities are insurance products issued by insurers."
+  },
+  {
+    "id": 7,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The owner of an annuity contract is called:",
+    "options": [
+      "The policy owner",
+      "The beneficiary only",
+      "The advisor",
+      "The insurer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The owner controls the contract rights."
+  },
+  {
+    "id": 8,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "The premium used to purchase an annuity is:",
+    "options": [
+      "The amount invested into the contract",
+      "A tax payment",
+      "A claim payment",
+      "A commission only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The premium purchases the annuity contract."
+  },
+  {
+    "id": 9,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "The beneficiary of an annuity receives:",
+    "options": [
+      "Benefits according to contract terms",
+      "Guaranteed investment returns",
+      "Advisor payments",
+      "Government benefits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiary benefits depend on contract provisions."
+  },
+  {
+    "id": 10,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Easy",
+    "question": "A life annuity provides income:",
+    "options": [
+      "For the annuitant's lifetime",
+      "For one month only",
+      "Only during employment",
+      "Only after death"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life annuities provide payments based on lifetime."
+  },
+  {
+    "id": 11,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Medium",
+    "question": "A joint life annuity covers:",
+    "options": [
+      "More than one person's lifetime",
+      "Only one investment account",
+      "Only a beneficiary",
+      "Only a business"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Joint life annuities involve multiple lives."
+  },
+  {
+    "id": 12,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Easy",
+    "question": "A fixed annuity provides:",
+    "options": [
+      "Specified payments according to contract",
+      "Unlimited market gains",
+      "No income",
+      "Only tax benefits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fixed annuities provide contract-based payments."
+  },
+  {
+    "id": 13,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Medium",
+    "question": "A variable annuity payment may depend on:",
+    "options": [
+      "Investment performance",
+      "Only government rules",
+      "Advisor age",
+      "Contract colour"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Variable payments may change with investment results."
+  },
+  {
+    "id": 14,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Easy",
+    "question": "Annuity payments provide:",
+    "options": [
+      "Regular income",
+      "Mortgage approval",
+      "Stock ownership",
+      "Tax refunds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities provide scheduled income payments."
+  },
+  {
+    "id": 15,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Medium",
+    "question": "The amount of annuity income depends on:",
+    "options": [
+      "Contract terms and factors",
+      "Only advertising",
+      "Only commissions",
+      "Market rumours"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Income depends on several contract factors."
+  },
+  {
+    "id": 16,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "The accumulation period is:",
+    "options": [
+      "Before income payments begin",
+      "After the contract ends",
+      "Only during claims",
+      "Only after death"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Deferred annuities have an accumulation period."
+  },
+  {
+    "id": 17,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "The payout period is:",
+    "options": [
+      "When income payments are received",
+      "When premiums are paid",
+      "When investments are chosen",
+      "When taxes are filed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The payout period is when income begins."
+  },
+  {
+    "id": 18,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Easy",
+    "question": "Annuities are commonly used for:",
+    "options": [
+      "Retirement income planning",
+      "Buying property",
+      "Short-term loans",
+      "Tax avoidance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities can provide retirement income."
+  },
+  {
+    "id": 19,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Medium",
+    "question": "Annuities can help manage:",
+    "options": [
+      "Longevity risk",
+      "Stock ownership",
+      "Employment risk",
+      "Mortgage risk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities help protect against outliving savings."
+  },
+  {
+    "id": 20,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "The annuity owner can:",
+    "options": [
+      "Have rights under the contract",
+      "Control government policy",
+      "Guarantee profits",
+      "Remove all fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The owner has contractual rights."
+  },
+  {
+    "id": 21,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Contract terms should be:",
+    "options": [
+      "Reviewed carefully",
+      "Ignored",
+      "Changed randomly",
+      "Assumed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding the contract is important."
+  },
+  {
+    "id": 22,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "A beneficiary receives:",
+    "options": [
+      "Contract benefits when applicable",
+      "All premiums immediately",
+      "Investment advice",
+      "Advisor compensation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiary payments follow contract rules."
+  },
+  {
+    "id": 23,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Beneficiary designations should be:",
+    "options": [
+      "Reviewed periodically",
+      "Never changed",
+      "Hidden",
+      "Random"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life changes may require updates."
+  },
+  {
+    "id": 24,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should explain:",
+    "options": [
+      "Benefits and limitations",
+      "Only advantages",
+      "Only sales information",
+      "Only fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need complete information."
+  },
+  {
+    "id": 25,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Suitable annuity advice considers:",
+    "options": [
+      "Client needs and circumstances",
+      "Highest commission",
+      "Advisor preference",
+      "Market rumours"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations should be suitable."
+  },
+  {
+    "id": 26,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Easy",
+    "question": "Annuities provide protection against:",
+    "options": [
+      "Outliving retirement savings",
+      "All investment losses",
+      "All taxes",
+      "All expenses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities can provide lifetime income protection."
+  },
+  {
+    "id": 27,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Medium",
+    "question": "Longevity risk means:",
+    "options": [
+      "Risk of living longer than savings last",
+      "Risk of losing a job",
+      "Risk of changing investments",
+      "Risk of paying fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Longevity risk relates to retirement income lasting."
+  },
+  {
+    "id": 28,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Easy",
+    "question": "A deferred annuity has:",
+    "options": [
+      "An accumulation period before income",
+      "Immediate payments only",
+      "No contract value",
+      "No owner"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Deferred annuities delay income payments."
+  },
+  {
+    "id": 29,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Medium",
+    "question": "An immediate annuity is useful when someone wants:",
+    "options": [
+      "Income payments soon",
+      "Only investment growth",
+      "No payments",
+      "Only tax deductions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Immediate annuities begin income quickly."
+  },
+  {
+    "id": 30,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Easy",
+    "question": "Annuity income frequency may be:",
+    "options": [
+      "Monthly or according to contract",
+      "Only yearly always",
+      "Only once",
+      "Never"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Payment frequency is determined by contract."
+  },
+  {
+    "id": 31,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Medium",
+    "question": "Annuity payments are affected by:",
+    "options": [
+      "Age, amount invested, and options selected",
+      "Only advertising",
+      "Only advisor choice",
+      "Only taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Several factors determine income amounts."
+  },
+  {
+    "id": 32,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "A surrender value is:",
+    "options": [
+      "Amount available if contract is ended early",
+      "Annual income payment",
+      "Tax refund",
+      "Commission payment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Surrender value relates to early cancellation."
+  },
+  {
+    "id": 33,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Surrendering an annuity may:",
+    "options": [
+      "Reduce benefits and values",
+      "Increase guarantees always",
+      "Remove all rules",
+      "Create free income"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ending contracts early may have consequences."
+  },
+  {
+    "id": 34,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "A contract guarantee is:",
+    "options": [
+      "A promise stated in the contract",
+      "A market prediction",
+      "A sales opinion",
+      "A tax rule"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees are based on contract terms."
+  },
+  {
+    "id": 35,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Guarantees should be explained with:",
+    "options": [
+      "Applicable conditions",
+      "Only potential returns",
+      "Only fees",
+      "Market rumours"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conditions determine guarantees."
+  },
+  {
+    "id": 36,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Fees",
+    "difficulty": "Easy",
+    "question": "An annuity may include:",
+    "options": [
+      "Contract charges and fees",
+      "No costs ever",
+      "Only taxes",
+      "Only bonuses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contracts may contain various charges."
+  },
+  {
+    "id": 37,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Clients should understand:",
+    "options": [
+      "All applicable charges",
+      "Only income amount",
+      "Only market changes",
+      "Only advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fee understanding supports informed choices."
+  },
+  {
+    "id": 38,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax Features",
+    "difficulty": "Easy",
+    "question": "Annuity taxation depends on:",
+    "options": [
+      "Applicable tax rules",
+      "Advisor preference",
+      "Market colour",
+      "Contract name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax treatment follows legislation."
+  },
+  {
+    "id": 39,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax Features",
+    "difficulty": "Medium",
+    "question": "Tax questions may require:",
+    "options": [
+      "Professional tax advice",
+      "Market prediction",
+      "Advertising review",
+      "No information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax matters may require specialists."
+  },
+  {
+    "id": 40,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should provide:",
+    "options": [
+      "Accurate information",
+      "Guaranteed profits",
+      "Hidden details",
+      "False promises"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate information is required."
+  },
+  {
+    "id": 41,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Suitability means:",
+    "options": [
+      "Recommendation matches client needs",
+      "Highest commission product",
+      "Most expensive option",
+      "Fastest sale"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Advice should fit client circumstances."
+  },
+  {
+    "id": 42,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Client objectives should be:",
+    "options": [
+      "Identified before recommending products",
+      "Ignored",
+      "Changed by advisor",
+      "Hidden"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding objectives supports suitable advice."
+  },
+  {
+    "id": 43,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "An annuity differs from a regular investment because:",
+    "options": [
+      "It provides contractual income features",
+      "It has no contract",
+      "It has no owner",
+      "It guarantees all profits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities are insurance contracts with income features."
+  },
+  {
+    "id": 44,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The annuitant is important because:",
+    "options": [
+      "Income may depend on their life",
+      "They manage the insurer",
+      "They set tax laws",
+      "They control markets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The annuitant's life affects payments."
+  },
+  {
+    "id": 45,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The owner and annuitant:",
+    "options": [
+      "May be different people",
+      "Must always be identical",
+      "Cannot exist together",
+      "Are always beneficiaries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ownership and annuitant roles can differ."
+  },
+  {
+    "id": 46,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "Beneficiary payments depend on:",
+    "options": [
+      "Contract provisions",
+      "Market rumours",
+      "Advisor choice",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contract terms determine benefits."
+  },
+  {
+    "id": 47,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Updating beneficiaries may be needed after:",
+    "options": [
+      "Major life events",
+      "Every payment",
+      "Every market change",
+      "Every fee"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life changes may require updates."
+  },
+  {
+    "id": 48,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Easy",
+    "question": "Annuities may provide:",
+    "options": [
+      "Predictable retirement income",
+      "Guaranteed stock prices",
+      "No contract",
+      "Free insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Income predictability is a key feature."
+  },
+  {
+    "id": 49,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Medium",
+    "question": "Retirement income planning considers:",
+    "options": [
+      "Client goals and financial situation",
+      "Only age",
+      "Only fees",
+      "Only markets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Planning considers multiple factors."
+  },
+  {
+    "id": 50,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The primary purpose of an annuity is:",
+    "options": [
+      "Provide income based on contract terms",
+      "Eliminate all expenses",
+      "Guarantee market growth",
+      "Replace every investment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities are designed to provide income."
+  },
+  {
+    "id": 51,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "The contract owner is responsible for:",
+    "options": [
+      "Understanding contract rights and features",
+      "Controlling the insurer",
+      "Setting tax laws",
+      "Guaranteeing returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The owner should understand contract features."
+  },
+  {
+    "id": 52,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "A contract review helps:",
+    "options": [
+      "Confirm the contract still meets needs",
+      "Guarantee profits",
+      "Remove all risks",
+      "Change legislation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Regular reviews support suitability."
+  },
+  {
+    "id": 53,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Easy",
+    "question": "Annuity income is paid:",
+    "options": [
+      "According to contract terms",
+      "Only when markets rise",
+      "Only after claims",
+      "Only during employment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Payments follow contract provisions."
+  },
+  {
+    "id": 54,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Medium",
+    "question": "Payment options may include:",
+    "options": [
+      "Different income arrangements",
+      "Only one option always",
+      "No income",
+      "Only refunds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contracts may offer various payment options."
+  },
+  {
+    "id": 55,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Easy",
+    "question": "A life annuity is based on:",
+    "options": [
+      "The annuitant's lifetime",
+      "The advisor's lifetime",
+      "Market prices",
+      "Government rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life annuities depend on lifetime."
+  },
+  {
+    "id": 56,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Medium",
+    "question": "A term certain annuity provides payments:",
+    "options": [
+      "For a specified period",
+      "Only forever",
+      "Only one day",
+      "Without a contract"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Term certain payments last a defined period."
+  },
+  {
+    "id": 57,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Easy",
+    "question": "A joint life annuity may cover:",
+    "options": [
+      "Two individuals",
+      "Only an advisor",
+      "Only a beneficiary",
+      "Only a company"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Joint life covers more than one person."
+  },
+  {
+    "id": 58,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Medium",
+    "question": "Annuities are often used to create:",
+    "options": [
+      "Retirement income streams",
+      "Market predictions",
+      "Tax refunds",
+      "Loan approvals"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Income streams support retirement planning."
+  },
+  {
+    "id": 59,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "An annuity can reduce:",
+    "options": [
+      "Longevity risk",
+      "All investment risk",
+      "All expenses",
+      "All taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities address longevity risk."
+  },
+  {
+    "id": 60,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Longevity risk increases when:",
+    "options": [
+      "People live longer than expected",
+      "Markets increase",
+      "Fees decrease",
+      "Contracts change"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Living longer creates retirement income challenges."
+  },
+  {
+    "id": 61,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Fees",
+    "difficulty": "Easy",
+    "question": "Fees should be:",
+    "options": [
+      "Disclosed to clients",
+      "Hidden",
+      "Ignored",
+      "Estimated randomly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fee disclosure is required."
+  },
+  {
+    "id": 62,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Understanding fees helps clients:",
+    "options": [
+      "Compare products properly",
+      "Guarantee returns",
+      "Remove contracts",
+      "Avoid income"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need fee information."
+  },
+  {
+    "id": 63,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax Features",
+    "difficulty": "Easy",
+    "question": "Tax treatment may depend on:",
+    "options": [
+      "Account type and legislation",
+      "Advisor preference",
+      "Market direction",
+      "Beneficiary choice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax treatment follows applicable rules."
+  },
+  {
+    "id": 64,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax Features",
+    "difficulty": "Medium",
+    "question": "Clients should consider taxes when:",
+    "options": [
+      "Planning retirement income",
+      "Ignoring contracts",
+      "Selecting colours",
+      "Choosing advisors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Taxes can affect retirement planning."
+  },
+  {
+    "id": 65,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "An annuity may provide:",
+    "options": [
+      "Income in exchange for a premium",
+      "Guaranteed market growth",
+      "No contract",
+      "Free investment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums fund annuity income."
+  },
+  {
+    "id": 66,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "The amount of income may depend on:",
+    "options": [
+      "Interest rates and contract factors",
+      "Advisor salary",
+      "Government elections",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Several factors influence payments."
+  },
+  {
+    "id": 67,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should explain:",
+    "options": [
+      "Product risks and benefits",
+      "Only benefits",
+      "Only commissions",
+      "Only sales goals"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Balanced explanations are required."
+  },
+  {
+    "id": 68,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Misrepresentation means:",
+    "options": [
+      "Providing false or misleading information",
+      "Explaining products",
+      "Documenting advice",
+      "Reviewing needs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Misleading information is unacceptable."
+  },
+  {
+    "id": 69,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Client information should be:",
+    "options": [
+      "Handled appropriately",
+      "Shared publicly",
+      "Ignored",
+      "Destroyed immediately"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Client information requires proper handling."
+  },
+  {
+    "id": 70,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Documentation should include:",
+    "options": [
+      "Reasons for recommendations",
+      "Only product names",
+      "Only fees",
+      "Only signatures"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Documentation supports compliance."
+  },
+  {
+    "id": 71,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "An annuity combines:",
+    "options": [
+      "Insurance contract features and income payments",
+      "Only stocks",
+      "Only loans",
+      "Only taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities are insurance-based products."
+  },
+  {
+    "id": 72,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The insurer's obligation is based on:",
+    "options": [
+      "Contract terms",
+      "Market rumours",
+      "Advisor opinions",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contract terms define obligations."
+  },
+  {
+    "id": 73,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "A premium is:",
+    "options": [
+      "Money paid to purchase the annuity",
+      "A benefit payment",
+      "A tax penalty",
+      "A commission"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums purchase the contract."
+  },
+  {
+    "id": 74,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "The owner should review:",
+    "options": [
+      "Benefits, costs, and conditions",
+      "Only returns",
+      "Only advertisements",
+      "Only fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Complete review helps understanding."
+  },
+  {
+    "id": 75,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Medium",
+    "question": "Annuities are suitable when a client wants:",
+    "options": [
+      "Reliable income payments",
+      "Guaranteed market performance",
+      "No contract",
+      "Only short-term gains"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities are designed for income needs."
+  },
+  {
+    "id": 76,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Easy",
+    "question": "Annuity income payments are:",
+    "options": [
+      "Specified by the contract",
+      "Always identical for every person",
+      "Based only on advertising",
+      "Controlled by markets only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Payments depend on contract terms."
+  },
+  {
+    "id": 77,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Medium",
+    "question": "The income amount may be affected by:",
+    "options": [
+      "Age and amount invested",
+      "Advisor preference",
+      "Office location",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Several factors determine income."
+  },
+  {
+    "id": 78,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Easy",
+    "question": "A deferred annuity allows:",
+    "options": [
+      "Income to begin later",
+      "Only immediate payments",
+      "No accumulation",
+      "No contract"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Deferred annuities postpone income."
+  },
+  {
+    "id": 79,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Medium",
+    "question": "The accumulation phase is when:",
+    "options": [
+      "Money grows before income starts",
+      "Income payments are made",
+      "Claims are processed",
+      "Benefits end"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accumulation occurs before payout."
+  },
+  {
+    "id": 80,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Easy",
+    "question": "The payout phase is when:",
+    "options": [
+      "Income payments begin",
+      "Premiums are first paid",
+      "Investments are selected",
+      "Taxes are calculated"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Payout is the income stage."
+  },
+  {
+    "id": 81,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "A contract owner may:",
+    "options": [
+      "Name beneficiaries",
+      "Control government rules",
+      "Guarantee markets",
+      "Remove legislation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Owners may have contract rights such as naming beneficiaries."
+  },
+  {
+    "id": 82,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Changing contract details may require:",
+    "options": [
+      "Following contract procedures",
+      "Only verbal approval",
+      "Market approval",
+      "No documentation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Changes must follow contract rules."
+  },
+  {
+    "id": 83,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "A beneficiary designation identifies:",
+    "options": [
+      "Who receives benefits",
+      "Who sells the product",
+      "Who manages investments",
+      "Who sets taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiaries receive contract benefits."
+  },
+  {
+    "id": 84,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Beneficiary choices should consider:",
+    "options": [
+      "Personal circumstances and goals",
+      "Market predictions",
+      "Advisor income",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Choices should reflect client intentions."
+  },
+  {
+    "id": 85,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Easy",
+    "question": "Annuities can provide:",
+    "options": [
+      "Income security in retirement",
+      "Guaranteed stock returns",
+      "Tax elimination",
+      "Debt repayment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Income security is a common purpose."
+  },
+  {
+    "id": 86,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Medium",
+    "question": "Retirement planning should consider:",
+    "options": [
+      "Income needs and expenses",
+      "Only age",
+      "Only investments",
+      "Only fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Complete planning considers financial needs."
+  },
+  {
+    "id": 87,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Annuities may help manage:",
+    "options": [
+      "Income uncertainty",
+      "All financial risks",
+      "All taxes",
+      "All market changes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "They can reduce uncertainty about income."
+  },
+  {
+    "id": 88,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "A client should understand:",
+    "options": [
+      "Risks before purchasing",
+      "Only benefits",
+      "Only returns",
+      "Only guarantees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding risks supports informed decisions."
+  },
+  {
+    "id": 89,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Fees",
+    "difficulty": "Easy",
+    "question": "Charges in an annuity should be:",
+    "options": [
+      "Explained clearly",
+      "Hidden",
+      "Ignored",
+      "Removed automatically"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clear explanation of charges is important."
+  },
+  {
+    "id": 90,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Clients compare annuities by considering:",
+    "options": [
+      "Benefits, features, and costs",
+      "Only commissions",
+      "Only advertisements",
+      "Only payment dates"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Comparison requires complete information."
+  },
+  {
+    "id": 91,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should recommend products based on:",
+    "options": [
+      "Client suitability",
+      "Highest commission",
+      "Personal preference",
+      "Sales targets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations must suit the client."
+  },
+  {
+    "id": 92,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Good advice requires:",
+    "options": [
+      "Understanding client circumstances",
+      "Guaranteeing results",
+      "Ignoring risks",
+      "Hiding costs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Advice should be based on client needs."
+  },
+  {
+    "id": 93,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax Features",
+    "difficulty": "Easy",
+    "question": "Tax treatment of annuities depends on:",
+    "options": [
+      "Applicable tax rules",
+      "Market colour",
+      "Advisor choice",
+      "Beneficiary choice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax rules determine treatment."
+  },
+  {
+    "id": 94,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax Features",
+    "difficulty": "Medium",
+    "question": "Clients should seek tax advice when:",
+    "options": [
+      "Tax issues are complex",
+      "They want predictions",
+      "They want guarantees",
+      "They avoid contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Complex tax matters may require professionals."
+  },
+  {
+    "id": 95,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "An annuity is primarily designed for:",
+    "options": [
+      "Income generation",
+      "Home ownership",
+      "Business loans",
+      "Stock trading"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities provide income."
+  },
+  {
+    "id": 96,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The insurer promises benefits according to:",
+    "options": [
+      "The annuity contract",
+      "Market rumours",
+      "Advisor opinion",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contract terms define benefits."
+  },
+  {
+    "id": 97,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "An annuity premium represents:",
+    "options": [
+      "The amount used to buy the contract",
+      "A tax payment",
+      "A claim",
+      "A refund"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums purchase the annuity."
+  },
+  {
+    "id": 98,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Investment-linked annuities may have:",
+    "options": [
+      "Payments affected by investment performance",
+      "Fixed government returns",
+      "No risks",
+      "No contract"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some annuities are linked to investments."
+  },
+  {
+    "id": 99,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "Before buying an annuity, a client should:",
+    "options": [
+      "Review contract details",
+      "Ignore conditions",
+      "Assume guarantees",
+      "Avoid questions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviewing details helps informed decisions."
+  },
+  {
+    "id": 100,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The main benefit of an annuity is:",
+    "options": [
+      "Providing scheduled income payments",
+      "Removing every financial risk",
+      "Guaranteeing market gains",
+      "Eliminating taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities provide structured income."
+  },
+  {
+    "id": 101,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "An annuity is a type of:",
+    "options": [
+      "Insurance contract",
+      "Credit card",
+      "Mortgage",
+      "Government program"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities are insurance contracts."
+  },
+  {
+    "id": 102,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The purpose of an annuity contract is to:",
+    "options": [
+      "Provide income according to terms",
+      "Guarantee all investments",
+      "Remove all expenses",
+      "Replace every financial product"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities provide contractual income."
+  },
+  {
+    "id": 103,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "The annuity contract describes:",
+    "options": [
+      "Rights and obligations",
+      "Market predictions",
+      "Government policy",
+      "Advisor goals"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contracts define responsibilities and benefits."
+  },
+  {
+    "id": 104,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Contract terms should be explained:",
+    "options": [
+      "Before purchase",
+      "Only after claims",
+      "Never",
+      "Only during retirement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need understanding before purchasing."
+  },
+  {
+    "id": 105,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Easy",
+    "question": "Income payments may continue:",
+    "options": [
+      "According to selected option",
+      "Only one month",
+      "Only during work",
+      "Only before purchase"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Payment duration depends on contract choice."
+  },
+  {
+    "id": 106,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Medium",
+    "question": "A life annuity generally provides:",
+    "options": [
+      "Income for life",
+      "Income for one year",
+      "No income",
+      "Only refunds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life annuities provide lifetime income."
+  },
+  {
+    "id": 107,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Easy",
+    "question": "A fixed annuity generally provides:",
+    "options": [
+      "Known payment features",
+      "Unlimited returns",
+      "No contract",
+      "Only market losses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fixed annuities have defined payment features."
+  },
+  {
+    "id": 108,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Medium",
+    "question": "A variable annuity may have payments based on:",
+    "options": [
+      "Investment performance",
+      "Government decisions",
+      "Advisor income",
+      "Contract colour"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Variable payments can depend on investments."
+  },
+  {
+    "id": 109,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Easy",
+    "question": "Annuities can help provide:",
+    "options": [
+      "Retirement income",
+      "Employment income",
+      "Business ownership",
+      "Tax refunds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities are commonly used for retirement income."
+  },
+  {
+    "id": 110,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Medium",
+    "question": "A retirement income strategy should consider:",
+    "options": [
+      "Client goals and resources",
+      "Only product sales",
+      "Only fees",
+      "Only markets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Planning requires understanding the client."
+  },
+  {
+    "id": 111,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Longevity risk refers to:",
+    "options": [
+      "Living longer than expected savings",
+      "Investment growth",
+      "Changing jobs",
+      "Paying premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Longevity risk involves outliving savings."
+  },
+  {
+    "id": 112,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Annuities can reduce longevity risk by:",
+    "options": [
+      "Providing income payments",
+      "Removing all taxes",
+      "Guaranteeing markets",
+      "Removing contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Income payments may continue for life."
+  },
+  {
+    "id": 113,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Fees",
+    "difficulty": "Easy",
+    "question": "Clients should receive information about:",
+    "options": [
+      "Fees and charges",
+      "Only profits",
+      "Only guarantees",
+      "Only investments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fee disclosure supports transparency."
+  },
+  {
+    "id": 114,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Understanding fees helps clients:",
+    "options": [
+      "Make informed decisions",
+      "Guarantee returns",
+      "Remove risk",
+      "Avoid contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Costs are part of product evaluation."
+  },
+  {
+    "id": 115,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax Features",
+    "difficulty": "Easy",
+    "question": "Tax rules are determined by:",
+    "options": [
+      "Legislation",
+      "Advisor preference",
+      "Market movement",
+      "Beneficiary choice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax treatment follows laws."
+  },
+  {
+    "id": 116,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax Features",
+    "difficulty": "Medium",
+    "question": "Tax treatment should be:",
+    "options": [
+      "Explained accurately",
+      "Guaranteed",
+      "Ignored",
+      "Estimated randomly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate explanations are required."
+  },
+  {
+    "id": 117,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should:",
+    "options": [
+      "Act honestly",
+      "Hide information",
+      "Promise returns",
+      "Ignore risks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Honesty is a professional responsibility."
+  },
+  {
+    "id": 118,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Suitable advice considers:",
+    "options": [
+      "Client circumstances",
+      "Advisor commission",
+      "Sales targets",
+      "Market rumours"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability depends on client needs."
+  },
+  {
+    "id": 119,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "Beneficiaries receive:",
+    "options": [
+      "Benefits according to contract",
+      "Advisor payments",
+      "Market gains",
+      "Tax refunds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiary benefits follow contract terms."
+  },
+  {
+    "id": 120,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Beneficiary designations should be:",
+    "options": [
+      "Reviewed regularly",
+      "Ignored",
+      "Changed randomly",
+      "Hidden"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Regular reviews help keep information current."
+  },
+  {
+    "id": 121,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "The owner of an annuity has:",
+    "options": [
+      "Contract rights",
+      "Control of markets",
+      "Control of laws",
+      "Guaranteed profits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The owner has rights under the contract."
+  },
+  {
+    "id": 122,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Ending an annuity early may:",
+    "options": [
+      "Have financial consequences",
+      "Increase income automatically",
+      "Remove all fees",
+      "Guarantee returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Early termination may affect values."
+  },
+  {
+    "id": 123,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Investment choices should match:",
+    "options": [
+      "Client objectives",
+      "Advisor preference",
+      "Market rumours",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability is important."
+  },
+  {
+    "id": 124,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Investment performance does not:",
+    "options": [
+      "Guarantee future results",
+      "Change values",
+      "Affect some products",
+      "Need review"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Past performance is not guaranteed."
+  },
+  {
+    "id": 125,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "Annuities should be selected based on:",
+    "options": [
+      "Client needs and goals",
+      "Highest commission",
+      "Random choice",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Product selection should be suitable."
+  },
+  {
+    "id": 126,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Easy",
+    "question": "An annuity payment schedule is:",
+    "options": [
+      "Defined by the contract",
+      "Chosen by the market",
+      "Set by advertising",
+      "Changed daily"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Payment schedules are stated in the contract."
+  },
+  {
+    "id": 127,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Medium",
+    "question": "Payment options should be selected based on:",
+    "options": [
+      "Client income needs",
+      "Advisor preference",
+      "Market rumours",
+      "Commission amount"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Options should match client needs."
+  },
+  {
+    "id": 128,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Easy",
+    "question": "A single life annuity covers:",
+    "options": [
+      "One person's lifetime",
+      "Multiple companies",
+      "Only beneficiaries",
+      "Only investments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A single life annuity is based on one life."
+  },
+  {
+    "id": 129,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Medium",
+    "question": "A joint life annuity provides income based on:",
+    "options": [
+      "Two or more lives",
+      "Only market value",
+      "Only fees",
+      "Only taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Joint life annuities involve multiple people."
+  },
+  {
+    "id": 130,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "A contract value represents:",
+    "options": [
+      "Value within the annuity contract",
+      "Advisor income",
+      "Government funding",
+      "Tax payment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contract value relates to the annuity."
+  },
+  {
+    "id": 131,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Contract changes should be:",
+    "options": [
+      "Documented properly",
+      "Made secretly",
+      "Ignored",
+      "Based on rumours"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Proper procedures are required."
+  },
+  {
+    "id": 132,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Easy",
+    "question": "Annuities can provide:",
+    "options": [
+      "Predictable retirement income",
+      "Guaranteed stock prices",
+      "No expenses",
+      "Employment benefits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Income predictability is a key feature."
+  },
+  {
+    "id": 133,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Medium",
+    "question": "A retirement plan should include:",
+    "options": [
+      "Income needs and objectives",
+      "Only investments",
+      "Only age",
+      "Only taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Planning considers many factors."
+  },
+  {
+    "id": 134,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Investment risk means:",
+    "options": [
+      "Possibility of losing value",
+      "Guaranteed loss",
+      "Guaranteed growth",
+      "No changes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk involves possible value changes."
+  },
+  {
+    "id": 135,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Clients should understand:",
+    "options": [
+      "Possible risks before purchase",
+      "Only benefits",
+      "Only payments",
+      "Only fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk awareness supports decisions."
+  },
+  {
+    "id": 136,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Fees",
+    "difficulty": "Easy",
+    "question": "Fees reduce:",
+    "options": [
+      "Net investment value",
+      "Contract ownership",
+      "Beneficiary rights",
+      "Tax laws"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fees can affect net results."
+  },
+  {
+    "id": 137,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Comparing annuities requires reviewing:",
+    "options": [
+      "Costs and benefits",
+      "Only fees",
+      "Only returns",
+      "Only advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Both costs and benefits matter."
+  },
+  {
+    "id": 138,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax Features",
+    "difficulty": "Easy",
+    "question": "Tax rules may:",
+    "options": [
+      "Change over time",
+      "Never change",
+      "Depend on advisors",
+      "Depend on markets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax laws can change."
+  },
+  {
+    "id": 139,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax Features",
+    "difficulty": "Medium",
+    "question": "Tax planning should consider:",
+    "options": [
+      "Current legislation",
+      "Market rumours",
+      "Sales goals",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax planning uses current rules."
+  },
+  {
+    "id": 140,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Advisors should avoid:",
+    "options": [
+      "Misleading statements",
+      "Clear explanations",
+      "Documentation",
+      "Client reviews"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Misleading information is prohibited."
+  },
+  {
+    "id": 141,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Professional advice requires:",
+    "options": [
+      "Knowledge and honesty",
+      "Guaranteed results",
+      "Hidden costs",
+      "Random choices"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional standards require honesty."
+  },
+  {
+    "id": 142,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "A beneficiary may receive:",
+    "options": [
+      "Contract benefits",
+      "Advisor fees",
+      "Market control",
+      "Tax authority"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiaries receive benefits according to terms."
+  },
+  {
+    "id": 143,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Beneficiary information should be:",
+    "options": [
+      "Kept current",
+      "Ignored",
+      "Hidden",
+      "Changed randomly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Updates may be needed after life events."
+  },
+  {
+    "id": 144,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Annuities are designed mainly for:",
+    "options": [
+      "Income generation",
+      "Property purchase",
+      "Business loans",
+      "Tax avoidance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Income generation is the main purpose."
+  },
+  {
+    "id": 145,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The insurer's promise is based on:",
+    "options": [
+      "Contract obligations",
+      "Market predictions",
+      "Advertising",
+      "Advisor opinion"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contracts define insurer obligations."
+  },
+  {
+    "id": 146,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Investment performance can affect:",
+    "options": [
+      "Some annuity values",
+      "Tax laws",
+      "Beneficiary names",
+      "Advisor license"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some products are investment-linked."
+  },
+  {
+    "id": 147,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Clients should review investments:",
+    "options": [
+      "Regularly",
+      "Never",
+      "Only after losses",
+      "Only before purchase"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Regular reviews support planning."
+  },
+  {
+    "id": 148,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "Reading the contract helps clients understand:",
+    "options": [
+      "Features and limitations",
+      "Market predictions",
+      "Government rules",
+      "Advisor income"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contracts explain features and limitations."
+  },
+  {
+    "id": 149,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Important contract information includes:",
+    "options": [
+      "Benefits, costs, and conditions",
+      "Only returns",
+      "Only fees",
+      "Only names"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Complete information supports understanding."
+  },
+  {
+    "id": 150,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Medium",
+    "question": "Annuities may be appropriate for clients seeking:",
+    "options": [
+      "Reliable income",
+      "Guaranteed stock gains",
+      "No contracts",
+      "Unlimited returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities provide structured income."
+  },
+  {
+    "id": 151,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Easy",
+    "question": "Annuity income is generally paid:",
+    "options": [
+      "According to contract terms",
+      "According to stock prices",
+      "Only by advisors",
+      "Only by government"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Payments follow the annuity contract."
+  },
+  {
+    "id": 152,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Medium",
+    "question": "Income payment options may affect:",
+    "options": [
+      "Amount and duration of payments",
+      "Only fees",
+      "Only taxes",
+      "Only ownership"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Options influence income features."
+  },
+  {
+    "id": 153,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Easy",
+    "question": "An immediate annuity is designed for:",
+    "options": [
+      "Income beginning soon",
+      "Only long-term growth",
+      "No payments",
+      "Only investments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Immediate annuities begin income shortly after purchase."
+  },
+  {
+    "id": 154,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Medium",
+    "question": "A deferred annuity may be suitable when:",
+    "options": [
+      "Income is needed in the future",
+      "Income is needed immediately only",
+      "No contract is wanted",
+      "Markets are guaranteed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Deferred annuities delay income."
+  },
+  {
+    "id": 155,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "The contract holder should know:",
+    "options": [
+      "Contract features and obligations",
+      "Only investment returns",
+      "Only advertising",
+      "Only fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding the contract is important."
+  },
+  {
+    "id": 156,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Contract limitations are:",
+    "options": [
+      "Important information",
+      "Unnecessary details",
+      "Always removed",
+      "Market predictions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Limitations affect contract benefits."
+  },
+  {
+    "id": 157,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Easy",
+    "question": "Annuities can create:",
+    "options": [
+      "A stream of income",
+      "A stock portfolio",
+      "A loan",
+      "A tax account"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Income streams are a common purpose."
+  },
+  {
+    "id": 158,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Medium",
+    "question": "A retirement income decision should consider:",
+    "options": [
+      "Financial goals and circumstances",
+      "Only commissions",
+      "Only age",
+      "Only advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Personal circumstances matter."
+  },
+  {
+    "id": 159,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Guaranteed income may help manage:",
+    "options": [
+      "Income uncertainty",
+      "All financial problems",
+      "All taxes",
+      "All investments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Income guarantees may reduce uncertainty."
+  },
+  {
+    "id": 160,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Clients should balance:",
+    "options": [
+      "Risk and desired income",
+      "Only returns",
+      "Only fees",
+      "Only guarantees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Planning requires balancing objectives."
+  },
+  {
+    "id": 161,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Fees",
+    "difficulty": "Easy",
+    "question": "Fee information should be:",
+    "options": [
+      "Provided clearly",
+      "Hidden",
+      "Ignored",
+      "Estimated"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Transparency is important."
+  },
+  {
+    "id": 162,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "High fees may:",
+    "options": [
+      "Reduce net returns",
+      "Guarantee income",
+      "Remove risk",
+      "Increase ownership"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fees can affect results."
+  },
+  {
+    "id": 163,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax Features",
+    "difficulty": "Easy",
+    "question": "Tax treatment depends on:",
+    "options": [
+      "Applicable rules",
+      "Advisor preference",
+      "Market changes",
+      "Beneficiary choice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax rules determine treatment."
+  },
+  {
+    "id": 164,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax Features",
+    "difficulty": "Medium",
+    "question": "Tax advice should be:",
+    "options": [
+      "Accurate and appropriate",
+      "Guaranteed",
+      "Based on rumours",
+      "Ignored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Proper advice should be accurate."
+  },
+  {
+    "id": 165,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Advisors should:",
+    "options": [
+      "Explain products honestly",
+      "Promise profits",
+      "Hide risks",
+      "Ignore needs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Honest explanations are required."
+  },
+  {
+    "id": 166,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Client suitability requires:",
+    "options": [
+      "Matching products to needs",
+      "Choosing highest commission",
+      "Ignoring objectives",
+      "Following rumours"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability is client-focused."
+  },
+  {
+    "id": 167,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "Beneficiary choices should reflect:",
+    "options": [
+      "Client wishes",
+      "Market conditions",
+      "Advisor income",
+      "Sales targets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients choose based on intentions."
+  },
+  {
+    "id": 168,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Beneficiaries may need updating after:",
+    "options": [
+      "Major life changes",
+      "Market changes only",
+      "Every payment",
+      "Every fee"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life events may require updates."
+  },
+  {
+    "id": 169,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Annuities are:",
+    "options": [
+      "Insurance products",
+      "Bank loans",
+      "Stocks only",
+      "Government plans"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities are insurance contracts."
+  },
+  {
+    "id": 170,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The value of an annuity depends on:",
+    "options": [
+      "Contract terms and selected options",
+      "Advertising",
+      "Advisor preference",
+      "Random changes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contract features determine value."
+  },
+  {
+    "id": 171,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Some annuities include:",
+    "options": [
+      "Investment components",
+      "No investments",
+      "Only taxes",
+      "Only loans"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some annuities include investment options."
+  },
+  {
+    "id": 172,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Investment choices should be reviewed because:",
+    "options": [
+      "Client needs may change",
+      "Markets never change",
+      "Contracts disappear",
+      "Fees stop"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Regular reviews help maintain suitability."
+  },
+  {
+    "id": 173,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "Annuity guarantees are:",
+    "options": [
+      "Defined in the contract",
+      "Always unlimited",
+      "Market promises",
+      "Advisor promises"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees are contractual."
+  },
+  {
+    "id": 174,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Before purchasing, clients should:",
+    "options": [
+      "Understand terms and conditions",
+      "Ignore details",
+      "Assume guarantees",
+      "Avoid questions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding the contract is essential."
+  },
+  {
+    "id": 175,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Medium",
+    "question": "The main retirement benefit of an annuity is:",
+    "options": [
+      "Regular income payments",
+      "Guaranteed market returns",
+      "No contract requirements",
+      "Tax elimination"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities provide structured retirement income."
+  },
+  {
+    "id": 176,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "An annuity provides:",
+    "options": [
+      "Income payments",
+      "Stock ownership",
+      "Mortgage protection",
+      "Tax refunds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities provide income."
+  },
+  {
+    "id": 177,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The primary purpose of an annuity is:",
+    "options": [
+      "Create income from a contract",
+      "Guarantee all investments",
+      "Remove all expenses",
+      "Replace all insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Income creation is the main purpose."
+  },
+  {
+    "id": 178,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Easy",
+    "question": "An annuity payment is:",
+    "options": [
+      "A scheduled income amount",
+      "A stock dividend",
+      "A tax payment",
+      "A loan repayment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Payments are made according to contract terms."
+  },
+  {
+    "id": 179,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Income Payments",
+    "difficulty": "Medium",
+    "question": "Income payments can vary depending on:",
+    "options": [
+      "Contract type and options",
+      "Advisor choice",
+      "Advertising",
+      "Government elections"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contract features determine payments."
+  },
+  {
+    "id": 180,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Easy",
+    "question": "A deferred annuity delays:",
+    "options": [
+      "Income payments",
+      "Contract ownership",
+      "Premium payment",
+      "Insurance coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Deferred annuities postpone income."
+  },
+  {
+    "id": 181,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Types of Annuities",
+    "difficulty": "Medium",
+    "question": "An immediate annuity is useful for:",
+    "options": [
+      "Immediate income needs",
+      "Only growth",
+      "No income",
+      "Only savings"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Immediate annuities provide income quickly."
+  },
+  {
+    "id": 182,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "The owner should understand:",
+    "options": [
+      "Contract rights and responsibilities",
+      "Market predictions",
+      "Advisor goals",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Owners need contract knowledge."
+  },
+  {
+    "id": 183,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Contract review should include:",
+    "options": [
+      "Benefits, costs, and conditions",
+      "Only payments",
+      "Only fees",
+      "Only returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Complete review is important."
+  },
+  {
+    "id": 184,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Annuities may reduce:",
+    "options": [
+      "Longevity risk",
+      "All risks",
+      "All taxes",
+      "All expenses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "They help manage longevity risk."
+  },
+  {
+    "id": 185,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Risk tolerance helps determine:",
+    "options": [
+      "Suitable product choices",
+      "Tax rates",
+      "Government policy",
+      "Contract wording"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk tolerance affects suitability."
+  },
+  {
+    "id": 186,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Fees",
+    "difficulty": "Easy",
+    "question": "Clients should know:",
+    "options": [
+      "Fees charged",
+      "Only profits",
+      "Only benefits",
+      "Only guarantees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fee transparency is required."
+  },
+  {
+    "id": 187,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Product comparisons should include:",
+    "options": [
+      "Costs and features",
+      "Only commissions",
+      "Only returns",
+      "Only advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Comparisons require complete information."
+  },
+  {
+    "id": 188,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax Features",
+    "difficulty": "Easy",
+    "question": "Tax rules may affect:",
+    "options": [
+      "Annuity income",
+      "Market prices",
+      "Advisor licensing",
+      "Contract ownership"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax treatment can affect income."
+  },
+  {
+    "id": 189,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax Features",
+    "difficulty": "Medium",
+    "question": "Tax advice should be obtained from:",
+    "options": [
+      "Qualified professionals when needed",
+      "Friends",
+      "Advertisements",
+      "Market reports"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Complex tax issues require expertise."
+  },
+  {
+    "id": 190,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor must:",
+    "options": [
+      "Act professionally",
+      "Hide information",
+      "Promise returns",
+      "Ignore clients"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional conduct is required."
+  },
+  {
+    "id": 191,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Good documentation records:",
+    "options": [
+      "Advice and recommendations",
+      "Only commissions",
+      "Only fees",
+      "Only sales"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Documentation supports compliance."
+  },
+  {
+    "id": 192,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "Beneficiary information should be:",
+    "options": [
+      "Accurate and current",
+      "Hidden",
+      "Ignored",
+      "Random"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Current information is important."
+  },
+  {
+    "id": 193,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Beneficiary planning supports:",
+    "options": [
+      "Transfer of benefits",
+      "Market growth",
+      "Tax avoidance",
+      "Fee removal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiary planning supports transfer."
+  },
+  {
+    "id": 194,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Easy",
+    "question": "Annuities can support:",
+    "options": [
+      "Retirement income needs",
+      "Home purchases",
+      "Business loans",
+      "Stock trading"
+    ],
+    "correctAnswer": 0,
+    "explanation": "They are commonly used for retirement income."
+  },
+  {
+    "id": 195,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Retirement Planning",
+    "difficulty": "Medium",
+    "question": "A retirement plan should be:",
+    "options": [
+      "Reviewed periodically",
+      "Ignored",
+      "Based only on age",
+      "Based only on markets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Plans should be reviewed as circumstances change."
+  },
+  {
+    "id": 196,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Investment performance may affect:",
+    "options": [
+      "Some annuity values",
+      "Tax laws",
+      "Contract ownership",
+      "Beneficiary rights"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some products are investment-linked."
+  },
+  {
+    "id": 197,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Past investment performance:",
+    "options": [
+      "Does not guarantee future results",
+      "Guarantees profits",
+      "Removes risk",
+      "Sets contract rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Past results do not guarantee future outcomes."
+  },
+  {
+    "id": 198,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "Guarantees are based on:",
+    "options": [
+      "Contract terms",
+      "Market rumours",
+      "Advisor promises",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees are contractual."
+  },
+  {
+    "id": 199,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Suitable advice considers:",
+    "options": [
+      "Client objectives and situation",
+      "Highest commission",
+      "Advisor preference",
+      "Market rumours"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Advice must suit the client."
+  },
+  {
+    "id": 200,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The main purpose of annuities is:",
+    "options": [
+      "Provide income security",
+      "Guarantee every investment",
+      "Remove all taxes",
+      "Replace all products"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuities provide income security."
+  }
+]

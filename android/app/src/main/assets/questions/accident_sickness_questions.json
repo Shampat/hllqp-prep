@@ -1,0 +1,3202 @@
+[
+  {
+    "id": 1,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "What is the main purpose of accident and sickness insurance?",
+    "options": [
+      "Provide financial protection against illness or injury",
+      "Guarantee investment returns",
+      "Replace all government benefits",
+      "Eliminate all medical costs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accident and sickness insurance helps protect against financial loss caused by illness or injury."
+  },
+  {
+    "id": 2,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Easy",
+    "question": "Disability insurance is designed primarily to:",
+    "options": [
+      "Replace lost income during disability",
+      "Provide retirement savings",
+      "Increase investment returns",
+      "Pay life insurance premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disability insurance provides income protection when a person cannot work due to disability."
+  },
+  {
+    "id": 3,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Easy",
+    "question": "A disability benefit is paid when:",
+    "options": [
+      "The insured meets the policy definition of disability",
+      "The insured changes jobs",
+      "The insured buys a home",
+      "The insured retires"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benefits are payable when the insured satisfies the disability requirements in the contract."
+  },
+  {
+    "id": 4,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "The elimination period is:",
+    "options": [
+      "The waiting period before benefits begin",
+      "The policy renewal date",
+      "The claim investigation period",
+      "The premium payment date"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The elimination period is the waiting time before benefits start."
+  },
+  {
+    "id": 5,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "A longer elimination period usually results in:",
+    "options": [
+      "Lower premiums",
+      "Higher guaranteed returns",
+      "No coverage",
+      "Automatic claim approval"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A longer waiting period generally lowers the cost of disability coverage."
+  },
+  {
+    "id": 6,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "Own occupation disability coverage focuses on whether the insured can:",
+    "options": [
+      "Perform their regular occupation",
+      "Work any available job",
+      "Retire early",
+      "Change insurers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Own occupation coverage considers the insured person's ability to perform their own occupation."
+  },
+  {
+    "id": 7,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "Any occupation disability coverage considers whether the insured can:",
+    "options": [
+      "Perform another suitable occupation",
+      "Only perform their original job",
+      "Avoid medical assessments",
+      "Receive retirement benefits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Any occupation coverage considers whether the insured can work in suitable employment."
+  },
+  {
+    "id": 8,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "Which factor may affect disability insurance premiums?",
+    "options": [
+      "Age, health, and occupation",
+      "Favourite colour",
+      "Vehicle model only",
+      "Home decoration"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums are based on risk factors such as age, health, and occupation."
+  },
+  {
+    "id": 9,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Benefits",
+    "difficulty": "Easy",
+    "question": "A monthly disability benefit is intended to:",
+    "options": [
+      "Replace part of lost income",
+      "Create investment gains",
+      "Pay only taxes",
+      "Replace retirement savings"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disability benefits help replace income when the insured cannot work."
+  },
+  {
+    "id": 10,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "The purpose of underwriting is to:",
+    "options": [
+      "Evaluate insurance risk",
+      "Pay claims immediately",
+      "Guarantee employment",
+      "Remove policy conditions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Underwriting evaluates risk before coverage is issued."
+  },
+  {
+    "id": 11,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Benefits",
+    "difficulty": "Easy",
+    "question": "Short-term disability insurance generally provides:",
+    "options": [
+      "Income protection for a limited period",
+      "Lifetime investment growth",
+      "Death benefits only",
+      "Property coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Short-term disability coverage provides benefits for shorter disability periods."
+  },
+  {
+    "id": 12,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Benefits",
+    "difficulty": "Medium",
+    "question": "Long-term disability insurance is designed for:",
+    "options": [
+      "Extended periods of disability",
+      "Car repairs",
+      "Home purchases",
+      "Investment planning"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Long-term disability insurance protects income during extended disabilities."
+  },
+  {
+    "id": 13,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "A benefit period refers to:",
+    "options": [
+      "How long benefits may be paid",
+      "The application date",
+      "The premium amount",
+      "The underwriting decision"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The benefit period determines how long payments can continue."
+  },
+  {
+    "id": 14,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Easy",
+    "question": "A policy exclusion is:",
+    "options": [
+      "A condition not covered by the policy",
+      "A guaranteed benefit",
+      "A premium discount",
+      "A claim payment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Exclusions identify situations where coverage does not apply."
+  },
+  {
+    "id": 15,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "When making a disability claim, the insured usually must provide:",
+    "options": [
+      "Proof of disability",
+      "Investment statements only",
+      "Tax returns only",
+      "Vehicle records"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims require evidence supporting the disability."
+  },
+  {
+    "id": 16,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Medical Coverage",
+    "difficulty": "Easy",
+    "question": "Health insurance commonly helps cover:",
+    "options": [
+      "Medical expenses",
+      "Investment losses",
+      "Mortgage payments",
+      "Business profits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Health insurance helps pay eligible medical costs."
+  },
+  {
+    "id": 17,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Medical Coverage",
+    "difficulty": "Medium",
+    "question": "A deductible is:",
+    "options": [
+      "An amount paid before insurance pays benefits",
+      "A guaranteed refund",
+      "A policy cancellation fee",
+      "A commission"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A deductible is the amount the insured pays before coverage begins."
+  },
+  {
+    "id": 18,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Medical Coverage",
+    "difficulty": "Easy",
+    "question": "Prescription drug coverage helps pay for:",
+    "options": [
+      "Eligible medication costs",
+      "Investment products",
+      "Life insurance premiums",
+      "Real estate costs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Prescription coverage helps reduce medication expenses."
+  },
+  {
+    "id": 19,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Easy",
+    "question": "Travel insurance may provide protection for:",
+    "options": [
+      "Emergency medical expenses while travelling",
+      "Stock market losses",
+      "Home renovations",
+      "Vehicle financing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Travel insurance can cover unexpected medical emergencies during travel."
+  },
+  {
+    "id": 20,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Medium",
+    "question": "A travel insurance claim normally requires:",
+    "options": [
+      "Supporting documentation",
+      "A new insurance policy",
+      "Investment approval",
+      "Employment records"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims require documents supporting the loss or expense."
+  },
+  {
+    "id": 21,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "A renewable policy allows:",
+    "options": [
+      "Continuation of coverage under stated conditions",
+      "Automatic investment gains",
+      "No premiums forever",
+      "Removal of all exclusions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Renewable policies allow continuation according to contract terms."
+  },
+  {
+    "id": 22,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "A guaranteed renewable policy means:",
+    "options": [
+      "The insurer cannot cancel coverage if premiums are paid",
+      "Benefits double every year",
+      "Claims are automatic",
+      "No underwriting exists"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guaranteed renewable policies protect the insured's right to continue coverage."
+  },
+  {
+    "id": 23,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Medical information is collected during underwriting to:",
+    "options": [
+      "Assess risk",
+      "Increase investments",
+      "Avoid contracts",
+      "Reduce benefits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Medical information helps determine eligibility and pricing."
+  },
+  {
+    "id": 24,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Ethics",
+    "difficulty": "Medium",
+    "question": "An advisor should recommend coverage based on:",
+    "options": [
+      "Client needs and circumstances",
+      "Highest commission",
+      "Personal preference",
+      "Fastest sale"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations should be suitable for the client."
+  },
+  {
+    "id": 25,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Ethics",
+    "difficulty": "Medium",
+    "question": "Client information should be:",
+    "options": [
+      "Kept confidential",
+      "Shared publicly",
+      "Sold to others",
+      "Ignored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance professionals must protect client confidentiality."
+  },
+  {
+    "id": 26,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Ethics",
+    "difficulty": "Medium",
+    "question": "An advisor should explain policy limitations to:",
+    "options": [
+      "Help the client make an informed decision",
+      "Increase commissions",
+      "Avoid documentation",
+      "Speed up sales"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients should understand both benefits and limitations of coverage."
+  },
+  {
+    "id": 27,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "A valid insurance claim should be:",
+    "options": [
+      "Supported by accurate information",
+      "Based on guesses",
+      "Submitted without details",
+      "Changed after approval"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims must contain truthful and complete information."
+  },
+  {
+    "id": 28,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "The definition of disability is important because it determines:",
+    "options": [
+      "When benefits are payable",
+      "The agent commission",
+      "The policy colour",
+      "The investment return"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The contract definition determines eligibility for benefits."
+  },
+  {
+    "id": 29,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Easy",
+    "question": "Residual disability benefits are designed for someone who:",
+    "options": [
+      "Can work but has reduced income due to disability",
+      "Has no insurance",
+      "Changes careers voluntarily",
+      "Retires"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Residual benefits may cover partial income loss."
+  },
+  {
+    "id": 30,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "Partial disability refers to:",
+    "options": [
+      "A disability that limits but does not completely prevent work",
+      "A cancelled policy",
+      "A premium refund",
+      "A policy transfer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Partial disability allows benefits when the insured can still work in a limited capacity."
+  },
+  {
+    "id": 31,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Easy",
+    "question": "The policyowner is responsible for:",
+    "options": [
+      "Paying premiums and maintaining the policy",
+      "Approving medical claims",
+      "Setting government rules",
+      "Managing hospitals"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The policyowner controls ownership responsibilities."
+  },
+  {
+    "id": 32,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "A rider is:",
+    "options": [
+      "An additional contract provision added to a policy",
+      "A claim payment",
+      "A premium tax",
+      "A medical exam"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Riders modify or add benefits to an insurance policy."
+  },
+  {
+    "id": 33,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Easy",
+    "question": "A waiver of premium benefit may:",
+    "options": [
+      "Waive premiums during qualifying disability",
+      "Increase investment returns",
+      "Cancel coverage",
+      "Remove beneficiaries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some policies waive premiums when the insured becomes disabled."
+  },
+  {
+    "id": 34,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "Health insurance primarily protects against:",
+    "options": [
+      "Healthcare expenses",
+      "Investment losses",
+      "Property damage",
+      "Business debts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Health insurance helps cover eligible healthcare costs."
+  },
+  {
+    "id": 35,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Medium",
+    "question": "A coordination of benefits provision helps:",
+    "options": [
+      "Determine payment when multiple plans exist",
+      "Increase premiums",
+      "Cancel policies",
+      "Avoid claims"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Coordination prevents duplicate payment between plans."
+  },
+  {
+    "id": 36,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "An insured person should review coverage because:",
+    "options": [
+      "Needs and circumstances may change",
+      "Policies never change",
+      "Claims are automatic",
+      "Premiums disappear"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Regular reviews help ensure suitable protection."
+  },
+  {
+    "id": 37,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Medium",
+    "question": "Travel medical insurance is important because:",
+    "options": [
+      "Government coverage may be limited outside the country",
+      "Travel is always free",
+      "Claims are guaranteed",
+      "It replaces life insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Travel medical insurance helps protect against foreign medical costs."
+  },
+  {
+    "id": 38,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Easy",
+    "question": "A travel insurance exclusion means:",
+    "options": [
+      "Certain situations are not covered",
+      "All claims are approved",
+      "Premiums are refunded",
+      "Coverage doubles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Exclusions identify situations where benefits are unavailable."
+  },
+  {
+    "id": 39,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Occupation affects disability insurance because:",
+    "options": [
+      "Some occupations have different levels of risk",
+      "All jobs have identical risks",
+      "Occupation is never considered",
+      "It affects only taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Occupation risk can affect eligibility and premiums."
+  },
+  {
+    "id": 40,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Hazardous activities may affect:",
+    "options": [
+      "Eligibility and premiums",
+      "The spelling of the policy",
+      "The agent's license",
+      "Government benefits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "High-risk activities can change insurance risk assessment."
+  },
+  {
+    "id": 41,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "A premium is:",
+    "options": [
+      "The amount paid for insurance coverage",
+      "The claim amount",
+      "The benefit period",
+      "The deductible"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums are payments required to maintain coverage."
+  },
+  {
+    "id": 42,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Premiums",
+    "difficulty": "Medium",
+    "question": "Premiums may increase because of:",
+    "options": [
+      "Higher risk factors",
+      "Lower claims history",
+      "Better health",
+      "Younger age"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Greater risk generally results in higher premiums."
+  },
+  {
+    "id": 43,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Fraudulent claims are:",
+    "options": [
+      "False claims made intentionally",
+      "Normal claims",
+      "Policy renewals",
+      "Premium payments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance fraud involves intentionally providing false information."
+  },
+  {
+    "id": 44,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "An insurer reviews claims to:",
+    "options": [
+      "Determine whether benefits are payable",
+      "Increase sales",
+      "Change occupations",
+      "Avoid contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims review confirms whether policy requirements are met."
+  },
+  {
+    "id": 45,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor must act in:",
+    "options": [
+      "The client's best interest",
+      "Only the insurer's interest",
+      "Personal financial interest",
+      "No one's interest"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional conduct requires acting ethically and fairly."
+  },
+  {
+    "id": 46,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Suitability means:",
+    "options": [
+      "Recommending appropriate coverage for the client",
+      "Selling the most expensive plan",
+      "Avoiding questions",
+      "Using the same plan for everyone"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations should match client needs."
+  },
+  {
+    "id": 47,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Client needs analysis helps determine:",
+    "options": [
+      "Appropriate insurance coverage",
+      "Commission amounts only",
+      "Tax rates",
+      "Stock prices"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Needs analysis supports suitable recommendations."
+  },
+  {
+    "id": 48,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "Policy wording should be:",
+    "options": [
+      "Reviewed carefully by the client",
+      "Ignored completely",
+      "Changed by the advisor",
+      "Removed after purchase"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding policy wording helps clients know their coverage."
+  },
+  {
+    "id": 49,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Easy",
+    "question": "A beneficiary designation is commonly associated with:",
+    "options": [
+      "Life insurance benefits",
+      "Disability income payments only",
+      "Travel expenses",
+      "Premium discounts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiaries are mainly associated with death benefits."
+  },
+  {
+    "id": 50,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Insurance transfers financial risk from:",
+    "options": [
+      "The insured to the insurer",
+      "The insurer to the client",
+      "The government to the advisor",
+      "The client to another client"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance transfers certain risks in exchange for premiums."
+  },
+  {
+    "id": 51,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "Disability insurance is designed to protect:",
+    "options": [
+      "Income earning ability",
+      "Investment portfolios",
+      "Vehicle value",
+      "Real estate prices"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disability insurance protects income when a person cannot work."
+  },
+  {
+    "id": 52,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Easy",
+    "question": "The insured under a disability policy is:",
+    "options": [
+      "The person covered by the policy",
+      "The insurance company",
+      "The advisor",
+      "The beneficiary only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The insured is the person whose disability triggers benefits."
+  },
+  {
+    "id": 53,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "A disability policy benefit amount is usually based on:",
+    "options": [
+      "A percentage of income",
+      "The agent's choice",
+      "The value of a vehicle",
+      "The client's investments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benefits are commonly designed to replace part of earned income."
+  },
+  {
+    "id": 54,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "Occupation class affects disability insurance because:",
+    "options": [
+      "Different jobs have different risks",
+      "All occupations have equal risk",
+      "It affects only taxes",
+      "It determines beneficiaries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk levels vary between occupations."
+  },
+  {
+    "id": 55,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Easy",
+    "question": "A waiting period before disability benefits begin is called:",
+    "options": [
+      "Elimination period",
+      "Benefit period",
+      "Renewal period",
+      "Grace period"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The elimination period is the waiting time before payments start."
+  },
+  {
+    "id": 56,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "The benefit period determines:",
+    "options": [
+      "How long benefits may continue",
+      "The premium due date",
+      "The medical exam date",
+      "The application method"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The benefit period specifies the duration of payable benefits."
+  },
+  {
+    "id": 57,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Easy",
+    "question": "A policy application should contain:",
+    "options": [
+      "Accurate information",
+      "False information",
+      "Incomplete details",
+      "Unknown facts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Applications must be complete and truthful."
+  },
+  {
+    "id": 58,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Underwriting helps insurers:",
+    "options": [
+      "Assess risk before issuing coverage",
+      "Avoid all claims",
+      "Increase taxes",
+      "Remove contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Underwriting determines acceptable risk."
+  },
+  {
+    "id": 59,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "A medical examination may be required to:",
+    "options": [
+      "Assess health risk",
+      "Determine employment",
+      "Set investment returns",
+      "Choose beneficiaries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Medical information helps evaluate insurance risk."
+  },
+  {
+    "id": 60,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Misrepresentation on an application may:",
+    "options": [
+      "Affect coverage or claims",
+      "Increase benefits automatically",
+      "Reduce premiums forever",
+      "Guarantee approval"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Incorrect information can affect policy validity."
+  },
+  {
+    "id": 61,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "Extended health benefits may cover:",
+    "options": [
+      "Prescription drugs and medical services",
+      "Stock purchases",
+      "Home repairs",
+      "Vehicle loans"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Extended health plans cover eligible healthcare expenses."
+  },
+  {
+    "id": 62,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Medium",
+    "question": "A health insurance deductible means:",
+    "options": [
+      "The insured pays an amount before benefits apply",
+      "The insurer pays everything immediately",
+      "The policy is cancelled",
+      "Premiums are refunded"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A deductible is the initial amount paid by the insured."
+  },
+  {
+    "id": 63,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "A co-payment means:",
+    "options": [
+      "The insured shares part of the cost",
+      "The insurer receives money",
+      "The policy ends",
+      "The claim is rejected"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Co-payments require the insured to pay part of an expense."
+  },
+  {
+    "id": 64,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Medium",
+    "question": "Maximum benefit limits describe:",
+    "options": [
+      "The highest amount payable under coverage",
+      "The premium amount",
+      "The application date",
+      "The advisor fee"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Policies often limit the maximum payable benefit."
+  },
+  {
+    "id": 65,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "Health insurance claims should include:",
+    "options": [
+      "Proof of eligible expenses",
+      "Investment statements",
+      "Property records",
+      "Employment contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Documentation supports healthcare claims."
+  },
+  {
+    "id": 66,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Medium",
+    "question": "Travel insurance should generally be purchased:",
+    "options": [
+      "Before travelling",
+      "After a claim occurs",
+      "After returning home",
+      "Only after illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Travel insurance must usually be arranged before travel begins."
+  },
+  {
+    "id": 67,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Easy",
+    "question": "Emergency medical travel coverage helps with:",
+    "options": [
+      "Unexpected medical expenses abroad",
+      "Investment losses",
+      "Vehicle damage only",
+      "Retirement income"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Emergency medical coverage protects travellers from unexpected healthcare costs."
+  },
+  {
+    "id": 68,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Medium",
+    "question": "A travel insurance exclusion may apply to:",
+    "options": [
+      "Certain pre-existing conditions",
+      "All emergencies",
+      "All travellers",
+      "Every medical expense"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Policies may exclude certain conditions or situations."
+  },
+  {
+    "id": 69,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should explain:",
+    "options": [
+      "Benefits, costs, and limitations",
+      "Only advantages",
+      "Only commissions",
+      "Only exclusions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need balanced information to make decisions."
+  },
+  {
+    "id": 70,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Client consent is important when:",
+    "options": [
+      "Collecting personal information",
+      "Changing laws",
+      "Setting taxes",
+      "Creating investments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Consent is required for proper handling of client information."
+  },
+  {
+    "id": 71,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Privacy rules require advisors to:",
+    "options": [
+      "Protect client information",
+      "Share information freely",
+      "Ignore records",
+      "Publish applications"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Client privacy must be maintained."
+  },
+  {
+    "id": 72,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Claim forms should be completed:",
+    "options": [
+      "Accurately and honestly",
+      "With missing information",
+      "By guessing",
+      "Without signatures"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate claim information supports proper assessment."
+  },
+  {
+    "id": 73,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "The insurer may investigate a claim to:",
+    "options": [
+      "Confirm eligibility for benefits",
+      "Increase premiums only",
+      "Avoid all payments",
+      "Change the contract"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims investigation confirms policy requirements."
+  },
+  {
+    "id": 74,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Insurance provides protection by:",
+    "options": [
+      "Managing financial risk",
+      "Guaranteeing wealth",
+      "Removing all expenses",
+      "Creating investments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance helps manage financial uncertainty."
+  },
+  {
+    "id": 75,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "Risk pooling allows insurers to:",
+    "options": [
+      "Spread losses among many policyholders",
+      "Eliminate all claims",
+      "Avoid premiums",
+      "Guarantee profits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance works by pooling risks among many insured people."
+  },
+  {
+    "id": 76,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The purpose of insurance is to:",
+    "options": [
+      "Provide financial protection against specified risks",
+      "Guarantee profits",
+      "Eliminate every expense",
+      "Replace all savings"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance helps protect against financial consequences of risks."
+  },
+  {
+    "id": 77,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "An insurance contract is based on:",
+    "options": [
+      "Agreement between insurer and insured",
+      "A verbal promise only",
+      "Investment performance",
+      "Government ownership"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance is a contractual agreement between parties."
+  },
+  {
+    "id": 78,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "The policy schedule contains:",
+    "options": [
+      "Important policy details",
+      "Medical advice",
+      "Investment forecasts",
+      "Government regulations"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The policy schedule summarizes key contract information."
+  },
+  {
+    "id": 79,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Easy",
+    "question": "A premium payment keeps coverage:",
+    "options": [
+      "In force",
+      "Cancelled",
+      "Transferred automatically",
+      "Guaranteed forever"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums maintain active insurance coverage."
+  },
+  {
+    "id": 80,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "A lapse occurs when:",
+    "options": [
+      "Coverage ends because required premiums are not paid",
+      "Benefits increase",
+      "A claim is approved",
+      "A policy is upgraded"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A policy may lapse when premiums are not maintained."
+  },
+  {
+    "id": 81,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "Disability income benefits are intended to:",
+    "options": [
+      "Support living expenses during disability",
+      "Create retirement wealth",
+      "Pay investment losses",
+      "Replace all government programs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benefits help maintain income during disability."
+  },
+  {
+    "id": 82,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Easy",
+    "question": "A waiting period exists mainly to:",
+    "options": [
+      "Determine when benefits begin",
+      "Increase claim amounts",
+      "Remove exclusions",
+      "Avoid underwriting"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The waiting period delays the start of benefit payments."
+  },
+  {
+    "id": 83,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "Occupation risk is considered because:",
+    "options": [
+      "Some occupations have greater chance of injury",
+      "All jobs are identical",
+      "It affects beneficiaries",
+      "It determines taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Occupation is an important disability risk factor."
+  },
+  {
+    "id": 84,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Easy",
+    "question": "Disability benefits are generally paid:",
+    "options": [
+      "According to policy terms",
+      "Automatically forever",
+      "Without proof",
+      "Only at retirement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benefits depend on meeting contract conditions."
+  },
+  {
+    "id": 85,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "A recurring disability provision may help when:",
+    "options": [
+      "A disability returns after recovery",
+      "A policy is cancelled",
+      "Premiums increase",
+      "A claim is denied"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recurring disability provisions address returning disabilities."
+  },
+  {
+    "id": 86,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "Health insurance helps manage:",
+    "options": [
+      "Healthcare costs",
+      "Investment risks",
+      "Property taxes",
+      "Business profits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Health insurance provides financial assistance for healthcare expenses."
+  },
+  {
+    "id": 87,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Medium",
+    "question": "Pre-authorization may be required before:",
+    "options": [
+      "Certain medical treatments",
+      "Buying groceries",
+      "Changing jobs",
+      "Paying premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some treatments require approval before coverage applies."
+  },
+  {
+    "id": 88,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "A health benefit claim should be:",
+    "options": [
+      "Supported by receipts or documents",
+      "Based on estimates only",
+      "Submitted without details",
+      "Made verbally only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Documentation supports health claims."
+  },
+  {
+    "id": 89,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Medium",
+    "question": "A benefit maximum means:",
+    "options": [
+      "The limit payable under the policy",
+      "Unlimited coverage",
+      "A premium discount",
+      "A policy cancellation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benefit maximums limit the amount payable."
+  },
+  {
+    "id": 90,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "Preventive healthcare focuses on:",
+    "options": [
+      "Maintaining and improving health",
+      "Increasing premiums",
+      "Replacing income",
+      "Avoiding insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Preventive care helps maintain health and detect issues early."
+  },
+  {
+    "id": 91,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Medium",
+    "question": "Travel insurance is designed for:",
+    "options": [
+      "Unexpected travel-related risks",
+      "Investment planning",
+      "Home ownership",
+      "Employment changes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Travel insurance protects against certain travel risks."
+  },
+  {
+    "id": 92,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Easy",
+    "question": "Travel cancellation coverage may reimburse:",
+    "options": [
+      "Eligible prepaid travel costs",
+      "All purchases",
+      "Investment losses",
+      "Mortgage payments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cancellation coverage may protect eligible prepaid expenses."
+  },
+  {
+    "id": 93,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Medium",
+    "question": "Travellers should review exclusions because:",
+    "options": [
+      "Some situations may not be covered",
+      "All claims are guaranteed",
+      "Premiums disappear",
+      "Coverage doubles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding exclusions prevents misunderstandings."
+  },
+  {
+    "id": 94,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should document:",
+    "options": [
+      "Important client recommendations",
+      "Personal opinions only",
+      "Private conversations unrelated to advice",
+      "Nothing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Documentation supports professional practice."
+  },
+  {
+    "id": 95,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Ethical selling requires:",
+    "options": [
+      "Honest and suitable recommendations",
+      "Pressure tactics",
+      "Hidden information",
+      "False promises"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethical sales practices protect clients."
+  },
+  {
+    "id": 96,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Claim decisions are based on:",
+    "options": [
+      "Policy terms and evidence",
+      "Agent preference",
+      "Client popularity",
+      "Market conditions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims are assessed according to the contract."
+  },
+  {
+    "id": 97,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "An insurer paying a valid claim demonstrates:",
+    "options": [
+      "Contractual obligation",
+      "Investment activity",
+      "Tax planning",
+      "Employment service"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurers pay valid claims according to policy agreements."
+  },
+  {
+    "id": 98,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Risk classification helps insurers:",
+    "options": [
+      "Set appropriate coverage terms",
+      "Remove all policies",
+      "Avoid customers",
+      "Guarantee claims"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk classification helps determine suitable terms."
+  },
+  {
+    "id": 99,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Accurate medical information helps:",
+    "options": [
+      "Proper underwriting",
+      "Higher commissions",
+      "Automatic approval",
+      "Lower taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate information allows proper risk assessment."
+  },
+  {
+    "id": 100,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The insured should understand:",
+    "options": [
+      "Coverage, exclusions, and obligations",
+      "Only the premium",
+      "Only the company name",
+      "Only the claim form"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding the contract helps clients make informed decisions."
+  },
+  {
+    "id": 101,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "The purpose of disability income insurance is to protect:",
+    "options": [
+      "Earned income",
+      "Investment returns",
+      "Property value",
+      "Business ownership"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disability insurance protects income when illness or injury prevents working."
+  },
+  {
+    "id": 102,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Easy",
+    "question": "A total disability generally means:",
+    "options": [
+      "The insured cannot perform work as defined by the policy",
+      "The insured changes jobs",
+      "The insured retires",
+      "The insured moves homes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Total disability depends on the policy definition."
+  },
+  {
+    "id": 103,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "A partial disability benefit may apply when:",
+    "options": [
+      "The insured can work but earns less due to disability",
+      "The insured is unemployed by choice",
+      "The policy expires",
+      "The insured changes insurers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Partial disability benefits address reduced income caused by disability."
+  },
+  {
+    "id": 104,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "A residual benefit is commonly based on:",
+    "options": [
+      "Loss of income",
+      "Age only",
+      "Investment value",
+      "Property damage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Residual benefits often consider income loss."
+  },
+  {
+    "id": 105,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Easy",
+    "question": "Disability insurance helps protect against:",
+    "options": [
+      "Loss of earning ability",
+      "Stock market changes",
+      "Home repairs",
+      "Vehicle depreciation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The main purpose is income protection."
+  },
+  {
+    "id": 106,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "A policy rider can:",
+    "options": [
+      "Add or modify coverage",
+      "Remove all premiums",
+      "Guarantee investments",
+      "Replace the contract"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Riders change or add policy provisions."
+  },
+  {
+    "id": 107,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Easy",
+    "question": "The policy owner has the right to:",
+    "options": [
+      "Control policy decisions",
+      "Approve medical claims",
+      "Set insurance laws",
+      "Change government rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The policy owner controls contractual rights."
+  },
+  {
+    "id": 108,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "A grace period allows:",
+    "options": [
+      "Additional time to pay premiums",
+      "Automatic benefit increases",
+      "Removal of exclusions",
+      "Free coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Grace periods allow continued coverage while overdue premiums are paid."
+  },
+  {
+    "id": 109,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Easy",
+    "question": "A beneficiary is a person who:",
+    "options": [
+      "Receives benefits when designated by the policy",
+      "Pays premiums",
+      "Underwrites policies",
+      "Creates contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiaries receive designated policy proceeds."
+  },
+  {
+    "id": 110,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "Policy exclusions are included to:",
+    "options": [
+      "Identify situations not covered",
+      "Increase claims",
+      "Remove premiums",
+      "Guarantee payment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Exclusions define limits of coverage."
+  },
+  {
+    "id": 111,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "Health insurance may cover:",
+    "options": [
+      "Hospital and medical expenses",
+      "Investment losses",
+      "Mortgage payments",
+      "Business profits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Health plans help cover eligible medical expenses."
+  },
+  {
+    "id": 112,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Medium",
+    "question": "An insured should keep health receipts because:",
+    "options": [
+      "They support claims",
+      "They increase benefits",
+      "They replace policies",
+      "They reduce premiums automatically"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Receipts provide evidence of eligible expenses."
+  },
+  {
+    "id": 113,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "A medical expense claim requires:",
+    "options": [
+      "Eligible expenses and documentation",
+      "Investment records",
+      "Property records",
+      "Employment contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims require proof of covered expenses."
+  },
+  {
+    "id": 114,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Medium",
+    "question": "A health insurance provider determines payment based on:",
+    "options": [
+      "Policy coverage",
+      "Personal preference",
+      "Market prices",
+      "Employment status"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Payments depend on the insurance contract."
+  },
+  {
+    "id": 115,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "Coverage limits describe:",
+    "options": [
+      "Maximum benefits available",
+      "Unlimited payments",
+      "Premium refunds",
+      "Policy ownership"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Coverage limits define how much may be paid."
+  },
+  {
+    "id": 116,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Medium",
+    "question": "Travel medical insurance protects against:",
+    "options": [
+      "Unexpected medical costs while travelling",
+      "Stock losses",
+      "Home repairs",
+      "Employment changes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Travel medical coverage protects travellers from medical emergencies."
+  },
+  {
+    "id": 117,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Easy",
+    "question": "Before purchasing travel insurance, clients should review:",
+    "options": [
+      "Coverage and exclusions",
+      "Only the price",
+      "Only the company logo",
+      "Only advertisements"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviewing coverage helps clients understand protection."
+  },
+  {
+    "id": 118,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Medium",
+    "question": "A pre-existing condition may:",
+    "options": [
+      "Affect coverage eligibility",
+      "Increase benefits automatically",
+      "Remove premiums",
+      "Guarantee payment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pre-existing conditions may have special policy rules."
+  },
+  {
+    "id": 119,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "A claim should be submitted:",
+    "options": [
+      "Within required policy timelines",
+      "After coverage ends",
+      "Without documents",
+      "Only verbally"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Policies often require claims to be submitted within specific periods."
+  },
+  {
+    "id": 120,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "Claim information should be:",
+    "options": [
+      "Truthful and complete",
+      "Changed to improve approval",
+      "Hidden",
+      "Estimated"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate claim information is required."
+  },
+  {
+    "id": 121,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Claim investigation helps:",
+    "options": [
+      "Verify policy requirements",
+      "Increase premiums",
+      "Cancel all claims",
+      "Change beneficiaries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurers investigate claims to confirm eligibility."
+  },
+  {
+    "id": 122,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "A denied claim means:",
+    "options": [
+      "The insurer determined policy requirements were not met",
+      "The policy is always cancelled",
+      "Premiums are refunded",
+      "Coverage never existed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A claim may be denied when contract requirements are not satisfied."
+  },
+  {
+    "id": 123,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should avoid:",
+    "options": [
+      "Misleading statements",
+      "Explaining benefits",
+      "Reviewing needs",
+      "Documenting advice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Advisors must communicate honestly."
+  },
+  {
+    "id": 124,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Client needs should be reviewed:",
+    "options": [
+      "Before recommending coverage",
+      "After selling only",
+      "Never",
+      "Only after claims"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Needs analysis supports suitable recommendations."
+  },
+  {
+    "id": 125,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Professional advisors maintain:",
+    "options": [
+      "Competence and ethical standards",
+      "Secret pricing methods",
+      "Personal guarantees",
+      "Unverified information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional standards require knowledge and ethical behaviour."
+  },
+  {
+    "id": 126,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "Insurance is based on the principle of:",
+    "options": [
+      "Sharing and transferring risk",
+      "Guaranteeing profits",
+      "Avoiding all uncertainty",
+      "Eliminating expenses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance allows risks to be transferred and shared."
+  },
+  {
+    "id": 127,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The insurer is the company that:",
+    "options": [
+      "Provides insurance coverage",
+      "Receives disability benefits",
+      "Owns every policy",
+      "Sets personal goals"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The insurer provides the contractual coverage."
+  },
+  {
+    "id": 128,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The insured is the person who:",
+    "options": [
+      "Receives protection under the policy",
+      "Always owns the company",
+      "Approves all claims",
+      "Sets premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The insured receives coverage under the contract."
+  },
+  {
+    "id": 129,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "A policy renewal allows:",
+    "options": [
+      "Continuation of coverage according to terms",
+      "Automatic benefit doubling",
+      "Removal of all exclusions",
+      "No premium payments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Renewal continues coverage under policy conditions."
+  },
+  {
+    "id": 130,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Easy",
+    "question": "A policy contract should be:",
+    "options": [
+      "Read and understood by the client",
+      "Ignored after purchase",
+      "Changed without approval",
+      "Shared publicly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients should understand their insurance contract."
+  },
+  {
+    "id": 131,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "Disability benefits are intended to help with:",
+    "options": [
+      "Income replacement",
+      "Investment growth",
+      "Property repairs",
+      "Vehicle expenses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benefits help replace income during disability."
+  },
+  {
+    "id": 132,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "The amount of disability coverage should consider:",
+    "options": [
+      "Income and financial needs",
+      "Favourite hobbies only",
+      "Vehicle type",
+      "Home colour"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Coverage should match the client's financial situation."
+  },
+  {
+    "id": 133,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Easy",
+    "question": "Disability insurance is most important for people who depend on:",
+    "options": [
+      "Employment income",
+      "Lottery winnings",
+      "Property sales",
+      "Investment speculation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Employment income protection is the key purpose."
+  },
+  {
+    "id": 134,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Medium",
+    "question": "Health insurance helps reduce:",
+    "options": [
+      "Out-of-pocket medical expenses",
+      "Investment risk",
+      "Property taxes",
+      "Business expenses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Health coverage helps manage healthcare costs."
+  },
+  {
+    "id": 135,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "A medical expense must usually be:",
+    "options": [
+      "Eligible under the policy",
+      "Approved by an employer only",
+      "A personal investment",
+      "A tax payment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Only eligible expenses are covered."
+  },
+  {
+    "id": 136,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Medium",
+    "question": "A policy maximum limits:",
+    "options": [
+      "The amount payable",
+      "The client's age",
+      "The policy owner's rights",
+      "The advisor's license"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Maximums define benefit limits."
+  },
+  {
+    "id": 137,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Easy",
+    "question": "Travel insurance protects against:",
+    "options": [
+      "Unexpected travel risks",
+      "Guaranteed vacations",
+      "Investment changes",
+      "Career changes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Travel coverage protects against certain unexpected events."
+  },
+  {
+    "id": 138,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Medium",
+    "question": "Emergency assistance services may help with:",
+    "options": [
+      "Finding medical support while travelling",
+      "Investment advice",
+      "Buying property",
+      "Changing jobs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Travel assistance helps during emergencies."
+  },
+  {
+    "id": 139,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "An insurer uses underwriting to determine:",
+    "options": [
+      "Risk and policy terms",
+      "Vacation plans",
+      "Employment contracts",
+      "Investment returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Underwriting evaluates risk before coverage."
+  },
+  {
+    "id": 140,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Risk information should be:",
+    "options": [
+      "Accurate and complete",
+      "Hidden from the insurer",
+      "Changed later",
+      "Based on guesses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate information supports proper underwriting."
+  },
+  {
+    "id": 141,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "The purpose of claim forms is to:",
+    "options": [
+      "Collect information about a loss",
+      "Increase premiums",
+      "Create investments",
+      "Cancel policies"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claim forms collect required details."
+  },
+  {
+    "id": 142,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "A valid claim should match:",
+    "options": [
+      "The policy requirements",
+      "Personal preference",
+      "Market conditions",
+      "Agent opinion"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims must meet contract requirements."
+  },
+  {
+    "id": 143,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should provide:",
+    "options": [
+      "Clear and accurate information",
+      "False guarantees",
+      "Hidden details",
+      "Pressure tactics"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients require honest communication."
+  },
+  {
+    "id": 144,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Confidential client information should be:",
+    "options": [
+      "Protected",
+      "Published",
+      "Sold",
+      "Ignored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Privacy protection is a professional responsibility."
+  },
+  {
+    "id": 145,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Conflict of interest should be:",
+    "options": [
+      "Disclosed and managed",
+      "Ignored",
+      "Hidden",
+      "Encouraged"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conflicts should be handled transparently."
+  },
+  {
+    "id": 146,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "Premiums are paid in exchange for:",
+    "options": [
+      "Insurance protection",
+      "Investment ownership",
+      "Government benefits",
+      "Employment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums purchase insurance coverage."
+  },
+  {
+    "id": 147,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Premiums",
+    "difficulty": "Medium",
+    "question": "A higher-risk applicant may have:",
+    "options": [
+      "Higher premiums",
+      "Automatic approval",
+      "Lower benefits only",
+      "No underwriting"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk level can affect premium cost."
+  },
+  {
+    "id": 148,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Easy",
+    "question": "An insurance policy contains:",
+    "options": [
+      "Rights and obligations",
+      "Only advertisements",
+      "Investment promises",
+      "Government rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The contract defines responsibilities of both parties."
+  },
+  {
+    "id": 149,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "Understanding exclusions helps clients know:",
+    "options": [
+      "What is not covered",
+      "How to invest",
+      "How to avoid premiums",
+      "How to change laws"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Exclusions explain coverage limitations."
+  },
+  {
+    "id": 150,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "Insurance decisions should be based on:",
+    "options": [
+      "Individual needs and circumstances",
+      "Sales pressure",
+      "Random choices",
+      "Market rumours"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance should match the client's situation."
+  },
+  {
+    "id": 151,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "Disability insurance helps protect a person's:",
+    "options": [
+      "Ability to earn income",
+      "Investment portfolio",
+      "Vehicle value",
+      "Home decoration"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disability coverage protects earning ability."
+  },
+  {
+    "id": 152,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Easy",
+    "question": "A disability claim usually requires:",
+    "options": [
+      "Proof of disability",
+      "Investment statements",
+      "Property records",
+      "Travel documents"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Evidence is needed to support disability claims."
+  },
+  {
+    "id": 153,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "Benefit payments may stop when:",
+    "options": [
+      "The benefit period ends or policy conditions are met",
+      "The insured changes address",
+      "Premiums increase elsewhere",
+      "The advisor retires"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benefits continue only according to policy terms."
+  },
+  {
+    "id": 154,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "Disability insurance planning should consider:",
+    "options": [
+      "Current income and expenses",
+      "Favourite activities only",
+      "Vehicle ownership",
+      "Home design"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Financial needs determine suitable coverage."
+  },
+  {
+    "id": 155,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Easy",
+    "question": "A disability policy is designed mainly for:",
+    "options": [
+      "Income protection",
+      "Investment growth",
+      "Property replacement",
+      "Tax reduction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The primary purpose is protecting income."
+  },
+  {
+    "id": 156,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Medium",
+    "question": "Health coverage may include:",
+    "options": [
+      "Dental or vision benefits when provided",
+      "Stock investments",
+      "Mortgage protection",
+      "Business ownership"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some health plans include additional medical services."
+  },
+  {
+    "id": 157,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "Healthcare receipts are important because they:",
+    "options": [
+      "Support reimbursement claims",
+      "Increase coverage automatically",
+      "Remove deductibles",
+      "Replace policies"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Receipts provide proof of expenses."
+  },
+  {
+    "id": 158,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Medium",
+    "question": "Coordination of benefits prevents:",
+    "options": [
+      "Duplicate payment of expenses",
+      "All insurance coverage",
+      "Policy renewal",
+      "Medical treatment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "It coordinates payments when multiple plans exist."
+  },
+  {
+    "id": 159,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "An insured should know:",
+    "options": [
+      "What services are covered",
+      "Only the premium amount",
+      "Only the insurer name",
+      "Only the claim number"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding coverage helps avoid surprises."
+  },
+  {
+    "id": 160,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Medium",
+    "question": "Health insurance exclusions identify:",
+    "options": [
+      "Services or conditions not covered",
+      "Additional premiums",
+      "Investment choices",
+      "Employment rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Exclusions define limitations."
+  },
+  {
+    "id": 161,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Easy",
+    "question": "Travel insurance should be reviewed before:",
+    "options": [
+      "Leaving for a trip",
+      "Filing a claim",
+      "Returning home",
+      "Changing jobs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Coverage should be arranged before travel."
+  },
+  {
+    "id": 162,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Medium",
+    "question": "Travel medical coverage may include:",
+    "options": [
+      "Emergency hospital treatment",
+      "Investment advice",
+      "Home renovations",
+      "Business loans"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Travel medical policies cover eligible emergencies."
+  },
+  {
+    "id": 163,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Easy",
+    "question": "Travel insurance does not normally guarantee:",
+    "options": [
+      "Every possible expense will be paid",
+      "Emergency protection",
+      "Policy coverage",
+      "Claim review"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Coverage depends on policy terms and exclusions."
+  },
+  {
+    "id": 164,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Supporting documents help insurers:",
+    "options": [
+      "Review claim validity",
+      "Increase premiums",
+      "Change laws",
+      "Create contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Documents help verify claims."
+  },
+  {
+    "id": 165,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "A claim should be reported:",
+    "options": [
+      "According to policy requirements",
+      "Only after policy ends",
+      "Without information",
+      "To another company"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Policies often specify reporting procedures."
+  },
+  {
+    "id": 166,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Insurance fraud can result in:",
+    "options": [
+      "Claim denial or legal consequences",
+      "Automatic benefits",
+      "Lower premiums",
+      "Extra coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fraud has serious consequences."
+  },
+  {
+    "id": 167,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Advisors should provide:",
+    "options": [
+      "Professional advice",
+      "False promises",
+      "Hidden information",
+      "Personal guarantees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional advice must be honest and suitable."
+  },
+  {
+    "id": 168,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "A client's personal information should be collected:",
+    "options": [
+      "For legitimate insurance purposes",
+      "For public sharing",
+      "For marketing without permission",
+      "For unrelated uses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Information should only be collected appropriately."
+  },
+  {
+    "id": 169,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Good communication helps clients:",
+    "options": [
+      "Understand insurance decisions",
+      "Avoid all documentation",
+      "Guarantee claims",
+      "Remove exclusions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clear communication improves understanding."
+  },
+  {
+    "id": 170,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "A suitable recommendation considers:",
+    "options": [
+      "Client needs",
+      "Maximum commission",
+      "Advisor preference",
+      "Random selection"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations should be client-focused."
+  },
+  {
+    "id": 171,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "Insurance risk refers to:",
+    "options": [
+      "Possibility of financial loss",
+      "Guaranteed profit",
+      "Investment growth",
+      "Employment status"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance addresses potential financial losses."
+  },
+  {
+    "id": 172,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The purpose of premiums is to:",
+    "options": [
+      "Pay for insurance protection",
+      "Create government funds",
+      "Guarantee returns",
+      "Remove all risks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums fund insurance coverage."
+  },
+  {
+    "id": 173,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "Insurance contracts require:",
+    "options": [
+      "Both parties to follow agreed terms",
+      "No documentation",
+      "No responsibilities",
+      "No premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contracts create obligations for both parties."
+  },
+  {
+    "id": 174,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "A policy review helps ensure:",
+    "options": [
+      "Coverage remains appropriate",
+      "Premiums disappear",
+      "Claims are guaranteed",
+      "Rules are removed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviews help keep coverage suitable."
+  },
+  {
+    "id": 175,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Easy",
+    "question": "Insurance coverage should match:",
+    "options": [
+      "Client needs and risks",
+      "Random choices",
+      "Market rumours",
+      "Advisor convenience"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Coverage should be based on individual circumstances."
+  },
+  {
+    "id": 176,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "The definition of disability is important because it:",
+    "options": [
+      "Determines when benefits are payable",
+      "Sets investment returns",
+      "Changes tax rules",
+      "Chooses beneficiaries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The policy definition determines eligibility for benefits."
+  },
+  {
+    "id": 177,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Easy",
+    "question": "Disability insurance is especially important for:",
+    "options": [
+      "People who rely on employment income",
+      "Only retired people",
+      "Only investors",
+      "Only homeowners"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Income earners benefit from disability protection."
+  },
+  {
+    "id": 178,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Disability Insurance",
+    "difficulty": "Medium",
+    "question": "Future income protection helps with:",
+    "options": [
+      "Long-term financial security",
+      "Investment speculation",
+      "Property purchases",
+      "Tax avoidance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Protecting income supports financial stability."
+  },
+  {
+    "id": 179,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Easy",
+    "question": "Health insurance coverage depends on:",
+    "options": [
+      "The policy contract",
+      "Personal preference",
+      "Market prices",
+      "Agent opinion"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Coverage is determined by policy terms."
+  },
+  {
+    "id": 180,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Health Insurance",
+    "difficulty": "Medium",
+    "question": "A health claim may be declined if:",
+    "options": [
+      "The expense is not covered",
+      "The client asks politely",
+      "The receipt is clear",
+      "The premium was paid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims must meet coverage requirements."
+  },
+  {
+    "id": 181,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Easy",
+    "question": "Travel insurance protects against:",
+    "options": [
+      "Unexpected events during travel",
+      "Guaranteed vacations",
+      "Investment changes",
+      "Career choices"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Travel insurance helps manage travel risks."
+  },
+  {
+    "id": 182,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Travel Insurance",
+    "difficulty": "Medium",
+    "question": "Before travel, clients should confirm:",
+    "options": [
+      "Coverage details and exclusions",
+      "Stock prices",
+      "Employment benefits only",
+      "Mortgage rates"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviewing coverage prevents misunderstandings."
+  },
+  {
+    "id": 183,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Underwriting information should be:",
+    "options": [
+      "Complete and accurate",
+      "Hidden from the insurer",
+      "Estimated",
+      "Changed later"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate information supports proper underwriting."
+  },
+  {
+    "id": 184,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Insurance risk assessment helps determine:",
+    "options": [
+      "Coverage terms",
+      "Vacation plans",
+      "Employment contracts",
+      "Investment returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk assessment determines appropriate policy terms."
+  },
+  {
+    "id": 185,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "A health history may affect:",
+    "options": [
+      "Eligibility and premiums",
+      "Policy colour",
+      "Advisor schedule",
+      "Claim forms only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Health information may affect insurance decisions."
+  },
+  {
+    "id": 186,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "Claims are paid when:",
+    "options": [
+      "Policy requirements are satisfied",
+      "Anyone requests payment",
+      "Premiums stop",
+      "Documents are missing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Valid claims are paid according to contract terms."
+  },
+  {
+    "id": 187,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "The insurer may request additional information to:",
+    "options": [
+      "Evaluate a claim",
+      "Increase sales",
+      "Change the policy owner",
+      "Avoid contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Additional information helps assess claims."
+  },
+  {
+    "id": 188,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "False information on a claim may:",
+    "options": [
+      "Cause claim problems",
+      "Increase benefits",
+      "Guarantee approval",
+      "Lower premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "False information can affect claim decisions."
+  },
+  {
+    "id": 189,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should explain:",
+    "options": [
+      "Advantages and limitations of coverage",
+      "Only benefits",
+      "Only costs",
+      "Only commissions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need complete information."
+  },
+  {
+    "id": 190,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Ethical insurance advice requires:",
+    "options": [
+      "Honesty and fairness",
+      "Pressure selling",
+      "Hidden conditions",
+      "False promises"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ethical conduct protects clients."
+  },
+  {
+    "id": 191,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Client goals should be considered when:",
+    "options": [
+      "Recommending insurance",
+      "Setting government rules",
+      "Changing laws",
+      "Calculating taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations should reflect client objectives."
+  },
+  {
+    "id": 192,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Insurance helps reduce:",
+    "options": [
+      "Financial uncertainty",
+      "All personal expenses",
+      "All risks completely",
+      "Investment losses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance manages financial consequences of risk."
+  },
+  {
+    "id": 193,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "Risk management includes:",
+    "options": [
+      "Identifying and reducing financial risks",
+      "Ignoring problems",
+      "Avoiding planning",
+      "Removing all contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance is one method of managing risk."
+  },
+  {
+    "id": 194,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Easy",
+    "question": "Policy conditions explain:",
+    "options": [
+      "Rules of the insurance contract",
+      "Investment opportunities",
+      "Employment benefits",
+      "Tax refunds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conditions describe contract requirements."
+  },
+  {
+    "id": 195,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Policy Features",
+    "difficulty": "Medium",
+    "question": "A policyholder should review coverage when:",
+    "options": [
+      "Life circumstances change",
+      "Nothing ever changes",
+      "Claims are impossible",
+      "Premiums disappear"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Changing needs may require coverage adjustments."
+  },
+  {
+    "id": 196,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "Premium payments are required to:",
+    "options": [
+      "Maintain coverage",
+      "Increase claims",
+      "Remove exclusions",
+      "Change laws"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums keep insurance active."
+  },
+  {
+    "id": 197,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Premiums",
+    "difficulty": "Medium",
+    "question": "Premium amounts are influenced by:",
+    "options": [
+      "Risk factors",
+      "Favourite colour",
+      "Personal opinions",
+      "Weather only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk factors affect insurance pricing."
+  },
+  {
+    "id": 198,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The purpose of insurance planning is to:",
+    "options": [
+      "Protect against financial risks",
+      "Guarantee wealth",
+      "Avoid responsibility",
+      "Replace all savings"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance planning protects financial security."
+  },
+  {
+    "id": 199,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "Good insurance decisions require:",
+    "options": [
+      "Understanding needs and coverage",
+      "Following rumours",
+      "Choosing randomly",
+      "Ignoring exclusions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Good decisions require informed choices."
+  },
+  {
+    "id": 200,
+    "moduleId": "accident",
+    "moduleName": "Accident & Sickness Insurance",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The best insurance recommendation is one that:",
+    "options": [
+      "Fits the client's needs and circumstances",
+      "Has the highest commission",
+      "Costs the most",
+      "Is identical for everyone"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitable recommendations are based on the client's situation."
+  }
+]

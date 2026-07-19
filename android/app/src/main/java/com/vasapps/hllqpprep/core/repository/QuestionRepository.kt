@@ -20,6 +20,18 @@ object QuestionRepository {
                 "life" ->
                     "questions/life_questions.json"
 
+                "accident" ->
+                    "questions/accident_sickness_questions.json"
+
+                "segregated" ->
+                    "questions/segregated_funds_questions.json"
+
+                "annuities" ->
+                    "questions/annuities_questions.json"
+
+                "ethics" ->
+                    "questions/ethics_questions.json"
+
                 else ->
                     return emptyList()
 

@@ -1,0 +1,3202 @@
+[
+  {
+    "id": 1,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "What is a segregated fund?",
+    "options": [
+      "A type of investment insurance product",
+      "A bank account only",
+      "A government pension plan",
+      "A regular savings account"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segregated funds combine investment features with insurance protection."
+  },
+  {
+    "id": 2,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Segregated funds are offered by:",
+    "options": [
+      "Insurance companies",
+      "Only banks",
+      "Stock exchanges",
+      "Government agencies"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segregated funds are insurance contracts offered by insurers."
+  },
+  {
+    "id": 3,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "A segregated fund contract includes:",
+    "options": [
+      "Insurance guarantees and investment options",
+      "Only stock ownership",
+      "Only tax payments",
+      "No contractual terms"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segregated funds provide investment choices with insurance features."
+  },
+  {
+    "id": 4,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Medium",
+    "question": "A maturity guarantee protects:",
+    "options": [
+      "A portion of the investment value at maturity",
+      "All market gains forever",
+      "Only commissions",
+      "All withdrawals"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Maturity guarantees provide protection at the contract maturity date."
+  },
+  {
+    "id": 5,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Medium",
+    "question": "A death benefit guarantee provides protection when:",
+    "options": [
+      "The contract holder dies",
+      "The market rises",
+      "A premium is missed",
+      "The investor changes funds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Death benefit guarantees protect beneficiaries according to contract terms."
+  },
+  {
+    "id": 6,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Segregated funds allow investors to:",
+    "options": [
+      "Choose from investment options",
+      "Avoid all market risk",
+      "Guarantee profits",
+      "Remove all fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Investors can select from available investment options."
+  },
+  {
+    "id": 7,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "The value of segregated funds is generally affected by:",
+    "options": [
+      "Market performance",
+      "Only age",
+      "Only location",
+      "Government decisions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Investment values can change based on market performance."
+  },
+  {
+    "id": 8,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "The contract holder is the person who:",
+    "options": [
+      "Owns the segregated fund contract",
+      "Manages the insurer",
+      "Sets government rules",
+      "Receives all claims automatically"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The contract holder owns the insurance investment contract."
+  },
+  {
+    "id": 9,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "A segregated fund contract combines:",
+    "options": [
+      "Investment and insurance features",
+      "Only banking services",
+      "Only tax benefits",
+      "Only savings"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segregated funds combine investment opportunities with guarantees."
+  },
+  {
+    "id": 10,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Medium",
+    "question": "A guarantee in a segregated fund is based on:",
+    "options": [
+      "Contract terms",
+      "Market rumours",
+      "Advisor opinion",
+      "Stock predictions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees depend on the insurance contract."
+  },
+  {
+    "id": 11,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "The beneficiary receives:",
+    "options": [
+      "Death benefit proceeds",
+      "Premium payments",
+      "Investment advice",
+      "Tax refunds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiaries receive benefits according to contract terms."
+  },
+  {
+    "id": 12,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Fees",
+    "difficulty": "Easy",
+    "question": "Segregated funds may include:",
+    "options": [
+      "Management fees",
+      "No costs ever",
+      "Guaranteed profits",
+      "Free insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Investment products may have management fees."
+  },
+  {
+    "id": 13,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees should be explained because:",
+    "options": [
+      "They affect investment returns",
+      "They increase guarantees automatically",
+      "They remove risks",
+      "They replace contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients should understand product costs."
+  },
+  {
+    "id": 14,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should explain:",
+    "options": [
+      "Benefits, risks, and costs",
+      "Only advantages",
+      "Only guarantees",
+      "Only fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need complete information."
+  },
+  {
+    "id": 15,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Suitability means recommending:",
+    "options": [
+      "Products appropriate for client needs",
+      "The most expensive product",
+      "Any available product",
+      "Only popular products"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations should match client circumstances."
+  },
+  {
+    "id": 16,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Market value refers to:",
+    "options": [
+      "Current investment value",
+      "Original premium only",
+      "Guaranteed amount only",
+      "Tax amount"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Market value changes with investment performance."
+  },
+  {
+    "id": 17,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Segregated funds provide access to:",
+    "options": [
+      "Investment portfolios",
+      "Only chequing accounts",
+      "Mortgages",
+      "Government bonds only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segregated funds offer investment choices."
+  },
+  {
+    "id": 18,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Medium",
+    "question": "Guarantees are valuable because they:",
+    "options": [
+      "Provide protection against some losses",
+      "Guarantee unlimited profits",
+      "Remove all fees",
+      "Prevent all market changes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees provide protection under specified conditions."
+  },
+  {
+    "id": 19,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Withdrawals",
+    "difficulty": "Medium",
+    "question": "Withdrawals from segregated funds may:",
+    "options": [
+      "Reduce guarantees",
+      "Increase guarantees automatically",
+      "Remove fees permanently",
+      "Create insurance coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Withdrawals may affect guaranteed values."
+  },
+  {
+    "id": 20,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Withdrawals",
+    "difficulty": "Easy",
+    "question": "Before withdrawing money, clients should consider:",
+    "options": [
+      "Contract impact",
+      "Only market rumours",
+      "Only taxes",
+      "Only commissions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Withdrawals may affect contract benefits."
+  },
+  {
+    "id": 21,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Segregated funds are considered:",
+    "options": [
+      "Insurance investment products",
+      "Regular savings accounts",
+      "Government programs",
+      "Loans"
+    ],
+    "correctAnswer": 0,
+    "explanation": "They are insurance contracts with investment components."
+  },
+  {
+    "id": 22,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The insurer provides:",
+    "options": [
+      "Contractual guarantees",
+      "Stock market predictions",
+      "Tax advice only",
+      "Banking services"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The insurer provides guarantees stated in the contract."
+  },
+  {
+    "id": 23,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "A beneficiary designation allows:",
+    "options": [
+      "Payment to selected individuals after death",
+      "Guaranteed investment growth",
+      "Free withdrawals",
+      "Tax elimination"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiaries receive contract benefits."
+  },
+  {
+    "id": 24,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Beneficiary information should be:",
+    "options": [
+      "Reviewed and updated when needed",
+      "Ignored forever",
+      "Shared publicly",
+      "Removed automatically"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Keeping beneficiary information current is important."
+  },
+  {
+    "id": 25,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The main purpose of segregated funds is:",
+    "options": [
+      "Combine investment growth potential with insurance protection",
+      "Guarantee every investment",
+      "Avoid all fees",
+      "Replace all insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segregated funds combine investment and insurance features."
+  },
+  {
+    "id": 26,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Segregated funds are invested in:",
+    "options": [
+      "Underlying investment funds",
+      "Only cash accounts",
+      "Government offices",
+      "Personal loans"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segregated funds invest in underlying funds selected by the investor."
+  },
+  {
+    "id": 27,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "The investment value of a segregated fund may:",
+    "options": [
+      "Increase or decrease with markets",
+      "Never change",
+      "Only increase",
+      "Always stay guaranteed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Market performance affects investment value."
+  },
+  {
+    "id": 28,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "The contract maturity date is:",
+    "options": [
+      "The date when maturity guarantees apply",
+      "The purchase date only",
+      "The withdrawal date",
+      "The tax date"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Maturity guarantees apply at the contract maturity date."
+  },
+  {
+    "id": 29,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Medium",
+    "question": "Maturity guarantees are based on:",
+    "options": [
+      "Specified contract conditions",
+      "Market predictions",
+      "Advisor promises",
+      "Government decisions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees are defined in the contract."
+  },
+  {
+    "id": 30,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "A death benefit guarantee protects:",
+    "options": [
+      "Beneficiaries",
+      "The stock market",
+      "The advisor",
+      "The government"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Death benefit guarantees provide protection to beneficiaries."
+  },
+  {
+    "id": 31,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Management expense ratios affect:",
+    "options": [
+      "Investment returns",
+      "Beneficiary choices",
+      "Contract ownership",
+      "Insurance claims"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fees reduce the net investment return."
+  },
+  {
+    "id": 32,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Fees",
+    "difficulty": "Easy",
+    "question": "Clients should understand fees because:",
+    "options": [
+      "Costs affect returns",
+      "Fees guarantee profits",
+      "Fees remove risk",
+      "Fees create beneficiaries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding costs helps clients make informed decisions."
+  },
+  {
+    "id": 33,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Investment risk refers to:",
+    "options": [
+      "Possibility that investment value changes",
+      "Guaranteed loss",
+      "Insurance fees only",
+      "Contract ownership"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Investment values can fluctuate."
+  },
+  {
+    "id": 34,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Segregated funds may reduce risk through:",
+    "options": [
+      "Insurance guarantees",
+      "Higher fees only",
+      "No investments",
+      "Government payments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees can provide some protection."
+  },
+  {
+    "id": 35,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor must explain:",
+    "options": [
+      "Risks and benefits",
+      "Only potential gains",
+      "Only guarantees",
+      "Only fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Balanced disclosure is required."
+  },
+  {
+    "id": 36,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Client information should be:",
+    "options": [
+      "Kept confidential",
+      "Shared publicly",
+      "Sold to others",
+      "Ignored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Privacy is a professional responsibility."
+  },
+  {
+    "id": 37,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "A suitable recommendation considers:",
+    "options": [
+      "Client objectives and risk tolerance",
+      "Commission only",
+      "Market rumours",
+      "Advisor preference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability requires understanding the client."
+  },
+  {
+    "id": 38,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Risk tolerance measures:",
+    "options": [
+      "How much investment risk a client can accept",
+      "The amount of fees",
+      "The contract date",
+      "The beneficiary name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk tolerance helps determine suitable investments."
+  },
+  {
+    "id": 39,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Asset allocation means:",
+    "options": [
+      "How investments are divided among categories",
+      "The insurance premium",
+      "The beneficiary list",
+      "The contract owner"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Asset allocation describes investment distribution."
+  },
+  {
+    "id": 40,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Diversification helps:",
+    "options": [
+      "Spread investment risk",
+      "Guarantee profits",
+      "Remove all losses",
+      "Avoid contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Diversification can reduce concentration risk."
+  },
+  {
+    "id": 41,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Withdrawals",
+    "difficulty": "Medium",
+    "question": "Early withdrawals may:",
+    "options": [
+      "Affect guarantees",
+      "Increase guarantees automatically",
+      "Remove all fees",
+      "Create new coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Withdrawals can reduce guaranteed amounts."
+  },
+  {
+    "id": 42,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Withdrawals",
+    "difficulty": "Easy",
+    "question": "Clients should review withdrawal rules because:",
+    "options": [
+      "Contract values may change",
+      "Withdrawals are always free",
+      "Guarantees always increase",
+      "Fees disappear"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Withdrawal provisions affect contract benefits."
+  },
+  {
+    "id": 43,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "A beneficiary designation may provide:",
+    "options": [
+      "Protection for estate planning goals",
+      "Guaranteed returns",
+      "No contract terms",
+      "Unlimited withdrawals"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiary designations are useful estate planning tools."
+  },
+  {
+    "id": 44,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "Beneficiary information should be:",
+    "options": [
+      "Accurate and current",
+      "Hidden from the owner",
+      "Ignored",
+      "Changed randomly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Current beneficiary information helps ensure proper payment."
+  },
+  {
+    "id": 45,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Tax Features",
+    "difficulty": "Medium",
+    "question": "Tax treatment of segregated funds depends on:",
+    "options": [
+      "Applicable tax rules",
+      "Market performance only",
+      "Advisor choice",
+      "Investment colour"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax treatment follows applicable laws."
+  },
+  {
+    "id": 46,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Tax Features",
+    "difficulty": "Easy",
+    "question": "Clients should seek tax advice when:",
+    "options": [
+      "Tax issues are complex",
+      "Buying any product",
+      "Changing beneficiaries only",
+      "Reviewing markets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional tax advice may be appropriate."
+  },
+  {
+    "id": 47,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "A segregated fund contract is different from a mutual fund because it:",
+    "options": [
+      "Includes insurance features",
+      "Has no investments",
+      "Cannot change value",
+      "Is only a bank product"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segregated funds include insurance guarantees."
+  },
+  {
+    "id": 48,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Segregated funds are designed for:",
+    "options": [
+      "Investors seeking investment and insurance features",
+      "Only borrowers",
+      "Only businesses",
+      "Only governments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "They combine investment options with insurance protection."
+  },
+  {
+    "id": 49,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Contract terms should be:",
+    "options": [
+      "Reviewed carefully",
+      "Ignored",
+      "Changed without approval",
+      "Assumed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding contract terms is important."
+  },
+  {
+    "id": 50,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "The best recommendation is based on:",
+    "options": [
+      "Client needs and circumstances",
+      "Highest commission",
+      "Market rumours",
+      "Advisor convenience"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations should be suitable for the client."
+  },
+  {
+    "id": 51,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "The policyholder of a segregated fund is the person who:",
+    "options": [
+      "Owns the contract",
+      "Manages the stock market",
+      "Creates tax laws",
+      "Guarantees returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The policyholder owns the insurance contract."
+  },
+  {
+    "id": 52,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "The contract holder can usually:",
+    "options": [
+      "Make decisions about the contract",
+      "Change government rules",
+      "Control markets",
+      "Guarantee profits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The contract holder has rights under the contract."
+  },
+  {
+    "id": 53,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Investment options allow clients to:",
+    "options": [
+      "Select different funds",
+      "Avoid all risk",
+      "Remove insurance",
+      "Change laws"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients may choose from available investment options."
+  },
+  {
+    "id": 54,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Fund performance depends on:",
+    "options": [
+      "Underlying investments",
+      "Beneficiary choices",
+      "Contract colour",
+      "Advisor location"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Performance is linked to the investments held."
+  },
+  {
+    "id": 55,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Market risk means:",
+    "options": [
+      "Investment values can fluctuate",
+      "Benefits disappear always",
+      "Contracts end automatically",
+      "Fees stop"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Market movements affect investment values."
+  },
+  {
+    "id": 56,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "A conservative investor may prefer:",
+    "options": [
+      "Lower-risk investment options",
+      "Maximum volatility",
+      "No information",
+      "Highest fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk preference affects investment choices."
+  },
+  {
+    "id": 57,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Risk tolerance should be assessed:",
+    "options": [
+      "Before making recommendations",
+      "After buying products",
+      "Only during claims",
+      "Never"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk assessment helps determine suitability."
+  },
+  {
+    "id": 58,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees are provided by:",
+    "options": [
+      "The insurance contract",
+      "Market performance",
+      "Investment rumours",
+      "Other investors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees come from contract terms."
+  },
+  {
+    "id": 59,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Medium",
+    "question": "Guarantees may require:",
+    "options": [
+      "Meeting contract conditions",
+      "Ignoring the contract",
+      "Frequent withdrawals",
+      "No premiums"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees apply according to conditions."
+  },
+  {
+    "id": 60,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Fees",
+    "difficulty": "Easy",
+    "question": "Investment fees generally:",
+    "options": [
+      "Reduce returns",
+      "Increase guarantees",
+      "Remove risk",
+      "Create benefits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fees reduce the amount earned by investors."
+  },
+  {
+    "id": 61,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fee disclosure helps clients:",
+    "options": [
+      "Understand product costs",
+      "Avoid contracts",
+      "Guarantee returns",
+      "Remove taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need transparency about costs."
+  },
+  {
+    "id": 62,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should provide:",
+    "options": [
+      "Clear information",
+      "False guarantees",
+      "Hidden fees",
+      "Pressure decisions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clear communication supports informed decisions."
+  },
+  {
+    "id": 63,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Misrepresentation means:",
+    "options": [
+      "Providing false or misleading information",
+      "Explaining benefits",
+      "Reviewing needs",
+      "Comparing products"
+    ],
+    "correctAnswer": 0,
+    "explanation": "False information is unacceptable."
+  },
+  {
+    "id": 64,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Client interests should come:",
+    "options": [
+      "Before advisor compensation",
+      "After commissions",
+      "After sales goals",
+      "Last"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Advice should prioritize client needs."
+  },
+  {
+    "id": 65,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "A beneficiary can receive:",
+    "options": [
+      "Death benefit proceeds",
+      "Investment advice",
+      "Premium discounts",
+      "Tax refunds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiaries receive contract benefits."
+  },
+  {
+    "id": 66,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "A beneficiary designation should be:",
+    "options": [
+      "Reviewed periodically",
+      "Ignored forever",
+      "Made randomly",
+      "Removed always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life changes may require updates."
+  },
+  {
+    "id": 67,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Estate Planning",
+    "difficulty": "Medium",
+    "question": "Segregated funds may help with:",
+    "options": [
+      "Estate planning",
+      "Vehicle financing",
+      "Mortgage approval",
+      "Employment contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiary features can support estate planning."
+  },
+  {
+    "id": 68,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Estate Planning",
+    "difficulty": "Easy",
+    "question": "A beneficiary may help:",
+    "options": [
+      "Direct payment of benefits",
+      "Increase market returns",
+      "Remove fees",
+      "Change investments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiary designations direct benefit payments."
+  },
+  {
+    "id": 69,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Contract guarantees are based on:",
+    "options": [
+      "Specified dates and conditions",
+      "Market rumours",
+      "Advisor predictions",
+      "Client wishes only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees depend on contract rules."
+  },
+  {
+    "id": 70,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "Reading the contract helps clients:",
+    "options": [
+      "Understand rights and obligations",
+      "Avoid investments",
+      "Guarantee profits",
+      "Remove risks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contract knowledge is important."
+  },
+  {
+    "id": 71,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Rebalancing a portfolio means:",
+    "options": [
+      "Adjusting investment allocation",
+      "Ending the contract",
+      "Changing beneficiaries",
+      "Removing guarantees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rebalancing changes investment proportions."
+  },
+  {
+    "id": 72,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Diversification involves:",
+    "options": [
+      "Spreading investments",
+      "Buying one asset only",
+      "Avoiding all investments",
+      "Removing insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Diversification spreads risk."
+  },
+  {
+    "id": 73,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "Segregated funds are regulated as:",
+    "options": [
+      "Insurance products",
+      "Bank accounts",
+      "Loans",
+      "Government grants"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segregated funds are insurance contracts."
+  },
+  {
+    "id": 74,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "The insurer provides:",
+    "options": [
+      "Contractual protection",
+      "Stock predictions",
+      "Tax refunds",
+      "Employment benefits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The insurer provides benefits stated in the contract."
+  },
+  {
+    "id": 75,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "Understanding client goals helps:",
+    "options": [
+      "Select suitable products",
+      "Guarantee returns",
+      "Remove market changes",
+      "Avoid contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations should match client objectives."
+  },
+  {
+    "id": 76,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "A fund switch allows a client to:",
+    "options": [
+      "Move money between investment options",
+      "End the contract automatically",
+      "Remove guarantees",
+      "Avoid all fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fund switches allow movement between available options."
+  },
+  {
+    "id": 77,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Before switching funds, clients should consider:",
+    "options": [
+      "Investment objectives and consequences",
+      "Only advertisements",
+      "Only commissions",
+      "Nothing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fund choices should match client goals."
+  },
+  {
+    "id": 78,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Investment diversification helps:",
+    "options": [
+      "Reduce concentration risk",
+      "Guarantee profits",
+      "Remove contracts",
+      "Stop markets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Diversification can reduce concentration of risk."
+  },
+  {
+    "id": 79,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "An aggressive investor may accept:",
+    "options": [
+      "Greater investment fluctuations",
+      "No market changes",
+      "Guaranteed returns",
+      "No risk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Riskier investments may have greater fluctuations."
+  },
+  {
+    "id": 80,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "A client's risk profile includes:",
+    "options": [
+      "Risk tolerance and objectives",
+      "Favourite investments only",
+      "Income tax only",
+      "Age only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk profile considers several client factors."
+  },
+  {
+    "id": 81,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Medium",
+    "question": "A guarantee does not mean:",
+    "options": [
+      "Unlimited investment growth",
+      "Protection under conditions",
+      "Contract protection",
+      "Specified benefits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees do not promise unlimited growth."
+  },
+  {
+    "id": 82,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees are valuable because they:",
+    "options": [
+      "Provide protection features",
+      "Eliminate investing",
+      "Control markets",
+      "Increase fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees provide additional protection."
+  },
+  {
+    "id": 83,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "High fees may:",
+    "options": [
+      "Reduce net returns",
+      "Increase guarantees",
+      "Remove risk",
+      "Improve markets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fees affect the amount investors receive."
+  },
+  {
+    "id": 84,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Fees",
+    "difficulty": "Easy",
+    "question": "Fee information should be:",
+    "options": [
+      "Provided clearly to clients",
+      "Hidden",
+      "Ignored",
+      "Changed secretly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients should understand costs."
+  },
+  {
+    "id": 85,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Know-your-client requirements help advisors:",
+    "options": [
+      "Understand client circumstances",
+      "Increase commissions",
+      "Avoid documentation",
+      "Guarantee results"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Knowing the client supports suitable advice."
+  },
+  {
+    "id": 86,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Documentation should be:",
+    "options": [
+      "Accurate and complete",
+      "Optional always",
+      "Destroyed immediately",
+      "Hidden"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Proper documentation supports compliance."
+  },
+  {
+    "id": 87,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should avoid:",
+    "options": [
+      "Conflicts of interest",
+      "Clear explanations",
+      "Client reviews",
+      "Documentation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conflicts must be managed appropriately."
+  },
+  {
+    "id": 88,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "A contract owner should know:",
+    "options": [
+      "Contract benefits and conditions",
+      "Only the product name",
+      "Only fees",
+      "Only returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding the contract is important."
+  },
+  {
+    "id": 89,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Changing contract information may require:",
+    "options": [
+      "Following insurer procedures",
+      "Ignoring the contract",
+      "Market approval",
+      "Government approval only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Changes must follow contract rules."
+  },
+  {
+    "id": 90,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "Beneficiary designations are important because:",
+    "options": [
+      "They identify who receives benefits",
+      "They guarantee returns",
+      "They change investments",
+      "They remove fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiaries receive contract benefits."
+  },
+  {
+    "id": 91,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Estate Planning",
+    "difficulty": "Medium",
+    "question": "Segregated funds may provide:",
+    "options": [
+      "Efficient benefit transfer features",
+      "Guaranteed wealth",
+      "No taxes ever",
+      "No paperwork"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Certain features may support estate planning."
+  },
+  {
+    "id": 92,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Tax Features",
+    "difficulty": "Medium",
+    "question": "Tax consequences should be considered when:",
+    "options": [
+      "Making investment decisions",
+      "Ignoring contracts",
+      "Changing markets",
+      "Selecting colours"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax considerations may affect decisions."
+  },
+  {
+    "id": 93,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Investment objectives describe:",
+    "options": [
+      "What the client wants to achieve",
+      "The advisor's goals",
+      "Market predictions",
+      "Government plans"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Objectives guide recommendations."
+  },
+  {
+    "id": 94,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Time horizon refers to:",
+    "options": [
+      "How long money is invested",
+      "Investment fee amount",
+      "Contract colour",
+      "Beneficiary age"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Time horizon affects investment choices."
+  },
+  {
+    "id": 95,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "A longer investment horizon may:",
+    "options": [
+      "Allow more time for market changes",
+      "Guarantee profits",
+      "Remove all risk",
+      "Avoid contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Time horizon is a factor in investment planning."
+  },
+  {
+    "id": 96,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Segregated funds provide:",
+    "options": [
+      "Investment choices with insurance protection",
+      "Only savings accounts",
+      "Only loans",
+      "Only tax services"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segregated funds combine features."
+  },
+  {
+    "id": 97,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The insurance component provides:",
+    "options": [
+      "Contract guarantees",
+      "Market control",
+      "Government payments",
+      "Stock predictions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance features provide contractual guarantees."
+  },
+  {
+    "id": 98,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should recommend products based on:",
+    "options": [
+      "Client needs",
+      "Highest commission",
+      "Personal preference",
+      "Market rumours"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations should be suitable."
+  },
+  {
+    "id": 99,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Suitability review should include:",
+    "options": [
+      "Client goals, risk, and circumstances",
+      "Only age",
+      "Only income",
+      "Only investments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability requires a complete client review."
+  },
+  {
+    "id": 100,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "Segregated funds are best described as:",
+    "options": [
+      "Insurance contracts with investment features",
+      "Bank deposits",
+      "Loans",
+      "Government programs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "They combine insurance protection with investment options."
+  },
+  {
+    "id": 101,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "The contract anniversary date is used to:",
+    "options": [
+      "Track contract milestones",
+      "Guarantee profits",
+      "Change markets",
+      "Remove fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contract dates help determine features and benefits."
+  },
+  {
+    "id": 102,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Contract information should be reviewed:",
+    "options": [
+      "Regularly with the client",
+      "Never",
+      "Only after claims",
+      "Only after losses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Regular reviews help keep information accurate."
+  },
+  {
+    "id": 103,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Investment portfolios contain:",
+    "options": [
+      "Selected underlying investments",
+      "Only insurance fees",
+      "Only taxes",
+      "Only guarantees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Portfolios contain underlying investments."
+  },
+  {
+    "id": 104,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Investment performance should be evaluated:",
+    "options": [
+      "Against client objectives",
+      "Only against advertisements",
+      "Only against fees",
+      "Without information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Performance should be considered in relation to goals."
+  },
+  {
+    "id": 105,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Risk and return are often:",
+    "options": [
+      "Related",
+      "Identical",
+      "Unrelated always",
+      "Guaranteed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Higher potential returns often involve different levels of risk."
+  },
+  {
+    "id": 106,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Investment risk can be managed by:",
+    "options": [
+      "Diversification and planning",
+      "Ignoring markets",
+      "Removing contracts",
+      "Avoiding information"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Planning and diversification help manage risk."
+  },
+  {
+    "id": 107,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees are not the same as:",
+    "options": [
+      "Market gains",
+      "Contract benefits",
+      "Insurance features",
+      "Specified protection"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees provide protection, not unlimited gains."
+  },
+  {
+    "id": 108,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Medium",
+    "question": "A guarantee amount may depend on:",
+    "options": [
+      "Premiums and contract terms",
+      "Stock predictions",
+      "Advisor opinion",
+      "Government changes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantee calculations follow contract rules."
+  },
+  {
+    "id": 109,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Withdrawals",
+    "difficulty": "Easy",
+    "question": "Withdrawals reduce:",
+    "options": [
+      "The amount invested",
+      "The beneficiary name",
+      "The advisor license",
+      "The market"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Withdrawals remove money from the contract."
+  },
+  {
+    "id": 110,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Withdrawals",
+    "difficulty": "Medium",
+    "question": "Clients should understand withdrawal:",
+    "options": [
+      "Effects on guarantees and values",
+      "Only paperwork",
+      "Only commissions",
+      "Only taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Withdrawals may affect benefits."
+  },
+  {
+    "id": 111,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "The beneficiary receives payment after:",
+    "options": [
+      "The insured person's death according to contract terms",
+      "Every withdrawal",
+      "Market increase",
+      "Premium payment"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Death benefits are paid according to contract provisions."
+  },
+  {
+    "id": 112,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Beneficiary designations should consider:",
+    "options": [
+      "Client wishes and estate goals",
+      "Market forecasts",
+      "Advisor preferences",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiary planning reflects client goals."
+  },
+  {
+    "id": 113,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Estate Planning",
+    "difficulty": "Easy",
+    "question": "Estate planning helps:",
+    "options": [
+      "Organize transfer of assets",
+      "Increase market returns",
+      "Remove contracts",
+      "Avoid all taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Estate planning organizes asset transfer."
+  },
+  {
+    "id": 114,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Estate Planning",
+    "difficulty": "Medium",
+    "question": "Segregated funds may provide:",
+    "options": [
+      "Creditor protection features in some situations",
+      "Guaranteed profits",
+      "No fees",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Certain contracts may have creditor protection features."
+  },
+  {
+    "id": 115,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Tax Features",
+    "difficulty": "Easy",
+    "question": "Tax treatment depends on:",
+    "options": [
+      "Applicable legislation",
+      "Market colour",
+      "Advisor choice",
+      "Investment name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax rules determine treatment."
+  },
+  {
+    "id": 116,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Tax Features",
+    "difficulty": "Medium",
+    "question": "Clients with tax questions should:",
+    "options": [
+      "Seek appropriate professional advice",
+      "Ignore taxes",
+      "Change beneficiaries only",
+      "Avoid contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax advice may require specialists."
+  },
+  {
+    "id": 117,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should:",
+    "options": [
+      "Act professionally",
+      "Hide information",
+      "Promise results",
+      "Ignore needs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional conduct requires responsible behaviour."
+  },
+  {
+    "id": 118,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Client records should be:",
+    "options": [
+      "Maintained properly",
+      "Destroyed immediately",
+      "Shared publicly",
+      "Ignored"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Proper records support compliance."
+  },
+  {
+    "id": 119,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Disclosure means:",
+    "options": [
+      "Providing relevant information",
+      "Hiding costs",
+      "Avoiding questions",
+      "Making promises"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disclosure helps clients make informed choices."
+  },
+  {
+    "id": 120,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should explain:",
+    "options": [
+      "Limitations as well as benefits",
+      "Only advantages",
+      "Only fees",
+      "Only risks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Balanced explanations are required."
+  },
+  {
+    "id": 121,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Segregated funds are designed to:",
+    "options": [
+      "Combine investment and insurance features",
+      "Replace all products",
+      "Remove markets",
+      "Guarantee wealth"
+    ],
+    "correctAnswer": 0,
+    "explanation": "They combine investment options and insurance protection."
+  },
+  {
+    "id": 122,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The insurer's role is to:",
+    "options": [
+      "Provide contractual insurance benefits",
+      "Control investments daily",
+      "Set stock prices",
+      "Choose beneficiaries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The insurer provides contract benefits."
+  },
+  {
+    "id": 123,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "An investment objective may include:",
+    "options": [
+      "Growth or income goals",
+      "Guaranteed wealth",
+      "No planning",
+      "No risk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Objectives guide investment selection."
+  },
+  {
+    "id": 124,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Asset mix refers to:",
+    "options": [
+      "Distribution among investment categories",
+      "Contract ownership",
+      "Beneficiary choice",
+      "Premium dates"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Asset mix describes portfolio allocation."
+  },
+  {
+    "id": 125,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "A balanced investor may prefer:",
+    "options": [
+      "A mix of growth and protection",
+      "Only highest risk",
+      "No investments",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Balanced approaches combine different objectives."
+  },
+  {
+    "id": 126,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "A portfolio manager may:",
+    "options": [
+      "Manage underlying investments",
+      "Guarantee profits",
+      "Change laws",
+      "Approve claims"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Portfolio managers manage investment selections."
+  },
+  {
+    "id": 127,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Investment choices should match:",
+    "options": [
+      "Client objectives and risk profile",
+      "Advisor commission",
+      "Market rumours",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Choices should be suitable for the client."
+  },
+  {
+    "id": 128,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Volatility means:",
+    "options": [
+      "Changes in investment value",
+      "Guaranteed growth",
+      "Contract ownership",
+      "Insurance fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Volatility describes price fluctuations."
+  },
+  {
+    "id": 129,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Market downturns may:",
+    "options": [
+      "Reduce investment values",
+      "Increase guarantees automatically",
+      "Remove contracts",
+      "Stop fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Markets can affect investment values."
+  },
+  {
+    "id": 130,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees provide:",
+    "options": [
+      "Specified protection",
+      "Unlimited returns",
+      "No contract rules",
+      "Market control"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees provide defined protection."
+  },
+  {
+    "id": 131,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Medium",
+    "question": "Guarantees should be explained with:",
+    "options": [
+      "Contract conditions",
+      "Predictions",
+      "Opinions",
+      "Advertisements"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contract details determine guarantees."
+  },
+  {
+    "id": 132,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Fees",
+    "difficulty": "Easy",
+    "question": "Fees are disclosed to:",
+    "options": [
+      "Help clients understand costs",
+      "Hide expenses",
+      "Increase returns",
+      "Remove risk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disclosure supports informed decisions."
+  },
+  {
+    "id": 133,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Lower fees may:",
+    "options": [
+      "Improve net returns",
+      "Guarantee profits",
+      "Remove market risk",
+      "Change beneficiaries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fees affect net investment results."
+  },
+  {
+    "id": 134,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Withdrawals",
+    "difficulty": "Easy",
+    "question": "A withdrawal is:",
+    "options": [
+      "Removing money from the contract",
+      "Adding a beneficiary",
+      "Changing markets",
+      "Buying insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Withdrawals remove contract value."
+  },
+  {
+    "id": 135,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Withdrawals",
+    "difficulty": "Medium",
+    "question": "Frequent withdrawals may affect:",
+    "options": [
+      "Contract guarantees",
+      "Advisor license",
+      "Government rules",
+      "Market operation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Withdrawals can reduce guarantees."
+  },
+  {
+    "id": 136,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "A beneficiary receives:",
+    "options": [
+      "Contract benefits",
+      "Investment control",
+      "Advisor income",
+      "Premium refunds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiaries receive benefits under the contract."
+  },
+  {
+    "id": 137,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Beneficiary choices should reflect:",
+    "options": [
+      "Client intentions",
+      "Market timing",
+      "Advisor preference",
+      "Advertising"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiary designation should follow client wishes."
+  },
+  {
+    "id": 138,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Estate Planning",
+    "difficulty": "Easy",
+    "question": "Estate planning involves:",
+    "options": [
+      "Planning asset transfer",
+      "Predicting markets",
+      "Removing insurance",
+      "Avoiding contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Estate planning organizes distribution of assets."
+  },
+  {
+    "id": 139,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Estate Planning",
+    "difficulty": "Medium",
+    "question": "Segregated funds may help because of:",
+    "options": [
+      "Insurance contract features",
+      "Stock ownership",
+      "Bank guarantees",
+      "Government payments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance features may support planning goals."
+  },
+  {
+    "id": 140,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Tax Features",
+    "difficulty": "Easy",
+    "question": "Tax rules may change:",
+    "options": [
+      "Over time",
+      "Never",
+      "By advisor choice",
+      "By market value"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax legislation can change."
+  },
+  {
+    "id": 141,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Tax Features",
+    "difficulty": "Medium",
+    "question": "Tax advice should come from:",
+    "options": [
+      "Qualified professionals when needed",
+      "Friends",
+      "Advertisements",
+      "Market reports"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Specialized advice may be required."
+  },
+  {
+    "id": 142,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should avoid:",
+    "options": [
+      "Misleading statements",
+      "Clear explanations",
+      "Documentation",
+      "Client reviews"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Misleading statements are unacceptable."
+  },
+  {
+    "id": 143,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Good documentation protects:",
+    "options": [
+      "Clients and advisors",
+      "Only markets",
+      "Only insurers",
+      "Only investments"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Records support accountability."
+  },
+  {
+    "id": 144,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "Premiums are:",
+    "options": [
+      "Payments made for the contract",
+      "Market returns",
+      "Beneficiary payments",
+      "Tax refunds"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums fund the insurance contract."
+  },
+  {
+    "id": 145,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Premium amount may affect:",
+    "options": [
+      "Contract value and guarantees",
+      "Market rules",
+      "Advisor license",
+      "Tax laws"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premiums can influence contract benefits."
+  },
+  {
+    "id": 146,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Segregated funds are:",
+    "options": [
+      "Insurance contracts with investments",
+      "Bank loans",
+      "Savings accounts only",
+      "Government programs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "They are insurance-based investment products."
+  },
+  {
+    "id": 147,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The main advantage of segregated funds is:",
+    "options": [
+      "Combination of investment and insurance features",
+      "No market changes",
+      "Unlimited returns",
+      "No costs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "They combine multiple features."
+  },
+  {
+    "id": 148,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Investment statements show:",
+    "options": [
+      "Account and investment information",
+      "Government rules",
+      "Advisor salary",
+      "Insurance claims only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Statements provide investment details."
+  },
+  {
+    "id": 149,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Reviewing statements helps clients:",
+    "options": [
+      "Monitor investments",
+      "Guarantee results",
+      "Remove risk",
+      "Avoid contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviews help track progress."
+  },
+  {
+    "id": 150,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Regular client reviews help:",
+    "options": [
+      "Keep recommendations suitable",
+      "Increase fees",
+      "Remove guarantees",
+      "Avoid documentation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviews help maintain suitability."
+  },
+  {
+    "id": 151,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Investment performance reports help clients:",
+    "options": [
+      "Understand investment progress",
+      "Guarantee returns",
+      "Remove fees",
+      "Change laws"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reports help clients monitor investments."
+  },
+  {
+    "id": 152,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "A client review should consider:",
+    "options": [
+      "Changing needs and objectives",
+      "Only market news",
+      "Only fees",
+      "Only age"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Client circumstances can change."
+  },
+  {
+    "id": 153,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Risk assessment helps determine:",
+    "options": [
+      "Suitable investments",
+      "Guaranteed profits",
+      "Contract dates",
+      "Tax rates"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk assessment supports suitable recommendations."
+  },
+  {
+    "id": 154,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Investment losses are possible because:",
+    "options": [
+      "Markets fluctuate",
+      "Contracts disappear",
+      "Fees stop",
+      "Guarantees fail always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Market changes can affect investment values."
+  },
+  {
+    "id": 155,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees are:",
+    "options": [
+      "Contract-based protections",
+      "Market promises",
+      "Advisor opinions",
+      "Predictions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees come from the insurance contract."
+  },
+  {
+    "id": 156,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Medium",
+    "question": "Clients should understand guarantee:",
+    "options": [
+      "Conditions and limitations",
+      "Only benefits",
+      "Only returns",
+      "Only fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees have specific conditions."
+  },
+  {
+    "id": 157,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "The contract contains:",
+    "options": [
+      "Rights and obligations",
+      "Stock prices",
+      "Tax laws only",
+      "Market forecasts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The contract defines responsibilities."
+  },
+  {
+    "id": 158,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Reading the contract helps avoid:",
+    "options": [
+      "Misunderstanding benefits",
+      "Investment growth",
+      "Client reviews",
+      "Documentation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Understanding terms is important."
+  },
+  {
+    "id": 159,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Fees",
+    "difficulty": "Easy",
+    "question": "Expense information should be:",
+    "options": [
+      "Available to clients",
+      "Hidden",
+      "Ignored",
+      "Changed secretly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients should receive cost information."
+  },
+  {
+    "id": 160,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Understanding fees helps clients:",
+    "options": [
+      "Compare products properly",
+      "Guarantee returns",
+      "Avoid investments",
+      "Remove taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fee awareness supports decisions."
+  },
+  {
+    "id": 161,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Fair dealing means:",
+    "options": [
+      "Treating clients honestly",
+      "Promising results",
+      "Hiding information",
+      "Ignoring concerns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fair treatment is a professional obligation."
+  },
+  {
+    "id": 162,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor should explain:",
+    "options": [
+      "Product limitations",
+      "Only advantages",
+      "Only commissions",
+      "Only risks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need balanced information."
+  },
+  {
+    "id": 163,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "Beneficiary changes should be:",
+    "options": [
+      "Properly documented",
+      "Ignored",
+      "Secret from everyone",
+      "Automatic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Changes require proper procedures."
+  },
+  {
+    "id": 164,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Beneficiary planning is part of:",
+    "options": [
+      "Estate planning",
+      "Market timing",
+      "Tax avoidance only",
+      "Investment trading"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiary choices support estate goals."
+  },
+  {
+    "id": 165,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Estate Planning",
+    "difficulty": "Easy",
+    "question": "Estate planning considers:",
+    "options": [
+      "Future transfer of assets",
+      "Daily market prices",
+      "Advisor income",
+      "Fees only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "It focuses on asset distribution."
+  },
+  {
+    "id": 166,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Estate Planning",
+    "difficulty": "Medium",
+    "question": "Segregated funds may be attractive for:",
+    "options": [
+      "Certain estate planning goals",
+      "Only short-term borrowing",
+      "Only businesses",
+      "No investors"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some features support estate planning."
+  },
+  {
+    "id": 167,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Tax Features",
+    "difficulty": "Easy",
+    "question": "Tax rules apply according to:",
+    "options": [
+      "Current legislation",
+      "Advisor preference",
+      "Market movement",
+      "Client wishes only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax treatment follows laws."
+  },
+  {
+    "id": 168,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Tax Features",
+    "difficulty": "Medium",
+    "question": "Tax information should be:",
+    "options": [
+      "Accurate and current",
+      "Ignored",
+      "Estimated randomly",
+      "Hidden"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accurate information is important."
+  },
+  {
+    "id": 169,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Segregated funds include:",
+    "options": [
+      "An insurance component",
+      "Only stocks",
+      "Only bonds",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The insurance component distinguishes them."
+  },
+  {
+    "id": 170,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The insurer's guarantee is:",
+    "options": [
+      "Defined in the contract",
+      "A market prediction",
+      "An advisor promise",
+      "Unlimited"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees are contractual."
+  },
+  {
+    "id": 171,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Clients invest according to:",
+    "options": [
+      "Selected investment options",
+      "Random choices",
+      "Government instructions",
+      "Advisor income"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients choose available options based on needs."
+  },
+  {
+    "id": 172,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Investment strategy should consider:",
+    "options": [
+      "Goals and risk tolerance",
+      "Only returns",
+      "Only fees",
+      "Only markets"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strategy should match client circumstances."
+  },
+  {
+    "id": 173,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Risk tolerance can change because of:",
+    "options": [
+      "Life circumstances",
+      "Market colours",
+      "Product names",
+      "Fees only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Client situations may change."
+  },
+  {
+    "id": 174,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "Regular reviews help identify:",
+    "options": [
+      "Changes in client needs",
+      "Guaranteed profits",
+      "New laws only",
+      "No risks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviews keep advice suitable."
+  },
+  {
+    "id": 175,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "An advisor must maintain:",
+    "options": [
+      "Professional standards",
+      "Market control",
+      "Guaranteed results",
+      "Secret fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Professional standards are required."
+  },
+  {
+    "id": 176,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Easy",
+    "question": "Understanding risk helps clients:",
+    "options": [
+      "Make suitable investment decisions",
+      "Guarantee profits",
+      "Avoid all markets",
+      "Remove contracts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Risk awareness supports better decisions."
+  },
+  {
+    "id": 177,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Risk",
+    "difficulty": "Medium",
+    "question": "A client's investment decision should consider:",
+    "options": [
+      "Risk tolerance and objectives",
+      "Only market news",
+      "Only fees",
+      "Only guarantees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Investment decisions should match client circumstances."
+  },
+  {
+    "id": 178,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "The insurance contract contains:",
+    "options": [
+      "Terms and conditions",
+      "Market predictions",
+      "Government policies",
+      "Advisor opinions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The contract defines rights and obligations."
+  },
+  {
+    "id": 179,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Contract limitations should be:",
+    "options": [
+      "Explained clearly",
+      "Ignored",
+      "Hidden",
+      "Removed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients should understand limitations."
+  },
+  {
+    "id": 180,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees apply:",
+    "options": [
+      "According to contract terms",
+      "In every situation",
+      "Without conditions",
+      "Only during growth"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantees depend on the contract."
+  },
+  {
+    "id": 181,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Guarantees",
+    "difficulty": "Medium",
+    "question": "A guarantee review should include:",
+    "options": [
+      "Dates, amounts, and conditions",
+      "Only returns",
+      "Only fees",
+      "Only risks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantee details should be reviewed."
+  },
+  {
+    "id": 182,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Investment choices should be:",
+    "options": [
+      "Appropriate for client goals",
+      "Based on rumours",
+      "Selected randomly",
+      "Always aggressive"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability is important."
+  },
+  {
+    "id": 183,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Changing investment choices may affect:",
+    "options": [
+      "Portfolio performance and risk",
+      "Contract ownership",
+      "Government rules",
+      "Beneficiary identity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Investment changes affect outcomes."
+  },
+  {
+    "id": 184,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Fees",
+    "difficulty": "Easy",
+    "question": "Clients should know:",
+    "options": [
+      "All applicable fees",
+      "Only profits",
+      "Only guarantees",
+      "Nothing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fee awareness is important."
+  },
+  {
+    "id": 185,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees should be compared with:",
+    "options": [
+      "Product benefits and services",
+      "Market rumours",
+      "Advisor income",
+      "Government programs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients should evaluate value received."
+  },
+  {
+    "id": 186,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor must:",
+    "options": [
+      "Provide honest information",
+      "Guarantee returns",
+      "Hide risks",
+      "Ignore clients"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Honesty is a professional obligation."
+  },
+  {
+    "id": 187,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Good communication includes:",
+    "options": [
+      "Explaining risks and benefits",
+      "Only selling",
+      "Avoiding questions",
+      "Making promises"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Clients need complete explanations."
+  },
+  {
+    "id": 188,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Client needs should be:",
+    "options": [
+      "Reviewed regularly",
+      "Ignored",
+      "Assumed",
+      "Hidden"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Regular reviews help maintain suitability."
+  },
+  {
+    "id": 189,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Beneficiary designations can be:",
+    "options": [
+      "Changed according to contract rules",
+      "Changed secretly",
+      "Ignored forever",
+      "Guaranteed returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Changes follow contract requirements."
+  },
+  {
+    "id": 190,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Estate Planning",
+    "difficulty": "Easy",
+    "question": "Estate planning goals include:",
+    "options": [
+      "Organizing asset transfer",
+      "Predicting markets",
+      "Removing investments",
+      "Avoiding advice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Estate planning organizes distribution."
+  },
+  {
+    "id": 191,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Tax Features",
+    "difficulty": "Medium",
+    "question": "Tax considerations may affect:",
+    "options": [
+      "Investment decisions",
+      "Market prices",
+      "Insurance guarantees",
+      "Advisor licenses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tax rules may influence planning."
+  },
+  {
+    "id": 192,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Segregated funds are offered by:",
+    "options": [
+      "Insurance companies",
+      "Stock exchanges",
+      "Government offices",
+      "Employers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance companies offer segregated funds."
+  },
+  {
+    "id": 193,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "Segregated funds are different from regular investments because of:",
+    "options": [
+      "Insurance guarantees",
+      "No investments",
+      "No contracts",
+      "No fees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "They include insurance features."
+  },
+  {
+    "id": 194,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Easy",
+    "question": "Investment returns are affected by:",
+    "options": [
+      "Market performance",
+      "Beneficiary choice",
+      "Contract paperwork",
+      "Advisor location"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Markets affect investment returns."
+  },
+  {
+    "id": 195,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Investment Features",
+    "difficulty": "Medium",
+    "question": "Investors should review:",
+    "options": [
+      "Performance and objectives",
+      "Only returns",
+      "Only fees",
+      "Only guarantees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reviews compare results with goals."
+  },
+  {
+    "id": 196,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Easy",
+    "question": "Premium payments are required according to:",
+    "options": [
+      "Contract terms",
+      "Market rumours",
+      "Advisor choice",
+      "Government wishes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premium requirements are stated in the contract."
+  },
+  {
+    "id": 197,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Contract Features",
+    "difficulty": "Medium",
+    "question": "Failing to meet contract requirements may:",
+    "options": [
+      "Affect benefits",
+      "Increase guarantees",
+      "Remove fees",
+      "Improve returns"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Contract conditions must be followed."
+  },
+  {
+    "id": 198,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "An advisor should recommend:",
+    "options": [
+      "Suitable products",
+      "Highest commission products",
+      "Random products",
+      "Only popular products"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations must be suitable."
+  },
+  {
+    "id": 199,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Professional Conduct",
+    "difficulty": "Medium",
+    "question": "Client documentation should show:",
+    "options": [
+      "Reasons for recommendations",
+      "Only sales numbers",
+      "Only fees",
+      "Market predictions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Documentation supports suitability."
+  },
+  {
+    "id": 200,
+    "moduleId": "segregated",
+    "moduleName": "Segregated Funds",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "The purpose of segregated funds is to:",
+    "options": [
+      "Provide investment options with insurance protection",
+      "Guarantee all profits",
+      "Remove all risk",
+      "Replace every insurance product"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segregated funds combine investment opportunities with insurance protection."
+  }
+]
