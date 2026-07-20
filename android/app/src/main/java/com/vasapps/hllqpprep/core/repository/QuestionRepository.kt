@@ -65,4 +65,26 @@ object QuestionRepository {
 
     }
 
+
+    fun getAllQuestions(
+        context: Context
+    ): List<Question> {
+
+        return listOf(
+            "life",
+            "accident",
+            "segregated",
+            "annuities",
+            "ethics"
+        ).flatMap {
+
+            getQuestions(
+                context,
+                it
+            )
+
+        }
+
+    }
+
 }

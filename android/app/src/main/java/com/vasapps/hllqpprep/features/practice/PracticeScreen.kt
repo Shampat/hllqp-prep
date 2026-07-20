@@ -17,7 +17,7 @@ import com.vasapps.hllqpprep.core.utils.ProgressManager
 
 @Composable
 fun PracticeScreen(
-    selectedModule: String,
+    mode: PracticeMode,
     onBack: () -> Unit
 ) {
 
@@ -26,7 +26,19 @@ fun PracticeScreen(
 
     val scope = rememberCoroutineScope()
 
-    val questions = QuestionRepository.getQuestions(context, selectedModule)
+    val questions =
+        when (mode) {
+
+            is PracticeMode.Module ->
+                QuestionRepository.getQuestions(
+                    context,
+                    mode.moduleId
+                )
+
+            is PracticeMode.MockExam ->
+                mode.questions
+
+        }
 
 
     var state by remember {
@@ -35,6 +47,11 @@ fun PracticeScreen(
 
 
     var completed by remember {
+        mutableStateOf(false)
+    }
+
+
+    var showFinishWarning by remember {
         mutableStateOf(false)
     }
 
@@ -56,7 +73,12 @@ fun PracticeScreen(
 
 
             Text(
-                text = "Practice Complete",
+                text =
+                    if (mode is PracticeMode.MockExam)
+                        "Mock Exam Complete"
+                    else
+                        "Practice Complete",
+
                 style = MaterialTheme.typography.headlineMedium
             )
 
@@ -64,7 +86,14 @@ fun PracticeScreen(
             Text(
                 text =
                     "Score: ${state.score}/${questions.size}",
+
                 style = MaterialTheme.typography.titleLarge
+            )
+
+
+            Text(
+                text =
+                    "Accuracy: ${(state.score * 100) / questions.size}%"
             )
 
 
@@ -103,6 +132,81 @@ fun PracticeScreen(
 
 
         return
+
+    }
+
+
+
+    if (showFinishWarning) {
+
+        AlertDialog(
+
+            onDismissRequest = {
+                showFinishWarning = false
+            },
+
+            title = {
+                Text("Unanswered Questions")
+            },
+
+            text = {
+
+                Text(
+                    "Answered: ${state.answeredCount}/${questions.size}"
+                )
+
+            },
+
+            confirmButton = {
+
+                Button(
+                    onClick = {
+
+                        completed = true
+                        showFinishWarning = false
+
+                    }
+                ) {
+
+                    Text("Finish Anyway")
+
+                }
+
+            },
+
+            dismissButton = {
+
+                Button(
+                    onClick = {
+
+                        val first =
+                            state.firstUnanswered(
+                                questions.size
+                            )
+
+                        if (first != null) {
+
+                            state =
+                                state.copy(
+                                    currentQuestion = first,
+                                    selectedAnswer = null,
+                                    answered = false
+                                )
+
+                        }
+
+                        showFinishWarning = false
+
+                    }
+                ) {
+
+                    Text("Review")
+
+                }
+
+            }
+
+        )
 
     }
 
@@ -160,12 +264,29 @@ fun PracticeScreen(
         )
 
 
+        if (!state.answers.containsKey(state.currentQuestion)) {
+
+            Text(
+                text = "⚠ Needs Review",
+                style = MaterialTheme.typography.labelLarge
+            )
+
+        }
+
+
         LinearProgressIndicator(
             progress = {
                 (state.currentQuestion + 1).toFloat() /
                 questions.size.toFloat()
             },
             modifier = Modifier.fillMaxWidth()
+        )
+
+
+        Text(
+            text =
+                "Answered: ${state.answeredCount} / ${questions.size}",
+            style = MaterialTheme.typography.bodyMedium
         )
 
 
@@ -500,7 +621,15 @@ fun PracticeScreen(
                     ) {
 
 
-                        completed = true
+                        if (state.answeredCount < questions.size) {
+
+                            showFinishWarning = true
+
+                        } else {
+
+                            completed = true
+
+                        }
 
 
                     }

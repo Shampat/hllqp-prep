@@ -9,17 +9,22 @@ import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.foundation.layout.padding
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
 
 import com.vasapps.hllqpprep.features.home.HomeScreen
 import com.vasapps.hllqpprep.features.practiceSetup.PracticeSetupScreen
 import com.vasapps.hllqpprep.features.module.ModuleScreen
 import com.vasapps.hllqpprep.features.practice.PracticeScreen
+import com.vasapps.hllqpprep.features.practice.PracticeMode
 import com.vasapps.hllqpprep.features.mockexam.MockExamScreen
 import com.vasapps.hllqpprep.features.flashcards.FlashcardsScreen
+import com.vasapps.hllqpprep.core.repository.QuestionRepository
 
 
 @Composable
 fun AppNavigation() {
+
+    val context = LocalContext.current
 
     var selectedTab by remember {
         mutableStateOf(0)
@@ -33,6 +38,11 @@ fun AppNavigation() {
 
     var selectedModule by remember {
         mutableStateOf("")
+    }
+
+
+    var mockQuestions by remember {
+        mutableStateOf(emptyList<com.vasapps.hllqpprep.core.model.Question>())
     }
 
 
@@ -118,6 +128,12 @@ fun AppNavigation() {
                     HomeScreen(
                         onPracticeClick = {
                             selectedTab = 1
+                        },
+                        onMockExamClick = {
+                            selectedTab = 2
+                        },
+                        onFlashcardsClick = {
+                            selectedTab = 3
                         }
                     )
 
@@ -173,7 +189,7 @@ fun AppNavigation() {
                         "practice" -> {
 
                             PracticeScreen(
-                                selectedModule = selectedModule,
+                                mode = PracticeMode.Module(selectedModule),
 
                                 onBack = {
                                     practiceFlow = "module"
@@ -191,7 +207,33 @@ fun AppNavigation() {
 
                 2 -> {
 
-                    MockExamScreen()
+                    if (mockQuestions.isEmpty()) {
+
+                        MockExamScreen(
+                            onStartExam = {
+
+                                mockQuestions =
+                                    QuestionRepository
+                                        .getAllQuestions(
+                                            context
+                                        )
+                                        .shuffled()
+                                        .take(10)
+
+                            }
+                        )
+
+                    } else {
+
+                        PracticeScreen(
+                            mode = PracticeMode.MockExam(mockQuestions),
+
+                            onBack = {
+                                mockQuestions = emptyList()
+                            }
+                        )
+
+                    }
 
                 }
 

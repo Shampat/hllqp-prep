@@ -16,4 +16,17 @@ data class PracticeState(
     // store answers for previous questions
     val answers: Map<Int, Int> = emptyMap()
 
-)
+) {
+
+    val answeredCount: Int
+        get() = answers.size
+
+
+    fun firstUnanswered(totalQuestions: Int): Int? {
+
+        return (0 until totalQuestions)
+            .firstOrNull { !answers.containsKey(it) }
+
+    }
+
+}
