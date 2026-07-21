@@ -13,12 +13,19 @@ fun PracticeSetupScreen(
     onStartPractice: () -> Unit
 ) {
 
+
     Column(
-        modifier = Modifier
-            .fillMaxSize()
-            .padding(24.dp),
-        verticalArrangement = Arrangement.spacedBy(20.dp)
+
+        modifier =
+            Modifier
+                .fillMaxSize()
+                .padding(24.dp),
+
+        verticalArrangement =
+            Arrangement.spacedBy(20.dp)
+
     ) {
+
 
 
         Button(
@@ -30,25 +37,109 @@ fun PracticeSetupScreen(
         }
 
 
-        Text(
-            text = "Practice Setup",
-            style = MaterialTheme.typography.headlineMedium
-        )
 
 
         Text(
-            text = "Choose your exam settings"
+
+            text =
+                "Practice Setup",
+
+            style =
+                MaterialTheme.typography.headlineMedium
+
         )
 
 
-        Button(
-            onClick = onStartPractice,
-            modifier = Modifier.fillMaxWidth()
+
+        Text(
+
+            text =
+                "Prepare by module with focused practice questions.",
+
+            style =
+                MaterialTheme.typography.bodyLarge
+
+        )
+
+
+
+
+        Card(
+
+            modifier =
+                Modifier.fillMaxWidth()
+
         ) {
 
-            Text("Start Practice")
+
+
+            Column(
+
+                modifier =
+                    Modifier.padding(20.dp),
+
+                verticalArrangement =
+                    Arrangement.spacedBy(10.dp)
+
+            ) {
+
+
+
+                Text(
+
+                    text =
+                        "Practice Mode",
+
+                    style =
+                        MaterialTheme.typography.titleMedium
+
+                )
+
+
+
+                Text(
+                    "• Instant explanations"
+                )
+
+
+                Text(
+                    "• Track your progress"
+                )
+
+
+                Text(
+                    "• Review difficult questions"
+                )
+
+
+            }
+
 
         }
 
+
+
+
+
+        Button(
+
+            onClick =
+                onStartPractice,
+
+            modifier =
+                Modifier.fillMaxWidth()
+
+        ) {
+
+
+            Text(
+                "Start Practice"
+            )
+
+
+        }
+
+
     }
+
 }

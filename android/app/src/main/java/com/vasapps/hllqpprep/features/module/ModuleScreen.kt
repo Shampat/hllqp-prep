@@ -17,19 +17,26 @@ fun ModuleScreen(
 ) {
 
 
-    val modules = ModuleRepository.getModules()
+    val modules =
+        ModuleRepository.getModules()
+
 
 
     Column(
 
-        modifier = Modifier
-            .fillMaxSize()
-            .padding(24.dp)
-            .verticalScroll(rememberScrollState()),
+        modifier =
+            Modifier
+                .fillMaxSize()
+                .padding(24.dp)
+                .verticalScroll(
+                    rememberScrollState()
+                ),
 
-        verticalArrangement = Arrangement.spacedBy(16.dp)
+        verticalArrangement =
+            Arrangement.spacedBy(16.dp)
 
     ) {
+
 
 
         Button(
@@ -41,41 +48,99 @@ fun ModuleScreen(
         }
 
 
+
+
         Text(
-            text = "Select HLLQP Module",
-            style = MaterialTheme.typography.headlineMedium
+
+            text =
+                "Choose Your Study Module",
+
+            style =
+                MaterialTheme.typography.headlineMedium
+
         )
+
+
+
+        Text(
+
+            text =
+                "Practice questions and review concepts by HLLQP section.",
+
+            style =
+                MaterialTheme.typography.bodyLarge
+
+        )
+
+
 
 
         modules.forEach { module ->
 
 
+
             Card(
 
-                modifier = Modifier.fillMaxWidth(),
+                modifier =
+                    Modifier.fillMaxWidth(),
 
                 onClick = {
 
                     onModuleSelected(module.id)
 
-                }
+                },
+
+                colors =
+                    CardDefaults.cardColors()
 
             ) {
 
 
+
                 Column(
-                    modifier = Modifier.padding(20.dp)
+
+                    modifier =
+                        Modifier.padding(20.dp),
+
+                    verticalArrangement =
+                        Arrangement.spacedBy(8.dp)
+
                 ) {
 
 
+
                     Text(
-                        text = module.name,
-                        style = MaterialTheme.typography.titleMedium
+
+                        text =
+                            module.name,
+
+                        style =
+                            MaterialTheme.typography.titleLarge
+
                     )
 
 
+
                     Text(
-                        text = module.description
+
+                        text =
+                            module.description,
+
+                        style =
+                            MaterialTheme.typography.bodyMedium
+
+                    )
+
+
+
+                    Text(
+
+                        text =
+                            "Start Practice →",
+
+                        style =
+                            MaterialTheme.typography.labelLarge
+
                     )
 
 

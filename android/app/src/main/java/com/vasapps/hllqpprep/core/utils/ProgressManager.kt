@@ -3,6 +3,8 @@ package com.vasapps.hllqpprep.core.utils
 import android.content.Context
 import androidx.datastore.preferences.core.edit
 import androidx.datastore.preferences.core.intPreferencesKey
+import androidx.datastore.preferences.core.stringPreferencesKey
+import androidx.datastore.preferences.core.stringSetPreferencesKey
 import androidx.datastore.preferences.preferencesDataStore
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
@@ -18,6 +20,26 @@ object ProgressManager {
 
     private val TOTAL_CORRECT =
         intPreferencesKey("total_correct")
+
+
+    private val PRACTICE_MODULE =
+        stringPreferencesKey("practice_module")
+
+
+    private val PRACTICE_INDEX =
+        intPreferencesKey("practice_question_index")
+
+
+    private val FLASHCARD_MODULE =
+        stringPreferencesKey("flashcard_module")
+
+
+    private val FLASHCARD_INDEX =
+        intPreferencesKey("flashcard_index")
+
+
+    private val WRONG_QUESTIONS =
+        stringSetPreferencesKey("wrong_questions")
 
 
     suspend fun saveAnswer(
@@ -58,4 +80,160 @@ object ProgressManager {
             )
         }
     }
+
+
+    suspend fun savePracticePosition(
+        context: Context,
+        moduleId: String,
+        questionIndex: Int
+    ) {
+
+        context.dataStore.edit { prefs ->
+
+            prefs[PRACTICE_MODULE] = moduleId
+
+            prefs[PRACTICE_INDEX] = questionIndex
+
+        }
+
+    }
+
+
+
+    fun getPracticeModule(
+        context: Context
+    ): Flow<Pair<String?, Int?>> {
+
+        return context.dataStore.data.map { prefs ->
+
+            Pair(
+                prefs[PRACTICE_MODULE],
+                prefs[PRACTICE_INDEX]
+            )
+
+        }
+
+    }
+
+
+
+    suspend fun clearPracticePosition(
+        context: Context
+    ) {
+
+        context.dataStore.edit { prefs ->
+
+            prefs.remove(PRACTICE_MODULE)
+
+            prefs.remove(PRACTICE_INDEX)
+
+        }
+
+    }
+
+
+    suspend fun saveFlashcardPosition(
+        context: Context,
+        moduleId: String,
+        index: Int
+    ) {
+
+        context.dataStore.edit { prefs ->
+
+            prefs[FLASHCARD_MODULE] =
+                moduleId
+
+
+            prefs[FLASHCARD_INDEX] =
+                index
+
+        }
+
+    }
+
+
+
+    fun getFlashcardPosition(
+        context: Context
+    ): Flow<Pair<String?, Int?>> {
+
+        return context.dataStore.data.map { prefs ->
+
+            Pair(
+                prefs[FLASHCARD_MODULE],
+                prefs[FLASHCARD_INDEX]
+            )
+
+        }
+
+    }
+
+
+
+
+
+    suspend fun saveWrongAnswer(
+        context: Context,
+        questionId: Int
+    ) {
+
+        context.dataStore.edit { prefs ->
+
+
+            val current =
+                prefs[WRONG_QUESTIONS]
+                    ?: emptySet()
+
+
+            prefs[WRONG_QUESTIONS] =
+                current + questionId.toString()
+
+        }
+
+    }
+
+
+
+    fun getWrongAnswers(
+        context: Context
+    ): Flow<Set<Int>> {
+
+
+        return context.dataStore.data.map { prefs ->
+
+
+            prefs[WRONG_QUESTIONS]
+                ?.map { it.toInt() }
+                ?.toSet()
+                ?: emptySet()
+
+
+        }
+
+    }
+
+
+
+    suspend fun removeWrongAnswer(
+        context: Context,
+        questionId: Int
+    ) {
+
+        context.dataStore.edit { prefs ->
+
+
+            val current =
+                prefs[WRONG_QUESTIONS]
+                    ?: emptySet()
+
+
+            prefs[WRONG_QUESTIONS] =
+                current - questionId.toString()
+
+
+        }
+
+    }
+
+
 }

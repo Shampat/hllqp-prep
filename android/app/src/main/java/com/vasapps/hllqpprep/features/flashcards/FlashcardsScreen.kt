@@ -6,12 +6,14 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
+import kotlinx.coroutines.launch
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 
 import com.vasapps.hllqpprep.core.repository.ModuleRepository
 import com.vasapps.hllqpprep.core.repository.QuestionRepository
+import com.vasapps.hllqpprep.core.utils.ProgressManager
 import com.vasapps.hllqpprep.core.model.Question
 
 
@@ -19,6 +21,9 @@ import com.vasapps.hllqpprep.core.model.Question
 fun FlashcardsScreen() {
 
     val context = LocalContext.current
+
+
+    val scope = rememberCoroutineScope()
 
     var selectedModule by remember {
         mutableStateOf<String?>(null)
@@ -35,6 +40,100 @@ fun FlashcardsScreen() {
     var revealed by remember {
         mutableStateOf(false)
     }
+
+
+    var showResumeDialog by remember {
+        mutableStateOf(false)
+    }
+
+
+    var resumeCard by remember {
+        mutableStateOf<Int?>(null)
+    }
+
+
+    if (showResumeDialog) {
+
+
+        AlertDialog(
+
+            onDismissRequest = {
+
+                showResumeDialog = false
+
+            },
+
+
+            title = {
+
+                Text("Continue Flashcards?")
+
+            },
+
+
+            text = {
+
+                Text(
+                    "You stopped at Card ${(resumeCard ?: 0) + 1}."
+                )
+
+            },
+
+
+            confirmButton = {
+
+
+                Button(
+
+                    onClick = {
+
+
+                        current =
+                            resumeCard ?: 0
+
+
+                        showResumeDialog =
+                            false
+
+
+                    }
+
+                ) {
+
+                    Text("Continue")
+
+                }
+
+
+            },
+
+
+            dismissButton = {
+
+
+                Button(
+
+                    onClick = {
+
+                        showResumeDialog =
+                            false
+
+                    }
+
+                ) {
+
+                    Text("Start Again")
+
+                }
+
+            }
+
+        )
+
+
+    }
+
+
 
 
     Column(
@@ -106,10 +205,31 @@ fun FlashcardsScreen() {
                     questions[current]
 
 
-                Card(
+                Text(
+                    text =
+                        "Card ${current + 1} / ${questions.size}",
+
+                    style =
+                        MaterialTheme.typography.titleSmall
+                )
+
+
+                LinearProgressIndicator(
+                    progress = {
+                        (current + 1).toFloat() /
+                        questions.size.toFloat()
+                    },
 
                     modifier =
                         Modifier.fillMaxWidth()
+                )
+
+
+                Card(
+
+                    modifier =
+                        Modifier
+                            .fillMaxWidth()
                             .clickable {
 
                                 revealed = !revealed
@@ -120,36 +240,71 @@ fun FlashcardsScreen() {
 
 
                     Column(
+
                         modifier =
-                            Modifier.padding(20.dp)
+                            Modifier.padding(20.dp),
+
+                        verticalArrangement =
+                            Arrangement.spacedBy(12.dp)
+
                     ) {
 
 
-                        Text(question.question)
-
-
-                        Spacer(
-                            Modifier.height(16.dp)
+                        Text(
+                            text = "QUESTION",
+                            style =
+                                MaterialTheme.typography.labelLarge
                         )
+
+
+                        Text(
+                            text = question.question,
+                            style =
+                                MaterialTheme.typography.titleMedium
+                        )
+
+
+                        if (!revealed) {
+
+                            Text(
+                                text = "Tap card to reveal answer",
+                                style =
+                                    MaterialTheme.typography.bodyMedium
+                            )
+
+                        }
+
 
 
                         if (revealed) {
 
+
                             Text(
-                                "Answer: " +
-                                question.options[
-                                    question.correctAnswer
-                                ]
-                            )
-
-
-                            Spacer(
-                                Modifier.height(10.dp)
+                                text = "ANSWER",
+                                style =
+                                    MaterialTheme.typography.labelLarge
                             )
 
 
                             Text(
-                                question.explanation
+                                text =
+                                    question.options[
+                                        question.correctAnswer
+                                    ]
+                            )
+
+
+
+                            Text(
+                                text = "EXPLANATION",
+                                style =
+                                    MaterialTheme.typography.labelLarge
+                            )
+
+
+                            Text(
+                                text =
+                                    question.explanation
                             )
 
                         }
@@ -166,11 +321,44 @@ fun FlashcardsScreen() {
 
                     onClick = {
 
-                        current =
+
+                        val nextCard =
                             (current + 1) %
                             questions.size
 
+
+
+                        if (selectedModule != null) {
+
+
+                            scope.launch {
+
+
+                                ProgressManager.saveFlashcardPosition(
+
+                                    context,
+
+                                    selectedModule!!,
+
+                                    nextCard
+
+                                )
+
+
+                            }
+
+
+                        }
+
+
+
+                        current =
+                            nextCard
+
+
+
                         revealed = false
+
 
                     }
 

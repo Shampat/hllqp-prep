@@ -1,5 +1,6 @@
 package com.vasapps.hllqpprep.features.practice
 
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
@@ -54,6 +55,147 @@ fun PracticeScreen(
     var showFinishWarning by remember {
         mutableStateOf(false)
     }
+
+
+    var showResumeDialog by remember {
+        mutableStateOf(false)
+    }
+
+
+    var resumeIndex by remember {
+        mutableStateOf<Int?>(null)
+    }
+
+
+
+    LaunchedEffect(Unit) {
+
+        if (mode is PracticeMode.Module) {
+
+            ProgressManager
+                .getPracticeModule(context)
+                .collect { saved ->
+
+
+                    val savedModule =
+                        saved.first
+
+
+                    val savedQuestion =
+                        saved.second
+
+
+
+                    if (
+                        savedModule == mode.moduleId &&
+                        savedQuestion != null &&
+                        savedQuestion > 0
+                    ) {
+
+                        resumeIndex =
+                            savedQuestion
+
+
+                        showResumeDialog =
+                            true
+
+                    }
+
+                }
+
+        }
+
+    }
+
+
+
+    if (showResumeDialog) {
+
+
+        AlertDialog(
+
+            onDismissRequest = {
+
+                showResumeDialog = false
+
+            },
+
+
+            title = {
+
+                Text("Continue Practice?")
+
+            },
+
+
+            text = {
+
+                Text(
+                    "You stopped at Question ${(resumeIndex ?: 0) + 1}."
+                )
+
+            },
+
+
+            confirmButton = {
+
+
+                Button(
+
+                    onClick = {
+
+
+                        state =
+                            state.copy(
+
+                                currentQuestion =
+                                    resumeIndex ?: 0
+
+                            )
+
+
+                        showResumeDialog = false
+
+
+                    }
+
+                ) {
+
+                    Text("Continue")
+
+                }
+
+
+            },
+
+
+            dismissButton = {
+
+
+                Button(
+
+                    onClick = {
+
+                        showResumeDialog = false
+
+                    }
+
+                ) {
+
+
+                    Text("Start Again")
+
+                }
+
+
+            }
+
+
+        )
+
+
+    }
+
 
 
 
@@ -248,7 +390,13 @@ fun PracticeScreen(
 
 
         Text(
-            text = "Topic: ${question.topic}    •    Difficulty: ${question.difficulty}",
+            text = question.topic,
+            style = MaterialTheme.typography.titleMedium
+        )
+
+
+        Text(
+            text = "Difficulty: ${question.difficulty}",
             style = MaterialTheme.typography.bodyMedium
         )
 
@@ -258,36 +406,52 @@ fun PracticeScreen(
         )
 
 
-        Text(
-            text = "Question ${state.currentQuestion + 1} of ${questions.size}",
-            style = MaterialTheme.typography.labelLarge
-        )
+        Card(
+            modifier = Modifier.fillMaxWidth()
+        ) {
+
+            Column(
+                modifier = Modifier.padding(16.dp),
+                verticalArrangement = Arrangement.spacedBy(8.dp)
+            ) {
 
 
-        if (!state.answers.containsKey(state.currentQuestion)) {
+                Text(
+                    text = "Question ${state.currentQuestion + 1} of ${questions.size}",
+                    style = MaterialTheme.typography.titleSmall
+                )
 
-            Text(
-                text = "⚠ Needs Review",
-                style = MaterialTheme.typography.labelLarge
-            )
+
+                Text(
+                    text =
+                        "Answered: ${state.answeredCount} / ${questions.size}",
+
+                    style =
+                        MaterialTheme.typography.bodyMedium
+                )
+
+
+                if (!state.answers.containsKey(state.currentQuestion)) {
+
+                    Text(
+                        text = "⚠ Needs Review",
+                        style = MaterialTheme.typography.labelLarge
+                    )
+
+                }
+
+
+                LinearProgressIndicator(
+                    progress = {
+                        (state.currentQuestion + 1).toFloat() /
+                        questions.size.toFloat()
+                    },
+                    modifier = Modifier.fillMaxWidth()
+                )
+
+            }
 
         }
-
-
-        LinearProgressIndicator(
-            progress = {
-                (state.currentQuestion + 1).toFloat() /
-                questions.size.toFloat()
-            },
-            modifier = Modifier.fillMaxWidth()
-        )
-
-
-        Text(
-            text =
-                "Answered: ${state.answeredCount} / ${questions.size}",
-            style = MaterialTheme.typography.bodyMedium
-        )
 
 
         Spacer(
@@ -383,18 +547,32 @@ fun PracticeScreen(
             ) {
 
 
-                Text(
-
-                    text =
-                        "${('A'.code + index).toChar()}. $option",
-
+                Row(
                     modifier =
                         Modifier.padding(20.dp),
 
-                    style =
-                        MaterialTheme.typography.bodyLarge
+                    horizontalArrangement =
+                        Arrangement.spacedBy(12.dp)
 
-                )
+                ) {
+
+                    Text(
+                        text =
+                            "${('A'.code + index).toChar()}",
+
+                        style =
+                            MaterialTheme.typography.titleMedium
+                    )
+
+
+                    Text(
+                        text = option,
+
+                        style =
+                            MaterialTheme.typography.bodyLarge
+                    )
+
+                }
 
             }
 
@@ -419,6 +597,26 @@ fun PracticeScreen(
                     val correct =
                         state.selectedAnswer ==
                                 question.correctAnswer
+
+
+
+                    if (!correct) {
+
+
+                        scope.launch {
+
+
+                            ProgressManager.saveWrongAnswer(
+                                context,
+                                question.id
+                            )
+
+
+                        }
+
+
+                    }
+
 
 
                     scope.launch {
@@ -639,6 +837,23 @@ fun PracticeScreen(
 
                         val next =
                             state.currentQuestion + 1
+
+
+
+                        if (mode is PracticeMode.Module) {
+
+                            scope.launch {
+
+                                ProgressManager.savePracticePosition(
+                                    context,
+                                    mode.moduleId,
+                                    next
+                                )
+
+                            }
+
+                        }
+
 
 
                         state =

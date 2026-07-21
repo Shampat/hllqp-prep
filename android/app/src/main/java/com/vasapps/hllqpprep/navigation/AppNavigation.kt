@@ -18,6 +18,7 @@ import com.vasapps.hllqpprep.features.practice.PracticeScreen
 import com.vasapps.hllqpprep.features.practice.PracticeMode
 import com.vasapps.hllqpprep.features.mockexam.MockExamScreen
 import com.vasapps.hllqpprep.features.flashcards.FlashcardsScreen
+import com.vasapps.hllqpprep.features.review.ReviewWrongAnswersScreen
 import com.vasapps.hllqpprep.core.repository.QuestionRepository
 
 
@@ -33,6 +34,11 @@ fun AppNavigation() {
 
     var practiceFlow by remember {
         mutableStateOf("none")
+    }
+
+
+    var showReview by remember {
+        mutableStateOf(false)
     }
 
 
@@ -125,6 +131,24 @@ fun AppNavigation() {
 
                 0 -> {
 
+
+                    if (showReview) {
+
+
+                        ReviewWrongAnswersScreen(
+
+                            onBack = {
+
+                                showReview = false
+
+                            }
+
+                        )
+
+
+                    } else {
+
+
                     HomeScreen(
                         onPracticeClick = {
                             selectedTab = 1
@@ -134,8 +158,19 @@ fun AppNavigation() {
                         },
                         onFlashcardsClick = {
                             selectedTab = 3
+                        },
+
+                        onReviewClick = {
+
+                            showReview = true
+
                         }
+
                     )
+
+
+                    }
+
 
                 }
 
