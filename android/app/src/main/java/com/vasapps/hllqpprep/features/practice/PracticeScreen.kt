@@ -132,6 +132,30 @@ fun PracticeScreen(
                         savedQuestion >= 0
                     ) {
 
+
+                        ProgressManager
+                            .getPracticeState(context)
+                            .collect { savedState ->
+
+
+                                state =
+                                    state.copy(
+
+                                        currentQuestion =
+                                            savedState.first,
+
+                                        score =
+                                            savedState.second,
+
+                                        answers =
+                                            savedState.third
+
+                                    )
+
+
+                            }
+
+
                         resumeIndex =
                             savedQuestion
 
@@ -721,25 +745,48 @@ fun PracticeScreen(
                     }
 
 
+                    val newScore =
+                        if (correct)
+                            state.score + 1
+                        else
+                            state.score
+
+
+                    val newAnswers =
+                        state.answers +
+                        (
+                            state.currentQuestion to
+                            state.selectedAnswer!!
+                        )
+
+
                     state =
                         state.copy(
 
                             answered = true,
 
-                            score =
-                                if(correct)
-                                    state.score + 1
-                                else
-                                    state.score,
+                            score = newScore,
 
-                            answers =
-                                state.answers +
-                                (
-                                state.currentQuestion to
-                                state.selectedAnswer!!
-                                )
+                            answers = newAnswers
 
                         )
+
+
+                    if (mode is PracticeMode.Module) {
+
+                        scope.launch {
+
+                            ProgressManager.savePracticeState(
+                                context,
+                                mode.moduleId,
+                                state.currentQuestion,
+                                newScore,
+                                newAnswers
+                            )
+
+                        }
+
+                    }
 
                 }
 

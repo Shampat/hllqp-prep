@@ -34,6 +34,14 @@ object ProgressManager {
         intPreferencesKey("practice_question_index")
 
 
+    private val PRACTICE_SCORE =
+        intPreferencesKey("practice_score")
+
+
+    private val PRACTICE_ANSWERS =
+        stringPreferencesKey("practice_answers")
+
+
     private val PRACTICE_TIME =
         longPreferencesKey("practice_last_time")
 
@@ -129,6 +137,76 @@ object ProgressManager {
         }
 
     }
+
+
+
+    suspend fun savePracticeState(
+        context: Context,
+        moduleId: String,
+        questionIndex: Int,
+        score: Int,
+        answers: Map<Int, Int>
+    ) {
+
+        context.dataStore.edit { prefs ->
+
+            prefs[PRACTICE_MODULE] = moduleId
+
+            prefs[PRACTICE_INDEX] = questionIndex
+
+            prefs[PRACTICE_SCORE] = score
+
+
+            prefs[PRACTICE_ANSWERS] =
+                answers.entries.joinToString(",") {
+                    "${it.key}:${it.value}"
+                }
+
+        }
+
+    }
+
+
+
+    fun getPracticeState(
+        context: Context
+    ): Flow<Triple<Int, Int, Map<Int, Int>>> {
+
+        return context.dataStore.data.map { prefs ->
+
+
+            val score =
+                prefs[PRACTICE_SCORE] ?: 0
+
+
+            val index =
+                prefs[PRACTICE_INDEX] ?: 0
+
+
+            val answers =
+                prefs[PRACTICE_ANSWERS]
+                    ?.split(",")
+                    ?.filter { it.contains(":") }
+                    ?.associate {
+
+                        val parts = it.split(":")
+
+                        parts[0].toInt() to parts[1].toInt()
+
+                    }
+                    ?: emptyMap()
+
+
+            Triple(
+                index,
+                score,
+                answers
+            )
+
+        }
+
+    }
+
 
 
 
