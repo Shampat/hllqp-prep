@@ -3,6 +3,7 @@ package com.vasapps.hllqpprep.core.utils
 import android.content.Context
 import androidx.datastore.preferences.core.edit
 import androidx.datastore.preferences.core.intPreferencesKey
+import androidx.datastore.preferences.core.longPreferencesKey
 import androidx.datastore.preferences.core.stringPreferencesKey
 import androidx.datastore.preferences.core.stringSetPreferencesKey
 import androidx.datastore.preferences.preferencesDataStore
@@ -28,6 +29,10 @@ object ProgressManager {
 
     private val PRACTICE_INDEX =
         intPreferencesKey("practice_question_index")
+
+
+    private val PRACTICE_TIME =
+        longPreferencesKey("practice_last_time")
 
 
     private val FLASHCARD_MODULE =
@@ -93,6 +98,9 @@ object ProgressManager {
             prefs[PRACTICE_MODULE] = moduleId
 
             prefs[PRACTICE_INDEX] = questionIndex
+
+            prefs[PRACTICE_TIME] =
+                System.currentTimeMillis()
 
         }
 
@@ -230,6 +238,21 @@ object ProgressManager {
             prefs[WRONG_QUESTIONS] =
                 current - questionId.toString()
 
+
+        }
+
+    }
+
+
+
+
+    fun getPracticeLastTime(
+        context: Context
+    ): Flow<Long?> {
+
+        return context.dataStore.data.map { prefs ->
+
+            prefs[PRACTICE_TIME]
 
         }
 

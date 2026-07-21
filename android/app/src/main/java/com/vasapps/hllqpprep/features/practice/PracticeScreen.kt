@@ -67,10 +67,26 @@ fun PracticeScreen(
     }
 
 
+    var resumeTime by remember {
+        mutableStateOf<Long?>(null)
+    }
+
+
 
     LaunchedEffect(Unit) {
 
         if (mode is PracticeMode.Module) {
+
+
+            ProgressManager
+                .getPracticeLastTime(context)
+                .collect { time ->
+
+                    resumeTime = time
+
+                }
+
+
 
             ProgressManager
                 .getPracticeModule(context)
@@ -89,7 +105,7 @@ fun PracticeScreen(
                     if (
                         savedModule == mode.moduleId &&
                         savedQuestion != null &&
-                        savedQuestion > 0
+                        savedQuestion >= 0
                     ) {
 
                         resumeIndex =
@@ -131,7 +147,26 @@ fun PracticeScreen(
             text = {
 
                 Text(
-                    "You stopped at Question ${(resumeIndex ?: 0) + 1}."
+                    buildString {
+
+                        append(
+                            "You stopped at Question ${(resumeIndex ?: 0) + 1}."
+                        )
+
+                        resumeTime?.let {
+
+                            val days =
+                                ((System.currentTimeMillis() - it)
+                                    /
+                                    (1000 * 60 * 60 * 24))
+
+                            append(
+                                "\n\nLast studied: $days days ago."
+                            )
+
+                        }
+
+                    }
                 )
 
             },
@@ -176,7 +211,24 @@ fun PracticeScreen(
 
                     onClick = {
 
+
+                        scope.launch {
+
+                            ProgressManager
+                                .clearPracticePosition(context)
+
+                        }
+
+
+                        state =
+                            PracticeState()
+
+
+                        resumeIndex = null
+
+
                         showResumeDialog = false
+
 
                     }
 
@@ -607,6 +659,21 @@ fun PracticeScreen(
 
 
                             ProgressManager.saveWrongAnswer(
+                                context,
+                                question.id
+                            )
+
+
+                        }
+
+
+                    } else {
+
+
+                        scope.launch {
+
+
+                            ProgressManager.removeWrongAnswer(
                                 context,
                                 question.id
                             )
