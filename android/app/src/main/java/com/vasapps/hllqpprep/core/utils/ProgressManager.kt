@@ -209,6 +209,34 @@ object ProgressManager {
 
 
 
+    suspend fun clearProgress(
+        context: Context
+    ) {
+
+        context.dataStore.edit { prefs ->
+
+            prefs.remove(TOTAL_ATTEMPTED)
+
+            prefs.remove(TOTAL_CORRECT)
+
+            prefs.remove(PRACTICE_MODULE)
+
+            prefs.remove(PRACTICE_INDEX)
+
+            prefs.remove(PRACTICE_SCORE)
+
+            prefs.remove(PRACTICE_ANSWERS)
+
+            prefs.remove(PRACTICE_TIME)
+
+            prefs.remove(WRONG_QUESTIONS)
+
+        }
+
+    }
+
+
+
 
     suspend fun clearPracticePosition(
         context: Context

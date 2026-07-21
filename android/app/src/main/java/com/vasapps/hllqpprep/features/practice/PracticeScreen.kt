@@ -73,6 +73,11 @@ fun PracticeScreen(
     }
 
 
+    var resumeChecked by remember {
+        mutableStateOf(false)
+    }
+
+
 
     fun saveExamHistoryIfNeeded() {
 
@@ -101,64 +106,35 @@ fun PracticeScreen(
 
         if (mode is PracticeMode.Module) {
 
-
             ProgressManager
-                .getPracticeLastTime(context)
-                .collect { time ->
-
-                    resumeTime = time
-
-                }
+                .getPracticeState(context)
+                .collect { savedState ->
 
 
+                    state =
+                        state.copy(
 
-            ProgressManager
-                .getPracticeModule(context)
-                .collect { saved ->
+                            currentQuestion =
+                                savedState.first,
 
+                            score =
+                                savedState.second,
 
-                    val savedModule =
-                        saved.first
+                            answers =
+                                savedState.third
 
-
-                    val savedQuestion =
-                        saved.second
-
+                        )
 
 
                     if (
-                        savedModule == mode.moduleId &&
-                        savedQuestion != null &&
-                        savedQuestion >= 0
+                        !resumeChecked &&
+                        savedState.first > 0
                     ) {
 
-
-                        ProgressManager
-                            .getPracticeState(context)
-                            .collect { savedState ->
-
-
-                                state =
-                                    state.copy(
-
-                                        currentQuestion =
-                                            savedState.first,
-
-                                        score =
-                                            savedState.second,
-
-                                        answers =
-                                            savedState.third
-
-                                    )
-
-
-                            }
-
+                        resumeChecked = true
 
                         resumeIndex =
-                            savedQuestion
-
+                            savedState.first
 
                         showResumeDialog =
                             true

@@ -52,6 +52,21 @@ fun FlashcardsScreen() {
     }
 
 
+    var showJumpDialog by remember {
+        mutableStateOf(false)
+    }
+
+
+    var showRestartDialog by remember {
+        mutableStateOf(false)
+    }
+
+
+    var jumpCardNumber by remember {
+        mutableStateOf("")
+    }
+
+
     if (showResumeDialog) {
 
 
@@ -130,6 +145,178 @@ fun FlashcardsScreen() {
 
         )
 
+
+    }
+
+
+    if (showJumpDialog) {
+
+        AlertDialog(
+
+            onDismissRequest = {
+                showJumpDialog = false
+            },
+
+            title = {
+                Text("Jump to Card")
+            },
+
+            text = {
+
+                OutlinedTextField(
+                    value = jumpCardNumber,
+                    onValueChange = {
+                        jumpCardNumber = it
+                    },
+                    label = {
+                        Text("Card number")
+                    }
+                )
+
+            },
+
+            confirmButton = {
+
+                Button(
+
+                    onClick = {
+
+                        val target =
+                            jumpCardNumber.toIntOrNull()
+
+                        if (
+                            target != null &&
+                            target > 0 &&
+                            target <= questions.size
+                        ) {
+
+                            current = target - 1
+
+                            revealed = false
+
+
+                            if (selectedModule != null) {
+
+                                scope.launch {
+
+                                    ProgressManager.saveFlashcardPosition(
+                                        context,
+                                        selectedModule!!,
+                                        current
+                                    )
+
+                                }
+
+                            }
+
+                        }
+
+                        jumpCardNumber = ""
+
+                        showJumpDialog = false
+
+                    }
+
+                ) {
+
+                    Text("Go")
+
+                }
+
+            },
+
+            dismissButton = {
+
+                Button(
+
+                    onClick = {
+                        showJumpDialog = false
+                    }
+
+                ) {
+
+                    Text("Cancel")
+
+                }
+
+            }
+
+        )
+
+    }
+
+
+    if (showRestartDialog) {
+
+        AlertDialog(
+
+            onDismissRequest = {
+                showRestartDialog = false
+            },
+
+            title = {
+                Text("Restart Deck?")
+            },
+
+            text = {
+                Text("Start this flashcard deck again from Card 1?")
+            },
+
+            confirmButton = {
+
+                Button(
+
+                    onClick = {
+
+                        current = 0
+
+                        revealed = false
+
+
+                        if (selectedModule != null) {
+
+                            scope.launch {
+
+                                ProgressManager.saveFlashcardPosition(
+                                    context,
+                                    selectedModule!!,
+                                    0
+                                )
+
+                            }
+
+                        }
+
+
+                        showRestartDialog = false
+
+                    }
+
+                ) {
+
+                    Text("Restart")
+
+                }
+
+            },
+
+            dismissButton = {
+
+                Button(
+
+                    onClick = {
+                        showRestartDialog = false
+                    }
+
+                ) {
+
+                    Text("Cancel")
+
+                }
+
+            }
+
+        )
 
     }
 
@@ -317,54 +504,145 @@ fun FlashcardsScreen() {
 
 
 
-                Button(
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.spacedBy(12.dp)
+                ) {
 
-                    onClick = {
+                    Button(
+
+                        modifier = Modifier.weight(1f),
+
+                        onClick = {
+
+                            val previousCard =
+                                if (current > 0)
+                                    current - 1
+                                else
+                                    questions.size - 1
 
 
-                        val nextCard =
-                            (current + 1) %
-                            questions.size
+                            current = previousCard
+
+                            revealed = false
+
+
+                            if (selectedModule != null) {
+
+                                scope.launch {
+
+                                    ProgressManager.saveFlashcardPosition(
+                                        context,
+                                        selectedModule!!,
+                                        previousCard
+                                    )
+
+                                }
+
+                            }
+
+                        }
+
+                    ) {
+
+                        Text("Previous")
+
+                    }
 
 
 
-                        if (selectedModule != null) {
+                    Button(
+
+                        modifier = Modifier.weight(1f),
+
+                        onClick = {
 
 
-                            scope.launch {
+                            val nextCard =
+                                (current + 1) %
+                                questions.size
 
 
-                                ProgressManager.saveFlashcardPosition(
 
-                                    context,
+                            if (selectedModule != null) {
 
-                                    selectedModule!!,
 
-                                    nextCard
+                                scope.launch {
 
-                                )
+
+                                    ProgressManager.saveFlashcardPosition(
+
+                                        context,
+
+                                        selectedModule!!,
+
+                                        nextCard
+
+                                    )
+
+
+                                }
 
 
                             }
 
 
+
+                            current =
+                                nextCard
+
+
+
+                            revealed = false
+
+
                         }
 
+                    ) {
 
-
-                        current =
-                            nextCard
-
-
-
-                        revealed = false
-
+                        Text("Next")
 
                     }
 
+                }
+
+
+                Row(
+
+                    modifier = Modifier.fillMaxWidth(),
+
+                    horizontalArrangement =
+                        Arrangement.SpaceEvenly
+
                 ) {
 
-                    Text("Next Card")
+
+                    TextButton(
+
+                        onClick = {
+                            showJumpDialog = true
+                        }
+
+                    ) {
+
+                        Text("Jump to Card")
+
+                    }
+
+
+
+                    TextButton(
+
+                        onClick = {
+                            showRestartDialog = true
+                        }
+
+                    ) {
+
+                        Text("Restart Deck")
+
+                    }
+
 
                 }
 
