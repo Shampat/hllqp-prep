@@ -9,6 +9,9 @@ import androidx.datastore.preferences.core.stringSetPreferencesKey
 import androidx.datastore.preferences.preferencesDataStore
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
+import com.google.gson.Gson
+import com.google.gson.reflect.TypeToken
+import com.vasapps.hllqpprep.core.model.ExamResult
 
 private val Context.dataStore by preferencesDataStore(
     name = "user_progress"
@@ -45,6 +48,10 @@ object ProgressManager {
 
     private val WRONG_QUESTIONS =
         stringSetPreferencesKey("wrong_questions")
+
+
+    private val EXAM_HISTORY =
+        stringPreferencesKey("exam_history")
 
 
     suspend fun saveAnswer(
@@ -215,6 +222,72 @@ object ProgressManager {
                 ?.toSet()
                 ?: emptySet()
 
+
+        }
+
+    }
+
+
+
+
+    suspend fun saveExamResult(
+        context: Context,
+        result: ExamResult
+    ) {
+
+        context.dataStore.edit { prefs ->
+
+            val gson = Gson()
+
+            val existing =
+                prefs[EXAM_HISTORY]
+                    ?: "[]"
+
+
+            val type =
+                object : TypeToken<MutableList<ExamResult>>() {}.type
+
+
+            val history =
+                gson.fromJson<MutableList<ExamResult>>(
+                    existing,
+                    type
+                )
+
+
+            history.add(0, result)
+
+
+            prefs[EXAM_HISTORY] =
+                gson.toJson(history)
+
+        }
+
+    }
+
+
+
+    fun getExamHistory(
+        context: Context
+    ): Flow<List<ExamResult>> {
+
+        return context.dataStore.data.map { prefs ->
+
+            val gson = Gson()
+
+            val json =
+                prefs[EXAM_HISTORY]
+                    ?: "[]"
+
+
+            val type =
+                object : TypeToken<List<ExamResult>>() {}.type
+
+
+            gson.fromJson(
+                json,
+                type
+            )
 
         }
 

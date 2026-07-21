@@ -14,6 +14,7 @@ import kotlinx.coroutines.launch
 
 import com.vasapps.hllqpprep.core.repository.QuestionRepository
 import com.vasapps.hllqpprep.core.utils.ProgressManager
+import com.vasapps.hllqpprep.core.model.ExamResult
 
 
 @Composable
@@ -69,6 +70,29 @@ fun PracticeScreen(
 
     var resumeTime by remember {
         mutableStateOf<Long?>(null)
+    }
+
+
+
+    fun saveExamHistoryIfNeeded() {
+
+        if (mode is PracticeMode.MockExam) {
+
+            scope.launch {
+
+                ProgressManager.saveExamResult(
+                    context,
+                    ExamResult(
+                        date = System.currentTimeMillis(),
+                        totalQuestions = questions.size,
+                        correctAnswers = state.score
+                    )
+                )
+
+            }
+
+        }
+
     }
 
 
@@ -357,6 +381,9 @@ fun PracticeScreen(
                     onClick = {
 
                         completed = true
+
+                        saveExamHistoryIfNeeded()
+
                         showFinishWarning = false
 
                     }

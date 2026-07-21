@@ -12,6 +12,7 @@ import androidx.compose.material.icons.filled.MenuBook
 import androidx.compose.material.icons.filled.Quiz
 import androidx.compose.material.icons.filled.Style
 import androidx.compose.material.icons.filled.Warning
+import androidx.compose.material.icons.filled.History
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.Icon
@@ -34,7 +35,8 @@ fun HomeScreen(
     onPracticeClick: () -> Unit,
     onMockExamClick: () -> Unit,
     onFlashcardsClick: () -> Unit,
-    onReviewClick: () -> Unit
+    onReviewClick: () -> Unit,
+    onHistoryClick: () -> Unit
 ) {
 
     val context = LocalContext.current

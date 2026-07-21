@@ -19,6 +19,7 @@ import com.vasapps.hllqpprep.features.practice.PracticeMode
 import com.vasapps.hllqpprep.features.mockexam.MockExamScreen
 import com.vasapps.hllqpprep.features.flashcards.FlashcardsScreen
 import com.vasapps.hllqpprep.features.review.ReviewWrongAnswersScreen
+import com.vasapps.hllqpprep.features.history.ExamHistoryScreen
 import com.vasapps.hllqpprep.core.repository.QuestionRepository
 
 
@@ -38,6 +39,11 @@ fun AppNavigation() {
 
 
     var showReview by remember {
+        mutableStateOf(false)
+    }
+
+
+    var showHistory by remember {
         mutableStateOf(false)
     }
 
@@ -146,6 +152,20 @@ fun AppNavigation() {
                         )
 
 
+                    } else if (showHistory) {
+
+
+                        ExamHistoryScreen(
+
+                            onBack = {
+
+                                showHistory = false
+
+                            }
+
+                        )
+
+
                     } else {
 
 
@@ -163,6 +183,13 @@ fun AppNavigation() {
                         onReviewClick = {
 
                             showReview = true
+
+                        },
+
+
+                        onHistoryClick = {
+
+                            showHistory = true
 
                         }
 
