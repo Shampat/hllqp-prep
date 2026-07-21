@@ -1,11 +1,13 @@
 package com.vasapps.hllqpprep.features.home
 
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
@@ -14,6 +16,7 @@ import androidx.compose.material.icons.filled.Quiz
 import androidx.compose.material.icons.filled.Style
 import androidx.compose.material.icons.filled.Warning
 import androidx.compose.material.icons.filled.History
+import androidx.compose.material.icons.filled.TrendingUp
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.Icon
@@ -194,40 +197,52 @@ fun HomeScreen(
                     horizontalArrangement = Arrangement.SpaceBetween
                 ) {
 
-                    Text(
-                        text = "YOUR PROGRESS",
-                        style = MaterialTheme.typography.labelLarge
-                    )
-
-
-                    Button(
-                        onClick = {
-                            showResetDialog = true
-                        }
+                    Row(
+                        horizontalArrangement = Arrangement.spacedBy(6.dp)
                     ) {
 
-                        Text("RESET")
+                        Text(
+                            text = "YOUR PROGRESS",
+                            style = MaterialTheme.typography.labelLarge
+                        )
+
+                        Icon(
+                            imageVector = Icons.Default.TrendingUp,
+                            contentDescription = null,
+                            tint = TealProgress
+                        )
 
                     }
+
+
+                    Text(
+                        text = "RESET",
+                        color = InsuranceBlue,
+                        modifier = Modifier.clickable {
+                            showResetDialog = true
+                        }
+                    )
 
                 }
 
 
-                Text(
-                    text = "$attempted",
-                    style = MaterialTheme.typography.headlineLarge
-                )
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.SpaceBetween
+                ) {
+
+                    Text(
+                        text = "$attempted Questions",
+                        style = MaterialTheme.typography.titleMedium
+                    )
 
 
-                Text(
-                    text = "Questions Completed"
-                )
+                    Text(
+                        text = "$accuracy% Accuracy",
+                        style = MaterialTheme.typography.titleMedium
+                    )
 
-
-                Text(
-                    text = "$accuracy% Accuracy",
-                    style = MaterialTheme.typography.titleMedium
-                )
+                }
 
             }
 
@@ -236,8 +251,8 @@ fun HomeScreen(
 
 
         Text(
-            text = "Study Tools",
-            style = MaterialTheme.typography.titleLarge
+            text = "📚 STUDY TOOLS",
+            style = MaterialTheme.typography.labelLarge
         )
 
 
@@ -302,28 +317,33 @@ private fun StudyCard(
         )
     ) {
 
-        Column(
+        Row(
             modifier = Modifier.padding(20.dp),
-            verticalArrangement = Arrangement.spacedBy(8.dp)
+            horizontalArrangement = Arrangement.spacedBy(16.dp)
         ) {
 
             Icon(
                 imageVector = icon,
                 contentDescription = null,
-                tint = iconColor
+                tint = iconColor,
+                modifier = Modifier.size(32.dp)
             )
 
+            Column(
+                verticalArrangement = Arrangement.spacedBy(4.dp)
+            ) {
 
-            Text(
-                text = title,
-                style = MaterialTheme.typography.titleMedium
-            )
+                Text(
+                    text = title,
+                    style = MaterialTheme.typography.titleMedium
+                )
 
+                Text(
+                    text = description,
+                    style = MaterialTheme.typography.bodyMedium
+                )
 
-            Text(
-                text = description,
-                style = MaterialTheme.typography.bodyMedium
-            )
+            }
 
         }
 

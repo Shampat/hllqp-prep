@@ -16,6 +16,10 @@ import com.vasapps.hllqpprep.core.repository.QuestionRepository
 import com.vasapps.hllqpprep.core.utils.ProgressManager
 import com.vasapps.hllqpprep.core.model.Question
 
+import com.vasapps.hllqpprep.ui.theme.InsuranceBlue
+import com.vasapps.hllqpprep.ui.theme.InsuranceBlueDark
+import com.vasapps.hllqpprep.ui.theme.TealProgress
+
 
 @Composable
 fun FlashcardsScreen() {
@@ -439,6 +443,7 @@ fun FlashcardsScreen() {
 
                         Text(
                             text = "QUESTION",
+                            color = InsuranceBlue,
                             style =
                                 MaterialTheme.typography.labelLarge
                         )
@@ -453,10 +458,11 @@ fun FlashcardsScreen() {
 
                         if (!revealed) {
 
-                            Text(
-                                text = "Tap card to reveal answer",
-                                style =
-                                    MaterialTheme.typography.bodyMedium
+                            AssistChip(
+                                onClick = { },
+                                label = {
+                                    Text("👆 Tap to reveal")
+                                }
                             )
 
                         }
@@ -468,6 +474,7 @@ fun FlashcardsScreen() {
 
                             Text(
                                 text = "ANSWER",
+                                color = TealProgress,
                                 style =
                                     MaterialTheme.typography.labelLarge
                             )
@@ -484,6 +491,7 @@ fun FlashcardsScreen() {
 
                             Text(
                                 text = "EXPLANATION",
+                                color = InsuranceBlueDark,
                                 style =
                                     MaterialTheme.typography.labelLarge
                             )
