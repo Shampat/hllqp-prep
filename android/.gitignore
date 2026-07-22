@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+*.backup
+*.bak
+backups/
+*.py

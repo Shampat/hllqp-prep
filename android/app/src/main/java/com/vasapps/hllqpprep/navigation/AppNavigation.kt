@@ -221,6 +221,12 @@ fun AppNavigation() {
 
                                     practiceFlow = "module"
 
+                                },
+
+                                onStartScenario = {
+
+                                    practiceFlow = "scenario"
+
                                 }
 
                             )
@@ -255,6 +261,39 @@ fun AppNavigation() {
 
                                 onBack = {
                                     practiceFlow = "module"
+                                }
+                            )
+
+                        }
+
+
+                        "scenario" -> {
+
+                            ModuleScreen(
+
+                                onBack = {
+                                    practiceFlow = "none"
+                                },
+
+                                onModuleSelected = {
+
+                                    selectedModule = it
+                                    practiceFlow = "scenarioPractice"
+
+                                }
+
+                            )
+
+                        }
+
+
+                        "scenarioPractice" -> {
+
+                            PracticeScreen(
+                                mode = PracticeMode.Scenario(selectedModule),
+
+                                onBack = {
+                                    practiceFlow = "scenario"
                                 }
                             )
 

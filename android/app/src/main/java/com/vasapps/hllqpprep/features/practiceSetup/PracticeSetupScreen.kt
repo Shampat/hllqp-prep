@@ -1,6 +1,9 @@
 package com.vasapps.hllqpprep.features.practiceSetup
 
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material3.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
@@ -10,132 +13,118 @@ import androidx.compose.ui.unit.dp
 @Composable
 fun PracticeSetupScreen(
     onBack: () -> Unit,
-    onStartPractice: () -> Unit
+    onStartPractice: () -> Unit,
+    onStartScenario: () -> Unit
 ) {
-
 
     Column(
 
-        modifier =
-            Modifier
-                .fillMaxSize()
-                .padding(24.dp),
+        modifier = Modifier
+            .fillMaxSize()
+            .padding(24.dp),
 
-        verticalArrangement =
-            Arrangement.spacedBy(20.dp)
+        verticalArrangement = Arrangement.spacedBy(16.dp)
 
     ) {
 
 
+        Row(
+            modifier = Modifier.clickable {
+                onBack()
+            },
 
-        Button(
-            onClick = onBack
+            horizontalArrangement = Arrangement.spacedBy(4.dp)
+
         ) {
 
-            Text("Back")
+            Icon(
+                imageVector = Icons.Default.ArrowBack,
+                contentDescription = "Back"
+            )
+
+            Text(
+                text = "Practice Questions",
+                style = MaterialTheme.typography.titleMedium
+            )
 
         }
 
 
 
-
         Text(
-
-            text =
-                "Practice Setup",
-
-            style =
-                MaterialTheme.typography.headlineMedium
-
+            text = "Choose Practice Style",
+            style = MaterialTheme.typography.headlineMedium
         )
 
 
 
-        Text(
+        Card(
 
-            text =
-                "Prepare by module with focused practice questions.",
+            modifier = Modifier
+                .fillMaxWidth()
+                .clickable {
+                    onStartPractice()
+                }
 
-            style =
-                MaterialTheme.typography.bodyLarge
+        ) {
 
-        )
+            Column(
+
+                modifier = Modifier.padding(20.dp),
+
+                verticalArrangement = Arrangement.spacedBy(8.dp)
+
+            ) {
+
+                Text(
+                    text = "⚡ Short Questions",
+                    style = MaterialTheme.typography.titleLarge
+                )
+
+
+                Text(
+                    text = "Quick recall practice and concept review.",
+                    style = MaterialTheme.typography.bodyMedium
+                )
+
+            }
+
+        }
 
 
 
 
         Card(
 
-            modifier =
-                Modifier.fillMaxWidth()
+            modifier = Modifier
+                .fillMaxWidth()
+                .clickable {
+                    onStartScenario()
+                }
 
         ) {
 
-
-
             Column(
 
-                modifier =
-                    Modifier.padding(20.dp),
+                modifier = Modifier.padding(20.dp),
 
-                verticalArrangement =
-                    Arrangement.spacedBy(10.dp)
+                verticalArrangement = Arrangement.spacedBy(8.dp)
 
             ) {
 
 
-
                 Text(
-
-                    text =
-                        "Practice Mode",
-
-                    style =
-                        MaterialTheme.typography.titleMedium
-
-                )
-
-
-
-                Text(
-                    "• Instant explanations"
+                    text = "📋 Exam Scenarios",
+                    style = MaterialTheme.typography.titleLarge
                 )
 
 
                 Text(
-                    "• Track your progress"
+                    text = "Real HLLQP-style application questions.",
+                    style = MaterialTheme.typography.bodyMedium
                 )
-
-
-                Text(
-                    "• Review difficult questions"
-                )
-
 
             }
-
-
-        }
-
-
-
-
-
-        Button(
-
-            onClick =
-                onStartPractice,
-
-            modifier =
-                Modifier.fillMaxWidth()
-
-        ) {
-
-
-            Text(
-                "Start Practice"
-            )
-
 
         }
 

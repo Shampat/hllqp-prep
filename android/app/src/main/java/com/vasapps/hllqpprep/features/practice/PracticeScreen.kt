@@ -1,18 +1,23 @@
 package com.vasapps.hllqpprep.features.practice
 
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.*
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.runtime.rememberCoroutineScope
 import kotlinx.coroutines.launch
 
 import com.vasapps.hllqpprep.core.repository.QuestionRepository
+import com.vasapps.hllqpprep.core.repository.ScenarioQuestionRepository
 import com.vasapps.hllqpprep.core.utils.ProgressManager
 import com.vasapps.hllqpprep.core.model.ExamResult
 
@@ -36,6 +41,13 @@ fun PracticeScreen(
                     context,
                     mode.moduleId
                 )
+
+
+            is PracticeMode.Scenario ->
+                ScenarioQuestionRepository.getScenarioQuestions(
+                    mode.moduleId
+                )
+
 
             is PracticeMode.MockExam ->
                 mode.questions
@@ -452,20 +464,25 @@ fun PracticeScreen(
 
 
 
-        Button(
-            onClick = onBack
+        Row(
+            modifier = Modifier.clickable {
+                onBack()
+            },
+            horizontalArrangement = Arrangement.spacedBy(4.dp)
         ) {
 
-            Text("Exit Practice")
+            Icon(
+                imageVector = Icons.Default.ArrowBack,
+                contentDescription = "Back"
+            )
+
+            Text(
+                text = "${question.moduleName} Practice",
+                style = MaterialTheme.typography.titleMedium
+            )
 
         }
 
-
-
-        Text(
-            text = question.moduleName,
-            style = MaterialTheme.typography.headlineSmall
-        )
 
 
         Text(
@@ -486,7 +503,10 @@ fun PracticeScreen(
 
 
         Card(
-            modifier = Modifier.fillMaxWidth()
+            modifier = Modifier.fillMaxWidth(),
+            colors = CardDefaults.cardColors(
+                containerColor = Color(0xFFE3F2FD)
+            )
         ) {
 
             Column(
@@ -542,7 +562,12 @@ fun PracticeScreen(
         Card(
 
             modifier =
-                Modifier.fillMaxWidth()
+                Modifier.fillMaxWidth(),
+
+            colors =
+                CardDefaults.cardColors(
+                    containerColor = Color(0xFFFFFBF5)
+                )
 
         ) {
 

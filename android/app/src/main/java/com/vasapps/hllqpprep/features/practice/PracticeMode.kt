@@ -9,6 +9,11 @@ sealed class PracticeMode {
     ) : PracticeMode()
 
 
+    data class Scenario(
+        val moduleId: String
+    ) : PracticeMode()
+
+
     data class MockExam(
         val questions: List<Question>
     ) : PracticeMode()
