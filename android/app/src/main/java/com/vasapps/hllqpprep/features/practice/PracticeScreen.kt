@@ -878,14 +878,31 @@ fun PracticeScreen(
             }
 
 
-            Text(
-                text =
-                    "Explanation: " +
-                    question.explanation,
+            Card(
+                colors = CardDefaults.cardColors(
+                    containerColor = Color(0xFFE3F2FD)
+                )
+            ) {
 
-                color =
-                    androidx.compose.ui.graphics.Color(0xFF1565C0)
-            )
+                Column(
+                    modifier = Modifier.padding(16.dp),
+                    verticalArrangement = Arrangement.spacedBy(6.dp)
+                ) {
+
+                    Text(
+                        text = "💡 Explanation",
+                        style = MaterialTheme.typography.labelLarge,
+                        color = MaterialTheme.colorScheme.primary
+                    )
+
+                    Text(
+                        text = question.explanation,
+                        style = MaterialTheme.typography.bodyMedium
+                    )
+
+                }
+
+            }
 
 
         }
