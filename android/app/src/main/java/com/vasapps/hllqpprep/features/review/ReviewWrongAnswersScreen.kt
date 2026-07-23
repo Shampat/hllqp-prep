@@ -5,6 +5,7 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 
@@ -107,7 +108,12 @@ fun ReviewWrongAnswersScreen(
             Card(
 
                 modifier =
-                    Modifier.fillMaxWidth()
+                    Modifier.fillMaxWidth(),
+
+                colors =
+                    CardDefaults.cardColors(
+                        containerColor = Color(0xFFFFF3E0)
+                    )
 
             ) {
 
