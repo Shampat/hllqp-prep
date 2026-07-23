@@ -644,7 +644,7 @@ fun PracticeScreen(
 
                             else
 
-                                MaterialTheme.colorScheme.surfaceVariant
+                                androidx.compose.ui.graphics.Color(0xFFF5F7FA)
 
                     )
 
