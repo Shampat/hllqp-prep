@@ -16,15 +16,15 @@ import com.vasapps.hllqpprep.core.repository.ModuleRepository
 
 private fun moduleColor(id: String): Color {
     return when (id) {
-        "life" -> Color(0xFFD6EAF8)
-        "accident" -> Color(0xFFD1F2EB)
-        "segregated" -> Color(0xFFE8DAEF)
-        "annuities" -> Color(0xFFFDEBD0)
-        "ethics" -> Color(0xFFFADBD8)
-        "disability" -> Color(0xFFD6DBF5)
-        "critical_illness" -> Color(0xFFF5B7B1)
-        "taxation" -> Color(0xFFD5F5E3)
-        "estate" -> Color(0xFFEADBC8)
+        "life" -> Color(0xFFBBDEFB)
+        "accident" -> Color(0xFFB2DFDB)
+        "segregated" -> Color(0xFFD1C4E9)
+        "annuities" -> Color(0xFFFFCC80)
+        "ethics" -> Color(0xFFFFCDD2)
+        "disability" -> Color(0xFFC5CAE9)
+        "critical_illness" -> Color(0xFFEF9A9A)
+        "taxation" -> Color(0xFFC8E6C9)
+        "estate" -> Color(0xFFD7CCC8)
         else -> Color.White
     }
 }
