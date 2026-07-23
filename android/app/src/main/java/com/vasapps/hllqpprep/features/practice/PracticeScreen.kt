@@ -486,8 +486,9 @@ fun PracticeScreen(
 
 
         Text(
-            text = question.topic,
-            style = MaterialTheme.typography.titleMedium
+            text = "📘 Topic: ${question.topic}",
+            style = MaterialTheme.typography.labelLarge,
+            color = MaterialTheme.colorScheme.primary
         )
 
 
