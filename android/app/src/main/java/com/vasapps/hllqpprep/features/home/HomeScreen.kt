@@ -313,7 +313,7 @@ private fun StudyCard(
         modifier = Modifier.fillMaxWidth(),
         onClick = onClick,
         colors = CardDefaults.cardColors(
-            containerColor = iconColor.copy(alpha = 0.08f)
+            containerColor = iconColor.copy(alpha = 0.15f)
         )
     ) {
 
