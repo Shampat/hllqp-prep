@@ -8,6 +8,7 @@ import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import kotlinx.coroutines.launch
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 
@@ -371,7 +372,12 @@ fun FlashcardsScreen() {
                                                 module.id
                                             )
 
-                                }
+                                },
+
+                        colors =
+                            CardDefaults.cardColors(
+                                containerColor = Color(0xFFE8F5E9)
+                            )
 
                     ) {
 
