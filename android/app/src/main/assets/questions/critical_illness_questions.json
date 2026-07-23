@@ -1,0 +1,50 @@
+[
+  {
+    "id": 70001,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the primary purpose of critical illness insurance?",
+    "options": [
+      "Provide a lump sum benefit after diagnosis of a covered condition",
+      "Replace automobile insurance",
+      "Guarantee investment returns",
+      "Cover all medical expenses automatically"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Critical illness insurance provides financial support after diagnosis of covered illnesses."
+  },
+  {
+    "id": 70002,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Benefits",
+    "difficulty": "Easy",
+    "question": "A critical illness benefit is usually paid when:",
+    "options": [
+      "A covered illness is diagnosed and policy conditions are met",
+      "The client changes employment",
+      "The advisor requests payment",
+      "Any sickness occurs without restrictions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claims depend on covered conditions and policy requirements."
+  },
+  {
+    "id": 70003,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Critical illness insurance may help clients protect against:",
+    "options": [
+      "Financial strain after a serious illness",
+      "Vehicle repair costs",
+      "Property taxes only",
+      "Investment losses only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The benefit can help with financial obligations during recovery."
+  }
+]

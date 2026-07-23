@@ -1,0 +1,50 @@
+[
+  {
+    "id": 60001,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the primary purpose of disability insurance?",
+    "options": [
+      "Replace income when an insured cannot work",
+      "Provide property protection",
+      "Guarantee investment growth",
+      "Cover automobile damage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disability insurance is designed to replace income lost due to disability."
+  },
+  {
+    "id": 60002,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Benefits",
+    "difficulty": "Easy",
+    "question": "Disability benefits are generally paid when:",
+    "options": [
+      "The insured meets the policy definition of disability",
+      "The client requests any amount",
+      "The advisor approves payment",
+      "The policy has no conditions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benefits depend on meeting the policy's disability definition."
+  },
+  {
+    "id": 60003,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "An advisor recommending disability insurance should first consider:",
+    "options": [
+      "Client income needs and financial obligations",
+      "Highest commission available",
+      "Only insurer preference",
+      "The advisor's personal choice"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recommendations must be based on client circumstances."
+  }
+]

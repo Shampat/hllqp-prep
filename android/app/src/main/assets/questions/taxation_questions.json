@@ -1,0 +1,50 @@
+[
+  {
+    "id": 80001,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "Why is taxation knowledge important for an insurance advisor?",
+    "options": [
+      "To understand how financial products may affect clients",
+      "To guarantee tax refunds",
+      "To replace professional tax advice",
+      "To avoid all taxation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Advisors need basic taxation knowledge to explain financial planning considerations."
+  },
+  {
+    "id": 80002,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Life Insurance",
+    "difficulty": "Medium",
+    "question": "A life insurance death benefit is generally received by beneficiaries:",
+    "options": [
+      "Tax-free under normal circumstances",
+      "Always fully taxable as income",
+      "Only after investment growth",
+      "Only after retirement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance death benefits are generally paid tax-free to beneficiaries."
+  },
+  {
+    "id": 80003,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Registered Plans",
+    "difficulty": "Medium",
+    "question": "Registered plans have specific tax rules because:",
+    "options": [
+      "Government legislation determines their treatment",
+      "They have no regulations",
+      "They avoid all financial reporting",
+      "They are identical to regular accounts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Registered plans operate under specific tax legislation."
+  }
+]

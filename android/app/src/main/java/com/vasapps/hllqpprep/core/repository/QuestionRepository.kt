@@ -32,6 +32,18 @@ object QuestionRepository {
                 "ethics" ->
                     "questions/ethics_questions.json"
 
+                "disability" ->
+                    "questions/disability_questions.json"
+
+                "critical_illness" ->
+                    "questions/critical_illness_questions.json"
+
+                "taxation" ->
+                    "questions/taxation_questions.json"
+
+                "estate" ->
+                    "questions/estate_questions.json"
+
                 else ->
                     return emptyList()
 
@@ -75,7 +87,11 @@ object QuestionRepository {
             "accident",
             "segregated",
             "annuities",
-            "ethics"
+            "ethics",
+            "disability",
+            "critical_illness",
+            "taxation",
+            "estate"
         ).flatMap {
 
             getQuestions(

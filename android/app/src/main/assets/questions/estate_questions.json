@@ -1,0 +1,50 @@
+[
+  {
+    "id": 90001,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is a primary purpose of estate planning?",
+    "options": [
+      "Help distribute assets according to client wishes",
+      "Guarantee investment profits",
+      "Remove all legal requirements",
+      "Replace insurance planning completely"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Estate planning helps organize the transfer of assets and client intentions."
+  },
+  {
+    "id": 90002,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Why is naming beneficiaries important?",
+    "options": [
+      "To direct benefits to intended recipients",
+      "To avoid every financial decision",
+      "To increase investment returns",
+      "To eliminate all taxes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Beneficiary designations identify who receives policy benefits."
+  },
+  {
+    "id": 90003,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Insurance Planning",
+    "difficulty": "Medium",
+    "question": "Life insurance can support estate planning by:",
+    "options": [
+      "Providing liquidity for estate needs",
+      "Replacing a legal will",
+      "Removing all family disagreements",
+      "Guaranteeing property values"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurance may provide funds for estate obligations and planning goals."
+  }
+]

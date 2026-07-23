@@ -7,6 +7,11 @@ import com.vasapps.hllqpprep.core.repository.scenarios.AnnuityQuestions
 import com.vasapps.hllqpprep.core.repository.scenarios.LifeQuestions
 import com.vasapps.hllqpprep.core.repository.scenarios.AccidentQuestions
 
+import com.vasapps.hllqpprep.core.repository.scenarios.DisabilityQuestions
+import com.vasapps.hllqpprep.core.repository.scenarios.CriticalIllnessQuestions
+import com.vasapps.hllqpprep.core.repository.scenarios.TaxationQuestions
+import com.vasapps.hllqpprep.core.repository.scenarios.EstatePlanningQuestions
+
 object ScenarioQuestionRepository {
 
     fun getScenarioQuestions(
@@ -24,6 +29,14 @@ object ScenarioQuestionRepository {
             "life" -> LifeQuestions.questions
 
             "accident" -> AccidentQuestions.questions
+
+            "disability" -> DisabilityQuestions.questions
+
+            "critical_illness" -> CriticalIllnessQuestions.questions
+
+            "taxation" -> TaxationQuestions.questions
+
+            "estate" -> EstatePlanningQuestions.questions
 
             else -> emptyList()
         }

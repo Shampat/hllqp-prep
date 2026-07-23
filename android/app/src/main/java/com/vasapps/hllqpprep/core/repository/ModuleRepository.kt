@@ -43,6 +43,30 @@ object ModuleRepository {
                 id = "ethics",
                 name = "Ethics & Professional Practice",
                 description = "Professional conduct and compliance"
+            ),
+
+            ExamModule(
+                id = "disability",
+                name = "Disability Insurance",
+                description = "Disability income protection concepts and applications"
+            ),
+
+            ExamModule(
+                id = "critical_illness",
+                name = "Critical Illness Insurance",
+                description = "Critical illness coverage concepts and policy features"
+            ),
+
+            ExamModule(
+                id = "taxation",
+                name = "Taxation",
+                description = "Tax concepts, registered plans and financial planning"
+            ),
+
+            ExamModule(
+                id = "estate",
+                name = "Estate Planning",
+                description = "Estate planning concepts, beneficiaries and succession"
             )
 
         )
