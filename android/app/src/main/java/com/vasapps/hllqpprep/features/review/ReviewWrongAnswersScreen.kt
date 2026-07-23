@@ -106,61 +106,51 @@ fun ReviewWrongAnswersScreen(
 
 
             Card(
-
-                modifier =
-                    Modifier.fillMaxWidth(),
-
-                colors =
-                    CardDefaults.cardColors(
-                        containerColor = Color(0xFFFFF3E0)
-                    )
-
+                modifier = Modifier.fillMaxWidth(),
+                colors = CardDefaults.cardColors(
+                    containerColor = Color(0xFFFFF3E0)
+                )
             ) {
 
+                Text(
+                    text = question.question,
+                    modifier = Modifier.padding(20.dp),
+                    style = MaterialTheme.typography.titleMedium
+                )
 
-                Column(
-
-                    modifier =
-                        Modifier.padding(20.dp),
-
-                    verticalArrangement =
-                        Arrangement.spacedBy(12.dp)
-
-                ) {
+            }
 
 
-                    Text(
+            Card(
+                modifier = Modifier.fillMaxWidth(),
+                colors = CardDefaults.cardColors(
+                    containerColor = Color(0xFFE8F5E9)
+                )
+            ) {
 
-                        question.question,
+                Text(
+                    text = "✓ Correct Answer: " +
+                            question.options[question.correctAnswer],
+                    modifier = Modifier.padding(20.dp),
+                    color = Color(0xFF2E7D32)
+                )
 
-                        style =
-                            MaterialTheme.typography.titleMedium
-
-                    )
-
-
-
-                    Text(
-
-                        "Correct Answer: " +
-                                question.options[
-                                    question.correctAnswer
-                                ]
-
-                    )
+            }
 
 
+            Card(
+                modifier = Modifier.fillMaxWidth(),
+                colors = CardDefaults.cardColors(
+                    containerColor = Color(0xFFE3F2FD)
+                )
+            ) {
 
-                    Text(
-
-                        "Explanation: " +
-                                question.explanation
-
-                    )
-
-
-                }
-
+                Text(
+                    text = "💡 Explanation: " +
+                            question.explanation,
+                    modifier = Modifier.padding(20.dp),
+                    color = Color(0xFF1565C0)
+                )
 
             }
 
