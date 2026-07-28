@@ -1,5 +1,6 @@
 package com.vasapps.hllqpprep.navigation
 
+import android.app.Activity
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Home
 import androidx.compose.material.icons.filled.MenuBook
@@ -10,7 +11,8 @@ import androidx.compose.runtime.*
 import androidx.compose.foundation.layout.padding
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
-
+import com.vasapps.hllqpprep.core.ads.InterstitialHelper
+import com.vasapps.hllqpprep.core.ads.PremiumManager
 import com.vasapps.hllqpprep.features.home.HomeScreen
 import com.vasapps.hllqpprep.features.practiceSetup.PracticeSetupScreen
 import com.vasapps.hllqpprep.features.module.ModuleScreen
@@ -21,336 +23,86 @@ import com.vasapps.hllqpprep.features.flashcards.FlashcardsScreen
 import com.vasapps.hllqpprep.features.review.ReviewWrongAnswersScreen
 import com.vasapps.hllqpprep.features.history.ExamHistoryScreen
 import com.vasapps.hllqpprep.core.repository.QuestionRepository
-
+import kotlinx.coroutines.delay
 
 @Composable
 fun AppNavigation() {
-
     val context = LocalContext.current
+    var selectedTab by remember { mutableStateOf(0) }
+    var practiceFlow by remember { mutableStateOf("none") }
+    var showReview by remember { mutableStateOf(false) }
+    var showHistory by remember { mutableStateOf(false) }
+    var selectedModule by remember { mutableStateOf("") }
+    var mockQuestions by remember { mutableStateOf(emptyList<com.vasapps.hllqpprep.core.model.Question>()) }
+    
+    val isPremium by PremiumManager.isPremiumFlow(context).collectAsState(initial = false)
 
-    var selectedTab by remember {
-        mutableStateOf(0)
+    // 3-MIN LOOP interstitial - only when not premium, not showing already
+    LaunchedEffect(isPremium) {
+        if (isPremium) return@LaunchedEffect
+        while (true) {
+            // Don't count time when actively answering
+            val isInActiveSession = (selectedTab == 1 && (practiceFlow == "practice" || practiceFlow == "scenarioPractice")) ||
+                    (selectedTab == 2 && mockQuestions.isNotEmpty())
+            if (!isInActiveSession && !InterstitialHelper.isCurrentlyShowing()) {
+                delay(3 * 60 * 1000L) // 3 MINUTES - change to 30*1000 for testing
+                if (!isPremium && !InterstitialHelper.isCurrentlyShowing()) {
+                    val activity = context as? Activity
+                    if (activity != null) {
+                        InterstitialHelper.show(activity) {}
+                    }
+                }
+            } else {
+                delay(5000L)
+            }
+        }
     }
-
-
-    var practiceFlow by remember {
-        mutableStateOf("none")
-    }
-
-
-    var showReview by remember {
-        mutableStateOf(false)
-    }
-
-
-    var showHistory by remember {
-        mutableStateOf(false)
-    }
-
-
-    var selectedModule by remember {
-        mutableStateOf("")
-    }
-
-
-    var mockQuestions by remember {
-        mutableStateOf(emptyList<com.vasapps.hllqpprep.core.model.Question>())
-    }
-
 
     Scaffold(
-
         bottomBar = {
-
             NavigationBar {
-
-                NavigationBarItem(
-                    selected = selectedTab == 0,
-                    onClick = {
-                        selectedTab = 0
-                        practiceFlow = "none"
-                    },
-                    icon = {
-                        Icon(Icons.Default.Home, "Home")
-                    },
-                    label = {
-                        Text("Home")
-                    }
-                )
-
-
-                NavigationBarItem(
-                    selected = selectedTab == 1,
-                    onClick = {
-                        selectedTab = 1
-                    },
-                    icon = {
-                        Icon(Icons.Default.MenuBook, "Practice")
-                    },
-                    label = {
-                        Text("Practice")
-                    }
-                )
-
-
-                NavigationBarItem(
-                    selected = selectedTab == 2,
-                    onClick = {
-                        selectedTab = 2
-                    },
-                    icon = {
-                        Icon(Icons.Default.Quiz, "Mock")
-                    },
-                    label = {
-                        Text("Mock")
-                    }
-                )
-
-
-                NavigationBarItem(
-                    selected = selectedTab == 3,
-                    onClick = {
-                        selectedTab = 3
-                    },
-                    icon = {
-                        Icon(Icons.Default.Style, "Cards")
-                    },
-                    label = {
-                        Text("Cards")
-                    }
-                )
-
+                NavigationBarItem(selected = selectedTab == 0, onClick = { selectedTab = 0; practiceFlow = "none" }, icon = { Icon(Icons.Default.Home, "Home") }, label = { Text("Home") })
+                NavigationBarItem(selected = selectedTab == 1, onClick = { selectedTab = 1 }, icon = { Icon(Icons.Default.MenuBook, "Practice") }, label = { Text("Practice") })
+                NavigationBarItem(selected = selectedTab == 2, onClick = { selectedTab = 2 }, icon = { Icon(Icons.Default.Quiz, "Mock") }, label = { Text("Mock") })
+                NavigationBarItem(selected = selectedTab == 3, onClick = { selectedTab = 3 }, icon = { Icon(Icons.Default.Style, "Cards") }, label = { Text("Cards") })
             }
-
         }
-
     ) { padding ->
-
-
-        Surface(
-            modifier = Modifier.padding(padding)
-        ) {
-
-
+        Surface(modifier = Modifier.padding(padding)) {
             when(selectedTab) {
-
-
                 0 -> {
-
-
                     if (showReview) {
-
-
-                        ReviewWrongAnswersScreen(
-
-                            onBack = {
-
-                                showReview = false
-
-                            }
-
-                        )
-
-
+                        ReviewWrongAnswersScreen(onBack = { showReview = false })
                     } else if (showHistory) {
-
-
-                        ExamHistoryScreen(
-
-                            onBack = {
-
-                                showHistory = false
-
-                            }
-
-                        )
-
-
+                        ExamHistoryScreen(onBack = { showHistory = false })
                     } else {
-
-
-                    HomeScreen(
-                        onPracticeClick = {
-                            selectedTab = 1
-                        },
-                        onMockExamClick = {
-                            selectedTab = 2
-                        },
-                        onFlashcardsClick = {
-                            selectedTab = 3
-                        },
-
-                        onReviewClick = {
-
-                            showReview = true
-
-                        },
-
-
-                        onHistoryClick = {
-
-                            showHistory = true
-
-                        }
-
-                    )
-
-
+                        HomeScreen(
+                            onPracticeClick = { selectedTab = 1 },
+                            onMockExamClick = { selectedTab = 2 },
+                            onFlashcardsClick = { selectedTab = 3 },
+                            onReviewClick = { showReview = true },
+                            onHistoryClick = { showHistory = true }
+                        )
                     }
-
-
                 }
-
-
-
                 1 -> {
-
-
                     when(practiceFlow) {
-
-
-                        "none" -> {
-
-                            PracticeSetupScreen(
-
-                                onBack = {
-                                    selectedTab = 0
-                                },
-
-                                onStartPractice = {
-
-                                    practiceFlow = "module"
-
-                                },
-
-                                onStartScenario = {
-
-                                    practiceFlow = "scenario"
-
-                                }
-
-                            )
-
-                        }
-
-
-                        "module" -> {
-
-                            ModuleScreen(
-
-                                onBack = {
-                                    practiceFlow = "none"
-                                },
-
-                                onModuleSelected = {
-
-                                    selectedModule = it
-                                    practiceFlow = "practice"
-
-                                }
-
-                            )
-
-                        }
-
-
-                        "practice" -> {
-
-                            PracticeScreen(
-                                mode = PracticeMode.Module(selectedModule),
-
-                                onBack = {
-                                    practiceFlow = "module"
-                                }
-                            )
-
-                        }
-
-
-                        "scenario" -> {
-
-                            ModuleScreen(
-
-                                onBack = {
-                                    practiceFlow = "none"
-                                },
-
-                                onModuleSelected = {
-
-                                    selectedModule = it
-                                    practiceFlow = "scenarioPractice"
-
-                                }
-
-                            )
-
-                        }
-
-
-                        "scenarioPractice" -> {
-
-                            PracticeScreen(
-                                mode = PracticeMode.Scenario(selectedModule),
-
-                                onBack = {
-                                    practiceFlow = "scenario"
-                                }
-                            )
-
-                        }
-
+                        "none" -> PracticeSetupScreen(onBack = { selectedTab = 0 }, onStartPractice = { practiceFlow = "module" }, onStartScenario = { practiceFlow = "scenario" })
+                        "module" -> ModuleScreen(onBack = { practiceFlow = "none" }, onModuleSelected = { selectedModule = it; practiceFlow = "practice" })
+                        "practice" -> PracticeScreen(mode = PracticeMode.Module(selectedModule), onBack = { practiceFlow = "module" })
+                        "scenario" -> ModuleScreen(onBack = { practiceFlow = "none" }, onModuleSelected = { selectedModule = it; practiceFlow = "scenarioPractice" })
+                        "scenarioPractice" -> PracticeScreen(mode = PracticeMode.Scenario(selectedModule), onBack = { practiceFlow = "scenario" })
                     }
-
-
                 }
-
-
-
                 2 -> {
-
                     if (mockQuestions.isEmpty()) {
-
-                        MockExamScreen(
-                            onStartExam = {
-
-                                mockQuestions =
-                                    QuestionRepository
-                                        .getAllQuestions(
-                                            context
-                                        )
-                                        .shuffled()
-                                        .take(10)
-
-                            }
-                        )
-
+                        MockExamScreen(onStartExam = { mockQuestions = QuestionRepository.getAllQuestions(context).shuffled().take(100) })
                     } else {
-
-                        PracticeScreen(
-                            mode = PracticeMode.MockExam(mockQuestions),
-
-                            onBack = {
-                                mockQuestions = emptyList()
-                            }
-                        )
-
+                        PracticeScreen(mode = PracticeMode.MockExam(mockQuestions), onBack = { mockQuestions = emptyList() })
                     }
-
                 }
-
-
-
-                3 -> {
-
-                    FlashcardsScreen()
-
-                }
-
-
+                3 -> FlashcardsScreen()
             }
-
         }
-
     }
-
 }

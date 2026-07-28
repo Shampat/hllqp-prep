@@ -12,7 +12,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import com.vasapps.hllqpprep.core.repository.ModuleRepository
-
+import com.vasapps.hllqpprep.core.ads.BannerScaffold
 
 private fun moduleColor(id: String): Color {
     return when (id) {
@@ -29,143 +29,24 @@ private fun moduleColor(id: String): Color {
     }
 }
 
-
-
 @Composable
-fun ModuleScreen(
-    onBack: () -> Unit,
-    onModuleSelected: (String) -> Unit
-) {
-
-
-    val modules =
-        ModuleRepository.getModules()
-
-
-
-    Column(
-
-        modifier =
-            Modifier
-                .fillMaxSize()
-                .padding(24.dp)
-                .verticalScroll(
-                    rememberScrollState()
-                ),
-
-        verticalArrangement =
-            Arrangement.spacedBy(16.dp)
-
-    ) {
-
-
-
-        Row(
-            modifier = Modifier.clickable {
-                onBack()
-            },
-            horizontalArrangement = Arrangement.spacedBy(4.dp)
-        ) {
-
-            Icon(
-                imageVector = Icons.Default.ArrowBack,
-                contentDescription = "Back"
-            )
-
-            Text(
-                text = "Choose Your Study Module",
-                style = MaterialTheme.typography.titleMedium
-            )
-
-        }
-
-
-
-
-
-        Text(
-
-            text =
-                "Practice questions and review concepts by HLLQP section.",
-
-            style =
-                MaterialTheme.typography.bodyLarge
-
-        )
-
-
-
-
-        modules.forEach { module ->
-
-
-
-            Card(
-
-                modifier =
-                    Modifier.fillMaxWidth(),
-
-                onClick = {
-
-                    onModuleSelected(module.id)
-
-                },
-
-                colors =
-                    CardDefaults.cardColors(
-                        containerColor = moduleColor(module.id)
-                    )
-
-            ) {
-
-
-
-                Column(
-
-                    modifier =
-                        Modifier.padding(20.dp),
-
-                    verticalArrangement =
-                        Arrangement.spacedBy(8.dp)
-
-                ) {
-
-
-
-                    Text(
-
-                        text =
-                            module.name,
-
-                        style =
-                            MaterialTheme.typography.titleLarge
-
-                    )
-
-
-
-                    Text(
-
-                        text =
-                            module.description,
-
-                        style =
-                            MaterialTheme.typography.bodyMedium
-
-                    )
-
-
-
-                }
-
-
+fun ModuleScreen(onBack: () -> Unit, onModuleSelected: (String) -> Unit) {
+    val modules = ModuleRepository.getModules()
+    BannerScaffold {
+        Column(modifier = Modifier.fillMaxSize().padding(24.dp).verticalScroll(rememberScrollState()), verticalArrangement = Arrangement.spacedBy(16.dp)) {
+            Row(modifier = Modifier.clickable { onBack() }, horizontalArrangement = Arrangement.spacedBy(4.dp)) {
+                Icon(imageVector = Icons.Default.ArrowBack, contentDescription = "Back")
+                Text(text = "Choose Your Study Module", style = MaterialTheme.typography.titleMedium)
             }
-
-
+            Text(text = "Practice questions and review concepts by HLLQP section.", style = MaterialTheme.typography.bodyLarge)
+            modules.forEach { module ->
+                Card(modifier = Modifier.fillMaxWidth(), onClick = { onModuleSelected(module.id) }, colors = CardDefaults.cardColors(containerColor = moduleColor(module.id))) {
+                    Column(modifier = Modifier.padding(20.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                        Text(text = module.name, style = MaterialTheme.typography.titleLarge)
+                        Text(text = module.description, style = MaterialTheme.typography.bodyMedium)
+                    }
+                }
+            }
         }
-
-
     }
-
-
 }

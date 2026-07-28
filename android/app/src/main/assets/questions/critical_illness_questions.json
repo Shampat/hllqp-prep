@@ -1,50 +1,3202 @@
 [
   {
-    "id": 70001,
+    "id": 50001,
     "moduleId": "critical_illness",
     "moduleName": "Critical Illness Insurance",
     "topic": "Fundamentals",
     "difficulty": "Easy",
-    "question": "What is the primary purpose of critical illness insurance?",
+    "question": "What is the primary purpose of Critical Illness Insurance in Canada?",
     "options": [
-      "Provide a lump sum benefit after diagnosis of a covered condition",
-      "Replace automobile insurance",
-      "Guarantee investment returns",
-      "Cover all medical expenses automatically"
+      "To reimburse hospital bills",
+      "To pay a lump-sum benefit upon diagnosis of a covered condition as defined in policy",
+      "To replace income during any disability",
+      "To cover dental costs"
     ],
-    "correctAnswer": 0,
-    "explanation": "Critical illness insurance provides financial support after diagnosis of covered illnesses."
+    "correctAnswer": 1,
+    "explanation": "CI insurance pays a lump-sum upon diagnosis of a covered condition meeting policy definition and survival period. It's not reimbursement or income replacement like DI."
   },
   {
-    "id": 70002,
+    "id": 50002,
     "moduleId": "critical_illness",
     "moduleName": "Critical Illness Insurance",
-    "topic": "Benefits",
+    "topic": "Definitions",
     "difficulty": "Easy",
-    "question": "A critical illness benefit is usually paid when:",
+    "question": "What is the typical survival period in Canadian CI policies?",
     "options": [
-      "A covered illness is diagnosed and policy conditions are met",
-      "The client changes employment",
-      "The advisor requests payment",
-      "Any sickness occurs without restrictions"
+      "0 days",
+      "30 days survival after diagnosis",
+      "2 years",
+      "1 year"
     ],
-    "correctAnswer": 0,
-    "explanation": "Claims depend on covered conditions and policy requirements."
+    "correctAnswer": 1,
+    "explanation": "Most Canadian CI policies require insured to survive 30 days after diagnosis (some conditions have different periods e.g., 0 for bypass, 90 for MS)."
   },
   {
-    "id": 70003,
+    "id": 50003,
     "moduleId": "critical_illness",
     "moduleName": "Critical Illness Insurance",
-    "topic": "Suitability",
+    "topic": "Covered Conditions",
     "difficulty": "Medium",
-    "question": "Critical illness insurance may help clients protect against:",
+    "question": "Which condition is commonly covered in standard Canadian CI base contract (CISRO 26 conditions)?",
     "options": [
-      "Financial strain after a serious illness",
-      "Vehicle repair costs",
-      "Property taxes only",
-      "Investment losses only"
+      "Common cold",
+      "Life-threatening cancer",
+      "Flu",
+      "Sprained ankle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standard CI base includes life-threatening cancer, heart attack, stroke. Cold, flu, sprain are not covered."
+  },
+  {
+    "id": 50004,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Cancer Definition",
+    "difficulty": "Medium",
+    "question": "In HLLQP, life-threatening cancer definition typically excludes:",
+    "options": [
+      "Invasive cancers",
+      "Early-stage non-invasive cancers like Stage 0, low-grade prostate, non-melanoma skin cancer unless metastasized",
+      "Metastatic cancer",
+      "Leukemia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CI cancer definition excludes very early non-life-threatening cancers: carcinoma in situ, Stage T1a prostate, non-melanoma skin cancer without metastasis."
+  },
+  {
+    "id": 50005,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Heart Attack Definition",
+    "difficulty": "Medium",
+    "question": "Heart attack (Myocardial Infarction) CI definition requires:",
+    "options": [
+      "Chest pain only",
+      "Rise and fall of cardiac biomarkers with ECG changes and symptoms meeting criteria",
+      "Any ECG abnormality",
+      "High cholesterol"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CI definition for heart attack requires objective evidence: biomarker elevation plus ECG changes/symptoms meeting specific criteria."
+  },
+  {
+    "id": 50006,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Stroke Definition",
+    "difficulty": "Medium",
+    "question": "Stroke CI definition in Canada requires:",
+    "options": [
+      "TIA",
+      "Cerebrovascular event causing measurable neurological deficit lasting at least 30 days",
+      "Headache",
+      "Dizziness for 1 day"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stroke requires measurable objective neurological deficit persisting at least 30 days. TIA excluded."
+  },
+  {
+    "id": 50007,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Coronary Bypass",
+    "difficulty": "Easy",
+    "question": "Coronary artery bypass surgery CI benefit requires:",
+    "options": [
+      "Angioplasty",
+      "Open heart surgery with sternum division to correct narrowing/blockage",
+      "Medication only",
+      "Stent"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CI bypass definition requires open-heart surgery involving median sternotomy. Angioplasty/stent not covered under bypass, may be partial benefit."
+  },
+  {
+    "id": 50008,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Taxation",
+    "difficulty": "Easy",
+    "question": "If client pays CI premium personally with after-tax dollars, benefit is:",
+    "options": [
+      "Taxable",
+      "Tax-free",
+      "50% taxable",
+      "Deductible"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Personally paid CI premium => benefit tax-free. Premium not deductible."
+  },
+  {
+    "id": 50009,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Buy-Sell CI",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
     ],
     "correctAnswer": 0,
-    "explanation": "The benefit can help with financial obligations during recovery."
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50010,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Key Person",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50011,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Group CI",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50012,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Return of Premium",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50013,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Moratorium",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50014,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Survival Period",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50015,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Coronary",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50016,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Cancer",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50017,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Heart Attack",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50018,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Stroke",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50019,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Organ Transplant",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50020,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Kidney Failure",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50021,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Paralysis",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50022,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Blindness",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50023,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Deafness",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50024,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Alzheimer",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50025,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Parkinson",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50026,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "MS",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50027,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Occupational HIV",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50028,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Burns",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50029,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Loss of Speech",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50030,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Benign Brain Tumour",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50031,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50032,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50033,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Taxation",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50034,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50035,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50036,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50037,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Children CI",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50038,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Business Uses",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50039,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Buy-Sell CI",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50040,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Key Person",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50041,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Group CI",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50042,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Return of Premium",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50043,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Moratorium",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50044,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Survival Period",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50045,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Coronary",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50046,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Cancer",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50047,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Heart Attack",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50048,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Stroke",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50049,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Organ Transplant",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50050,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Kidney Failure",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50051,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Paralysis",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50052,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Blindness",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50053,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Deafness",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50054,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Alzheimer",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50055,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Parkinson",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50056,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "MS",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50057,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Occupational HIV",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50058,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Burns",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50059,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Loss of Speech",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50060,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Benign Brain Tumour",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50061,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50062,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50063,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Taxation",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50064,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50065,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50066,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50067,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Children CI",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50068,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Business Uses",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50069,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Buy-Sell CI",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50070,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Key Person",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50071,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Group CI",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50072,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Return of Premium",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50073,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Moratorium",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50074,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Survival Period",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50075,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Coronary",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50076,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Cancer",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50077,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Heart Attack",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50078,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Stroke",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50079,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Organ Transplant",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50080,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Kidney Failure",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50081,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Paralysis",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50082,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Blindness",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50083,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Deafness",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50084,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Alzheimer",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50085,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Parkinson",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50086,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "MS",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50087,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Occupational HIV",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50088,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Burns",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50089,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Loss of Speech",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50090,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Benign Brain Tumour",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50091,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50092,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50093,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Taxation",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50094,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50095,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50096,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50097,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Children CI",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50098,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Business Uses",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50099,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Buy-Sell CI",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50100,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Key Person",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50101,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Group CI",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50102,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Return of Premium",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50103,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Moratorium",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50104,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Survival Period",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50105,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Coronary",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50106,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Cancer",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50107,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Heart Attack",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50108,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Stroke",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50109,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Organ Transplant",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50110,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Kidney Failure",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50111,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Paralysis",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50112,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Blindness",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50113,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Deafness",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50114,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Alzheimer",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50115,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Parkinson",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50116,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "MS",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50117,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Occupational HIV",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50118,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Burns",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50119,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Loss of Speech",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50120,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Benign Brain Tumour",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50121,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50122,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50123,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Taxation",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50124,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50125,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50126,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50127,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Children CI",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50128,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Business Uses",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50129,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Buy-Sell CI",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50130,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Key Person",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50131,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Group CI",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50132,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Return of Premium",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50133,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Moratorium",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50134,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Survival Period",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50135,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Coronary",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50136,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Cancer",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50137,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Heart Attack",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50138,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Stroke",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50139,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Organ Transplant",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50140,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Kidney Failure",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50141,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Paralysis",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50142,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Blindness",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50143,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Deafness",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50144,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Alzheimer",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50145,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Parkinson",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50146,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "MS",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50147,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Occupational HIV",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50148,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Burns",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50149,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Loss of Speech",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50150,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Benign Brain Tumour",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50151,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50152,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50153,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Taxation",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50154,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50155,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50156,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50157,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Children CI",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50158,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Business Uses",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50159,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Buy-Sell CI",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50160,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Key Person",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50161,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Group CI",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50162,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Return of Premium",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50163,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Moratorium",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50164,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Survival Period",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50165,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Coronary",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50166,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Cancer",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50167,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Heart Attack",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50168,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Stroke",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50169,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Organ Transplant",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50170,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Kidney Failure",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50171,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Paralysis",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50172,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Blindness",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50173,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Deafness",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50174,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Alzheimer",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50175,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Parkinson",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50176,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "MS",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50177,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Occupational HIV",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50178,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Burns",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50179,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Loss of Speech",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50180,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Benign Brain Tumour",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50181,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50182,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50183,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Taxation",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50184,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50185,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50186,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50187,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Children CI",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50188,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Business Uses",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50189,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Buy-Sell CI",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50190,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Key Person",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
+  },
+  {
+    "id": 50191,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Group CI",
+    "difficulty": "Easy",
+    "question": "What is the moratorium period for cancer in many Canadian CI policies?",
+    "options": [
+      "No moratorium",
+      "90 days from issue - if cancer diagnosed within 90 days, no benefit",
+      "2 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "90-day moratorium for cancer, benign brain tumour, Parkinson's in many CI contracts. Prevents anti-selection for undiagnosed conditions."
+  },
+  {
+    "id": 50192,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Return of Premium",
+    "difficulty": "Easy",
+    "question": "Client age 35, non-smoker, wants $100k CI to age 75. Which statement about premium is true?",
+    "options": [
+      "Level premium to age 75 guaranteed if non-cancellable",
+      "Increases yearly always",
+      "Decreases",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI premiums can be level to age 75 or lifetime if guaranteed. Age, smoking, health affect rate. Non-cancellable locks premium."
+  },
+  {
+    "id": 50193,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Moratorium",
+    "difficulty": "Easy",
+    "question": "Return of Premium on Expiry (ROPE) rider:",
+    "options": [
+      "Returns premiums if no claim at expiry, expensive, encourages persistency",
+      "Always returns",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROPE returns premiums (often 75-100%) if no CI claim by expiry age, very expensive, but popular for clients wanting money back."
+  },
+  {
+    "id": 50194,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Survival Period",
+    "difficulty": "Medium",
+    "question": "Group CI vs Individual CI:",
+    "options": [
+      "Group: simplified issue, lower coverage, not portable, limited definitions; Individual: fully underwritten, portable, richer",
+      "Same",
+      "Group better",
+      "Individual always group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group CI: lower cost, simplified, not portable, limited conditions. Individual: fully underwritten, portable, comprehensive definitions."
+  },
+  {
+    "id": 50195,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Coronary",
+    "difficulty": "Medium",
+    "question": "CI benefit can be used for:",
+    "options": [
+      "Any purpose - mortgage, treatment, income, travel - no restrictions",
+      "Only medical bills",
+      "Only hospital",
+      "Only drugs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI lump-sum unrestricted use: can pay mortgage, experimental treatment, income replacement, travel, etc. Client choice."
+  },
+  {
+    "id": 50196,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Cancer",
+    "difficulty": "Medium",
+    "question": "Exclusion in CI typically includes:",
+    "options": [
+      "Self-inflicted injury, war, criminal act",
+      "Cancer",
+      "Heart attack",
+      "Stroke"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: self-inflicted, war, participation in criminal act, substance abuse. Covered conditions themselves not excluded."
+  },
+  {
+    "id": 50197,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Heart Attack",
+    "difficulty": "Medium",
+    "question": "Occupational HIV infection CI covers:",
+    "options": [
+      "HIV from accidental needlestick at work for healthcare workers meeting criteria",
+      "Any HIV",
+      "Sexual transmission",
+      "No coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI covers occupational HIV for healthcare workers due to accidental exposure at work with testing protocol."
+  },
+  {
+    "id": 50198,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Stroke",
+    "difficulty": "Medium",
+    "question": "Loss of Independent Existence CI definition means:",
+    "options": [
+      "Unable to perform 2+ ADLs or cognitive impairment",
+      "Unable to work",
+      "Hospitalization",
+      "Minor illness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loss of Independent Existence means unable to perform 2+ ADLs (bathing, dressing, toileting, etc.) or cognitive impairment, similar to LTC trigger."
+  },
+  {
+    "id": 50199,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Organ Transplant",
+    "difficulty": "Hard",
+    "question": "Why CI important even with disability insurance?",
+    "options": [
+      "DI replaces income if can't work, CI pays lump-sum on diagnosis even if can work, covers extra costs",
+      "No need",
+      "DI covers everything",
+      "CI same as DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI requires inability to work. CI pays on diagnosis even if can work, covers non-income costs like treatment, travel, home modifications."
+  },
+  {
+    "id": 50200,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Kidney Failure",
+    "difficulty": "Hard",
+    "question": "Children's CI benefit amount typically:",
+    "options": [
+      "$10k-$50k per child, low cost rider",
+      "$1M",
+      "$500k minimum",
+      "Not available"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Children's CI rider typically $10k-$50k per child, inexpensive, covers child CI diagnosis."
   }
 ]

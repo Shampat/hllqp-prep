@@ -5,1215 +5,1215 @@
     "moduleName": "Life Insurance",
     "topic": "Basics",
     "difficulty": "Easy",
-    "question": "What is the main purpose of life insurance?",
+    "question": "What is the main purpose of life insurance in Canada?",
     "options": [
-      "Investment growth only",
-      "Financial protection for beneficiaries",
-      "Stock market protection",
-      "Tax avoidance"
+      "Investment only",
+      "Financial protection for beneficiaries upon death of life insured",
+      "Tax avoidance only",
+      "Stock protection"
     ],
     "correctAnswer": 1,
-    "explanation": "Life insurance provides financial protection to beneficiaries after death."
+    "explanation": "Life insurance provides financial protection to beneficiaries upon death, to replace income, pay debts, fund needs. Not just investment or tax avoidance."
   },
   {
     "id": 2,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "Why is understanding client needs important before recommending life insurance?",
+    "topic": "Policy Types",
+    "difficulty": "Easy",
+    "question": "Policy Types: HLLQP scenario - Client needs life insurance for policy types. What is suitable?",
     "options": [
-      "To sell the most expensive product",
-      "To recommend suitable coverage",
-      "To avoid meeting the client",
-      "To reduce paperwork only"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
     "correctAnswer": 1,
-    "explanation": "Recommendations should be based on the client's needs and circumstances."
+    "explanation": "For Policy Types, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 3,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Basics",
+    "topic": "Term Insurance",
     "difficulty": "Easy",
-    "question": "Who is the person whose life is insured under a life insurance policy?",
+    "question": "Term 10 vs Term 20 difference?",
     "options": [
-      "Policyowner",
-      "Beneficiary",
-      "Life insured",
-      "Agent"
+      "Term 10 has level premium for 10 years then renews at higher age, Term 20 for 20 years",
+      "Same",
+      "Term 10 permanent",
+      "Term 20 only for seniors"
     ],
-    "correctAnswer": 2,
-    "explanation": "The life insured is the individual whose death triggers the policy benefit."
+    "correctAnswer": 0,
+    "explanation": "Term insurance level for stated period (10,20) then renewable at higher premium. Longer term = higher initial premium but level longer. No cash value."
   },
   {
     "id": 4,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Basics",
-    "difficulty": "Easy",
-    "question": "Who owns the rights and controls a life insurance policy?",
+    "topic": "Whole Life",
+    "difficulty": "Medium",
+    "question": "Participating whole life dividends in Canada are:",
     "options": [
-      "Beneficiary",
-      "Policyowner",
-      "Insurer",
-      "Medical examiner"
+      "Guaranteed",
+      "Not guaranteed, based on insurer experience, can buy paid-up additions, reduce premium, etc.",
+      "Taxable as income always",
+      "Never paid"
     ],
     "correctAnswer": 1,
-    "explanation": "The policyowner controls policy rights including changes and assignments."
+    "explanation": "Dividends not guaranteed, based on insurer's actual vs assumed experience. Options: PUA, premium reduction, cash, accumulation. Tax treatment depends on use."
   },
   {
     "id": 5,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
-    "difficulty": "Easy",
-    "question": "Who receives the death benefit when a beneficiary is properly designated?",
+    "topic": "Universal Life",
+    "difficulty": "Medium",
+    "question": "Universal Life: HLLQP scenario - Client needs life insurance for universal life. What is suitable?",
     "options": [
-      "The beneficiary",
-      "The agent",
-      "The insurer",
-      "The government"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "The beneficiary receives the policy proceeds according to the contract."
+    "correctAnswer": 1,
+    "explanation": "For Universal Life, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 6,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Beneficiaries",
     "difficulty": "Medium",
-    "question": "Which type of insurance provides coverage for a specific period?",
+    "question": "Irrevocable beneficiary in Quebec vs rest of Canada?",
     "options": [
-      "Term insurance",
-      "Whole life insurance",
-      "Permanent insurance",
-      "Universal insurance"
+      "In Quebec spouse automatically irrevocable unless otherwise stated, in other provinces revocable unless designated irrevocable",
+      "Same everywhere",
+      "Never irrevocable",
+      "Always irrevocable"
     ],
     "correctAnswer": 0,
-    "explanation": "Term insurance provides protection for a defined period."
+    "explanation": "Quebec: spouse designated as beneficiary is irrevocable by default (requires consent to change). Other provinces: revocable by default unless explicitly irrevocable. Important for divorce, changes."
   },
   {
     "id": 7,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Underwriting",
     "difficulty": "Medium",
-    "question": "Permanent life insurance generally provides:",
+    "question": "Underwriting: HLLQP scenario - Client needs life insurance for underwriting. What is suitable?",
     "options": [
-      "Temporary coverage only",
-      "Lifetime protection",
-      "No death benefit",
-      "Only investment advice"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
     "correctAnswer": 1,
-    "explanation": "Permanent insurance is designed to provide lifelong coverage."
+    "explanation": "For Underwriting, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 8,
     "moduleId": "life",
     "moduleName": "Life Insurance",
     "topic": "Premiums",
-    "difficulty": "Easy",
-    "question": "A premium is:",
+    "difficulty": "Medium",
+    "question": "Premiums: HLLQP scenario - Client needs life insurance for premiums. What is suitable?",
     "options": [
-      "The amount paid for insurance coverage",
-      "The death benefit amount",
-      "The agent commission",
-      "The tax refund"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "A premium is the payment required to maintain insurance coverage."
+    "correctAnswer": 1,
+    "explanation": "For Premiums, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 9,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Medium",
-    "question": "The purpose of underwriting is to:",
+    "topic": "Riders",
+    "difficulty": "Hard",
+    "question": "Riders: HLLQP scenario - Client needs life insurance for riders. What is suitable?",
     "options": [
-      "Assess risk",
-      "Pay claims immediately",
-      "Sell investments",
-      "Reduce benefits"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Underwriting evaluates risk before approving coverage."
+    "correctAnswer": 1,
+    "explanation": "For Riders, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 10,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Medium",
-    "question": "Which factor may affect life insurance premiums?",
+    "topic": "Dividends",
+    "difficulty": "Hard",
+    "question": "Dividends: HLLQP scenario - Client needs life insurance for dividends. What is suitable?",
     "options": [
-      "Age and health",
-      "Favourite colour",
-      "Postal code only",
-      "Occupation title only"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Age, health, and risk factors influence premium calculations."
+    "correctAnswer": 1,
+    "explanation": "For Dividends, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 11,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Claims",
+    "topic": "Taxation",
     "difficulty": "Easy",
-    "question": "A life insurance claim is normally paid after:",
+    "question": "Life insurance death benefit in Canada is:",
     "options": [
-      "The insured person's death",
-      "The first premium payment",
-      "The policy application",
-      "The medical examination"
+      "Tax-free to beneficiary, not taxable income",
+      "Taxable as income",
+      "50% taxable",
+      "Capital gains"
     ],
     "correctAnswer": 0,
-    "explanation": "A death benefit claim is triggered by the death of the insured person."
+    "explanation": "Death benefit tax-free to named beneficiary, bypasses estate if named, not subject to income tax. Policy gain may be taxable if disposition."
   },
   {
     "id": 12,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
-    "difficulty": "Medium",
-    "question": "A beneficiary designation determines:",
+    "topic": "Estate Uses",
+    "difficulty": "Easy",
+    "question": "Estate Uses: HLLQP scenario - Client needs life insurance for estate uses. What is suitable?",
     "options": [
-      "Who receives policy proceeds",
-      "The premium amount",
-      "The agent commission",
-      "The underwriting decision"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "The beneficiary designation identifies who receives the death benefit."
+    "correctAnswer": 1,
+    "explanation": "For Estate Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 13,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Ownership",
-    "difficulty": "Medium",
-    "question": "A policyowner may usually:",
+    "topic": "Business Uses",
+    "difficulty": "Easy",
+    "question": "Business Uses: HLLQP scenario - Client needs life insurance for business uses. What is suitable?",
     "options": [
-      "Change beneficiaries",
-      "Change the insured person's medical history",
-      "Guarantee investment returns",
-      "Cancel insurer regulations"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Policyowners generally have contractual rights such as changing beneficiaries."
+    "correctAnswer": 1,
+    "explanation": "For Business Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 14,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Policyowner Rights",
     "difficulty": "Medium",
-    "question": "Whole life insurance is considered:",
+    "question": "Policyowner Rights: HLLQP scenario - Client needs life insurance for policyowner rights. What is suitable?",
     "options": [
-      "Permanent insurance",
-      "Temporary insurance only",
-      "Health insurance",
-      "Property insurance"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Whole life insurance provides permanent coverage."
+    "correctAnswer": 1,
+    "explanation": "For Policyowner Rights, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 15,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Claims",
     "difficulty": "Medium",
-    "question": "Universal life insurance typically combines:",
+    "question": "Claims: HLLQP scenario - Client needs life insurance for claims. What is suitable?",
     "options": [
-      "Insurance protection and investment components",
-      "Only temporary coverage",
-      "Only medical benefits",
-      "Only retirement benefits"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Universal life combines insurance protection with flexible investment features."
+    "correctAnswer": 1,
+    "explanation": "For Claims, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 16,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Needs Analysis",
-    "difficulty": "Easy",
-    "question": "A needs analysis helps determine:",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "What is the main purpose of life insurance in Canada?",
     "options": [
-      "Appropriate insurance coverage",
-      "Stock market prices",
-      "Tax rates",
-      "Agent licensing requirements"
+      "Investment only",
+      "Financial protection for beneficiaries upon death of life insured",
+      "Tax avoidance only",
+      "Stock protection"
     ],
-    "correctAnswer": 0,
-    "explanation": "Needs analysis helps identify the amount and type of coverage required."
+    "correctAnswer": 1,
+    "explanation": "Life insurance provides financial protection to beneficiaries upon death, to replace income, pay debts, fund needs. Not just investment or tax avoidance."
   },
   {
     "id": 17,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
+    "topic": "Policy Types",
     "difficulty": "Medium",
-    "question": "An insurance advisor should provide recommendations based on:",
+    "question": "Policy Types: HLLQP scenario - Client needs life insurance for policy types. What is suitable?",
     "options": [
-      "Client needs and circumstances",
-      "Personal commission only",
-      "Competitor pricing",
-      "Social media trends"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Recommendations must focus on the client's interests."
+    "correctAnswer": 1,
+    "explanation": "For Policy Types, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 18,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Premiums",
-    "difficulty": "Easy",
-    "question": "Higher insurance risk generally results in:",
+    "topic": "Term Insurance",
+    "difficulty": "Medium",
+    "question": "Term 10 vs Term 20 difference?",
     "options": [
-      "Higher premiums",
-      "Lower premiums",
-      "No premium",
-      "Automatic approval"
+      "Term 10 has level premium for 10 years then renews at higher age, Term 20 for 20 years",
+      "Same",
+      "Term 10 permanent",
+      "Term 20 only for seniors"
     ],
     "correctAnswer": 0,
-    "explanation": "Higher risk generally increases the cost of insurance."
+    "explanation": "Term insurance level for stated period (10,20) then renewable at higher premium. Longer term = higher initial premium but level longer. No cash value."
   },
   {
     "id": 19,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Medium",
-    "question": "A medical examination may be required to:",
+    "topic": "Whole Life",
+    "difficulty": "Hard",
+    "question": "Whole life insurance in Canada provides:",
     "options": [
-      "Evaluate health risk",
-      "Determine beneficiary",
-      "Set commission",
-      "Select policyowner"
+      "Lifetime coverage with level premium and cash value, non-forfeiture options",
+      "10 year coverage only",
+      "No cash value",
+      "Only term"
     ],
     "correctAnswer": 0,
-    "explanation": "Medical information helps insurers assess risk."
+    "explanation": "Whole life: permanent, lifetime coverage, level premium, guaranteed cash value growth, dividends if participating, non-forfeiture options."
   },
   {
     "id": 20,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Basics",
-    "difficulty": "Easy",
-    "question": "The death benefit is:",
+    "topic": "Universal Life",
+    "difficulty": "Hard",
+    "question": "Universal Life: HLLQP scenario - Client needs life insurance for universal life. What is suitable?",
     "options": [
-      "Amount paid when the insured dies",
-      "Monthly premium",
-      "Agent compensation",
-      "Policy application fee"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "The death benefit is the amount payable under the policy contract."
+    "correctAnswer": 1,
+    "explanation": "For Universal Life, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 21,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Beneficiaries",
     "difficulty": "Easy",
-    "question": "Term insurance usually has:",
+    "question": "Preferred beneficiary in Ontario includes:",
     "options": [
-      "Coverage for a specified period",
-      "Lifetime guaranteed coverage",
-      "No expiration date",
-      "No premiums"
+      "Spouse, child, parent of life insured - creditor protected",
+      "Friend",
+      "Business partner",
+      "CRA"
     ],
     "correctAnswer": 0,
-    "explanation": "Term insurance provides protection for a defined term."
+    "explanation": "Preferred beneficiaries (spouse, child, parent) get creditor protection in Ontario and other provinces have similar insurance acts protecting family class."
   },
   {
     "id": 22,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
-    "difficulty": "Medium",
-    "question": "A contingent beneficiary receives benefits if:",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Underwriting: HLLQP scenario - Client needs life insurance for underwriting. What is suitable?",
     "options": [
-      "The primary beneficiary cannot receive them",
-      "The agent requests payment",
-      "Premiums increase",
-      "The policy expires"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "A contingent beneficiary is a backup beneficiary."
+    "correctAnswer": 1,
+    "explanation": "For Underwriting, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 23,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Applications",
-    "difficulty": "Medium",
-    "question": "The application for life insurance should contain:",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "Premiums: HLLQP scenario - Client needs life insurance for premiums. What is suitable?",
     "options": [
-      "Accurate client information",
-      "False information",
-      "Only agent opinions",
-      "No medical details"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Accurate information is essential for proper underwriting."
+    "correctAnswer": 1,
+    "explanation": "For Premiums, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 24,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
+    "topic": "Riders",
     "difficulty": "Medium",
-    "question": "An advisor should explain policy features:",
+    "question": "Riders: HLLQP scenario - Client needs life insurance for riders. What is suitable?",
     "options": [
-      "Clearly and honestly",
-      "Only after purchase",
-      "Only if asked by insurer",
-      "Never"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Clear disclosure helps clients make informed decisions."
+    "correctAnswer": 1,
+    "explanation": "For Riders, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 25,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Basics",
-    "difficulty": "Easy",
-    "question": "The insurer is the company that:",
+    "topic": "Dividends",
+    "difficulty": "Medium",
+    "question": "Dividends: HLLQP scenario - Client needs life insurance for dividends. What is suitable?",
     "options": [
-      "Issues the insurance policy",
-      "Receives commissions",
-      "Chooses the beneficiary",
-      "Becomes the insured"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "The insurer provides the insurance contract and coverage."
+    "correctAnswer": 1,
+    "explanation": "For Dividends, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 26,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Ownership",
+    "topic": "Taxation",
     "difficulty": "Medium",
-    "question": "The policyowner has the right to:",
+    "question": "Life insurance death benefit in Canada is:",
     "options": [
-      "Make changes allowed by the policy contract",
-      "Change the insurer's rules",
-      "Guarantee claim approval",
-      "Remove underwriting requirements"
+      "Tax-free to beneficiary, not taxable income",
+      "Taxable as income",
+      "50% taxable",
+      "Capital gains"
     ],
     "correctAnswer": 0,
-    "explanation": "The policyowner controls contractual rights provided under the policy."
+    "explanation": "Death benefit tax-free to named beneficiary, bypasses estate if named, not subject to income tax. Policy gain may be taxable if disposition."
   },
   {
     "id": 27,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Riders",
+    "topic": "Estate Uses",
     "difficulty": "Medium",
-    "question": "A rider is used to:",
+    "question": "Estate Uses: HLLQP scenario - Client needs life insurance for estate uses. What is suitable?",
     "options": [
-      "Add additional benefits or features",
-      "Cancel all coverage",
-      "Replace the insurer",
-      "Avoid premiums"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Riders modify or enhance the original insurance contract."
+    "correctAnswer": 1,
+    "explanation": "For Estate Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 28,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Riders",
+    "topic": "Business Uses",
     "difficulty": "Medium",
-    "question": "A waiver of premium rider may:",
+    "question": "Business Uses: HLLQP scenario - Client needs life insurance for business uses. What is suitable?",
     "options": [
-      "Waive premiums after qualifying disability",
-      "Increase investment returns",
-      "Guarantee dividends",
-      "Remove beneficiaries"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "This rider can keep coverage active if the insured becomes disabled."
+    "correctAnswer": 1,
+    "explanation": "For Business Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 29,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
-    "difficulty": "Easy",
-    "question": "Convertible term insurance allows the owner to:",
+    "topic": "Policyowner Rights",
+    "difficulty": "Hard",
+    "question": "Policyowner Rights: HLLQP scenario - Client needs life insurance for policyowner rights. What is suitable?",
     "options": [
-      "Convert to permanent insurance without new medical evidence",
-      "Avoid all premiums",
-      "Transfer ownership automatically",
-      "Increase coverage without limits"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Conversion options allow movement from term to permanent coverage."
+    "correctAnswer": 1,
+    "explanation": "For Policyowner Rights, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 30,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Renewals",
-    "difficulty": "Medium",
-    "question": "A renewable term policy allows:",
+    "topic": "Claims",
+    "difficulty": "Hard",
+    "question": "Claims: HLLQP scenario - Client needs life insurance for claims. What is suitable?",
     "options": [
-      "Continuation of coverage according to policy terms",
-      "Automatic claim payment",
-      "Free insurance forever",
-      "Removal of premiums"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Renewability allows continuation based on the contract."
+    "correctAnswer": 1,
+    "explanation": "For Claims, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 31,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
-    "difficulty": "Medium",
-    "question": "A revocable beneficiary designation can usually be changed by:",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "What is the main purpose of life insurance in Canada?",
     "options": [
-      "The policyowner",
-      "The beneficiary only",
-      "The agent only",
-      "The medical examiner"
+      "Investment only",
+      "Financial protection for beneficiaries upon death of life insured",
+      "Tax avoidance only",
+      "Stock protection"
     ],
-    "correctAnswer": 0,
-    "explanation": "A revocable beneficiary can generally be changed by the policyowner."
+    "correctAnswer": 1,
+    "explanation": "Life insurance provides financial protection to beneficiaries upon death, to replace income, pay debts, fund needs. Not just investment or tax avoidance."
   },
   {
     "id": 32,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
-    "difficulty": "Medium",
-    "question": "An irrevocable beneficiary generally requires consent for:",
+    "topic": "Policy Types",
+    "difficulty": "Easy",
+    "question": "Policy Types: HLLQP scenario - Client needs life insurance for policy types. What is suitable?",
     "options": [
-      "Certain policy changes",
-      "Premium payment",
-      "Medical examination",
-      "Initial application"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Irrevocable beneficiaries have stronger rights under the policy."
+    "correctAnswer": 1,
+    "explanation": "For Policy Types, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 33,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Premiums",
+    "topic": "Term Insurance",
     "difficulty": "Easy",
-    "question": "A level premium means:",
+    "question": "Term 10 vs Term 20 difference?",
     "options": [
-      "Premiums remain the same for a specified period",
-      "No premiums are required",
-      "Premiums decrease every month",
-      "Only one payment is made"
+      "Term 10 has level premium for 10 years then renews at higher age, Term 20 for 20 years",
+      "Same",
+      "Term 10 permanent",
+      "Term 20 only for seniors"
     ],
     "correctAnswer": 0,
-    "explanation": "Level premiums remain constant according to policy terms."
+    "explanation": "Term insurance level for stated period (10,20) then renewable at higher premium. Longer term = higher initial premium but level longer. No cash value."
   },
   {
     "id": 34,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
+    "topic": "Whole Life",
     "difficulty": "Medium",
-    "question": "Underwriting helps insurers determine:",
+    "question": "Whole life insurance in Canada provides:",
     "options": [
-      "Risk classification",
-      "Beneficiary identity",
-      "Agent licensing",
-      "Investment performance"
+      "Lifetime coverage with level premium and cash value, non-forfeiture options",
+      "10 year coverage only",
+      "No cash value",
+      "Only term"
     ],
     "correctAnswer": 0,
-    "explanation": "Underwriting evaluates the level of risk."
+    "explanation": "Whole life: permanent, lifetime coverage, level premium, guaranteed cash value growth, dividends if participating, non-forfeiture options."
   },
   {
     "id": 35,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Applications",
+    "topic": "Universal Life",
     "difficulty": "Medium",
-    "question": "Misrepresentation on an insurance application may:",
+    "question": "Universal Life: HLLQP scenario - Client needs life insurance for universal life. What is suitable?",
     "options": [
-      "Affect policy decisions or claims",
-      "Increase guaranteed benefits",
-      "Remove premiums",
-      "Guarantee acceptance"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Incorrect information can affect the validity of coverage."
+    "correctAnswer": 1,
+    "explanation": "For Universal Life, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 36,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Beneficiaries",
     "difficulty": "Medium",
-    "question": "Permanent life insurance usually includes:",
+    "question": "Irrevocable beneficiary in Quebec vs rest of Canada?",
     "options": [
-      "Lifetime coverage",
-      "Only one-year coverage",
-      "No death benefit",
-      "No contract"
+      "In Quebec spouse automatically irrevocable unless otherwise stated, in other provinces revocable unless designated irrevocable",
+      "Same everywhere",
+      "Never irrevocable",
+      "Always irrevocable"
     ],
     "correctAnswer": 0,
-    "explanation": "Permanent insurance is designed for long-term protection."
+    "explanation": "Quebec: spouse designated as beneficiary is irrevocable by default (requires consent to change). Other provinces: revocable by default unless explicitly irrevocable. Important for divorce, changes."
   },
   {
     "id": 37,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Claims",
+    "topic": "Underwriting",
     "difficulty": "Medium",
-    "question": "The insurer reviews a claim to:",
+    "question": "Underwriting: HLLQP scenario - Client needs life insurance for underwriting. What is suitable?",
     "options": [
-      "Verify policy requirements are met",
-      "Change beneficiaries",
-      "Increase premiums",
-      "Sell another product"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Claims are reviewed according to policy terms."
+    "correctAnswer": 1,
+    "explanation": "For Underwriting, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 38,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
+    "topic": "Premiums",
     "difficulty": "Medium",
-    "question": "An advisor must avoid:",
+    "question": "Premiums: HLLQP scenario - Client needs life insurance for premiums. What is suitable?",
     "options": [
-      "Misleading clients",
-      "Explaining coverage",
-      "Reviewing needs",
-      "Providing information"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional conduct requires honesty and fairness."
+    "correctAnswer": 1,
+    "explanation": "For Premiums, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 39,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Basics",
-    "difficulty": "Easy",
-    "question": "The insurance contract is between:",
+    "topic": "Riders",
+    "difficulty": "Hard",
+    "question": "Riders: HLLQP scenario - Client needs life insurance for riders. What is suitable?",
     "options": [
-      "Policyowner and insurer",
-      "Agent and beneficiary",
-      "Government and agent",
-      "Doctor and insurer"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "The policy contract exists between owner and insurer."
+    "correctAnswer": 1,
+    "explanation": "For Riders, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 40,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Needs Analysis",
-    "difficulty": "Medium",
-    "question": "Life insurance needs may change because of:",
+    "topic": "Dividends",
+    "difficulty": "Hard",
+    "question": "Dividends: HLLQP scenario - Client needs life insurance for dividends. What is suitable?",
     "options": [
-      "Changes in personal circumstances",
-      "Favourite hobbies only",
-      "Weather conditions",
-      "Agent preferences"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Life events can change insurance requirements."
+    "correctAnswer": 1,
+    "explanation": "For Dividends, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 41,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
-    "difficulty": "Medium",
-    "question": "A key difference between term and permanent insurance is:",
+    "topic": "Taxation",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit in Canada is:",
     "options": [
-      "Term is temporary while permanent is designed for lifetime coverage",
-      "Term has no premiums",
-      "Permanent has no death benefit",
-      "They are identical"
+      "Tax-free to beneficiary, not taxable income",
+      "Taxable as income",
+      "50% taxable",
+      "Capital gains"
     ],
     "correctAnswer": 0,
-    "explanation": "Term insurance covers a period, while permanent insurance is intended for long-term protection."
+    "explanation": "Death benefit tax-free to named beneficiary, bypasses estate if named, not subject to income tax. Policy gain may be taxable if disposition."
   },
   {
     "id": 42,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Values",
-    "difficulty": "Medium",
-    "question": "Cash value is commonly associated with:",
+    "topic": "Estate Uses",
+    "difficulty": "Easy",
+    "question": "Estate Uses: HLLQP scenario - Client needs life insurance for estate uses. What is suitable?",
     "options": [
-      "Certain permanent life insurance policies",
-      "All term policies",
-      "Health insurance only",
-      "Travel insurance"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Permanent policies may build cash value depending on the contract."
+    "correctAnswer": 1,
+    "explanation": "For Estate Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 43,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Loans",
-    "difficulty": "Medium",
-    "question": "A policy loan may be available against:",
+    "topic": "Business Uses",
+    "difficulty": "Easy",
+    "question": "Business Uses: HLLQP scenario - Client needs life insurance for business uses. What is suitable?",
     "options": [
-      "Eligible cash value",
-      "A term expiration date",
-      "An agent license",
-      "A beneficiary designation"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Some permanent policies allow borrowing against accumulated cash value."
+    "correctAnswer": 1,
+    "explanation": "For Business Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 44,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Premiums",
-    "difficulty": "Easy",
-    "question": "Failure to pay required premiums may result in:",
+    "topic": "Policyowner Rights",
+    "difficulty": "Medium",
+    "question": "Policyowner Rights: HLLQP scenario - Client needs life insurance for policyowner rights. What is suitable?",
     "options": [
-      "Policy lapse",
-      "Automatic increase in benefits",
-      "Guaranteed approval",
-      "Removal of insurer obligations"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Coverage may end if required premiums are not paid."
+    "correctAnswer": 1,
+    "explanation": "For Policyowner Rights, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 45,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
+    "topic": "Claims",
     "difficulty": "Medium",
-    "question": "An advisor should explain:",
+    "question": "Claims: HLLQP scenario - Client needs life insurance for claims. What is suitable?",
     "options": [
-      "Policy benefits, limitations, and costs",
-      "Only commission amounts",
-      "Only company history",
-      "Only application dates"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Clients need clear information to make informed decisions."
+    "correctAnswer": 1,
+    "explanation": "For Claims, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 46,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
+    "topic": "Basics",
     "difficulty": "Medium",
-    "question": "Smoking status may affect:",
+    "question": "What is the main purpose of life insurance in Canada?",
     "options": [
-      "Life insurance premiums",
-      "Beneficiary rights",
-      "Policy ownership",
-      "Agent licensing"
+      "Investment only",
+      "Financial protection for beneficiaries upon death of life insured",
+      "Tax avoidance only",
+      "Stock protection"
     ],
-    "correctAnswer": 0,
-    "explanation": "Lifestyle factors can influence underwriting and premiums."
+    "correctAnswer": 1,
+    "explanation": "Life insurance provides financial protection to beneficiaries upon death, to replace income, pay debts, fund needs. Not just investment or tax avoidance."
   },
   {
     "id": 47,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Applications",
+    "topic": "Policy Types",
     "difficulty": "Medium",
-    "question": "The applicant should provide information that is:",
+    "question": "Policy Types: HLLQP scenario - Client needs life insurance for policy types. What is suitable?",
     "options": [
-      "Complete and accurate",
-      "Estimated only",
-      "Based on another person's answers",
-      "Hidden from the insurer"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Accurate application information supports proper underwriting."
+    "correctAnswer": 1,
+    "explanation": "For Policy Types, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 48,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
-    "difficulty": "Easy",
-    "question": "A beneficiary receives:",
+    "topic": "Term Insurance",
+    "difficulty": "Medium",
+    "question": "Renewable and convertible term means:",
     "options": [
-      "Policy proceeds when entitled",
-      "The agent commission",
-      "The premium refund always",
-      "The underwriting report"
+      "Can renew without evidence and convert to permanent without evidence before age/limit",
+      "Cannot renew",
+      "Only convertible to group",
+      "Must provide medical to renew"
     ],
     "correctAnswer": 0,
-    "explanation": "Beneficiaries receive benefits according to the policy contract."
+    "explanation": "Renewable: can renew without medical to expiry age. Convertible: can convert to permanent without medical before age 71 or expiry. Important features."
   },
   {
     "id": 49,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Basics",
-    "difficulty": "Easy",
-    "question": "Life insurance is primarily designed to protect against:",
+    "topic": "Whole Life",
+    "difficulty": "Hard",
+    "question": "Whole life insurance in Canada provides:",
     "options": [
-      "Financial impact of death",
-      "Daily weather changes",
-      "Stock market losses only",
-      "Vehicle repairs"
+      "Lifetime coverage with level premium and cash value, non-forfeiture options",
+      "10 year coverage only",
+      "No cash value",
+      "Only term"
     ],
     "correctAnswer": 0,
-    "explanation": "Life insurance helps protect against financial loss caused by death."
+    "explanation": "Whole life: permanent, lifetime coverage, level premium, guaranteed cash value growth, dividends if participating, non-forfeiture options."
   },
   {
     "id": 50,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Review",
-    "difficulty": "Medium",
-    "question": "Regular policy reviews help ensure:",
+    "topic": "Universal Life",
+    "difficulty": "Hard",
+    "question": "Universal Life: HLLQP scenario - Client needs life insurance for universal life. What is suitable?",
     "options": [
-      "Coverage continues to meet client needs",
-      "Premiums disappear",
-      "Claims are automatic",
-      "Underwriting is removed"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Life changes may require adjustments to insurance coverage."
+    "correctAnswer": 1,
+    "explanation": "For Universal Life, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 51,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Insurance Principles",
+    "topic": "Beneficiaries",
     "difficulty": "Easy",
-    "question": "Insurance works by:",
+    "question": "Preferred beneficiary in Ontario includes:",
     "options": [
-      "Sharing risk among many policyholders",
-      "Removing all financial risks",
-      "Guaranteeing profits",
-      "Replacing savings completely"
+      "Spouse, child, parent of life insured - creditor protected",
+      "Friend",
+      "Business partner",
+      "CRA"
     ],
     "correctAnswer": 0,
-    "explanation": "Insurance pools risks among many individuals."
+    "explanation": "Preferred beneficiaries (spouse, child, parent) get creditor protection in Ontario and other provinces have similar insurance acts protecting family class."
   },
   {
     "id": 52,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Needs Analysis",
-    "difficulty": "Medium",
-    "question": "A major factor when determining life insurance needs is:",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Underwriting: HLLQP scenario - Client needs life insurance for underwriting. What is suitable?",
     "options": [
-      "Financial obligations",
-      "Favourite colour",
-      "Travel preference",
-      "Vehicle type"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Financial responsibilities help determine required coverage."
+    "correctAnswer": 1,
+    "explanation": "For Underwriting, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 53,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
-    "difficulty": "Medium",
-    "question": "A primary beneficiary is:",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "Premiums: HLLQP scenario - Client needs life insurance for premiums. What is suitable?",
     "options": [
-      "The first person entitled to receive benefits",
-      "The insurance agent",
-      "The insurer",
-      "The medical examiner"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "The primary beneficiary receives proceeds before contingent beneficiaries."
+    "correctAnswer": 1,
+    "explanation": "For Premiums, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 54,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Changes",
+    "topic": "Riders",
     "difficulty": "Medium",
-    "question": "A policy assignment involves:",
+    "question": "Riders: HLLQP scenario - Client needs life insurance for riders. What is suitable?",
     "options": [
-      "Transferring policy rights to another party",
-      "Changing medical history",
-      "Cancelling all benefits",
-      "Changing insurer ownership"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Assignment transfers some or all policy rights."
+    "correctAnswer": 1,
+    "explanation": "For Riders, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 55,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Premiums",
-    "difficulty": "Easy",
-    "question": "Premium payments keep a policy:",
+    "topic": "Dividends",
+    "difficulty": "Medium",
+    "question": "Dividends: HLLQP scenario - Client needs life insurance for dividends. What is suitable?",
     "options": [
-      "In force",
-      "Automatically cancelled",
-      "Without a contract",
-      "Without benefits"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Required premiums maintain coverage."
+    "correctAnswer": 1,
+    "explanation": "For Dividends, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 56,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
+    "topic": "Taxation",
     "difficulty": "Medium",
-    "question": "An insurer may consider occupation during:",
+    "question": "Policy loan vs withdrawal taxation:",
     "options": [
-      "Risk assessment",
-      "Beneficiary selection",
-      "Claim payment only",
-      "Policy cancellation only"
+      "Policy loan not immediately taxable but may create gain if policy lapses, withdrawal taxable to extent of gain (proceeds > ACB)",
+      "Both tax-free",
+      "Both fully taxable",
+      "Never taxable"
     ],
     "correctAnswer": 0,
-    "explanation": "Occupation may affect risk classification."
+    "explanation": "Withdrawal: taxable as income to extent proceeds exceed ACB. Policy loan: not taxable when taken, but if policy lapses with loan, taxable gain may result. Collateral assignment different."
   },
   {
     "id": 57,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
-    "difficulty": "Easy",
-    "question": "Term insurance generally does not build:",
+    "topic": "Estate Uses",
+    "difficulty": "Medium",
+    "question": "Estate Uses: HLLQP scenario - Client needs life insurance for estate uses. What is suitable?",
     "options": [
-      "Cash value",
-      "Coverage",
-      "Premiums",
-      "A contract"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Traditional term insurance normally provides protection without cash value."
+    "correctAnswer": 1,
+    "explanation": "For Estate Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 58,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Business Uses",
     "difficulty": "Medium",
-    "question": "Universal life insurance may offer:",
+    "question": "Business Uses: HLLQP scenario - Client needs life insurance for business uses. What is suitable?",
     "options": [
-      "Flexible premium options",
-      "No insurance protection",
-      "No contract value",
-      "No policyowner rights"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Universal life often provides flexibility in premiums and features."
+    "correctAnswer": 1,
+    "explanation": "For Business Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 59,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Claims",
-    "difficulty": "Easy",
-    "question": "The purpose of a death claim is to:",
+    "topic": "Policyowner Rights",
+    "difficulty": "Hard",
+    "question": "Policyowner Rights: HLLQP scenario - Client needs life insurance for policyowner rights. What is suitable?",
     "options": [
-      "Request payment of the death benefit",
-      "Change ownership",
-      "Modify premiums",
-      "Add riders"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "A claim requests benefits payable under the policy."
+    "correctAnswer": 1,
+    "explanation": "For Policyowner Rights, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 60,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "Client information should be:",
+    "topic": "Claims",
+    "difficulty": "Hard",
+    "question": "Claims: HLLQP scenario - Client needs life insurance for claims. What is suitable?",
     "options": [
-      "Handled confidentially",
-      "Shared publicly",
-      "Sold freely",
-      "Ignored"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Client information must be handled appropriately."
+    "correctAnswer": 1,
+    "explanation": "For Claims, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 61,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Insurance Principles",
-    "difficulty": "Medium",
-    "question": "The main purpose of insurance is to:",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "What is the main purpose of life insurance in Canada?",
     "options": [
-      "Protect against financial loss",
-      "Create guaranteed wealth",
-      "Avoid all expenses",
-      "Replace employment"
+      "Investment only",
+      "Financial protection for beneficiaries upon death of life insured",
+      "Tax avoidance only",
+      "Stock protection"
     ],
-    "correctAnswer": 0,
-    "explanation": "Insurance provides financial protection against specified risks."
+    "correctAnswer": 1,
+    "explanation": "Life insurance provides financial protection to beneficiaries upon death, to replace income, pay debts, fund needs. Not just investment or tax avoidance."
   },
   {
     "id": 62,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Ownership",
-    "difficulty": "Medium",
-    "question": "The policyowner is responsible for:",
+    "topic": "Policy Types",
+    "difficulty": "Easy",
+    "question": "Policy Types: HLLQP scenario - Client needs life insurance for policy types. What is suitable?",
     "options": [
-      "Making required premium payments",
-      "Approving all claims",
-      "Changing insurer rules",
-      "Completing medical exams for everyone"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "The policyowner has responsibilities under the contract."
+    "correctAnswer": 1,
+    "explanation": "For Policy Types, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 63,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
+    "topic": "Term Insurance",
     "difficulty": "Easy",
-    "question": "A beneficiary designation should be:",
+    "question": "Term 10 vs Term 20 difference?",
     "options": [
-      "Clear and properly recorded",
-      "Left blank always",
-      "Selected by the agent",
-      "Ignored after purchase"
+      "Term 10 has level premium for 10 years then renews at higher age, Term 20 for 20 years",
+      "Same",
+      "Term 10 permanent",
+      "Term 20 only for seniors"
     ],
     "correctAnswer": 0,
-    "explanation": "Clear beneficiary designations help ensure benefits are paid correctly."
+    "explanation": "Term insurance level for stated period (10,20) then renewable at higher premium. Longer term = higher initial premium but level longer. No cash value."
   },
   {
     "id": 64,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Applications",
+    "topic": "Whole Life",
     "difficulty": "Medium",
-    "question": "The insurance application becomes part of:",
+    "question": "Participating whole life dividends in Canada are:",
     "options": [
-      "The policy contract",
-      "The agent's personal records only",
-      "A tax document only",
-      "A medical record only"
+      "Guaranteed",
+      "Not guaranteed, based on insurer experience, can buy paid-up additions, reduce premium, etc.",
+      "Taxable as income always",
+      "Never paid"
     ],
-    "correctAnswer": 0,
-    "explanation": "The application is an important part of the insurance agreement."
+    "correctAnswer": 1,
+    "explanation": "Dividends not guaranteed, based on insurer's actual vs assumed experience. Options: PUA, premium reduction, cash, accumulation. Tax treatment depends on use."
   },
   {
     "id": 65,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
-    "question": "Risk classification helps insurers:",
+    "topic": "Universal Life",
+    "difficulty": "Medium",
+    "question": "Universal Life: HLLQP scenario - Client needs life insurance for universal life. What is suitable?",
     "options": [
-      "Determine appropriate premiums",
-      "Choose beneficiaries",
-      "Write explanations",
-      "Set government policy"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Risk classification helps determine pricing."
+    "correctAnswer": 1,
+    "explanation": "For Universal Life, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 66,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Beneficiaries",
     "difficulty": "Medium",
-    "question": "Permanent insurance generally remains in force:",
+    "question": "Preferred beneficiary in Ontario includes:",
     "options": [
-      "For the insured's lifetime if requirements are met",
-      "For one month only",
-      "Without any premiums",
-      "Only during employment"
+      "Spouse, child, parent of life insured - creditor protected",
+      "Friend",
+      "Business partner",
+      "CRA"
     ],
     "correctAnswer": 0,
-    "explanation": "Permanent policies are designed for lifelong protection."
+    "explanation": "Preferred beneficiaries (spouse, child, parent) get creditor protection in Ontario and other provinces have similar insurance acts protecting family class."
   },
   {
     "id": 67,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Premiums",
-    "difficulty": "Easy",
-    "question": "A premium payment is made by:",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Underwriting: HLLQP scenario - Client needs life insurance for underwriting. What is suitable?",
     "options": [
-      "The policyowner",
-      "The beneficiary",
-      "The medical examiner",
-      "The claimant"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "The policyowner is usually responsible for premiums."
+    "correctAnswer": 1,
+    "explanation": "For Underwriting, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 68,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Riders",
+    "topic": "Premiums",
     "difficulty": "Medium",
-    "question": "A rider generally:",
+    "question": "Premiums: HLLQP scenario - Client needs life insurance for premiums. What is suitable?",
     "options": [
-      "Changes or adds policy benefits",
-      "Replaces the entire contract",
-      "Removes all coverage",
-      "Eliminates underwriting"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Riders modify the original policy."
+    "correctAnswer": 1,
+    "explanation": "For Premiums, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 69,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Claims",
-    "difficulty": "Medium",
-    "question": "Claim payments are made according to:",
+    "topic": "Riders",
+    "difficulty": "Hard",
+    "question": "Riders: HLLQP scenario - Client needs life insurance for riders. What is suitable?",
     "options": [
-      "Policy terms and conditions",
-      "Agent preference",
-      "Market conditions",
-      "Client occupation"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Claims are governed by the insurance contract."
+    "correctAnswer": 1,
+    "explanation": "For Riders, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 70,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "An advisor should recommend products that are:",
+    "topic": "Dividends",
+    "difficulty": "Hard",
+    "question": "Dividends: HLLQP scenario - Client needs life insurance for dividends. What is suitable?",
     "options": [
-      "Suitable for the client's needs",
-      "Most expensive available",
-      "Most profitable for the advisor",
-      "Popular online"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Suitability is a key professional responsibility."
+    "correctAnswer": 1,
+    "explanation": "For Dividends, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 71,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Reviews",
+    "topic": "Taxation",
     "difficulty": "Easy",
-    "question": "A policy review helps determine if:",
+    "question": "Policy loan vs withdrawal taxation:",
     "options": [
-      "Coverage still meets client needs",
-      "The insurer can be ignored",
-      "Premiums are unnecessary",
-      "Claims are automatic"
+      "Policy loan not immediately taxable but may create gain if policy lapses, withdrawal taxable to extent of gain (proceeds > ACB)",
+      "Both tax-free",
+      "Both fully taxable",
+      "Never taxable"
     ],
     "correctAnswer": 0,
-    "explanation": "Client circumstances change over time."
+    "explanation": "Withdrawal: taxable as income to extent proceeds exceed ACB. Policy loan: not taxable when taken, but if policy lapses with loan, taxable gain may result. Collateral assignment different."
   },
   {
     "id": 72,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Needs Analysis",
-    "difficulty": "Medium",
-    "question": "Life insurance needs may increase after:",
+    "topic": "Estate Uses",
+    "difficulty": "Easy",
+    "question": "Estate Uses: HLLQP scenario - Client needs life insurance for estate uses. What is suitable?",
     "options": [
-      "Starting a family or taking on debts",
-      "Changing a phone",
-      "Buying clothing",
-      "Taking a vacation"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Major life events affect financial protection needs."
+    "correctAnswer": 1,
+    "explanation": "For Estate Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 73,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Basics",
+    "topic": "Business Uses",
     "difficulty": "Easy",
-    "question": "The insured person is:",
+    "question": "Business Uses: HLLQP scenario - Client needs life insurance for business uses. What is suitable?",
     "options": [
-      "The person whose life is covered",
-      "The insurance company",
-      "The beneficiary",
-      "The advisor"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "The insured is the individual covered by the policy."
+    "correctAnswer": 1,
+    "explanation": "For Business Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 74,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Basics",
-    "difficulty": "Easy",
-    "question": "The insurer is responsible for:",
+    "topic": "Policyowner Rights",
+    "difficulty": "Medium",
+    "question": "Policyowner Rights: HLLQP scenario - Client needs life insurance for policyowner rights. What is suitable?",
     "options": [
-      "Providing coverage according to the contract",
-      "Choosing the client's goals",
-      "Paying all expenses",
-      "Selecting beneficiaries"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "The insurer provides contractual insurance protection."
+    "correctAnswer": 1,
+    "explanation": "For Policyowner Rights, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 75,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Review",
+    "topic": "Claims",
     "difficulty": "Medium",
-    "question": "A complete insurance review considers:",
+    "question": "Claims: HLLQP scenario - Client needs life insurance for claims. What is suitable?",
     "options": [
-      "Client goals and circumstances",
-      "Only premium price",
-      "Only insurer name",
-      "Only product advertising"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "A review should consider the client's overall situation."
+    "correctAnswer": 1,
+    "explanation": "For Claims, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 76,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Basics",
     "difficulty": "Medium",
-    "question": "Whole life insurance is a type of:",
+    "question": "What is the main purpose of life insurance in Canada?",
     "options": [
-      "Permanent life insurance",
-      "Temporary insurance only",
-      "Travel insurance",
-      "Property insurance"
+      "Investment only",
+      "Financial protection for beneficiaries upon death of life insured",
+      "Tax avoidance only",
+      "Stock protection"
     ],
-    "correctAnswer": 0,
-    "explanation": "Whole life insurance provides permanent protection."
+    "correctAnswer": 1,
+    "explanation": "Life insurance provides financial protection to beneficiaries upon death, to replace income, pay debts, fund needs. Not just investment or tax avoidance."
   },
   {
     "id": 77,
@@ -1221,95 +1221,95 @@
     "moduleName": "Life Insurance",
     "topic": "Policy Types",
     "difficulty": "Medium",
-    "question": "Term insurance is often used for:",
+    "question": "Policy Types: HLLQP scenario - Client needs life insurance for policy types. What is suitable?",
     "options": [
-      "Temporary protection needs",
-      "Vehicle repairs",
-      "Medical treatment only",
-      "Guaranteed investment returns"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Term insurance is commonly used for temporary financial obligations."
+    "correctAnswer": 1,
+    "explanation": "For Policy Types, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 78,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Needs Analysis",
+    "topic": "Term Insurance",
     "difficulty": "Medium",
-    "question": "A mortgage may create a need for:",
+    "question": "Term 10 vs Term 20 difference?",
     "options": [
-      "Life insurance protection",
-      "Lower insurance coverage always",
-      "No financial planning",
-      "Removing beneficiaries"
+      "Term 10 has level premium for 10 years then renews at higher age, Term 20 for 20 years",
+      "Same",
+      "Term 10 permanent",
+      "Term 20 only for seniors"
     ],
     "correctAnswer": 0,
-    "explanation": "Debt obligations can create a need for protection."
+    "explanation": "Term insurance level for stated period (10,20) then renewable at higher premium. Longer term = higher initial premium but level longer. No cash value."
   },
   {
     "id": 79,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Applications",
-    "difficulty": "Medium",
-    "question": "False information on an application may:",
+    "topic": "Whole Life",
+    "difficulty": "Hard",
+    "question": "Participating whole life dividends in Canada are:",
     "options": [
-      "Impact coverage decisions",
-      "Guarantee approval",
-      "Increase benefits automatically",
-      "Remove premiums"
+      "Guaranteed",
+      "Not guaranteed, based on insurer experience, can buy paid-up additions, reduce premium, etc.",
+      "Taxable as income always",
+      "Never paid"
     ],
-    "correctAnswer": 0,
-    "explanation": "Accuracy is important during the application process."
+    "correctAnswer": 1,
+    "explanation": "Dividends not guaranteed, based on insurer's actual vs assumed experience. Options: PUA, premium reduction, cash, accumulation. Tax treatment depends on use."
   },
   {
     "id": 80,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "An advisor should act in the client's:",
+    "topic": "Universal Life",
+    "difficulty": "Hard",
+    "question": "Universal Life: HLLQP scenario - Client needs life insurance for universal life. What is suitable?",
     "options": [
-      "Best interest",
-      "Competitor's interest",
-      "Market interest only",
-      "Agent's interest only"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional conduct requires client-focused advice."
+    "correctAnswer": 1,
+    "explanation": "For Universal Life, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 81,
     "moduleId": "life",
     "moduleName": "Life Insurance",
     "topic": "Beneficiaries",
-    "difficulty": "Medium",
-    "question": "A contingent beneficiary receives benefits if:",
+    "difficulty": "Easy",
+    "question": "Irrevocable beneficiary in Quebec vs rest of Canada?",
     "options": [
-      "The primary beneficiary cannot receive them",
-      "The agent requests payment",
-      "Premiums increase",
-      "The policy expires"
+      "In Quebec spouse automatically irrevocable unless otherwise stated, in other provinces revocable unless designated irrevocable",
+      "Same everywhere",
+      "Never irrevocable",
+      "Always irrevocable"
     ],
     "correctAnswer": 0,
-    "explanation": "A contingent beneficiary is a backup recipient."
+    "explanation": "Quebec: spouse designated as beneficiary is irrevocable by default (requires consent to change). Other provinces: revocable by default unless explicitly irrevocable. Important for divorce, changes."
   },
   {
     "id": 82,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Ownership",
-    "difficulty": "Medium",
-    "question": "Ownership rights may include:",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Underwriting: HLLQP scenario - Client needs life insurance for underwriting. What is suitable?",
     "options": [
-      "Changing beneficiaries when permitted",
-      "Changing insurer regulations",
-      "Approving all claims",
-      "Ignoring premiums"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Owners have contractual rights under the policy."
+    "correctAnswer": 1,
+    "explanation": "For Underwriting, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 83,
@@ -1317,1886 +1317,1886 @@
     "moduleName": "Life Insurance",
     "topic": "Premiums",
     "difficulty": "Easy",
-    "question": "Premiums are based partly on:",
+    "question": "Premiums: HLLQP scenario - Client needs life insurance for premiums. What is suitable?",
     "options": [
-      "Risk factors",
-      "Favourite foods",
-      "Weather",
-      "Vehicle colour"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Risk factors influence insurance pricing."
+    "correctAnswer": 1,
+    "explanation": "For Premiums, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 84,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
+    "topic": "Riders",
     "difficulty": "Medium",
-    "question": "Medical information may be used to:",
+    "question": "Riders: HLLQP scenario - Client needs life insurance for riders. What is suitable?",
     "options": [
-      "Assess insurance risk",
-      "Select beneficiaries",
-      "Change ownership",
-      "Set government taxes"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Medical details assist underwriting."
+    "correctAnswer": 1,
+    "explanation": "For Riders, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 85,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Review",
-    "difficulty": "Easy",
-    "question": "A client review should occur:",
+    "topic": "Dividends",
+    "difficulty": "Medium",
+    "question": "Dividends: HLLQP scenario - Client needs life insurance for dividends. What is suitable?",
     "options": [
-      "Regularly as circumstances change",
-      "Never after purchase",
-      "Only after claims",
-      "Only when premiums stop"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Regular reviews help maintain suitable coverage."
+    "correctAnswer": 1,
+    "explanation": "For Dividends, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 86,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Insurance Principles",
+    "topic": "Taxation",
     "difficulty": "Medium",
-    "question": "The amount of life insurance coverage needed depends on:",
+    "question": "Life insurance death benefit in Canada is:",
     "options": [
-      "Client financial needs and obligations",
-      "The advisor's preference",
-      "The insurer's advertising",
-      "The client's favourite product"
+      "Tax-free to beneficiary, not taxable income",
+      "Taxable as income",
+      "50% taxable",
+      "Capital gains"
     ],
     "correctAnswer": 0,
-    "explanation": "Coverage should be based on the client's situation."
+    "explanation": "Death benefit tax-free to named beneficiary, bypasses estate if named, not subject to income tax. Policy gain may be taxable if disposition."
   },
   {
     "id": 87,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Estate Uses",
     "difficulty": "Medium",
-    "question": "Permanent life insurance may include:",
+    "question": "Estate Uses: HLLQP scenario - Client needs life insurance for estate uses. What is suitable?",
     "options": [
-      "A cash value component",
-      "No contract value",
-      "No death benefit",
-      "Only short-term coverage"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Some permanent policies accumulate cash value."
+    "correctAnswer": 1,
+    "explanation": "For Estate Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 88,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Claims",
-    "difficulty": "Easy",
-    "question": "A death benefit is paid after:",
+    "topic": "Business Uses",
+    "difficulty": "Medium",
+    "question": "Business Uses: HLLQP scenario - Client needs life insurance for business uses. What is suitable?",
     "options": [
-      "The insured's death according to policy terms",
-      "The first premium payment",
-      "The application date",
-      "A beneficiary request only"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Death benefits are paid according to the contract."
+    "correctAnswer": 1,
+    "explanation": "For Business Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 89,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "An advisor should explain:",
+    "topic": "Policyowner Rights",
+    "difficulty": "Hard",
+    "question": "Policyowner Rights: HLLQP scenario - Client needs life insurance for policyowner rights. What is suitable?",
     "options": [
-      "Important policy features and limitations",
-      "Only sales targets",
-      "Only commissions",
-      "Only company history"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Clients require clear and complete information."
+    "correctAnswer": 1,
+    "explanation": "For Policyowner Rights, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 90,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Applications",
-    "difficulty": "Easy",
-    "question": "The applicant should review the application before:",
+    "topic": "Claims",
+    "difficulty": "Hard",
+    "question": "Claims: HLLQP scenario - Client needs life insurance for claims. What is suitable?",
     "options": [
-      "Signing it",
-      "Ignoring it",
-      "Changing the insurer",
-      "Selecting an agent"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Applicants should confirm information is accurate."
+    "correctAnswer": 1,
+    "explanation": "For Claims, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 91,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
-    "difficulty": "Medium",
-    "question": "A beneficiary designation determines:",
+    "topic": "Basics",
+    "difficulty": "Easy",
+    "question": "Who are the three parties in a life insurance contract?",
     "options": [
-      "Who receives policy proceeds",
-      "Who sells the policy",
-      "Who pays premiums",
-      "Who performs underwriting"
+      "Agent, broker, insurer",
+      "Policyowner, life insured, beneficiary",
+      "Doctor, lawyer, agent",
+      "Bank, insurer, government"
     ],
-    "correctAnswer": 0,
-    "explanation": "Beneficiaries receive benefits according to designation."
+    "correctAnswer": 1,
+    "explanation": "Three parties: policyowner (owns rights), life insured (person whose death triggers benefit), beneficiary (receives proceeds). Insurer is fourth party but contract parties are these three."
   },
   {
     "id": 92,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Premiums",
-    "difficulty": "Medium",
-    "question": "Higher insurance risk generally results in:",
+    "topic": "Policy Types",
+    "difficulty": "Easy",
+    "question": "Policy Types: HLLQP scenario - Client needs life insurance for policy types. What is suitable?",
     "options": [
-      "Higher premiums",
-      "No contract",
-      "Automatic cancellation",
-      "Lower coverage always"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Greater risk often results in higher insurance costs."
+    "correctAnswer": 1,
+    "explanation": "For Policy Types, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 93,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Changes",
-    "difficulty": "Medium",
-    "question": "Changing policy information should follow:",
+    "topic": "Term Insurance",
+    "difficulty": "Easy",
+    "question": "Term 10 vs Term 20 difference?",
     "options": [
-      "The insurer's procedures",
-      "Verbal instructions only",
-      "No documentation",
-      "Agent preference only"
+      "Term 10 has level premium for 10 years then renews at higher age, Term 20 for 20 years",
+      "Same",
+      "Term 10 permanent",
+      "Term 20 only for seniors"
     ],
     "correctAnswer": 0,
-    "explanation": "Policy changes must follow contractual requirements."
+    "explanation": "Term insurance level for stated period (10,20) then renewable at higher premium. Longer term = higher initial premium but level longer. No cash value."
   },
   {
     "id": 94,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Needs Analysis",
-    "difficulty": "Easy",
-    "question": "Life insurance can help protect:",
+    "topic": "Whole Life",
+    "difficulty": "Medium",
+    "question": "Participating whole life dividends in Canada are:",
     "options": [
-      "Dependents and financial obligations",
-      "Stock prices only",
-      "Vehicle value only",
-      "Vacation plans"
+      "Guaranteed",
+      "Not guaranteed, based on insurer experience, can buy paid-up additions, reduce premium, etc.",
+      "Taxable as income always",
+      "Never paid"
     ],
-    "correctAnswer": 0,
-    "explanation": "Life insurance provides financial protection."
+    "correctAnswer": 1,
+    "explanation": "Dividends not guaranteed, based on insurer's actual vs assumed experience. Options: PUA, premium reduction, cash, accumulation. Tax treatment depends on use."
   },
   {
     "id": 95,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Riders",
+    "topic": "Universal Life",
     "difficulty": "Medium",
-    "question": "Adding a rider may:",
+    "question": "Universal Life: HLLQP scenario - Client needs life insurance for universal life. What is suitable?",
     "options": [
-      "Increase available protection",
-      "Remove the contract",
-      "Cancel coverage",
-      "Avoid all premiums"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Riders can provide additional benefits."
+    "correctAnswer": 1,
+    "explanation": "For Universal Life, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 96,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
-    "question": "Underwriting occurs before:",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Preferred beneficiary in Ontario includes:",
     "options": [
-      "Final policy approval",
-      "Beneficiary payment",
-      "Policy review",
-      "Claim settlement"
+      "Spouse, child, parent of life insured - creditor protected",
+      "Friend",
+      "Business partner",
+      "CRA"
     ],
     "correctAnswer": 0,
-    "explanation": "Underwriting happens during the application process."
+    "explanation": "Preferred beneficiaries (spouse, child, parent) get creditor protection in Ontario and other provinces have similar insurance acts protecting family class."
   },
   {
     "id": 97,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Underwriting",
     "difficulty": "Medium",
-    "question": "Convertible term insurance provides:",
+    "question": "Underwriting: HLLQP scenario - Client needs life insurance for underwriting. What is suitable?",
     "options": [
-      "An option to change coverage type",
-      "Free permanent insurance",
-      "No premiums",
-      "Automatic investment gains"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Conversion allows changing to permanent coverage under conditions."
+    "correctAnswer": 1,
+    "explanation": "For Underwriting, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 98,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
+    "topic": "Premiums",
     "difficulty": "Medium",
-    "question": "Good advice requires:",
+    "question": "Premiums: HLLQP scenario - Client needs life insurance for premiums. What is suitable?",
     "options": [
-      "Understanding the client's needs",
-      "Selling any available product",
-      "Ignoring financial goals",
-      "Avoiding explanations"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Advice should be based on client circumstances."
+    "correctAnswer": 1,
+    "explanation": "For Premiums, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 99,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Review",
-    "difficulty": "Easy",
-    "question": "Insurance coverage should be reviewed when:",
+    "topic": "Riders",
+    "difficulty": "Hard",
+    "question": "Riders: HLLQP scenario - Client needs life insurance for riders. What is suitable?",
     "options": [
-      "Major life changes occur",
-      "Nothing changes ever",
-      "Only premiums increase",
-      "The agent changes jobs"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Life events may change insurance needs."
+    "correctAnswer": 1,
+    "explanation": "For Riders, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 100,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Review",
-    "difficulty": "Medium",
-    "question": "The goal of life insurance planning is:",
+    "topic": "Dividends",
+    "difficulty": "Hard",
+    "question": "Dividends: HLLQP scenario - Client needs life insurance for dividends. What is suitable?",
     "options": [
-      "Providing appropriate financial protection",
-      "Maximizing sales commissions",
-      "Avoiding all expenses",
-      "Replacing financial planning"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Insurance planning focuses on protecting financial needs."
+    "correctAnswer": 1,
+    "explanation": "For Dividends, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 101,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
-    "difficulty": "Medium",
-    "question": "A term life policy normally provides:",
+    "topic": "Taxation",
+    "difficulty": "Easy",
+    "question": "Policy loan vs withdrawal taxation:",
     "options": [
-      "Protection for a specific period",
-      "Guaranteed investment returns",
-      "Automatic lifetime coverage",
-      "No death benefit"
+      "Policy loan not immediately taxable but may create gain if policy lapses, withdrawal taxable to extent of gain (proceeds > ACB)",
+      "Both tax-free",
+      "Both fully taxable",
+      "Never taxable"
     ],
     "correctAnswer": 0,
-    "explanation": "Term insurance provides coverage for a defined period."
+    "explanation": "Withdrawal: taxable as income to extent proceeds exceed ACB. Policy loan: not taxable when taken, but if policy lapses with loan, taxable gain may result. Collateral assignment different."
   },
   {
     "id": 102,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
-    "difficulty": "Medium",
-    "question": "A permanent life policy is designed to:",
+    "topic": "Estate Uses",
+    "difficulty": "Easy",
+    "question": "Estate Uses: HLLQP scenario - Client needs life insurance for estate uses. What is suitable?",
     "options": [
-      "Provide long-term protection",
-      "Cover only short vacations",
-      "Avoid all premiums",
-      "Replace banking services"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Permanent insurance provides long-term coverage."
+    "correctAnswer": 1,
+    "explanation": "For Estate Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 103,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
+    "topic": "Business Uses",
     "difficulty": "Easy",
-    "question": "The beneficiary should be identified:",
+    "question": "Business Uses: HLLQP scenario - Client needs life insurance for business uses. What is suitable?",
     "options": [
-      "Clearly in the policy records",
-      "Only verbally",
-      "By the agent alone",
-      "After the claim"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Proper designation helps ensure correct payment."
+    "correctAnswer": 1,
+    "explanation": "For Business Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 104,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Premiums",
+    "topic": "Policyowner Rights",
     "difficulty": "Medium",
-    "question": "Premium rates are affected by:",
+    "question": "Policyowner Rights: HLLQP scenario - Client needs life insurance for policyowner rights. What is suitable?",
     "options": [
-      "Risk characteristics",
-      "Favourite hobbies only",
-      "Insurance company location only",
-      "Beneficiary choice only"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Premiums reflect assessed risk."
+    "correctAnswer": 1,
+    "explanation": "For Policyowner Rights, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 105,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
-    "question": "The purpose of medical information in underwriting is to:",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Claims: HLLQP scenario - Client needs life insurance for claims. What is suitable?",
     "options": [
-      "Evaluate risk",
-      "Select beneficiaries",
-      "Determine ownership",
-      "Change policy wording"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Medical information helps determine insurability."
+    "correctAnswer": 1,
+    "explanation": "For Claims, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 106,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Claims",
+    "topic": "Basics",
     "difficulty": "Medium",
-    "question": "A valid claim must satisfy:",
+    "question": "What is the main purpose of life insurance in Canada?",
     "options": [
-      "Policy requirements",
-      "Agent preference",
-      "Market performance",
-      "Advertising rules"
+      "Investment only",
+      "Financial protection for beneficiaries upon death of life insured",
+      "Tax avoidance only",
+      "Stock protection"
     ],
-    "correctAnswer": 0,
-    "explanation": "Claims are paid according to the contract."
+    "correctAnswer": 1,
+    "explanation": "Life insurance provides financial protection to beneficiaries upon death, to replace income, pay debts, fund needs. Not just investment or tax avoidance."
   },
   {
     "id": 107,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
+    "topic": "Policy Types",
     "difficulty": "Medium",
-    "question": "An advisor should explain policy costs:",
+    "question": "Policy Types: HLLQP scenario - Client needs life insurance for policy types. What is suitable?",
     "options": [
-      "Before the client makes a decision",
-      "Only after purchase",
-      "Only during a claim",
-      "Never"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Clients need clear information before deciding."
+    "correctAnswer": 1,
+    "explanation": "For Policy Types, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 108,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Needs Analysis",
+    "topic": "Term Insurance",
     "difficulty": "Medium",
-    "question": "Income replacement planning considers:",
+    "question": "Renewable and convertible term means:",
     "options": [
-      "Financial support needed after death",
-      "Stock market growth",
-      "Vehicle expenses only",
-      "Vacation costs"
+      "Can renew without evidence and convert to permanent without evidence before age/limit",
+      "Cannot renew",
+      "Only convertible to group",
+      "Must provide medical to renew"
     ],
     "correctAnswer": 0,
-    "explanation": "Life insurance can replace lost income."
+    "explanation": "Renewable: can renew without medical to expiry age. Convertible: can convert to permanent without medical before age 71 or expiry. Important features."
   },
   {
     "id": 109,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Ownership",
-    "difficulty": "Medium",
-    "question": "Policy ownership determines:",
+    "topic": "Whole Life",
+    "difficulty": "Hard",
+    "question": "Whole life insurance in Canada provides:",
     "options": [
-      "Who controls policy rights",
-      "Who receives every benefit automatically",
-      "Who performs underwriting",
-      "Who sells insurance"
+      "Lifetime coverage with level premium and cash value, non-forfeiture options",
+      "10 year coverage only",
+      "No cash value",
+      "Only term"
     ],
     "correctAnswer": 0,
-    "explanation": "Ownership provides control over policy rights."
+    "explanation": "Whole life: permanent, lifetime coverage, level premium, guaranteed cash value growth, dividends if participating, non-forfeiture options."
   },
   {
     "id": 110,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Riders",
-    "difficulty": "Easy",
-    "question": "A rider is usually:",
+    "topic": "Universal Life",
+    "difficulty": "Hard",
+    "question": "Universal Life: HLLQP scenario - Client needs life insurance for universal life. What is suitable?",
     "options": [
-      "An addition to the policy",
-      "A replacement for the insurer",
-      "A claim form",
-      "A premium receipt"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Riders add features or benefits."
+    "correctAnswer": 1,
+    "explanation": "For Universal Life, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 111,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Applications",
-    "difficulty": "Medium",
-    "question": "The application should contain:",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "Preferred beneficiary in Ontario includes:",
     "options": [
-      "Accurate information",
-      "Incomplete answers",
-      "False details",
-      "Guesses only"
+      "Spouse, child, parent of life insured - creditor protected",
+      "Friend",
+      "Business partner",
+      "CRA"
     ],
     "correctAnswer": 0,
-    "explanation": "Accuracy is required for proper underwriting."
+    "explanation": "Preferred beneficiaries (spouse, child, parent) get creditor protection in Ontario and other provinces have similar insurance acts protecting family class."
   },
   {
     "id": 112,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Review",
+    "topic": "Underwriting",
     "difficulty": "Easy",
-    "question": "Coverage reviews help:",
+    "question": "Underwriting: HLLQP scenario - Client needs life insurance for underwriting. What is suitable?",
     "options": [
-      "Keep protection aligned with needs",
-      "Remove all premiums",
-      "Guarantee claims",
-      "Avoid communication"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Reviews ensure continued suitability."
+    "correctAnswer": 1,
+    "explanation": "For Underwriting, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 113,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Basics",
+    "topic": "Premiums",
     "difficulty": "Easy",
-    "question": "The death benefit is paid when:",
+    "question": "Premiums: HLLQP scenario - Client needs life insurance for premiums. What is suitable?",
     "options": [
-      "The insured dies and requirements are met",
-      "The policy is purchased",
-      "The agent requests it",
-      "The premium increases"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Death benefits are payable under policy terms."
+    "correctAnswer": 1,
+    "explanation": "For Premiums, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 114,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Premiums",
-    "difficulty": "Easy",
-    "question": "Keeping premiums current helps maintain:",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "Riders: HLLQP scenario - Client needs life insurance for riders. What is suitable?",
     "options": [
-      "Coverage in force",
-      "Automatic investment gains",
-      "Ownership transfer",
-      "Claim approval"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Premium payment keeps coverage active."
+    "correctAnswer": 1,
+    "explanation": "For Riders, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 115,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
+    "topic": "Dividends",
     "difficulty": "Medium",
-    "question": "An advisor should document:",
+    "question": "Dividends: HLLQP scenario - Client needs life insurance for dividends. What is suitable?",
     "options": [
-      "Important client recommendations",
-      "Personal opinions only",
-      "Competitor pricing only",
-      "Unrelated information"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Documentation supports professional practice."
+    "correctAnswer": 1,
+    "explanation": "For Dividends, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 116,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
+    "topic": "Taxation",
     "difficulty": "Medium",
-    "question": "A beneficiary can be changed when:",
+    "question": "Life insurance death benefit in Canada is:",
     "options": [
-      "The policy terms allow it",
-      "The agent decides",
-      "The insurer ignores the contract",
-      "No owner exists"
+      "Tax-free to beneficiary, not taxable income",
+      "Taxable as income",
+      "50% taxable",
+      "Capital gains"
     ],
     "correctAnswer": 0,
-    "explanation": "Changes depend on policy rules."
+    "explanation": "Death benefit tax-free to named beneficiary, bypasses estate if named, not subject to income tax. Policy gain may be taxable if disposition."
   },
   {
     "id": 117,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
+    "topic": "Estate Uses",
     "difficulty": "Medium",
-    "question": "Underwriting protects:",
+    "question": "Estate Uses: HLLQP scenario - Client needs life insurance for estate uses. What is suitable?",
     "options": [
-      "The insurer and policyholders",
-      "Only the agent",
-      "Only beneficiaries",
-      "Only competitors"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Risk assessment supports fair insurance pricing."
+    "correctAnswer": 1,
+    "explanation": "For Estate Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 118,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Business Uses",
     "difficulty": "Medium",
-    "question": "Universal life insurance may provide:",
+    "question": "Business Uses: HLLQP scenario - Client needs life insurance for business uses. What is suitable?",
     "options": [
-      "Flexible policy features",
-      "No insurance protection",
-      "No premiums",
-      "No ownership rights"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Universal life often includes flexibility."
+    "correctAnswer": 1,
+    "explanation": "For Business Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 119,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Needs Analysis",
-    "difficulty": "Easy",
-    "question": "Life insurance planning considers:",
+    "topic": "Policyowner Rights",
+    "difficulty": "Hard",
+    "question": "Policyowner Rights: HLLQP scenario - Client needs life insurance for policyowner rights. What is suitable?",
     "options": [
-      "Client goals and responsibilities",
-      "Only product advertisements",
-      "Only commissions",
-      "Only insurer profits"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Planning starts with client needs."
+    "correctAnswer": 1,
+    "explanation": "For Policyowner Rights, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 120,
     "moduleId": "life",
     "moduleName": "Life Insurance",
     "topic": "Claims",
-    "difficulty": "Medium",
-    "question": "Claims are reviewed to confirm:",
+    "difficulty": "Hard",
+    "question": "Claims: HLLQP scenario - Client needs life insurance for claims. What is suitable?",
     "options": [
-      "Contract requirements are satisfied",
-      "New coverage is needed",
-      "Premiums should rise",
-      "Ownership changes"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Claims must meet policy conditions."
+    "correctAnswer": 1,
+    "explanation": "For Claims, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 121,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Review",
+    "topic": "Basics",
     "difficulty": "Easy",
-    "question": "A policy review may be needed after:",
+    "question": "Who are the three parties in a life insurance contract?",
     "options": [
-      "Marriage or family changes",
-      "Buying groceries",
-      "Changing phones",
-      "Watching advertisements"
+      "Agent, broker, insurer",
+      "Policyowner, life insured, beneficiary",
+      "Doctor, lawyer, agent",
+      "Bank, insurer, government"
     ],
-    "correctAnswer": 0,
-    "explanation": "Life events affect coverage needs."
+    "correctAnswer": 1,
+    "explanation": "Three parties: policyowner (owns rights), life insured (person whose death triggers benefit), beneficiary (receives proceeds). Insurer is fourth party but contract parties are these three."
   },
   {
     "id": 122,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Basics",
+    "topic": "Policy Types",
     "difficulty": "Easy",
-    "question": "Insurance is based on:",
+    "question": "Policy Types: HLLQP scenario - Client needs life insurance for policy types. What is suitable?",
     "options": [
-      "Managing risk",
-      "Guaranteeing wealth",
-      "Avoiding all payments",
-      "Eliminating uncertainty"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Insurance transfers financial risk."
+    "correctAnswer": 1,
+    "explanation": "For Policy Types, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 123,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Applications",
-    "difficulty": "Medium",
-    "question": "The applicant must disclose:",
+    "topic": "Term Insurance",
+    "difficulty": "Easy",
+    "question": "Renewable and convertible term means:",
     "options": [
-      "Relevant information requested",
-      "Only positive information",
-      "Nothing",
-      "Agent opinions"
+      "Can renew without evidence and convert to permanent without evidence before age/limit",
+      "Cannot renew",
+      "Only convertible to group",
+      "Must provide medical to renew"
     ],
     "correctAnswer": 0,
-    "explanation": "Disclosure supports accurate underwriting."
+    "explanation": "Renewable: can renew without medical to expiry age. Convertible: can convert to permanent without medical before age 71 or expiry. Important features."
   },
   {
     "id": 124,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
+    "topic": "Whole Life",
     "difficulty": "Medium",
-    "question": "Suitable recommendations are based on:",
+    "question": "Whole life insurance in Canada provides:",
     "options": [
-      "Client circumstances",
-      "Highest commission",
-      "Advertising popularity",
-      "Agent convenience"
+      "Lifetime coverage with level premium and cash value, non-forfeiture options",
+      "10 year coverage only",
+      "No cash value",
+      "Only term"
     ],
     "correctAnswer": 0,
-    "explanation": "Suitability requires understanding the client."
+    "explanation": "Whole life: permanent, lifetime coverage, level premium, guaranteed cash value growth, dividends if participating, non-forfeiture options."
   },
   {
     "id": 125,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Review",
+    "topic": "Universal Life",
     "difficulty": "Medium",
-    "question": "The purpose of insurance reviews is to:",
+    "question": "Universal Life: HLLQP scenario - Client needs life insurance for universal life. What is suitable?",
     "options": [
-      "Confirm continued suitability",
-      "Cancel all policies",
-      "Avoid client contact",
-      "Increase paperwork"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Reviews keep coverage appropriate."
+    "correctAnswer": 1,
+    "explanation": "For Universal Life, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 126,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Beneficiaries",
     "difficulty": "Medium",
-    "question": "Term insurance is commonly suitable for:",
+    "question": "Irrevocable beneficiary in Quebec vs rest of Canada?",
     "options": [
-      "Temporary financial obligations",
-      "Guaranteed wealth creation",
-      "Avoiding all expenses",
-      "Replacing investments"
+      "In Quebec spouse automatically irrevocable unless otherwise stated, in other provinces revocable unless designated irrevocable",
+      "Same everywhere",
+      "Never irrevocable",
+      "Always irrevocable"
     ],
     "correctAnswer": 0,
-    "explanation": "Term insurance is often used for temporary protection needs."
+    "explanation": "Quebec: spouse designated as beneficiary is irrevocable by default (requires consent to change). Other provinces: revocable by default unless explicitly irrevocable. Important for divorce, changes."
   },
   {
     "id": 127,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Underwriting",
     "difficulty": "Medium",
-    "question": "Permanent insurance generally provides:",
+    "question": "Underwriting: HLLQP scenario - Client needs life insurance for underwriting. What is suitable?",
     "options": [
-      "Long-term protection",
-      "Only short-term coverage",
-      "No death benefit",
-      "No contract"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Permanent policies are designed for lifelong coverage."
+    "correctAnswer": 1,
+    "explanation": "For Underwriting, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 128,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
+    "topic": "Premiums",
     "difficulty": "Medium",
-    "question": "The purpose of naming a beneficiary is to:",
+    "question": "Premiums: HLLQP scenario - Client needs life insurance for premiums. What is suitable?",
     "options": [
-      "Identify who receives policy proceeds",
-      "Set premium rates",
-      "Approve underwriting",
-      "Change the insurer"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Beneficiary designations determine benefit recipients."
+    "correctAnswer": 1,
+    "explanation": "For Premiums, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 129,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
-    "question": "Underwriting determines:",
+    "topic": "Riders",
+    "difficulty": "Hard",
+    "question": "Riders: HLLQP scenario - Client needs life insurance for riders. What is suitable?",
     "options": [
-      "Insurance risk",
-      "Beneficiary choices",
-      "Agent commission",
-      "Client goals"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Underwriting evaluates the risk of providing coverage."
+    "correctAnswer": 1,
+    "explanation": "For Riders, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 130,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Premiums",
-    "difficulty": "Medium",
-    "question": "Insurance premiums are influenced by:",
+    "topic": "Dividends",
+    "difficulty": "Hard",
+    "question": "Dividends: HLLQP scenario - Client needs life insurance for dividends. What is suitable?",
     "options": [
-      "Risk and coverage amount",
-      "Favourite activities only",
-      "Policy colour",
-      "Agent preference"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Premiums reflect risk and coverage factors."
+    "correctAnswer": 1,
+    "explanation": "For Dividends, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 131,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Claims",
-    "difficulty": "Medium",
-    "question": "A claim decision is based on:",
+    "topic": "Taxation",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit in Canada is:",
     "options": [
-      "Policy provisions",
-      "Market rumours",
-      "Agent opinion",
-      "Advertising"
+      "Tax-free to beneficiary, not taxable income",
+      "Taxable as income",
+      "50% taxable",
+      "Capital gains"
     ],
     "correctAnswer": 0,
-    "explanation": "Claims are governed by contract terms."
+    "explanation": "Death benefit tax-free to named beneficiary, bypasses estate if named, not subject to income tax. Policy gain may be taxable if disposition."
   },
   {
     "id": 132,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "A professional advisor should provide:",
+    "topic": "Estate Uses",
+    "difficulty": "Easy",
+    "question": "Estate Uses: HLLQP scenario - Client needs life insurance for estate uses. What is suitable?",
     "options": [
-      "Accurate information",
-      "Misleading promises",
-      "Incomplete details",
-      "Guaranteed profits"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional conduct requires honesty."
+    "correctAnswer": 1,
+    "explanation": "For Estate Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 133,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Needs Analysis",
-    "difficulty": "Medium",
-    "question": "A client's financial needs may include:",
+    "topic": "Business Uses",
+    "difficulty": "Easy",
+    "question": "Business Uses: HLLQP scenario - Client needs life insurance for business uses. What is suitable?",
     "options": [
-      "Income replacement and debts",
-      "Entertainment expenses only",
-      "Agent targets",
-      "Company goals"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Needs analysis considers financial responsibilities."
+    "correctAnswer": 1,
+    "explanation": "For Business Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 134,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Ownership",
+    "topic": "Policyowner Rights",
     "difficulty": "Medium",
-    "question": "The policyowner can usually:",
+    "question": "Policyowner Rights: HLLQP scenario - Client needs life insurance for policyowner rights. What is suitable?",
     "options": [
-      "Exercise policy rights",
-      "Change insurance law",
-      "Approve claims",
-      "Set insurer regulations"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ownership provides contractual control."
+    "correctAnswer": 1,
+    "explanation": "For Policyowner Rights, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 135,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Riders",
-    "difficulty": "Easy",
-    "question": "Riders are added to:",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Claims: HLLQP scenario - Client needs life insurance for claims. What is suitable?",
     "options": [
-      "Customize coverage",
-      "Remove all benefits",
-      "Cancel policies",
-      "Avoid underwriting"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Riders customize policy protection."
+    "correctAnswer": 1,
+    "explanation": "For Claims, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 136,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Applications",
+    "topic": "Basics",
     "difficulty": "Medium",
-    "question": "A complete application helps:",
+    "question": "What is the main purpose of life insurance in Canada?",
     "options": [
-      "Accurate underwriting",
-      "Avoid contracts",
-      "Remove premiums",
-      "Guarantee approval"
+      "Investment only",
+      "Financial protection for beneficiaries upon death of life insured",
+      "Tax avoidance only",
+      "Stock protection"
     ],
-    "correctAnswer": 0,
-    "explanation": "Complete information supports proper assessment."
+    "correctAnswer": 1,
+    "explanation": "Life insurance provides financial protection to beneficiaries upon death, to replace income, pay debts, fund needs. Not just investment or tax avoidance."
   },
   {
     "id": 137,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Review",
-    "difficulty": "Easy",
-    "question": "Insurance needs may change because of:",
+    "topic": "Policy Types",
+    "difficulty": "Medium",
+    "question": "Policy Types: HLLQP scenario - Client needs life insurance for policy types. What is suitable?",
     "options": [
-      "Life events",
-      "Weather changes",
-      "Product advertisements",
-      "Agent schedules"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Life circumstances affect insurance needs."
+    "correctAnswer": 1,
+    "explanation": "For Policy Types, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 138,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Premiums",
-    "difficulty": "Easy",
-    "question": "A policy may lapse when:",
+    "topic": "Term Insurance",
+    "difficulty": "Medium",
+    "question": "Renewable and convertible term means:",
     "options": [
-      "Required premiums are not paid",
-      "A review occurs",
-      "A beneficiary is named",
-      "A claim is made"
+      "Can renew without evidence and convert to permanent without evidence before age/limit",
+      "Cannot renew",
+      "Only convertible to group",
+      "Must provide medical to renew"
     ],
     "correctAnswer": 0,
-    "explanation": "Failure to maintain premiums can end coverage."
+    "explanation": "Renewable: can renew without medical to expiry age. Convertible: can convert to permanent without medical before age 71 or expiry. Important features."
   },
   {
     "id": 139,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
-    "difficulty": "Medium",
-    "question": "A beneficiary designation should be:",
+    "topic": "Whole Life",
+    "difficulty": "Hard",
+    "question": "Whole life insurance in Canada provides:",
     "options": [
-      "Reviewed when circumstances change",
-      "Ignored forever",
-      "Selected by friends",
-      "Changed randomly"
+      "Lifetime coverage with level premium and cash value, non-forfeiture options",
+      "10 year coverage only",
+      "No cash value",
+      "Only term"
     ],
     "correctAnswer": 0,
-    "explanation": "Changes in life circumstances may require updates."
+    "explanation": "Whole life: permanent, lifetime coverage, level premium, guaranteed cash value growth, dividends if participating, non-forfeiture options."
   },
   {
     "id": 140,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Basics",
-    "difficulty": "Easy",
-    "question": "Life insurance provides:",
+    "topic": "Universal Life",
+    "difficulty": "Hard",
+    "question": "Universal Life: HLLQP scenario - Client needs life insurance for universal life. What is suitable?",
     "options": [
-      "Financial protection",
-      "Guaranteed wealth",
-      "Tax elimination",
-      "No contractual benefit"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Protection against financial loss is the purpose of life insurance."
+    "correctAnswer": 1,
+    "explanation": "For Universal Life, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 141,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
-    "difficulty": "Medium",
-    "question": "The main difference between term and permanent insurance is:",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "Irrevocable beneficiary in Quebec vs rest of Canada?",
     "options": [
-      "Duration of coverage and policy features",
-      "Whether premiums exist",
-      "Whether a contract exists",
-      "Whether claims can occur"
+      "In Quebec spouse automatically irrevocable unless otherwise stated, in other provinces revocable unless designated irrevocable",
+      "Same everywhere",
+      "Never irrevocable",
+      "Always irrevocable"
     ],
     "correctAnswer": 0,
-    "explanation": "Term and permanent insurance differ mainly in duration and features."
+    "explanation": "Quebec: spouse designated as beneficiary is irrevocable by default (requires consent to change). Other provinces: revocable by default unless explicitly irrevocable. Important for divorce, changes."
   },
   {
     "id": 142,
     "moduleId": "life",
     "moduleName": "Life Insurance",
     "topic": "Underwriting",
-    "difficulty": "Medium",
-    "question": "An insurer uses underwriting to:",
+    "difficulty": "Easy",
+    "question": "Underwriting: HLLQP scenario - Client needs life insurance for underwriting. What is suitable?",
     "options": [
-      "Evaluate the risk of providing coverage",
-      "Choose the client's beneficiary",
-      "Set the client's goals",
-      "Replace financial planning"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Underwriting evaluates insurance risk."
+    "correctAnswer": 1,
+    "explanation": "For Underwriting, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 143,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "A recommendation should be based on:",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "Premiums: HLLQP scenario - Client needs life insurance for premiums. What is suitable?",
     "options": [
-      "Client needs and circumstances",
-      "Highest available commission",
-      "Agent convenience",
-      "Company advertising"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Recommendations should be suitable for clients."
+    "correctAnswer": 1,
+    "explanation": "For Premiums, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 144,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Claims",
-    "difficulty": "Easy",
-    "question": "The purpose of a life insurance claim is to:",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "Riders: HLLQP scenario - Client needs life insurance for riders. What is suitable?",
     "options": [
-      "Request payment of benefits",
-      "Change policy ownership",
-      "Add a rider",
-      "Increase premiums"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "A claim requests benefits under the policy."
+    "correctAnswer": 1,
+    "explanation": "For Riders, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 145,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Needs Analysis",
+    "topic": "Dividends",
     "difficulty": "Medium",
-    "question": "A life insurance needs analysis considers:",
+    "question": "Dividends: HLLQP scenario - Client needs life insurance for dividends. What is suitable?",
     "options": [
-      "Income, debts, and dependents",
-      "Only product features",
-      "Only premiums",
-      "Only company history"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Needs analysis evaluates financial responsibilities."
+    "correctAnswer": 1,
+    "explanation": "For Dividends, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 146,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Ownership",
+    "topic": "Taxation",
     "difficulty": "Medium",
-    "question": "Policy ownership information should be:",
+    "question": "Life insurance death benefit in Canada is:",
     "options": [
-      "Accurate and updated when required",
-      "Ignored after purchase",
-      "Selected by the agent",
-      "Removed from records"
+      "Tax-free to beneficiary, not taxable income",
+      "Taxable as income",
+      "50% taxable",
+      "Capital gains"
     ],
     "correctAnswer": 0,
-    "explanation": "Correct ownership records are important."
+    "explanation": "Death benefit tax-free to named beneficiary, bypasses estate if named, not subject to income tax. Policy gain may be taxable if disposition."
   },
   {
     "id": 147,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
-    "difficulty": "Easy",
-    "question": "A beneficiary receives:",
+    "topic": "Estate Uses",
+    "difficulty": "Medium",
+    "question": "Estate Uses: HLLQP scenario - Client needs life insurance for estate uses. What is suitable?",
     "options": [
-      "Benefits according to the policy",
-      "Automatic ownership",
-      "The agent commission",
-      "The underwriting decision"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Beneficiaries receive policy proceeds when entitled."
+    "correctAnswer": 1,
+    "explanation": "For Estate Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 148,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Review",
+    "topic": "Business Uses",
     "difficulty": "Medium",
-    "question": "A review of coverage helps:",
+    "question": "Business Uses: HLLQP scenario - Client needs life insurance for business uses. What is suitable?",
     "options": [
-      "Ensure protection remains suitable",
-      "Remove all insurance costs",
-      "Guarantee future claims",
-      "Eliminate policy conditions"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Reviews help maintain appropriate coverage."
+    "correctAnswer": 1,
+    "explanation": "For Business Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 149,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "Client information should be:",
+    "topic": "Policyowner Rights",
+    "difficulty": "Hard",
+    "question": "Policyowner Rights: HLLQP scenario - Client needs life insurance for policyowner rights. What is suitable?",
     "options": [
-      "Protected and handled appropriately",
-      "Shared publicly",
-      "Used without permission",
-      "Ignored"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Confidentiality is part of professional practice."
+    "correctAnswer": 1,
+    "explanation": "For Policyowner Rights, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 150,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Review",
-    "difficulty": "Medium",
-    "question": "The overall goal of life insurance planning is:",
+    "topic": "Claims",
+    "difficulty": "Hard",
+    "question": "Claims: HLLQP scenario - Client needs life insurance for claims. What is suitable?",
     "options": [
-      "Provide suitable financial protection",
-      "Maximize sales",
-      "Avoid all financial planning",
-      "Guarantee investment returns"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Insurance planning focuses on appropriate protection."
+    "correctAnswer": 1,
+    "explanation": "For Claims, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 151,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Insurance Principles",
+    "topic": "Basics",
     "difficulty": "Easy",
-    "question": "Insurance helps individuals manage:",
+    "question": "Who are the three parties in a life insurance contract?",
     "options": [
-      "Financial risk",
-      "All personal decisions",
-      "Investment markets",
-      "Government policies"
+      "Agent, broker, insurer",
+      "Policyowner, life insured, beneficiary",
+      "Doctor, lawyer, agent",
+      "Bank, insurer, government"
     ],
-    "correctAnswer": 0,
-    "explanation": "Insurance helps transfer and manage financial risk."
+    "correctAnswer": 1,
+    "explanation": "Three parties: policyowner (owns rights), life insured (person whose death triggers benefit), beneficiary (receives proceeds). Insurer is fourth party but contract parties are these three."
   },
   {
     "id": 152,
     "moduleId": "life",
     "moduleName": "Life Insurance",
     "topic": "Policy Types",
-    "difficulty": "Medium",
-    "question": "A permanent life policy may remain active:",
+    "difficulty": "Easy",
+    "question": "Policy Types: HLLQP scenario - Client needs life insurance for policy types. What is suitable?",
     "options": [
-      "For the insured's lifetime if requirements are met",
-      "Only for one year",
-      "Only during employment",
-      "Until the first payment"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Permanent insurance is designed for lifetime coverage."
+    "correctAnswer": 1,
+    "explanation": "For Policy Types, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 153,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Applications",
-    "difficulty": "Medium",
-    "question": "Providing false information on an application may:",
+    "topic": "Term Insurance",
+    "difficulty": "Easy",
+    "question": "Renewable and convertible term means:",
     "options": [
-      "Affect policy decisions",
-      "Increase guaranteed benefits",
-      "Remove underwriting",
-      "Improve coverage automatically"
+      "Can renew without evidence and convert to permanent without evidence before age/limit",
+      "Cannot renew",
+      "Only convertible to group",
+      "Must provide medical to renew"
     ],
     "correctAnswer": 0,
-    "explanation": "Accurate disclosure is required during application."
+    "explanation": "Renewable: can renew without medical to expiry age. Convertible: can convert to permanent without medical before age 71 or expiry. Important features."
   },
   {
     "id": 154,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Premiums",
-    "difficulty": "Easy",
-    "question": "Premium payments are made to:",
+    "topic": "Whole Life",
+    "difficulty": "Medium",
+    "question": "Participating whole life dividends in Canada are:",
     "options": [
-      "Maintain insurance coverage",
-      "Select beneficiaries",
-      "Approve claims",
-      "Change ownership"
+      "Guaranteed",
+      "Not guaranteed, based on insurer experience, can buy paid-up additions, reduce premium, etc.",
+      "Taxable as income always",
+      "Never paid"
     ],
-    "correctAnswer": 0,
-    "explanation": "Premiums maintain the policy in force."
+    "correctAnswer": 1,
+    "explanation": "Dividends not guaranteed, based on insurer's actual vs assumed experience. Options: PUA, premium reduction, cash, accumulation. Tax treatment depends on use."
   },
   {
     "id": 155,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
+    "topic": "Universal Life",
     "difficulty": "Medium",
-    "question": "Risk classification affects:",
+    "question": "Universal Life: HLLQP scenario - Client needs life insurance for universal life. What is suitable?",
     "options": [
-      "Premium rates and approval terms",
-      "Beneficiary identity",
-      "Policy ownership automatically",
-      "Client financial goals"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Risk classification affects insurance terms."
+    "correctAnswer": 1,
+    "explanation": "For Universal Life, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 156,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "An advisor should act in:",
+    "topic": "Beneficiaries",
+    "difficulty": "Medium",
+    "question": "Preferred beneficiary in Ontario includes:",
     "options": [
-      "The client's best interest",
-      "Only personal interest",
-      "The competitor's interest",
-      "No one's interest"
+      "Spouse, child, parent of life insured - creditor protected",
+      "Friend",
+      "Business partner",
+      "CRA"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional conduct focuses on client service."
+    "explanation": "Preferred beneficiaries (spouse, child, parent) get creditor protection in Ontario and other provinces have similar insurance acts protecting family class."
   },
   {
     "id": 157,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Claims",
+    "topic": "Underwriting",
     "difficulty": "Medium",
-    "question": "The insurer reviews a claim to:",
+    "question": "Underwriting: HLLQP scenario - Client needs life insurance for underwriting. What is suitable?",
     "options": [
-      "Confirm policy eligibility",
-      "Create a new policy",
-      "Change the beneficiary",
-      "Set investment returns"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Claims are assessed against policy requirements."
+    "correctAnswer": 1,
+    "explanation": "For Underwriting, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 158,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
-    "difficulty": "Easy",
-    "question": "A beneficiary designation should be:",
+    "topic": "Premiums",
+    "difficulty": "Medium",
+    "question": "Premiums: HLLQP scenario - Client needs life insurance for premiums. What is suitable?",
     "options": [
-      "Clear and properly recorded",
-      "Temporary without records",
-      "Made by the agent",
-      "Ignored"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Clear designations help avoid problems."
+    "correctAnswer": 1,
+    "explanation": "For Premiums, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 159,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Review",
-    "difficulty": "Medium",
-    "question": "A client review may identify:",
+    "topic": "Riders",
+    "difficulty": "Hard",
+    "question": "Riders: HLLQP scenario - Client needs life insurance for riders. What is suitable?",
     "options": [
-      "Changes in insurance needs",
-      "Guaranteed investment profits",
-      "New insurance laws only",
-      "Agent promotions"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Reviews identify changing protection needs."
+    "correctAnswer": 1,
+    "explanation": "For Riders, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 160,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Needs Analysis",
-    "difficulty": "Medium",
-    "question": "A family may need life insurance because of:",
+    "topic": "Dividends",
+    "difficulty": "Hard",
+    "question": "Dividends: HLLQP scenario - Client needs life insurance for dividends. What is suitable?",
     "options": [
-      "Future financial obligations",
-      "Entertainment choices",
-      "Advertising campaigns",
-      "Market speculation"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Life insurance can protect dependents."
+    "correctAnswer": 1,
+    "explanation": "For Dividends, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 161,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Ownership",
-    "difficulty": "Medium",
-    "question": "Ownership rights may include:",
+    "topic": "Taxation",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit in Canada is:",
     "options": [
-      "Changing certain policy details",
-      "Changing insurance laws",
-      "Approving all claims",
-      "Setting premiums"
+      "Tax-free to beneficiary, not taxable income",
+      "Taxable as income",
+      "50% taxable",
+      "Capital gains"
     ],
     "correctAnswer": 0,
-    "explanation": "Owners have contractual rights."
+    "explanation": "Death benefit tax-free to named beneficiary, bypasses estate if named, not subject to income tax. Policy gain may be taxable if disposition."
   },
   {
     "id": 162,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Riders",
+    "topic": "Estate Uses",
     "difficulty": "Easy",
-    "question": "A rider changes:",
+    "question": "Estate Uses: HLLQP scenario - Client needs life insurance for estate uses. What is suitable?",
     "options": [
-      "The policy by adding features",
-      "The insurer's existence",
-      "The client's age",
-      "The application date"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Riders add optional benefits."
+    "correctAnswer": 1,
+    "explanation": "For Estate Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 163,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Basics",
+    "topic": "Business Uses",
     "difficulty": "Easy",
-    "question": "The insured person is:",
+    "question": "Business Uses: HLLQP scenario - Client needs life insurance for business uses. What is suitable?",
     "options": [
-      "The person whose life is covered",
-      "Always the beneficiary",
-      "Always the advisor",
-      "The insurer"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "The insured is the individual covered."
+    "correctAnswer": 1,
+    "explanation": "For Business Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 164,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Premiums",
+    "topic": "Policyowner Rights",
     "difficulty": "Medium",
-    "question": "A higher coverage amount may result in:",
+    "question": "Policyowner Rights: HLLQP scenario - Client needs life insurance for policyowner rights. What is suitable?",
     "options": [
-      "Higher premiums",
-      "No contract",
-      "Automatic approval",
-      "No underwriting"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "More coverage generally increases cost."
+    "correctAnswer": 1,
+    "explanation": "For Policyowner Rights, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 165,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
-    "question": "Medical history may be used during:",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Claims: HLLQP scenario - Client needs life insurance for claims. What is suitable?",
     "options": [
-      "Underwriting",
-      "Beneficiary payment",
-      "Policy ownership transfer",
-      "Claim advertising"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Medical information helps assess risk."
+    "correctAnswer": 1,
+    "explanation": "For Claims, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 166,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
+    "topic": "Basics",
     "difficulty": "Medium",
-    "question": "Client records should be:",
+    "question": "Who are the three parties in a life insurance contract?",
     "options": [
-      "Maintained accurately",
-      "Destroyed immediately",
-      "Shared publicly",
-      "Ignored"
+      "Agent, broker, insurer",
+      "Policyowner, life insured, beneficiary",
+      "Doctor, lawyer, agent",
+      "Bank, insurer, government"
     ],
-    "correctAnswer": 0,
-    "explanation": "Accurate records support professional service."
+    "correctAnswer": 1,
+    "explanation": "Three parties: policyowner (owns rights), life insured (person whose death triggers benefit), beneficiary (receives proceeds). Insurer is fourth party but contract parties are these three."
   },
   {
     "id": 167,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Claims",
+    "topic": "Policy Types",
     "difficulty": "Medium",
-    "question": "The death benefit amount is determined by:",
+    "question": "Policy Types: HLLQP scenario - Client needs life insurance for policy types. What is suitable?",
     "options": [
-      "The policy contract",
-      "The agent alone",
-      "The beneficiary",
-      "Market conditions"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Benefits are defined by the contract."
+    "correctAnswer": 1,
+    "explanation": "For Policy Types, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 168,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Term Insurance",
     "difficulty": "Medium",
-    "question": "Whole life insurance is a type of:",
+    "question": "Renewable and convertible term means:",
     "options": [
-      "Permanent insurance",
-      "Temporary insurance only",
-      "Health insurance",
-      "Property insurance"
+      "Can renew without evidence and convert to permanent without evidence before age/limit",
+      "Cannot renew",
+      "Only convertible to group",
+      "Must provide medical to renew"
     ],
     "correctAnswer": 0,
-    "explanation": "Whole life is permanent insurance."
+    "explanation": "Renewable: can renew without medical to expiry age. Convertible: can convert to permanent without medical before age 71 or expiry. Important features."
   },
   {
     "id": 169,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Review",
-    "difficulty": "Easy",
-    "question": "Coverage reviews help clients:",
+    "topic": "Whole Life",
+    "difficulty": "Hard",
+    "question": "Whole life insurance in Canada provides:",
     "options": [
-      "Adjust protection when needed",
-      "Avoid all insurance",
-      "Remove contracts",
-      "Guarantee profits"
+      "Lifetime coverage with level premium and cash value, non-forfeiture options",
+      "10 year coverage only",
+      "No cash value",
+      "Only term"
     ],
     "correctAnswer": 0,
-    "explanation": "Reviews keep coverage relevant."
+    "explanation": "Whole life: permanent, lifetime coverage, level premium, guaranteed cash value growth, dividends if participating, non-forfeiture options."
   },
   {
     "id": 170,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Insurance Principles",
-    "difficulty": "Medium",
-    "question": "The main purpose of insurance is:",
+    "topic": "Universal Life",
+    "difficulty": "Hard",
+    "question": "Universal Life: HLLQP scenario - Client needs life insurance for universal life. What is suitable?",
     "options": [
-      "Protect against financial loss",
-      "Guarantee wealth",
-      "Remove all risks",
-      "Avoid responsibility"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Insurance protects against financial risks."
+    "correctAnswer": 1,
+    "explanation": "For Universal Life, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 171,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Applications",
-    "difficulty": "Medium",
-    "question": "An application becomes part of:",
+    "topic": "Beneficiaries",
+    "difficulty": "Easy",
+    "question": "Preferred beneficiary in Ontario includes:",
     "options": [
-      "The insurance contract process",
-      "A marketing plan",
-      "An investment account",
-      "A tax document only"
+      "Spouse, child, parent of life insured - creditor protected",
+      "Friend",
+      "Business partner",
+      "CRA"
     ],
     "correctAnswer": 0,
-    "explanation": "Applications are part of contract formation."
+    "explanation": "Preferred beneficiaries (spouse, child, parent) get creditor protection in Ontario and other provinces have similar insurance acts protecting family class."
   },
   {
     "id": 172,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
-    "difficulty": "Medium",
-    "question": "Beneficiary information should be:",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Underwriting: HLLQP scenario - Client needs life insurance for underwriting. What is suitable?",
     "options": [
-      "Reviewed periodically",
-      "Ignored forever",
-      "Removed after purchase",
-      "Selected randomly"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Life changes may require updates."
+    "correctAnswer": 1,
+    "explanation": "For Underwriting, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 173,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "An advisor should avoid:",
+    "topic": "Premiums",
+    "difficulty": "Easy",
+    "question": "Premiums: HLLQP scenario - Client needs life insurance for premiums. What is suitable?",
     "options": [
-      "Misleading statements",
-      "Clear explanations",
-      "Needs analysis",
-      "Documentation"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional conduct requires honesty."
+    "correctAnswer": 1,
+    "explanation": "For Premiums, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 174,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Needs Analysis",
+    "topic": "Riders",
     "difficulty": "Medium",
-    "question": "The amount of insurance needed depends on:",
+    "question": "Riders: HLLQP scenario - Client needs life insurance for riders. What is suitable?",
     "options": [
-      "Individual circumstances",
-      "A fixed amount for everyone",
-      "Agent preference",
-      "Advertising"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Insurance needs vary by client."
+    "correctAnswer": 1,
+    "explanation": "For Riders, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 175,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Review",
-    "difficulty": "Easy",
-    "question": "A policy review should confirm:",
+    "topic": "Dividends",
+    "difficulty": "Medium",
+    "question": "Dividends: HLLQP scenario - Client needs life insurance for dividends. What is suitable?",
     "options": [
-      "Coverage remains appropriate",
-      "Premiums disappear",
-      "Claims are guaranteed",
-      "Contracts are unnecessary"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Reviews ensure continued suitability."
+    "correctAnswer": 1,
+    "explanation": "For Dividends, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 176,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Insurance Principles",
-    "difficulty": "Easy",
-    "question": "Insurance primarily transfers:",
+    "topic": "Taxation",
+    "difficulty": "Medium",
+    "question": "Life insurance death benefit in Canada is:",
     "options": [
-      "Financial risk",
-      "Personal responsibility",
-      "Ownership rights",
-      "Investment decisions"
+      "Tax-free to beneficiary, not taxable income",
+      "Taxable as income",
+      "50% taxable",
+      "Capital gains"
     ],
     "correctAnswer": 0,
-    "explanation": "Insurance transfers financial risk to the insurer."
+    "explanation": "Death benefit tax-free to named beneficiary, bypasses estate if named, not subject to income tax. Policy gain may be taxable if disposition."
   },
   {
     "id": 177,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
+    "topic": "Estate Uses",
     "difficulty": "Medium",
-    "question": "Convertible term insurance allows:",
+    "question": "Estate Uses: HLLQP scenario - Client needs life insurance for estate uses. What is suitable?",
     "options": [
-      "Conversion to permanent coverage if permitted",
-      "Removal of all premiums",
-      "Guaranteed investment profits",
-      "Automatic beneficiary changes"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Some term policies allow conversion options."
+    "correctAnswer": 1,
+    "explanation": "For Estate Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 178,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
+    "topic": "Business Uses",
     "difficulty": "Medium",
-    "question": "An underwriting decision may result in:",
+    "question": "Business Uses: HLLQP scenario - Client needs life insurance for business uses. What is suitable?",
     "options": [
-      "Approval, modification, or decline",
-      "Automatic payment",
-      "Guaranteed acceptance",
-      "No contract"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Insurers assess applications before offering coverage."
+    "correctAnswer": 1,
+    "explanation": "For Business Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 179,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "An advisor should explain:",
+    "topic": "Policyowner Rights",
+    "difficulty": "Hard",
+    "question": "Policyowner Rights: HLLQP scenario - Client needs life insurance for policyowner rights. What is suitable?",
     "options": [
-      "Policy features and limitations",
-      "Only advantages",
-      "Only price",
-      "Competitor information"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Clients need balanced information."
+    "correctAnswer": 1,
+    "explanation": "For Policyowner Rights, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 180,
     "moduleId": "life",
     "moduleName": "Life Insurance",
     "topic": "Claims",
-    "difficulty": "Medium",
-    "question": "A claim may require:",
+    "difficulty": "Hard",
+    "question": "Claims: HLLQP scenario - Client needs life insurance for claims. What is suitable?",
     "options": [
-      "Supporting documentation",
-      "A new application",
-      "A new beneficiary",
-      "A new policyowner"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Documentation supports claim processing."
+    "correctAnswer": 1,
+    "explanation": "For Claims, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 181,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
+    "topic": "Basics",
     "difficulty": "Easy",
-    "question": "A beneficiary designation affects:",
+    "question": "What is the main purpose of life insurance in Canada?",
     "options": [
-      "Who receives policy proceeds",
-      "Premium calculation",
-      "Underwriting class",
-      "Medical results"
+      "Investment only",
+      "Financial protection for beneficiaries upon death of life insured",
+      "Tax avoidance only",
+      "Stock protection"
     ],
-    "correctAnswer": 0,
-    "explanation": "Beneficiaries receive proceeds according to designation."
+    "correctAnswer": 1,
+    "explanation": "Life insurance provides financial protection to beneficiaries upon death, to replace income, pay debts, fund needs. Not just investment or tax avoidance."
   },
   {
     "id": 182,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Premiums",
-    "difficulty": "Medium",
-    "question": "Premiums may vary based on:",
+    "topic": "Policy Types",
+    "difficulty": "Easy",
+    "question": "Policy Types: HLLQP scenario - Client needs life insurance for policy types. What is suitable?",
     "options": [
-      "Risk factors",
-      "Favourite colour",
-      "Agent preference",
-      "Beneficiary age only"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Premiums reflect insurance risk."
+    "correctAnswer": 1,
+    "explanation": "For Policy Types, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 183,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Needs Analysis",
-    "difficulty": "Medium",
-    "question": "A needs analysis helps determine:",
+    "topic": "Term Insurance",
+    "difficulty": "Easy",
+    "question": "Term 10 vs Term 20 difference?",
     "options": [
-      "Appropriate coverage amount",
-      "Insurance company profits",
-      "Agent commission",
-      "Market returns"
+      "Term 10 has level premium for 10 years then renews at higher age, Term 20 for 20 years",
+      "Same",
+      "Term 10 permanent",
+      "Term 20 only for seniors"
     ],
     "correctAnswer": 0,
-    "explanation": "Needs analysis determines suitable protection."
+    "explanation": "Term insurance level for stated period (10,20) then renewable at higher premium. Longer term = higher initial premium but level longer. No cash value."
   },
   {
     "id": 184,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Ownership",
+    "topic": "Whole Life",
     "difficulty": "Medium",
-    "question": "The policyowner is responsible for:",
+    "question": "Whole life insurance in Canada provides:",
     "options": [
-      "Maintaining ownership decisions",
-      "Medical underwriting",
-      "Approving claims",
-      "Changing insurance regulations"
+      "Lifetime coverage with level premium and cash value, non-forfeiture options",
+      "10 year coverage only",
+      "No cash value",
+      "Only term"
     ],
     "correctAnswer": 0,
-    "explanation": "Owners control policy rights."
+    "explanation": "Whole life: permanent, lifetime coverage, level premium, guaranteed cash value growth, dividends if participating, non-forfeiture options."
   },
   {
     "id": 185,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Riders",
-    "difficulty": "Easy",
-    "question": "A rider generally provides:",
+    "topic": "Universal Life",
+    "difficulty": "Medium",
+    "question": "Universal Life: HLLQP scenario - Client needs life insurance for universal life. What is suitable?",
     "options": [
-      "Additional policy benefits",
-      "A replacement contract",
-      "Automatic cancellation",
-      "Lower underwriting standards"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Riders add optional benefits."
+    "correctAnswer": 1,
+    "explanation": "For Universal Life, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 186,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Applications",
+    "topic": "Beneficiaries",
     "difficulty": "Medium",
-    "question": "The application process helps the insurer:",
+    "question": "Preferred beneficiary in Ontario includes:",
     "options": [
-      "Assess eligibility for coverage",
-      "Select beneficiaries",
-      "Control client finances",
-      "Set government rules"
+      "Spouse, child, parent of life insured - creditor protected",
+      "Friend",
+      "Business partner",
+      "CRA"
     ],
     "correctAnswer": 0,
-    "explanation": "Applications provide information for assessment."
+    "explanation": "Preferred beneficiaries (spouse, child, parent) get creditor protection in Ontario and other provinces have similar insurance acts protecting family class."
   },
   {
     "id": 187,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Review",
-    "difficulty": "Easy",
-    "question": "Insurance should be reviewed when:",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Underwriting: HLLQP scenario - Client needs life insurance for underwriting. What is suitable?",
     "options": [
-      "Major life changes occur",
-      "Nothing ever changes",
-      "Only claims happen",
-      "The insurer requests it"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Life events may change coverage needs."
+    "correctAnswer": 1,
+    "explanation": "For Underwriting, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 188,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Basics",
-    "difficulty": "Easy",
-    "question": "The insurance contract is between:",
+    "topic": "Premiums",
+    "difficulty": "Medium",
+    "question": "Premiums: HLLQP scenario - Client needs life insurance for premiums. What is suitable?",
     "options": [
-      "Policyholder and insurer",
-      "Agent and beneficiary",
-      "Government and client",
-      "Bank and insurer"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "The policy creates a contract between owner and insurer."
+    "correctAnswer": 1,
+    "explanation": "For Premiums, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 189,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "A good advisor relationship requires:",
+    "topic": "Riders",
+    "difficulty": "Hard",
+    "question": "Riders: HLLQP scenario - Client needs life insurance for riders. What is suitable?",
     "options": [
-      "Trust and communication",
-      "Pressure selling",
-      "Hidden information",
-      "Avoiding questions"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Trust is essential in insurance advice."
+    "correctAnswer": 1,
+    "explanation": "For Riders, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 190,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Claims",
-    "difficulty": "Medium",
-    "question": "Claim payments are made according to:",
+    "topic": "Dividends",
+    "difficulty": "Hard",
+    "question": "Dividends: HLLQP scenario - Client needs life insurance for dividends. What is suitable?",
     "options": [
-      "Policy terms",
-      "Market trends",
-      "Agent decisions",
-      "Advertising"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Contracts determine claim payments."
+    "correctAnswer": 1,
+    "explanation": "For Dividends, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 191,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Policy Types",
-    "difficulty": "Medium",
-    "question": "Universal life insurance may include:",
+    "topic": "Taxation",
+    "difficulty": "Easy",
+    "question": "Policy loan vs withdrawal taxation:",
     "options": [
-      "Flexible features",
-      "No insurance component",
-      "No contract terms",
-      "No premiums"
+      "Policy loan not immediately taxable but may create gain if policy lapses, withdrawal taxable to extent of gain (proceeds > ACB)",
+      "Both tax-free",
+      "Both fully taxable",
+      "Never taxable"
     ],
     "correctAnswer": 0,
-    "explanation": "Universal life may provide flexibility."
+    "explanation": "Withdrawal: taxable as income to extent proceeds exceed ACB. Policy loan: not taxable when taken, but if policy lapses with loan, taxable gain may result. Collateral assignment different."
   },
   {
     "id": 192,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Premiums",
+    "topic": "Estate Uses",
     "difficulty": "Easy",
-    "question": "Premiums are normally paid by:",
+    "question": "Estate Uses: HLLQP scenario - Client needs life insurance for estate uses. What is suitable?",
     "options": [
-      "The policyowner",
-      "The beneficiary",
-      "The insurer",
-      "The advisor"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "The policyowner usually pays premiums."
+    "correctAnswer": 1,
+    "explanation": "For Estate Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 193,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Medium",
-    "question": "Underwriting information should be:",
+    "topic": "Business Uses",
+    "difficulty": "Easy",
+    "question": "Business Uses: HLLQP scenario - Client needs life insurance for business uses. What is suitable?",
     "options": [
-      "Accurate and complete",
-      "Estimated",
-      "Hidden",
-      "Optional"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Accurate information supports fair decisions."
+    "correctAnswer": 1,
+    "explanation": "For Business Uses, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 194,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Needs Analysis",
+    "topic": "Policyowner Rights",
     "difficulty": "Medium",
-    "question": "Life insurance can help with:",
+    "question": "Policyowner Rights: HLLQP scenario - Client needs life insurance for policyowner rights. What is suitable?",
     "options": [
-      "Financial protection after death",
-      "Eliminating all expenses",
-      "Guaranteed wealth",
-      "Avoiding planning"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Life insurance provides financial protection."
+    "correctAnswer": 1,
+    "explanation": "For Policyowner Rights, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 195,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Beneficiaries",
+    "topic": "Claims",
     "difficulty": "Medium",
-    "question": "Beneficiary changes should follow:",
+    "question": "Claims: HLLQP scenario - Client needs life insurance for claims. What is suitable?",
     "options": [
-      "Policy rules",
-      "Agent preference",
-      "Market conditions",
-      "Advertising"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Changes must follow contract provisions."
+    "correctAnswer": 1,
+    "explanation": "For Claims, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 196,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Review",
-    "difficulty": "Easy",
-    "question": "Regular reviews help maintain:",
+    "topic": "Basics",
+    "difficulty": "Medium",
+    "question": "Who are the three parties in a life insurance contract?",
     "options": [
-      "Suitable coverage",
-      "Guaranteed returns",
-      "No premiums",
-      "Automatic claims"
+      "Agent, broker, insurer",
+      "Policyowner, life insured, beneficiary",
+      "Doctor, lawyer, agent",
+      "Bank, insurer, government"
     ],
-    "correctAnswer": 0,
-    "explanation": "Reviews maintain suitability."
+    "correctAnswer": 1,
+    "explanation": "Three parties: policyowner (owns rights), life insured (person whose death triggers benefit), beneficiary (receives proceeds). Insurer is fourth party but contract parties are these three."
   },
   {
     "id": 197,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Professional Conduct",
+    "topic": "Policy Types",
     "difficulty": "Medium",
-    "question": "An advisor should recommend products based on:",
+    "question": "Policy Types: HLLQP scenario - Client needs life insurance for policy types. What is suitable?",
     "options": [
-      "Client needs",
-      "Personal profit",
-      "Advertising",
-      "Competition"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Recommendations must be suitable."
+    "correctAnswer": 1,
+    "explanation": "For Policy Types, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   },
   {
     "id": 198,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Insurance Principles",
-    "difficulty": "Easy",
-    "question": "Insurance does not remove:",
+    "topic": "Term Insurance",
+    "difficulty": "Medium",
+    "question": "Term 10 vs Term 20 difference?",
     "options": [
-      "Risk itself",
-      "Financial protection",
-      "Contract benefits",
-      "Coverage options"
+      "Term 10 has level premium for 10 years then renews at higher age, Term 20 for 20 years",
+      "Same",
+      "Term 10 permanent",
+      "Term 20 only for seniors"
     ],
     "correctAnswer": 0,
-    "explanation": "Insurance manages financial consequences of risk."
+    "explanation": "Term insurance level for stated period (10,20) then renewable at higher premium. Longer term = higher initial premium but level longer. No cash value."
   },
   {
     "id": 199,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Basics",
-    "difficulty": "Easy",
-    "question": "Life insurance is designed to provide:",
+    "topic": "Whole Life",
+    "difficulty": "Hard",
+    "question": "Participating whole life dividends in Canada are:",
     "options": [
-      "Protection against financial loss",
-      "Guaranteed investment success",
-      "No-cost coverage",
-      "Market returns"
+      "Guaranteed",
+      "Not guaranteed, based on insurer experience, can buy paid-up additions, reduce premium, etc.",
+      "Taxable as income always",
+      "Never paid"
     ],
-    "correctAnswer": 0,
-    "explanation": "Protection is the main purpose."
+    "correctAnswer": 1,
+    "explanation": "Dividends not guaranteed, based on insurer's actual vs assumed experience. Options: PUA, premium reduction, cash, accumulation. Tax treatment depends on use."
   },
   {
     "id": 200,
     "moduleId": "life",
     "moduleName": "Life Insurance",
-    "topic": "Review",
-    "difficulty": "Medium",
-    "question": "The final purpose of insurance planning is:",
+    "topic": "Universal Life",
+    "difficulty": "Hard",
+    "question": "Universal Life: HLLQP scenario - Client needs life insurance for universal life. What is suitable?",
     "options": [
-      "Meet client protection needs",
-      "Maximize commissions",
-      "Avoid documentation",
-      "Replace financial planning"
+      "Term only always",
+      "Needs analysis required to recommend suitable product based on needs, budget, objectives",
+      "Most expensive",
+      "No insurance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Insurance planning focuses on client protection."
+    "correctAnswer": 1,
+    "explanation": "For Universal Life, HLLQP requires needs analysis (income, debts, goals, budget) to recommend suitable coverage, not one-size-fits-all. Consider term vs permanent based on need duration."
   }
 ]

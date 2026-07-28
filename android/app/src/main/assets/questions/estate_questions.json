@@ -1,50 +1,3202 @@
 [
   {
-    "id": 90001,
+    "id": 80001,
     "moduleId": "estate",
     "moduleName": "Estate Planning",
-    "topic": "Fundamentals",
+    "topic": "Wills",
     "difficulty": "Easy",
-    "question": "What is a primary purpose of estate planning?",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
     "options": [
-      "Help distribute assets according to client wishes",
-      "Guarantee investment profits",
-      "Remove all legal requirements",
-      "Replace insurance planning completely"
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Estate planning helps organize the transfer of assets and client intentions."
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
   },
   {
-    "id": 90002,
+    "id": 80002,
     "moduleId": "estate",
     "moduleName": "Estate Planning",
-    "topic": "Beneficiaries",
-    "difficulty": "Medium",
-    "question": "Why is naming beneficiaries important?",
+    "topic": "Probate",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
     "options": [
-      "To direct benefits to intended recipients",
-      "To avoid every financial decision",
-      "To increase investment returns",
-      "To eliminate all taxes"
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
     ],
     "correctAnswer": 0,
-    "explanation": "Beneficiary designations identify who receives policy benefits."
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
   },
   {
-    "id": 90003,
+    "id": 80003,
     "moduleId": "estate",
     "moduleName": "Estate Planning",
-    "topic": "Insurance Planning",
-    "difficulty": "Medium",
-    "question": "Life insurance can support estate planning by:",
+    "topic": "Beneficiary Designation",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
     "options": [
-      "Providing liquidity for estate needs",
-      "Replacing a legal will",
-      "Removing all family disagreements",
-      "Guaranteeing property values"
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
     ],
     "correctAnswer": 0,
-    "explanation": "Insurance may provide funds for estate obligations and planning goals."
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80004,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Taxation",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80005,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trusts",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80006,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Power of Attorney",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80007,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Executor",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80008,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80009,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Deemed Disposition",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80010,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Rollover",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80011,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Life Insurance Estate Uses",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80012,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Cottage Succession",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80013,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charitable Giving",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80014,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Testamentary Trust",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80015,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Family Law",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80016,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Wills",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80017,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80018,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary Designation",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80019,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Taxation",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80020,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trusts",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80021,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Power of Attorney",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80022,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Executor",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80023,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80024,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Deemed Disposition",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80025,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Rollover",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80026,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Life Insurance Estate Uses",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80027,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Cottage Succession",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80028,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charitable Giving",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80029,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Testamentary Trust",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80030,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Family Law",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80031,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Wills",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80032,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80033,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary Designation",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80034,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Taxation",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80035,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trusts",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80036,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Power of Attorney",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80037,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Executor",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80038,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80039,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Deemed Disposition",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80040,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Rollover",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80041,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Life Insurance Estate Uses",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80042,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Cottage Succession",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80043,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charitable Giving",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80044,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Testamentary Trust",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80045,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Family Law",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80046,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Wills",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80047,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80048,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary Designation",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80049,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Taxation",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80050,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trusts",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80051,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Power of Attorney",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80052,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Executor",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80053,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80054,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Deemed Disposition",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80055,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Rollover",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80056,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Life Insurance Estate Uses",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80057,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Cottage Succession",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80058,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charitable Giving",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80059,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Testamentary Trust",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80060,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Family Law",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80061,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Wills",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80062,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80063,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary Designation",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80064,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Taxation",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80065,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trusts",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80066,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Power of Attorney",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80067,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Executor",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80068,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80069,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Deemed Disposition",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80070,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Rollover",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80071,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Life Insurance Estate Uses",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80072,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Cottage Succession",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80073,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charitable Giving",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80074,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Testamentary Trust",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80075,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Family Law",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80076,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Wills",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80077,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80078,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary Designation",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80079,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Taxation",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80080,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trusts",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80081,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Power of Attorney",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80082,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Executor",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80083,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80084,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Deemed Disposition",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80085,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Rollover",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80086,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Life Insurance Estate Uses",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80087,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Cottage Succession",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80088,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charitable Giving",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80089,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Testamentary Trust",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80090,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Family Law",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80091,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Wills",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80092,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80093,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary Designation",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80094,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Taxation",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80095,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trusts",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80096,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Power of Attorney",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80097,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Executor",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80098,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80099,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Deemed Disposition",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80100,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Rollover",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80101,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Life Insurance Estate Uses",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80102,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Cottage Succession",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80103,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charitable Giving",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80104,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Testamentary Trust",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80105,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Family Law",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80106,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Wills",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80107,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80108,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary Designation",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80109,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Taxation",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80110,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trusts",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80111,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Power of Attorney",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80112,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Executor",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80113,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80114,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Deemed Disposition",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80115,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Rollover",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80116,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Life Insurance Estate Uses",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80117,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Cottage Succession",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80118,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charitable Giving",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80119,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Testamentary Trust",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80120,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Family Law",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80121,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Wills",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80122,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80123,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary Designation",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80124,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Taxation",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80125,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trusts",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80126,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Power of Attorney",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80127,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Executor",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80128,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80129,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Deemed Disposition",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80130,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Rollover",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80131,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Life Insurance Estate Uses",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80132,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Cottage Succession",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80133,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charitable Giving",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80134,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Testamentary Trust",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80135,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Family Law",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80136,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Wills",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80137,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80138,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary Designation",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80139,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Taxation",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80140,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trusts",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80141,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Power of Attorney",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80142,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Executor",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80143,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80144,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Deemed Disposition",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80145,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Rollover",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80146,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Life Insurance Estate Uses",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80147,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Cottage Succession",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80148,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charitable Giving",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80149,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Testamentary Trust",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80150,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Family Law",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80151,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Wills",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80152,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80153,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary Designation",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80154,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Taxation",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80155,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trusts",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80156,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Power of Attorney",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80157,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Executor",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80158,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80159,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Deemed Disposition",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80160,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Rollover",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80161,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Life Insurance Estate Uses",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80162,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Cottage Succession",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80163,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charitable Giving",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80164,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Testamentary Trust",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80165,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Family Law",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80166,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Wills",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80167,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80168,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary Designation",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80169,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Taxation",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80170,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trusts",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80171,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Power of Attorney",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80172,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Executor",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80173,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80174,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Deemed Disposition",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80175,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Rollover",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80176,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Life Insurance Estate Uses",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80177,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Cottage Succession",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80178,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charitable Giving",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80179,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Testamentary Trust",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80180,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Family Law",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80181,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Wills",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80182,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80183,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary Designation",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80184,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Taxation",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80185,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trusts",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80186,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Power of Attorney",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80187,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Executor",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80188,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80189,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Deemed Disposition",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80190,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Rollover",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
+  },
+  {
+    "id": 80191,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Life Insurance Estate Uses",
+    "difficulty": "Easy",
+    "question": "What happens if person dies without will (intestate) in Ontario?",
+    "options": [
+      "Province's Succession Law Reform Act dictates distribution",
+      "Government takes all",
+      "Spouse gets nothing",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intestate: Ontario SLRA determines distribution: preferential share to spouse, then remainder to spouse/children, etc. No will = provincial formula."
+  },
+  {
+    "id": 80192,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Cottage Succession",
+    "difficulty": "Easy",
+    "question": "Probate in Ontario is:",
+    "options": [
+      "Court process validating will and appointing executor, with Estate Administration Tax",
+      "Not needed",
+      "Only for small estates",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Probate validates will, confirms executor authority, with Estate Administration Tax (~1.5% in Ontario). Some assets bypass probate via beneficiary designation, joint ownership."
+  },
+  {
+    "id": 80193,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charitable Giving",
+    "difficulty": "Easy",
+    "question": "Life insurance death benefit with named beneficiary:",
+    "options": [
+      "Bypasses probate, paid directly to beneficiary tax-free, not subject to will",
+      "Goes through probate",
+      "Taxable",
+      "Subject to will always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance with named beneficiary bypasses probate, paid directly to beneficiary tax-free, avoids probate fees and creditors of estate (with some exceptions)."
+  },
+  {
+    "id": 80194,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Testamentary Trust",
+    "difficulty": "Medium",
+    "question": "Deemed disposition at death in Canada means:",
+    "options": [
+      "Assets deemed sold at FMV at death, capital gains triggered, income tax return due",
+      "No tax at death",
+      "Only probate tax",
+      "No deemed disposition"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CRA deems person disposed of capital property at FMV at death, triggering capital gains, RRSP/RRIF fully taxable unless rollover to spouse."
+  },
+  {
+    "id": 80195,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Family Law",
+    "difficulty": "Medium",
+    "question": "Spousal rollover allows:",
+    "options": [
+      "Tax-deferred transfer of RRSP/RRIF and capital property to spouse at ACB, tax deferred until spouse sells/dies",
+      "No rollover",
+      "Only for TFSA",
+      "Immediate tax"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Spousal rollover: assets transfer to surviving spouse at adjusted cost base, deferring tax until spouse disposes/dies. RRSP/RRIF can roll to spouse's RRSP/RRIF."
+  },
+  {
+    "id": 80196,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Wills",
+    "difficulty": "Medium",
+    "question": "Executor duties include:",
+    "options": [
+      "Locate will, arrange funeral, inventory assets, pay debts/taxes, distribute estate per will",
+      "Only take fees",
+      "No duties",
+      "Give all to self"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Executor: locate will, protect assets, inventory, pay debts/taxes, file final returns, distribute per will, accounting to beneficiaries."
+  },
+  {
+    "id": 80197,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Medium",
+    "question": "Power of Attorney for Property vs Personal Care:",
+    "options": [
+      "Property manages finances, Personal Care makes health decisions",
+      "Same",
+      "Only property matters",
+      "No difference"
+    ],
+    "correctAnswer": 0,
+    "explanation": "POA Property manages financial affairs, POA Personal Care makes health/personal decisions if incapable. Both important estate planning docs."
+  },
+  {
+    "id": 80198,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary Designation",
+    "difficulty": "Medium",
+    "question": "Trust in estate planning can:",
+    "options": [
+      "Avoid probate, manage assets for minors, control distribution, tax planning",
+      "No use",
+      "Only for rich",
+      "Increases probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trusts avoid probate, provide control for minors, protect beneficiaries, manage disabled beneficiary, tax planning (testamentary trusts)."
+  },
+  {
+    "id": 80199,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Taxation",
+    "difficulty": "Hard",
+    "question": "Cottage succession issue:",
+    "options": [
+      "Capital gains on cottage, no principal residence exemption if already used on home, need insurance or equalization",
+      "No tax",
+      "Always exempt",
+      "No planning needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cottage often has large capital gain, not eligible for PRE if PRE used on principal residence. Need life insurance to fund tax or equalization among children."
+  },
+  {
+    "id": 80200,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trusts",
+    "difficulty": "Hard",
+    "question": "Charitable giving via life insurance:",
+    "options": [
+      "Donate policy or name charity beneficiary, get donation receipt for estate, can be tax-efficient",
+      "No benefit",
+      "Not allowed",
+      "Only cash"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Life insurance for charity: donate policy (receipt for premiums + death benefit) or name charity as beneficiary (estate gets receipt). Tax-efficient legacy."
   }
 ]

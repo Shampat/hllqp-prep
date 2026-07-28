@@ -2,3201 +2,3201 @@
   {
     "id": 1,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
+    "moduleName": "Ethics and Professional Practice",
     "topic": "Professional Conduct",
     "difficulty": "Easy",
-    "question": "What is the primary responsibility of an insurance advisor?",
+    "question": "Professional Conduct: Agent must disclose:",
     "options": [
-      "Act in the client's best interest",
-      "Maximize commissions",
-      "Guarantee investment returns",
-      "Avoid documenting advice"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Advisors must act ethically and in the client's best interest."
+    "explanation": "In Professional Conduct, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 2,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
     "difficulty": "Easy",
-    "question": "An advisor should provide:",
+    "question": "Disclosure: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Accurate and complete information",
-      "Only positive information",
-      "Hidden details",
-      "Guaranteed outcomes"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Clients need complete and accurate information."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 3,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
     "difficulty": "Easy",
-    "question": "Ethical behaviour requires:",
+    "question": "FSRA Rules: Privacy (PIPEDA) requires:",
     "options": [
-      "Honesty and integrity",
-      "Misleading statements",
-      "Hidden fees",
-      "False promises"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Integrity is a core ethical requirement."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 4,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Needs",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
     "difficulty": "Medium",
-    "question": "Suitable recommendations are based on:",
+    "question": "Conflicts of Interest: Suitable recommendation requires:",
     "options": [
-      "Client circumstances and objectives",
-      "Highest commission",
-      "Advisor preference",
-      "Sales targets"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Recommendations must be suitable for the client."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 5,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Disclosure",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
     "difficulty": "Medium",
-    "question": "An advisor should disclose:",
+    "question": "Replacement: Agent must disclose:",
     "options": [
-      "Relevant information about products and conflicts",
-      "Only benefits",
-      "Only fees",
-      "Nothing"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Proper disclosure supports informed decisions."
+    "explanation": "In Replacement, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 6,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Conflicts of Interest",
-    "difficulty": "Easy",
-    "question": "A conflict of interest occurs when:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Personal interests may affect professional judgment",
-      "Clients ask questions",
-      "Policies are explained",
-      "Documents are completed"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Conflicts can affect objective advice."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 7,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Conflicts of Interest",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
     "difficulty": "Medium",
-    "question": "An advisor should handle conflicts by:",
+    "question": "Suitability: Privacy (PIPEDA) requires:",
     "options": [
-      "Disclosing them appropriately",
-      "Hiding them",
-      "Ignoring them",
-      "Transferring them to clients"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Disclosure helps clients make informed decisions."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 8,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Needs",
-    "difficulty": "Easy",
-    "question": "Before recommending a product, an advisor should understand:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation: Suitable recommendation requires:",
     "options": [
-      "Client needs and objectives",
-      "Only commission rates",
-      "Only product popularity",
-      "Only market trends"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Recommendations require understanding the client."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 9,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Needs",
-    "difficulty": "Medium",
-    "question": "A fact-finding process helps determine:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Agent must disclose:",
     "options": [
-      "Client financial circumstances",
-      "Advisor income",
-      "Sales targets",
-      "Advertising plans"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Fact finding supports suitable recommendations."
+    "explanation": "In Misrepresentation, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 10,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "Professional conduct requires:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Honesty and fairness",
-      "Misleading statements",
-      "Hidden information",
-      "Pressure sales"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ethical conduct requires honesty and fairness."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 11,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Disclosure",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
     "difficulty": "Easy",
-    "question": "Product information should be:",
+    "question": "Professional Conduct: Privacy (PIPEDA) requires:",
     "options": [
-      "Clear and understandable",
-      "Hidden",
-      "Changed frequently",
-      "Only verbal"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients need clear information."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 12,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
+    "moduleName": "Ethics and Professional Practice",
     "topic": "Disclosure",
-    "difficulty": "Medium",
-    "question": "Material information includes:",
+    "difficulty": "Easy",
+    "question": "Disclosure: Suitable recommendation requires:",
     "options": [
-      "Important facts affecting a decision",
-      "Personal opinions only",
-      "Marketing slogans",
-      "Unrelated details"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Material facts influence decisions."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 13,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Privacy",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
     "difficulty": "Easy",
-    "question": "Client information should be:",
+    "question": "FSRA Rules: Agent must disclose:",
     "options": [
-      "Kept confidential",
-      "Shared publicly",
-      "Sold to others",
-      "Ignored"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Client privacy must be protected."
+    "explanation": "In FSRA Rules, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 14,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Privacy",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
     "difficulty": "Medium",
-    "question": "Personal information may be used:",
+    "question": "Conflicts of Interest: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Only for appropriate purposes",
-      "Without permission",
-      "Publicly",
-      "For personal benefit"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Information must be handled properly."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 15,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
-    "difficulty": "Easy",
-    "question": "Documentation helps show:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
+    "difficulty": "Medium",
+    "question": "Replacement: Privacy (PIPEDA) requires:",
     "options": [
-      "Advice and decisions made",
-      "Only sales results",
-      "Only commissions",
-      "Only product names"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Proper records support accountability."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 16,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
     "difficulty": "Medium",
-    "question": "Advisor records should be:",
+    "question": "Privacy: Suitable recommendation requires:",
     "options": [
-      "Accurate and complete",
-      "Missing details",
-      "Destroyed immediately",
-      "Based on memory only"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Good records are accurate and complete."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 17,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Communication",
-    "difficulty": "Easy",
-    "question": "An advisor should communicate:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Suitability: Agent must disclose:",
     "options": [
-      "Clearly and honestly",
-      "With guarantees",
-      "Only through advertisements",
-      "Without explanations"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Clear communication builds trust."
+    "explanation": "In Suitability, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 18,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Communication",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
     "difficulty": "Medium",
-    "question": "An advisor should avoid:",
+    "question": "Documentation: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Misleading clients",
-      "Explaining risks",
-      "Reviewing needs",
-      "Answering questions"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Misleading clients violates ethical standards."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 19,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Suitability",
-    "difficulty": "Easy",
-    "question": "Suitability means:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Privacy (PIPEDA) requires:",
     "options": [
-      "Product matches client needs",
-      "Product has highest commission",
-      "Product is most expensive",
-      "Product is most popular"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Recommendations should fit client circumstances."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 20,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Suitability",
-    "difficulty": "Medium",
-    "question": "A suitable recommendation considers:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: Suitable recommendation requires:",
     "options": [
-      "Objectives, risk, and circumstances",
-      "Only advisor preference",
-      "Only commissions",
-      "Only sales goals"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Suitability requires complete consideration."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 21,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
+    "moduleName": "Ethics and Professional Practice",
     "topic": "Professional Conduct",
     "difficulty": "Easy",
-    "question": "An advisor should act:",
+    "question": "Professional Conduct: Agent must disclose:",
     "options": [
-      "With integrity",
-      "With deception",
-      "Without records",
-      "Without disclosure"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Integrity is a fundamental ethical principle."
+    "explanation": "In Professional Conduct, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 22,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "Ethical advisors place importance on:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Client interests",
-      "Personal gain only",
-      "Sales pressure",
-      "Hidden benefits"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Client interests should be prioritized."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 23,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
     "difficulty": "Easy",
-    "question": "Compliance means:",
+    "question": "FSRA Rules: Privacy (PIPEDA) requires:",
     "options": [
-      "Following applicable rules and regulations",
-      "Ignoring laws",
-      "Avoiding records",
-      "Removing disclosure"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Compliance requires following requirements."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 24,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
     "difficulty": "Medium",
-    "question": "Regulatory requirements exist to:",
+    "question": "Conflicts of Interest: Suitable recommendation requires:",
     "options": [
-      "Protect clients and maintain standards",
-      "Increase commissions",
-      "Remove documentation",
-      "Prevent advice"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Regulation protects consumers."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 25,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
     "difficulty": "Medium",
-    "question": "Ethical decision-making should consider:",
+    "question": "Replacement: Agent must disclose:",
     "options": [
-      "Client impact and professional duties",
-      "Only personal benefit",
-      "Only sales results",
-      "Only market conditions"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Ethical choices consider responsibilities and impact."
+    "explanation": "In Replacement, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 26,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Interests",
-    "difficulty": "Easy",
-    "question": "An advisor's first priority should be:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Client interests",
-      "Personal commission",
-      "Sales targets",
-      "Product popularity"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ethical advisors prioritize clients."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 27,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Interests",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
     "difficulty": "Medium",
-    "question": "Putting clients first means:",
+    "question": "Suitability: Privacy (PIPEDA) requires:",
     "options": [
-      "Considering their goals and circumstances",
-      "Choosing the highest fee product",
-      "Ignoring their concerns",
-      "Making decisions without them"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Client-focused advice considers individual needs."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 28,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "An advisor should avoid:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation: Suitable recommendation requires:",
     "options": [
-      "False or misleading statements",
-      "Clear explanations",
-      "Proper documentation",
-      "Disclosure"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Misleading statements violate professional standards."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 29,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "Professional integrity requires:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Agent must disclose:",
     "options": [
-      "Honest and responsible behaviour",
-      "Hidden information",
-      "Pressure tactics",
-      "False promises"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Integrity requires responsible actions."
+    "explanation": "In Misrepresentation, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 30,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Confidentiality",
-    "difficulty": "Easy",
-    "question": "Confidential client information should be:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Protected",
-      "Shared freely",
-      "Posted publicly",
-      "Sold"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Confidentiality protects client information."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 31,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Confidentiality",
-    "difficulty": "Medium",
-    "question": "Client information may be disclosed:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Professional Conduct: Privacy (PIPEDA) requires:",
     "options": [
-      "When authorized or legally required",
-      "Whenever requested by anyone",
-      "For personal benefit",
-      "Without reason"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Disclosure must be appropriate."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 32,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Communication",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
     "difficulty": "Easy",
-    "question": "Good communication includes:",
+    "question": "Disclosure: Suitable recommendation requires:",
     "options": [
-      "Listening and explaining clearly",
-      "Using pressure",
-      "Hiding details",
-      "Making guarantees"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Communication requires clarity."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 33,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Communication",
-    "difficulty": "Medium",
-    "question": "An advisor should explain:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
+    "difficulty": "Easy",
+    "question": "FSRA Rules: Agent must disclose:",
     "options": [
-      "Risks, benefits, and limitations",
-      "Only benefits",
-      "Only costs",
-      "Only guarantees"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Balanced information supports decisions."
+    "explanation": "In FSRA Rules, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 34,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Conflict Management",
-    "difficulty": "Easy",
-    "question": "Conflicts should be:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Conflicts of Interest: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Managed appropriately",
-      "Hidden",
-      "Ignored",
-      "Encouraged"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Conflicts require proper handling."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 35,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Conflict Management",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
     "difficulty": "Medium",
-    "question": "Conflict disclosure helps:",
+    "question": "Replacement: Privacy (PIPEDA) requires:",
     "options": [
-      "Clients understand potential bias",
-      "Increase commissions",
-      "Remove regulations",
-      "Avoid documentation"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Disclosure supports transparency."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 36,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
-    "difficulty": "Easy",
-    "question": "Rules and regulations help:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: Suitable recommendation requires:",
     "options": [
-      "Protect clients",
-      "Increase misleading sales",
-      "Remove responsibility",
-      "Avoid advice"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Regulation protects consumers."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 37,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
     "difficulty": "Medium",
-    "question": "An advisor should remain:",
+    "question": "Suitability: Agent must disclose:",
     "options": [
-      "Up to date with requirements",
-      "Unaware of rules",
-      "Independent of laws",
-      "Without records"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Professionals must understand requirements."
+    "explanation": "In Suitability, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 38,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
+    "moduleName": "Ethics and Professional Practice",
     "topic": "Documentation",
-    "difficulty": "Easy",
-    "question": "Records should reflect:",
+    "difficulty": "Medium",
+    "question": "Documentation: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Important advice provided",
-      "Only sales numbers",
-      "Only fees",
-      "Only signatures"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Documentation supports accountability."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 39,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
-    "difficulty": "Medium",
-    "question": "Good documentation protects:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Privacy (PIPEDA) requires:",
     "options": [
-      "Clients and advisors",
-      "Only companies",
-      "Only salespeople",
-      "Only regulators"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Records provide evidence of proper advice."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 40,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Suitability",
-    "difficulty": "Easy",
-    "question": "Suitability analysis considers:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: Suitable recommendation requires:",
     "options": [
-      "Client needs",
-      "Advisor commission",
-      "Sales goals",
-      "Product popularity"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Suitability is client focused."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 41,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Suitability",
-    "difficulty": "Medium",
-    "question": "Risk tolerance is important because:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Professional Conduct: Agent must disclose:",
     "options": [
-      "Clients have different comfort levels with risk",
-      "All clients are identical",
-      "Risk never matters",
-      "Products are always equal"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Risk tolerance affects recommendations."
+    "explanation": "In Professional Conduct, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 42,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
     "difficulty": "Easy",
-    "question": "Ethical advisors should be:",
+    "question": "Disclosure: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Trustworthy",
-      "Misleading",
-      "Secretive",
-      "Careless"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Trust is essential in advice."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 43,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
-    "difficulty": "Medium",
-    "question": "An ethical dilemma occurs when:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
+    "difficulty": "Easy",
+    "question": "FSRA Rules: Privacy (PIPEDA) requires:",
     "options": [
-      "Values or duties conflict",
-      "Rules are clear",
-      "Documents are complete",
-      "Clients agree"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Dilemmas involve competing responsibilities."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 44,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Relationships",
-    "difficulty": "Easy",
-    "question": "Trust is built through:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Conflicts of Interest: Suitable recommendation requires:",
     "options": [
-      "Honest service",
-      "Hidden information",
-      "Pressure tactics",
-      "False claims"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Honesty builds trust."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 45,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Relationships",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
     "difficulty": "Medium",
-    "question": "Long-term client relationships require:",
+    "question": "Replacement: Agent must disclose:",
     "options": [
-      "Integrity and communication",
-      "Only sales",
-      "Only commissions",
-      "Only product changes"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Relationships depend on ethical behaviour."
+    "explanation": "In Replacement, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 46,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Standards",
-    "difficulty": "Easy",
-    "question": "A professional advisor should:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Follow ethical standards",
-      "Ignore rules",
-      "Hide conflicts",
-      "Guarantee results"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Standards guide professional behaviour."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 47,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Standards",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
     "difficulty": "Medium",
-    "question": "Professional standards exist to:",
+    "question": "Suitability: Privacy (PIPEDA) requires:",
     "options": [
-      "Maintain public confidence",
-      "Increase pressure sales",
-      "Remove responsibility",
-      "Reduce disclosure"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Standards protect the profession and clients."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 48,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Disclosure",
-    "difficulty": "Easy",
-    "question": "Disclosure allows clients to:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation: Suitable recommendation requires:",
     "options": [
-      "Make informed decisions",
-      "Avoid all risks",
-      "Guarantee returns",
-      "Remove contracts"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Information helps informed choices."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 49,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Disclosure",
-    "difficulty": "Medium",
-    "question": "An advisor should disclose:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Agent must disclose:",
     "options": [
-      "Relevant conflicts and limitations",
-      "Only positive features",
-      "Only commissions",
-      "Nothing"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Disclosure must be complete and relevant."
+    "explanation": "In Misrepresentation, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 50,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
-    "difficulty": "Medium",
-    "question": "Ethical advice is based on:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Honesty, fairness, and client needs",
-      "Sales pressure",
-      "Personal gain",
-      "Hidden information"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ethical advice follows professional principles."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 51,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
+    "moduleName": "Ethics and Professional Practice",
     "topic": "Professional Conduct",
     "difficulty": "Easy",
-    "question": "An advisor should provide advice that is:",
+    "question": "Professional Conduct: Privacy (PIPEDA) requires:",
     "options": [
-      "Fair and objective",
-      "Based on personal benefit",
-      "Misleading",
-      "Hidden"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Advice should be fair and objective."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 52,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "Objectivity means:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure: Suitable recommendation requires:",
     "options": [
-      "Making decisions without improper bias",
-      "Choosing highest commission",
-      "Ignoring client needs",
-      "Following sales pressure"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Objectivity supports ethical advice."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 53,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Needs",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
     "difficulty": "Easy",
-    "question": "A client profile helps determine:",
+    "question": "FSRA Rules: Agent must disclose:",
     "options": [
-      "Appropriate recommendations",
-      "Commission amounts",
-      "Advertising plans",
-      "Sales targets"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Client profiles support suitability."
+    "explanation": "In FSRA Rules, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 54,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Needs",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
     "difficulty": "Medium",
-    "question": "Important client information includes:",
+    "question": "Conflicts of Interest: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Goals, circumstances, and risk tolerance",
-      "Only age",
-      "Only income",
-      "Only product preference"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Complete information supports proper advice."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 55,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Risk",
-    "difficulty": "Easy",
-    "question": "Risk tolerance describes:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
+    "difficulty": "Medium",
+    "question": "Replacement: Privacy (PIPEDA) requires:",
     "options": [
-      "Ability and willingness to accept risk",
-      "Guaranteed returns",
-      "Tax level",
-      "Commission amount"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Risk tolerance affects recommendations."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 56,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Risk",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
     "difficulty": "Medium",
-    "question": "An advisor should explain:",
+    "question": "Privacy: Suitable recommendation requires:",
     "options": [
-      "Possible risks and outcomes",
-      "Only positive results",
-      "Guaranteed profits",
-      "Hidden conditions"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients need balanced information."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 57,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
-    "difficulty": "Easy",
-    "question": "Compliance requires:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Suitability: Agent must disclose:",
     "options": [
-      "Following applicable laws and rules",
-      "Ignoring regulations",
-      "Avoiding records",
-      "Hiding information"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Compliance ensures proper practices."
+    "explanation": "In Suitability, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 58,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
     "difficulty": "Medium",
-    "question": "Failure to follow rules may result in:",
+    "question": "Documentation: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Disciplinary action",
-      "Guaranteed success",
-      "More commissions",
-      "Less responsibility"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Non-compliance can have consequences."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 59,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Privacy",
-    "difficulty": "Easy",
-    "question": "Privacy protection means:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Privacy (PIPEDA) requires:",
     "options": [
-      "Safeguarding client information",
-      "Sharing information freely",
-      "Publishing records",
-      "Ignoring consent"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Privacy protects client information."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 60,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Privacy",
-    "difficulty": "Medium",
-    "question": "Client consent is important when:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: Suitable recommendation requires:",
     "options": [
-      "Using personal information",
-      "Choosing advertising",
-      "Setting commissions",
-      "Predicting markets"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Consent supports proper information use."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 61,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
     "difficulty": "Easy",
-    "question": "Documentation should be:",
+    "question": "Professional Conduct: Agent must disclose:",
     "options": [
-      "Accurate",
-      "False",
-      "Incomplete",
-      "Unnecessary"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Accurate records are required."
+    "explanation": "In Professional Conduct, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 62,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
-    "difficulty": "Medium",
-    "question": "Keeping records helps demonstrate:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Proper advice process",
-      "Only sales volume",
-      "Only profits",
-      "Only marketing"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Records show how advice was provided."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 63,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Communication",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
     "difficulty": "Easy",
-    "question": "An advisor should answer client questions:",
+    "question": "FSRA Rules: Privacy (PIPEDA) requires:",
     "options": [
-      "Clearly and honestly",
-      "With guarantees",
-      "Avoiding details",
-      "Without explanation"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Clear answers support understanding."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 64,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Communication",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
     "difficulty": "Medium",
-    "question": "Effective communication requires:",
+    "question": "Conflicts of Interest: Suitable recommendation requires:",
     "options": [
-      "Listening to client concerns",
-      "Ignoring questions",
-      "Using pressure",
-      "Hiding risks"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Listening is part of good advice."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 65,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Conflicts of Interest",
-    "difficulty": "Easy",
-    "question": "A conflict may occur when:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
+    "difficulty": "Medium",
+    "question": "Replacement: Agent must disclose:",
     "options": [
-      "Personal interests affect advice",
-      "Clients ask questions",
-      "Policies are reviewed",
-      "Records are updated"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Conflicts can affect judgment."
+    "explanation": "In Replacement, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 66,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Conflicts of Interest",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
     "difficulty": "Medium",
-    "question": "Managing conflicts requires:",
+    "question": "Privacy: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Disclosure and proper controls",
-      "Hiding information",
-      "Ignoring issues",
-      "Removing clients"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Conflicts must be handled responsibly."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 67,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
-    "difficulty": "Easy",
-    "question": "Ethical behaviour includes:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Suitability: Privacy (PIPEDA) requires:",
     "options": [
-      "Respect and honesty",
-      "Deception",
-      "Pressure",
-      "False promises"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Ethics requires honest conduct."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 68,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
     "difficulty": "Medium",
-    "question": "Ethical decisions consider:",
+    "question": "Documentation: Suitable recommendation requires:",
     "options": [
-      "Impact on clients",
-      "Only personal benefit",
-      "Only sales",
-      "Only commissions"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Ethical choices consider client impact."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 69,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Relationships",
-    "difficulty": "Easy",
-    "question": "Client trust is maintained through:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Agent must disclose:",
     "options": [
-      "Consistent ethical behaviour",
-      "Hidden information",
-      "False guarantees",
-      "Pressure tactics"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Trust depends on ethical actions."
+    "explanation": "In Misrepresentation, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 70,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Relationships",
-    "difficulty": "Medium",
-    "question": "A strong relationship requires:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Communication and transparency",
-      "Only sales",
-      "Only product changes",
-      "Only fees"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Transparency builds relationships."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 71,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Standards",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
     "difficulty": "Easy",
-    "question": "Professional standards promote:",
+    "question": "Professional Conduct: Privacy (PIPEDA) requires:",
     "options": [
-      "Quality and ethical service",
-      "Misleading practices",
-      "Hidden conflicts",
-      "Poor records"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Standards guide professional behaviour."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 72,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Standards",
-    "difficulty": "Medium",
-    "question": "Maintaining standards helps:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure: Suitable recommendation requires:",
     "options": [
-      "Protect the public",
-      "Increase pressure",
-      "Avoid responsibility",
-      "Remove disclosure"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Standards protect consumers."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 73,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Suitability",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
     "difficulty": "Easy",
-    "question": "Suitability requires matching:",
+    "question": "FSRA Rules: Agent must disclose:",
     "options": [
-      "Products to client needs",
-      "Products to commissions",
-      "Products to advertising",
-      "Products to popularity"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Recommendations must fit clients."
+    "explanation": "In FSRA Rules, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 74,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Suitability",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
     "difficulty": "Medium",
-    "question": "An unsuitable recommendation may:",
+    "question": "Conflicts of Interest: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Harm the client",
-      "Guarantee success",
-      "Remove risk",
-      "Improve every outcome"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Unsuitable advice can negatively affect clients."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 75,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
     "difficulty": "Medium",
-    "question": "An advisor demonstrates professionalism by:",
+    "question": "Replacement: Privacy (PIPEDA) requires:",
     "options": [
-      "Acting ethically and responsibly",
-      "Guaranteeing returns",
-      "Hiding limitations",
-      "Ignoring rules"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Professionalism requires ethical behaviour."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 76,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Disclosure",
-    "difficulty": "Easy",
-    "question": "Disclosure helps clients understand:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: Suitable recommendation requires:",
     "options": [
-      "Important product information",
-      "Only sales goals",
-      "Only commissions",
-      "Only advertisements"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Disclosure supports informed decisions."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 77,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Disclosure",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
     "difficulty": "Medium",
-    "question": "An advisor must disclose:",
+    "question": "Suitability: Agent must disclose:",
     "options": [
-      "Relevant information affecting the client",
-      "Only positive features",
-      "Only guarantees",
-      "Nothing"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Relevant information must be provided."
+    "explanation": "In Suitability, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 78,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Interests",
-    "difficulty": "Easy",
-    "question": "Acting in the client's best interest means:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Putting client needs first",
-      "Maximizing advisor income",
-      "Ignoring objectives",
-      "Using pressure"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Client needs should guide advice."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 79,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Interests",
-    "difficulty": "Medium",
-    "question": "Client-focused advice avoids:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Privacy (PIPEDA) requires:",
     "options": [
-      "Conflicts and unsuitable recommendations",
-      "Clear communication",
-      "Documentation",
-      "Reviews"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Ethical advice avoids unsuitable practices."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 80,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "An advisor should be accountable for:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: Suitable recommendation requires:",
     "options": [
-      "Professional actions",
-      "Market performance",
-      "Government decisions",
-      "Client choices only"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Advisors are responsible for their conduct."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 81,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
+    "moduleName": "Ethics and Professional Practice",
     "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "Accountability requires:",
+    "difficulty": "Easy",
+    "question": "Professional Conduct: Agent must disclose:",
     "options": [
-      "Taking responsibility for advice",
-      "Avoiding records",
-      "Blaming clients",
-      "Hiding mistakes"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Professionals accept responsibility."
+    "explanation": "In Professional Conduct, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 82,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Privacy",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
     "difficulty": "Easy",
-    "question": "Client records should be:",
+    "question": "Disclosure: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Securely maintained",
-      "Publicly available",
-      "Shared freely",
-      "Destroyed immediately"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Records must be protected."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 83,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Privacy",
-    "difficulty": "Medium",
-    "question": "Unauthorized sharing of client information is:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
+    "difficulty": "Easy",
+    "question": "FSRA Rules: Privacy (PIPEDA) requires:",
     "options": [
-      "Improper",
-      "Required",
-      "Professional",
-      "Recommended"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Privacy rules restrict improper sharing."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 84,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
-    "difficulty": "Easy",
-    "question": "Regulations exist to:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Conflicts of Interest: Suitable recommendation requires:",
     "options": [
-      "Protect clients",
-      "Increase sales pressure",
-      "Remove ethics",
-      "Reduce information"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Regulations protect consumers."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 85,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
     "difficulty": "Medium",
-    "question": "Following regulations demonstrates:",
+    "question": "Replacement: Agent must disclose:",
     "options": [
-      "Professional responsibility",
-      "Poor service",
-      "Hidden practices",
-      "Personal gain"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Compliance is part of professionalism."
+    "explanation": "In Replacement, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 86,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
-    "difficulty": "Easy",
-    "question": "Integrity means:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Doing the right thing",
-      "Maximizing profit",
-      "Hiding facts",
-      "Ignoring rules"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Integrity is ethical behaviour."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 87,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
     "difficulty": "Medium",
-    "question": "An ethical advisor should avoid:",
+    "question": "Suitability: Privacy (PIPEDA) requires:",
     "options": [
-      "Misrepresentation",
-      "Honest explanations",
-      "Client reviews",
-      "Documentation"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Misrepresentation violates ethics."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 88,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Communication",
-    "difficulty": "Easy",
-    "question": "Communication should be:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation: Suitable recommendation requires:",
     "options": [
-      "Clear and understandable",
-      "Confusing",
-      "Hidden",
-      "Misleading"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients need clear information."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 89,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Communication",
-    "difficulty": "Medium",
-    "question": "An advisor should explain:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Agent must disclose:",
     "options": [
-      "Benefits, risks, and limitations",
-      "Only benefits",
-      "Only costs",
-      "Only guarantees"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Balanced explanations are required."
+    "explanation": "In Misrepresentation, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 90,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Conflicts of Interest",
-    "difficulty": "Easy",
-    "question": "Conflicts of interest should be:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Identified and managed",
-      "Hidden",
-      "Ignored",
-      "Encouraged"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Conflicts require proper management."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 91,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Conflicts of Interest",
-    "difficulty": "Medium",
-    "question": "Disclosure of conflicts promotes:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Professional Conduct: Privacy (PIPEDA) requires:",
     "options": [
-      "Transparency",
-      "Misleading advice",
-      "Pressure sales",
-      "Hidden benefits"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Transparency supports trust."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 92,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Suitability",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
     "difficulty": "Easy",
-    "question": "Suitability depends on:",
+    "question": "Disclosure: Suitable recommendation requires:",
     "options": [
-      "Client circumstances",
-      "Advisor preference",
-      "Highest commission",
-      "Product popularity"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Suitability is client specific."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 93,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Suitability",
-    "difficulty": "Medium",
-    "question": "Before recommending, an advisor should:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
+    "difficulty": "Easy",
+    "question": "FSRA Rules: Agent must disclose:",
     "options": [
-      "Assess client information",
-      "Ignore objectives",
-      "Choose randomly",
-      "Focus only on fees"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Assessment supports suitable advice."
+    "explanation": "In FSRA Rules, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 94,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
-    "difficulty": "Easy",
-    "question": "Records should show:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Conflicts of Interest: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Reasoning behind recommendations",
-      "Only product names",
-      "Only signatures",
-      "Only fees"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Documentation explains advice decisions."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 95,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
     "difficulty": "Medium",
-    "question": "Good records support:",
+    "question": "Replacement: Privacy (PIPEDA) requires:",
     "options": [
-      "Accountability and compliance",
-      "Hidden practices",
-      "False claims",
-      "Poor advice"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Records demonstrate proper conduct."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 96,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Standards",
-    "difficulty": "Easy",
-    "question": "Professional standards help maintain:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: Suitable recommendation requires:",
     "options": [
-      "Public confidence",
-      "Hidden information",
-      "Poor service",
-      "Conflicts"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Standards protect trust in the profession."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 97,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Standards",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
     "difficulty": "Medium",
-    "question": "A professional advisor should continue:",
+    "question": "Suitability: Agent must disclose:",
     "options": [
-      "Learning and improving knowledge",
-      "Ignoring changes",
-      "Avoiding rules",
-      "Stopping education"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Continuous learning supports competence."
+    "explanation": "In Suitability, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 98,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Relationships",
-    "difficulty": "Easy",
-    "question": "Respecting clients includes:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Listening and responding appropriately",
-      "Ignoring concerns",
-      "Using pressure",
-      "Hiding information"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Respect improves client relationships."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 99,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Relationships",
-    "difficulty": "Medium",
-    "question": "Trust is strengthened by:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Privacy (PIPEDA) requires:",
     "options": [
-      "Honesty and transparency",
-      "False promises",
-      "Hidden conflicts",
-      "Pressure tactics"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Transparency builds trust."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 100,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
-    "difficulty": "Medium",
-    "question": "Ethical advice combines:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: Suitable recommendation requires:",
     "options": [
-      "Integrity, competence, and client focus",
-      "Sales pressure only",
-      "Personal benefit only",
-      "Hidden information"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Ethical advice requires professional principles."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 101,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Competence",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
     "difficulty": "Easy",
-    "question": "An advisor should maintain:",
+    "question": "Professional Conduct: Agent must disclose:",
     "options": [
-      "Professional knowledge and skills",
-      "Only sales ability",
-      "Personal opinions",
-      "Marketing skills only"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Competence requires knowledge and skills."
+    "explanation": "In Professional Conduct, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 102,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Competence",
-    "difficulty": "Medium",
-    "question": "Continuing education helps advisors:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Remain knowledgeable",
-      "Avoid regulations",
-      "Guarantee returns",
-      "Remove responsibility"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Education supports professional competence."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 103,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
     "difficulty": "Easy",
-    "question": "An advisor should be:",
+    "question": "FSRA Rules: Privacy (PIPEDA) requires:",
     "options": [
-      "Reliable and trustworthy",
-      "Misleading",
-      "Secretive",
-      "Careless"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Trustworthiness is essential."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 104,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
     "difficulty": "Medium",
-    "question": "Professional behaviour includes:",
+    "question": "Conflicts of Interest: Suitable recommendation requires:",
     "options": [
-      "Respecting ethical obligations",
-      "Ignoring clients",
-      "Hiding information",
-      "Making false promises"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Ethical obligations guide behaviour."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 105,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Needs",
-    "difficulty": "Easy",
-    "question": "Understanding clients helps provide:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
+    "difficulty": "Medium",
+    "question": "Replacement: Agent must disclose:",
     "options": [
-      "Suitable advice",
-      "Maximum commissions",
-      "Random products",
-      "Guaranteed outcomes"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Understanding needs supports suitability."
+    "explanation": "In Replacement, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 106,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Needs",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
     "difficulty": "Medium",
-    "question": "Client goals should be:",
+    "question": "Privacy: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Considered in recommendations",
-      "Ignored",
-      "Replaced by sales goals",
-      "Hidden"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Recommendations should reflect goals."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 107,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Risk",
-    "difficulty": "Easy",
-    "question": "Risk disclosure helps clients:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Suitability: Privacy (PIPEDA) requires:",
     "options": [
-      "Understand possible outcomes",
-      "Guarantee profits",
-      "Remove all risks",
-      "Avoid contracts"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Risk information supports decisions."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 108,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Risk",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
     "difficulty": "Medium",
-    "question": "An advisor should explain:",
+    "question": "Documentation: Suitable recommendation requires:",
     "options": [
-      "Potential risks and limitations",
-      "Only benefits",
-      "Only guarantees",
-      "Only returns"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Balanced disclosure is required."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 109,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Conflicts of Interest",
-    "difficulty": "Easy",
-    "question": "A conflict should be disclosed when it:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Agent must disclose:",
     "options": [
-      "May affect advice",
-      "Never exists",
-      "Benefits the advisor only",
-      "Is hidden"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Relevant conflicts must be disclosed."
+    "explanation": "In Misrepresentation, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 110,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Conflicts of Interest",
-    "difficulty": "Medium",
-    "question": "Managing conflicts protects:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Client trust",
-      "Sales targets",
-      "Commissions",
-      "Advertising"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Proper management protects relationships."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 111,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Privacy",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
     "difficulty": "Easy",
-    "question": "Privacy obligations apply to:",
+    "question": "Professional Conduct: Privacy (PIPEDA) requires:",
     "options": [
-      "Client personal information",
-      "Market prices",
-      "Advertising",
-      "Commission rates"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Privacy focuses on personal information."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 112,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Privacy",
-    "difficulty": "Medium",
-    "question": "Client information should only be accessed by:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure: Suitable recommendation requires:",
     "options": [
-      "Authorized persons",
-      "Anyone interested",
-      "Public sources",
-      "Competitors"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Access should be controlled."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 113,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
     "difficulty": "Easy",
-    "question": "Compliance records should be:",
+    "question": "FSRA Rules: Agent must disclose:",
     "options": [
-      "Maintained properly",
-      "Destroyed immediately",
-      "Hidden",
-      "Optional"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Records support compliance."
+    "explanation": "In FSRA Rules, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 114,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
     "difficulty": "Medium",
-    "question": "Non-compliance can:",
+    "question": "Conflicts of Interest: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Damage professional standing",
-      "Guarantee success",
-      "Improve advice",
-      "Remove duties"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Failure to comply has consequences."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 115,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Disclosure",
-    "difficulty": "Easy",
-    "question": "Clear disclosure allows clients to:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
+    "difficulty": "Medium",
+    "question": "Replacement: Privacy (PIPEDA) requires:",
     "options": [
-      "Make informed choices",
-      "Avoid all decisions",
-      "Guarantee results",
-      "Ignore risks"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Disclosure supports informed decisions."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 116,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Disclosure",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
     "difficulty": "Medium",
-    "question": "An advisor should not:",
+    "question": "Privacy: Suitable recommendation requires:",
     "options": [
-      "Hide important information",
-      "Explain products",
-      "Discuss risks",
-      "Answer questions"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Important information cannot be hidden."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 117,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
-    "difficulty": "Easy",
-    "question": "Ethical behaviour builds:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Suitability: Agent must disclose:",
     "options": [
-      "Trust",
-      "Confusion",
-      "Pressure",
-      "Misunderstanding"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Ethics builds client trust."
+    "explanation": "In Suitability, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 118,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
     "difficulty": "Medium",
-    "question": "Ethical decisions should consider:",
+    "question": "Documentation: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Consequences for clients",
-      "Only profit",
-      "Only sales",
-      "Only convenience"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ethics considers client impact."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 119,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
-    "difficulty": "Easy",
-    "question": "Advice records should be:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Privacy (PIPEDA) requires:",
     "options": [
-      "Complete and accurate",
-      "Optional",
-      "Incorrect",
-      "Unclear"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Records must be reliable."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 120,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
-    "difficulty": "Medium",
-    "question": "Documentation demonstrates:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: Suitable recommendation requires:",
     "options": [
-      "Professional process",
-      "Personal gain",
-      "Marketing strategy",
-      "Sales pressure"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Documentation shows how advice was provided."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 121,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Relationships",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
     "difficulty": "Easy",
-    "question": "Client trust depends on:",
+    "question": "Professional Conduct: Agent must disclose:",
     "options": [
-      "Honest interactions",
-      "Hidden information",
-      "False claims",
-      "Pressure"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Honesty supports trust."
+    "explanation": "In Professional Conduct, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 122,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Relationships",
-    "difficulty": "Medium",
-    "question": "Maintaining relationships requires:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Transparency and communication",
-      "Only selling",
-      "Only advertising",
-      "Ignoring feedback"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Good relationships require communication."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 123,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Suitability",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
     "difficulty": "Easy",
-    "question": "A suitable recommendation should:",
+    "question": "FSRA Rules: Privacy (PIPEDA) requires:",
     "options": [
-      "Meet client needs",
-      "Maximize commission",
-      "Ignore objectives",
-      "Be random"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Suitability is client focused."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 124,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Suitability",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
     "difficulty": "Medium",
-    "question": "Unsuitable advice may:",
+    "question": "Conflicts of Interest: Suitable recommendation requires:",
     "options": [
-      "Create harm for clients",
-      "Guarantee returns",
-      "Remove risk",
-      "Improve every outcome"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Unsuitable recommendations can harm clients."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 125,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Competence",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
     "difficulty": "Medium",
-    "question": "A competent advisor demonstrates:",
+    "question": "Replacement: Agent must disclose:",
     "options": [
-      "Knowledge and professional judgment",
-      "Only sales ability",
-      "Guaranteed results",
-      "Hidden practices"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Competence requires knowledge and judgment."
-  },
-  {
-    "id": 151,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "An advisor should avoid:",
-    "options": [
-      "Misleading clients",
-      "Explaining products",
-      "Keeping records",
-      "Disclosing information"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Misleading clients violates professional duties."
-  },
-  {
-    "id": 152,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "Professional judgement requires:",
-    "options": [
-      "Knowledge and ethical reasoning",
-      "Only sales skills",
-      "Personal benefit",
-      "Ignoring rules"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Judgement combines knowledge and ethics."
-  },
-  {
-    "id": 153,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Interests",
-    "difficulty": "Easy",
-    "question": "Client interests should be considered:",
-    "options": [
-      "Before making recommendations",
-      "After selling products",
-      "Only during complaints",
-      "Never"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Client interests guide recommendations."
-  },
-  {
-    "id": 154,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Interests",
-    "difficulty": "Medium",
-    "question": "Putting clients first requires:",
-    "options": [
-      "Understanding their goals",
-      "Maximizing commissions",
-      "Using pressure",
-      "Hiding limitations"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Client goals should guide advice."
-  },
-  {
-    "id": 155,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Disclosure",
-    "difficulty": "Easy",
-    "question": "Disclosure should be:",
-    "options": [
-      "Timely and complete",
-      "Hidden",
-      "Delayed intentionally",
-      "Unnecessary"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Clients need timely information."
-  },
-  {
-    "id": 156,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Disclosure",
-    "difficulty": "Medium",
-    "question": "Incomplete disclosure may:",
-    "options": [
-      "Prevent informed decisions",
-      "Guarantee success",
-      "Remove risks",
-      "Improve advice"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Missing information can harm decisions."
-  },
-  {
-    "id": 157,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
-    "difficulty": "Easy",
-    "question": "Compliance procedures help:",
-    "options": [
-      "Ensure proper practices",
-      "Avoid responsibilities",
-      "Hide information",
-      "Increase conflicts"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Procedures support compliance."
-  },
-  {
-    "id": 158,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
-    "difficulty": "Medium",
-    "question": "Following regulations demonstrates:",
-    "options": [
-      "Professional responsibility",
-      "Poor judgement",
-      "Hidden activity",
-      "Lack of knowledge"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Compliance is a professional obligation."
-  },
-  {
-    "id": 159,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Privacy",
-    "difficulty": "Easy",
-    "question": "Protecting privacy means:",
-    "options": [
-      "Safeguarding client data",
-      "Sharing freely",
-      "Posting publicly",
-      "Ignoring consent"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Privacy requires protection."
-  },
-  {
-    "id": 160,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Privacy",
-    "difficulty": "Medium",
-    "question": "Client information should be:",
-    "options": [
-      "Collected and used appropriately",
-      "Used for personal gain",
-      "Shared without reason",
-      "Ignored"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Information must be handled properly."
-  },
-  {
-    "id": 161,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Risk",
-    "difficulty": "Easy",
-    "question": "Risk information should be:",
-    "options": [
-      "Explained clearly",
-      "Hidden",
-      "Removed",
-      "Guaranteed"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Clients need clear risk explanations."
-  },
-  {
-    "id": 162,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Risk",
-    "difficulty": "Medium",
-    "question": "Risk discussions help clients:",
-    "options": [
-      "Make informed choices",
-      "Guarantee profits",
-      "Avoid all decisions",
-      "Remove contracts"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Understanding risk supports choices."
-  },
-  {
-    "id": 163,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Suitability",
-    "difficulty": "Easy",
-    "question": "Suitable advice considers:",
-    "options": [
-      "Client situation",
-      "Advisor income",
-      "Sales goals",
-      "Advertising"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Suitability is client focused."
-  },
-  {
-    "id": 164,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Suitability",
-    "difficulty": "Medium",
-    "question": "An advisor should recommend products that:",
-    "options": [
-      "Fit client needs",
-      "Pay the highest commission",
-      "Are most expensive",
-      "Are most popular"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Recommendations should be appropriate."
-  },
-  {
-    "id": 165,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
-    "difficulty": "Easy",
-    "question": "Advisor records should be:",
-    "options": [
-      "Accurate",
-      "False",
-      "Optional",
-      "Missing"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Accurate records are required."
-  },
-  {
-    "id": 166,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
-    "difficulty": "Medium",
-    "question": "Documentation supports:",
-    "options": [
-      "Accountability",
-      "Hidden decisions",
-      "Poor service",
-      "Misrepresentation"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Records demonstrate responsible conduct."
-  },
-  {
-    "id": 167,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Communication",
-    "difficulty": "Easy",
-    "question": "Good communication builds:",
-    "options": [
-      "Understanding",
-      "Confusion",
-      "Pressure",
-      "Distrust"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Clear communication improves understanding."
-  },
-  {
-    "id": 168,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Communication",
-    "difficulty": "Medium",
-    "question": "Advisors should explain information in a way clients:",
-    "options": [
-      "Can understand",
-      "Cannot question",
-      "Must accept",
-      "Cannot review"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Information should be understandable."
-  },
-  {
-    "id": 169,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
-    "difficulty": "Easy",
-    "question": "Ethical advisors demonstrate:",
-    "options": [
-      "Integrity",
-      "Deception",
-      "Bias",
-      "Negligence"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Integrity is fundamental to ethics."
-  },
-  {
-    "id": 170,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
-    "difficulty": "Medium",
-    "question": "Ethical choices balance:",
-    "options": [
-      "Professional duties and client interests",
-      "Only profit",
-      "Only sales",
-      "Only convenience"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ethics requires balanced judgement."
-  },
-  {
-    "id": 171,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Competence",
-    "difficulty": "Easy",
-    "question": "Competent advisors have:",
-    "options": [
-      "Knowledge and skills",
-      "Only sales ability",
-      "No training",
-      "Limited information"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Competence requires ability and knowledge."
-  },
-  {
-    "id": 172,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Competence",
-    "difficulty": "Medium",
-    "question": "Continuing education supports:",
-    "options": [
-      "Professional improvement",
-      "Guaranteed returns",
-      "Removing duties",
-      "Avoiding rules"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Education maintains competence."
-  },
-  {
-    "id": 173,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Relationships",
-    "difficulty": "Easy",
-    "question": "Fair treatment means:",
-    "options": [
-      "Respecting clients",
-      "Using pressure",
-      "Hiding information",
-      "Ignoring concerns"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Clients should be treated fairly."
-  },
-  {
-    "id": 174,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Relationships",
-    "difficulty": "Medium",
-    "question": "Client trust is damaged by:",
-    "options": [
-      "Dishonesty",
-      "Transparency",
-      "Clear advice",
-      "Good records"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Dishonesty harms trust."
-  },
-  {
-    "id": 175,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Standards",
-    "difficulty": "Medium",
-    "question": "A professional advisor should maintain:",
-    "options": [
-      "Ethical standards",
-      "Hidden practices",
-      "False promises",
-      "Poor records"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Professional standards guide behaviour."
-  },
-  {
-    "id": 176,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "An advisor's behaviour should reflect:",
-    "options": [
-      "Integrity and professionalism",
-      "Personal gain",
-      "Pressure selling",
-      "Hidden information"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Professional conduct requires integrity."
-  },
-  {
-    "id": 177,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "Professional obligations include:",
-    "options": [
-      "Acting honestly and fairly",
-      "Ignoring client concerns",
-      "Hiding conflicts",
-      "Making guarantees"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Advisors must act fairly."
-  },
-  {
-    "id": 178,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Needs",
-    "difficulty": "Easy",
-    "question": "Client information is used to:",
-    "options": [
-      "Provide suitable advice",
-      "Increase commissions",
-      "Create pressure",
-      "Ignore objectives"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Information helps determine suitability."
-  },
-  {
-    "id": 179,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Needs",
-    "difficulty": "Medium",
-    "question": "Recommendations should be based on:",
-    "options": [
-      "Client goals and circumstances",
-      "Advisor preference",
-      "Sales targets",
-      "Product popularity"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Recommendations should fit clients."
-  },
-  {
-    "id": 180,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Disclosure",
-    "difficulty": "Easy",
-    "question": "Important information should be:",
-    "options": [
-      "Disclosed to clients",
-      "Hidden",
-      "Delayed",
-      "Ignored"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Clients need important information."
-  },
-  {
-    "id": 181,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Disclosure",
-    "difficulty": "Medium",
-    "question": "Proper disclosure supports:",
-    "options": [
-      "Informed decisions",
-      "Guaranteed results",
-      "Reduced responsibility",
-      "Hidden conflicts"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Disclosure allows informed choices."
-  },
-  {
-    "id": 182,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
-    "difficulty": "Easy",
-    "question": "An advisor should follow:",
-    "options": [
-      "Applicable laws and regulations",
-      "Personal shortcuts",
-      "Market rumours",
-      "Sales pressure"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Rules guide professional conduct."
-  },
-  {
-    "id": 183,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
-    "difficulty": "Medium",
-    "question": "Compliance failures may:",
-    "options": [
-      "Lead to consequences",
-      "Guarantee success",
-      "Improve reputation",
-      "Remove duties"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Failure to comply may have penalties."
-  },
-  {
-    "id": 184,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Privacy",
-    "difficulty": "Easy",
-    "question": "Confidential information should be:",
-    "options": [
-      "Protected",
-      "Published",
-      "Sold",
-      "Ignored"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Privacy requires protection."
-  },
-  {
-    "id": 185,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Privacy",
-    "difficulty": "Medium",
-    "question": "Privacy protection builds:",
-    "options": [
-      "Client trust",
-      "Confusion",
-      "Pressure",
-      "Conflict"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Protecting information builds trust."
-  },
-  {
-    "id": 186,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Risk",
-    "difficulty": "Easy",
-    "question": "Explaining risk is part of:",
-    "options": [
-      "Responsible advice",
-      "Misleading advice",
-      "Poor communication",
-      "Hidden practices"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Responsible advice includes risk explanation."
-  },
-  {
-    "id": 187,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Risk",
-    "difficulty": "Medium",
-    "question": "Clients should understand:",
-    "options": [
-      "Risks before decisions",
-      "Only benefits",
-      "Guaranteed outcomes",
-      "Only fees"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Risk understanding supports decisions."
-  },
-  {
-    "id": 188,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Suitability",
-    "difficulty": "Easy",
-    "question": "Suitable recommendations:",
-    "options": [
-      "Match client needs",
-      "Maximize commissions",
-      "Ignore goals",
-      "Follow trends"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Suitability means matching needs."
-  },
-  {
-    "id": 189,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Suitability",
-    "difficulty": "Medium",
-    "question": "An advisor should avoid:",
-    "options": [
-      "Unsuitable recommendations",
-      "Client reviews",
-      "Clear explanations",
-      "Documentation"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Unsuitable advice can harm clients."
-  },
-  {
-    "id": 190,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
-    "difficulty": "Easy",
-    "question": "Records should show:",
-    "options": [
-      "Advice provided",
-      "Only sales",
-      "Only fees",
-      "Only signatures"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Records document the advice process."
-  },
-  {
-    "id": 191,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
-    "difficulty": "Medium",
-    "question": "Good documentation demonstrates:",
-    "options": [
-      "Professional responsibility",
-      "Hidden actions",
-      "Poor advice",
-      "Misleading conduct"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Records support accountability."
-  },
-  {
-    "id": 192,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Communication",
-    "difficulty": "Easy",
-    "question": "An advisor should:",
-    "options": [
-      "Explain clearly",
-      "Hide information",
-      "Guarantee results",
-      "Ignore questions"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Clear explanations are required."
-  },
-  {
-    "id": 193,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Communication",
-    "difficulty": "Medium",
-    "question": "Effective communication includes:",
-    "options": [
-      "Listening and explaining",
-      "Pressure tactics",
-      "Hidden details",
-      "False promises"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Communication requires understanding."
-  },
-  {
-    "id": 194,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
-    "difficulty": "Easy",
-    "question": "Ethical advice requires:",
-    "options": [
-      "Honesty",
-      "Deception",
-      "Bias",
-      "Negligence"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Honesty is an ethical requirement."
-  },
-  {
-    "id": 195,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
-    "difficulty": "Medium",
-    "question": "Ethical behaviour protects:",
-    "options": [
-      "Clients and public confidence",
-      "Only sales",
-      "Only profits",
-      "Only companies"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ethics protects trust."
-  },
-  {
-    "id": 196,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Competence",
-    "difficulty": "Easy",
-    "question": "An advisor should maintain:",
-    "options": [
-      "Professional knowledge",
-      "Outdated skills",
-      "Limited understanding",
-      "No training"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Knowledge must be maintained."
-  },
-  {
-    "id": 197,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Competence",
-    "difficulty": "Medium",
-    "question": "Competence improves through:",
-    "options": [
-      "Education and experience",
-      "Guessing",
-      "Sales pressure",
-      "Ignoring changes"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Learning improves competence."
-  },
-  {
-    "id": 198,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Relationships",
-    "difficulty": "Easy",
-    "question": "Strong relationships require:",
-    "options": [
-      "Trust and respect",
-      "Pressure",
-      "Hidden information",
-      "False promises"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Trust supports relationships."
-  },
-  {
-    "id": 199,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Relationships",
-    "difficulty": "Medium",
-    "question": "Client loyalty is supported by:",
-    "options": [
-      "Ethical service",
-      "Misleading advice",
-      "Hidden fees",
-      "Poor communication"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ethical service builds loyalty."
-  },
-  {
-    "id": 200,
-    "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
-    "difficulty": "Medium",
-    "question": "The foundation of ethical advising is:",
-    "options": [
-      "Integrity and client focus",
-      "Maximum sales",
-      "Personal benefit",
-      "Hidden information"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ethical advising requires integrity."
+    "explanation": "In Replacement, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 126,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "An advisor should always:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Act honestly",
-      "Hide information",
-      "Promise results",
-      "Ignore rules"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Honesty is a core professional duty."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 127,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Conduct",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
     "difficulty": "Medium",
-    "question": "Professional responsibility includes:",
+    "question": "Suitability: Privacy (PIPEDA) requires:",
     "options": [
-      "Following ethical standards",
-      "Maximizing sales only",
-      "Avoiding documentation",
-      "Ignoring concerns"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Professionals follow ethical standards."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 128,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Needs",
-    "difficulty": "Easy",
-    "question": "Client objectives should be:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation: Suitable recommendation requires:",
     "options": [
-      "Clearly identified",
-      "Ignored",
-      "Replaced with sales goals",
-      "Hidden"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Understanding objectives supports advice."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 129,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Needs",
-    "difficulty": "Medium",
-    "question": "A needs analysis helps determine:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Agent must disclose:",
     "options": [
-      "Appropriate recommendations",
-      "Commission levels",
-      "Marketing plans",
-      "Sales rankings"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Needs analysis supports suitability."
+    "explanation": "In Misrepresentation, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 130,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Risk",
-    "difficulty": "Easy",
-    "question": "Explaining risk is part of:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Responsible advice",
-      "Sales pressure",
-      "Misleading communication",
-      "Hidden practices"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Risk explanation is part of good advice."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 131,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Risk",
-    "difficulty": "Medium",
-    "question": "Clients should understand:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Professional Conduct: Privacy (PIPEDA) requires:",
     "options": [
-      "Possible losses and uncertainty",
-      "Only possible gains",
-      "Guaranteed returns",
-      "Only fees"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients need balanced risk information."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 132,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
     "difficulty": "Easy",
-    "question": "An advisor must follow:",
+    "question": "Disclosure: Suitable recommendation requires:",
     "options": [
-      "Applicable regulations",
-      "Personal preferences",
-      "Market rumours",
-      "Sales targets"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Regulations guide professional conduct."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 133,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Compliance",
-    "difficulty": "Medium",
-    "question": "Compliance supports:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
+    "difficulty": "Easy",
+    "question": "FSRA Rules: Agent must disclose:",
     "options": [
-      "Consumer protection",
-      "Hidden information",
-      "Poor documentation",
-      "Unfair practices"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Compliance protects consumers."
+    "explanation": "In FSRA Rules, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 134,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Privacy",
-    "difficulty": "Easy",
-    "question": "Personal information should be:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Conflicts of Interest: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Protected",
-      "Shared publicly",
-      "Sold",
-      "Ignored"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Privacy requires protection."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 135,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Privacy",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
     "difficulty": "Medium",
-    "question": "Privacy breaches may:",
+    "question": "Replacement: Privacy (PIPEDA) requires:",
     "options": [
-      "Harm client trust",
-      "Improve relationships",
-      "Increase transparency",
-      "Reduce duties"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Privacy breaches damage trust."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 136,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Disclosure",
-    "difficulty": "Easy",
-    "question": "An advisor should disclose:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: Suitable recommendation requires:",
     "options": [
-      "Important product facts",
-      "Only advantages",
-      "Only commissions",
-      "Nothing"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Important facts must be disclosed."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 137,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Disclosure",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
     "difficulty": "Medium",
-    "question": "Complete disclosure helps clients:",
+    "question": "Suitability: Agent must disclose:",
     "options": [
-      "Evaluate choices",
-      "Avoid all risk",
-      "Guarantee outcomes",
-      "Remove contracts"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Disclosure supports decisions."
+    "explanation": "In Suitability, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 138,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Conflicts of Interest",
-    "difficulty": "Easy",
-    "question": "Conflicts may arise from:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Personal interests",
-      "Client questions",
-      "Documentation",
-      "Education"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Personal interests can create conflicts."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 139,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Conflicts of Interest",
-    "difficulty": "Medium",
-    "question": "Conflict management requires:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Privacy (PIPEDA) requires:",
     "options": [
-      "Transparency",
-      "Secrecy",
-      "Ignoring issues",
-      "Removing clients"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Transparency is required."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 140,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
-    "difficulty": "Easy",
-    "question": "Client files should contain:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: Suitable recommendation requires:",
     "options": [
-      "Relevant information",
-      "False information",
-      "Missing details",
-      "Only signatures"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Relevant records support advice."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 141,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Documentation",
-    "difficulty": "Medium",
-    "question": "Good documentation helps:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Professional Conduct: Agent must disclose:",
     "options": [
-      "Demonstrate proper advice",
-      "Hide decisions",
-      "Avoid accountability",
-      "Remove regulations"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Records support accountability."
+    "explanation": "In Professional Conduct, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 142,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Communication",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
     "difficulty": "Easy",
-    "question": "An advisor should explain information:",
+    "question": "Disclosure: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Clearly",
-      "Confusingly",
-      "Partially",
-      "Secretly"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Clear communication is required."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 143,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Communication",
-    "difficulty": "Medium",
-    "question": "Active listening helps advisors:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
+    "difficulty": "Easy",
+    "question": "FSRA Rules: Privacy (PIPEDA) requires:",
     "options": [
-      "Understand client needs",
-      "Increase pressure",
-      "Avoid questions",
-      "Hide risks"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Listening improves understanding."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 144,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
-    "difficulty": "Easy",
-    "question": "Ethical conduct requires:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Conflicts of Interest: Suitable recommendation requires:",
     "options": [
-      "Fairness",
-      "Deception",
-      "Pressure",
-      "Hidden conflicts"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Fairness is an ethical principle."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 145,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
     "difficulty": "Medium",
-    "question": "Ethical behaviour protects:",
+    "question": "Replacement: Agent must disclose:",
     "options": [
-      "Clients and public confidence",
-      "Only sales",
-      "Only commissions",
-      "Only companies"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Ethics supports trust."
+    "explanation": "In Replacement, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 146,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Competence",
-    "difficulty": "Easy",
-    "question": "An advisor should maintain:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Required knowledge",
-      "False confidence",
-      "Limited information",
-      "Outdated skills"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
     ],
-    "correctAnswer": 0,
-    "explanation": "Knowledge must be maintained."
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
   },
   {
     "id": 147,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Competence",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
     "difficulty": "Medium",
-    "question": "Professional development helps:",
+    "question": "Suitability: Privacy (PIPEDA) requires:",
     "options": [
-      "Improve advice quality",
-      "Guarantee returns",
-      "Remove responsibility",
-      "Avoid rules"
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Learning improves competence."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
   },
   {
     "id": 148,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Relationships",
-    "difficulty": "Easy",
-    "question": "Respectful service includes:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation: Suitable recommendation requires:",
     "options": [
-      "Treating clients fairly",
-      "Using pressure",
-      "Ignoring concerns",
-      "Hiding information"
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients should be treated fairly."
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   },
   {
     "id": 149,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Client Relationships",
-    "difficulty": "Medium",
-    "question": "Client complaints should be:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Agent must disclose:",
     "options": [
-      "Handled appropriately",
-      "Ignored",
-      "Hidden",
-      "Dismissed"
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
     ],
     "correctAnswer": 0,
-    "explanation": "Complaints require proper handling."
+    "explanation": "In Misrepresentation, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
   },
   {
     "id": 150,
     "moduleId": "ethics",
-    "moduleName": "Ethics & Professional Conduct",
-    "topic": "Professional Standards",
-    "difficulty": "Medium",
-    "question": "Professional standards encourage:",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
     "options": [
-      "Ethical and competent service",
-      "Misleading advice",
-      "Hidden practices",
-      "Poor records"
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
+  },
+  {
+    "id": 151,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Professional Conduct: Privacy (PIPEDA) requires:",
+    "options": [
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
     ],
     "correctAnswer": 0,
-    "explanation": "Standards support quality service."
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
+  },
+  {
+    "id": 152,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure: Suitable recommendation requires:",
+    "options": [
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
+  },
+  {
+    "id": 153,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
+    "difficulty": "Easy",
+    "question": "FSRA Rules: Agent must disclose:",
+    "options": [
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In FSRA Rules, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
+  },
+  {
+    "id": 154,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Conflicts of Interest: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
+    "options": [
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
+  },
+  {
+    "id": 155,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
+    "difficulty": "Medium",
+    "question": "Replacement: Privacy (PIPEDA) requires:",
+    "options": [
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
+  },
+  {
+    "id": 156,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: Suitable recommendation requires:",
+    "options": [
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
+  },
+  {
+    "id": 157,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Suitability: Agent must disclose:",
+    "options": [
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Suitability, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
+  },
+  {
+    "id": 158,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
+    "options": [
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
+  },
+  {
+    "id": 159,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Privacy (PIPEDA) requires:",
+    "options": [
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
+  },
+  {
+    "id": 160,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: Suitable recommendation requires:",
+    "options": [
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
+  },
+  {
+    "id": 161,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Professional Conduct: Agent must disclose:",
+    "options": [
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Professional Conduct, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
+  },
+  {
+    "id": 162,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
+    "options": [
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
+  },
+  {
+    "id": 163,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
+    "difficulty": "Easy",
+    "question": "FSRA Rules: Privacy (PIPEDA) requires:",
+    "options": [
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
+  },
+  {
+    "id": 164,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Conflicts of Interest: Suitable recommendation requires:",
+    "options": [
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
+  },
+  {
+    "id": 165,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
+    "difficulty": "Medium",
+    "question": "Replacement: Agent must disclose:",
+    "options": [
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Replacement, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
+  },
+  {
+    "id": 166,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
+    "options": [
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
+  },
+  {
+    "id": 167,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Suitability: Privacy (PIPEDA) requires:",
+    "options": [
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
+  },
+  {
+    "id": 168,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation: Suitable recommendation requires:",
+    "options": [
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
+  },
+  {
+    "id": 169,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Agent must disclose:",
+    "options": [
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Misrepresentation, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
+  },
+  {
+    "id": 170,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
+    "options": [
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
+  },
+  {
+    "id": 171,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Professional Conduct: Privacy (PIPEDA) requires:",
+    "options": [
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
+  },
+  {
+    "id": 172,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure: Suitable recommendation requires:",
+    "options": [
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
+  },
+  {
+    "id": 173,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
+    "difficulty": "Easy",
+    "question": "FSRA Rules: Agent must disclose:",
+    "options": [
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In FSRA Rules, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
+  },
+  {
+    "id": 174,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Conflicts of Interest: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
+    "options": [
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
+  },
+  {
+    "id": 175,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
+    "difficulty": "Medium",
+    "question": "Replacement: Privacy (PIPEDA) requires:",
+    "options": [
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
+  },
+  {
+    "id": 176,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: Suitable recommendation requires:",
+    "options": [
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
+  },
+  {
+    "id": 177,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Suitability: Agent must disclose:",
+    "options": [
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Suitability, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
+  },
+  {
+    "id": 178,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
+    "options": [
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
+  },
+  {
+    "id": 179,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Privacy (PIPEDA) requires:",
+    "options": [
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
+  },
+  {
+    "id": 180,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: Suitable recommendation requires:",
+    "options": [
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
+  },
+  {
+    "id": 181,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Professional Conduct: Agent must disclose:",
+    "options": [
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Professional Conduct, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
+  },
+  {
+    "id": 182,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
+    "options": [
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
+  },
+  {
+    "id": 183,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
+    "difficulty": "Easy",
+    "question": "FSRA Rules: Privacy (PIPEDA) requires:",
+    "options": [
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
+  },
+  {
+    "id": 184,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Conflicts of Interest: Suitable recommendation requires:",
+    "options": [
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
+  },
+  {
+    "id": 185,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
+    "difficulty": "Medium",
+    "question": "Replacement: Agent must disclose:",
+    "options": [
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Replacement, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
+  },
+  {
+    "id": 186,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
+    "options": [
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
+  },
+  {
+    "id": 187,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Suitability: Privacy (PIPEDA) requires:",
+    "options": [
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
+  },
+  {
+    "id": 188,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation: Suitable recommendation requires:",
+    "options": [
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
+  },
+  {
+    "id": 189,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Agent must disclose:",
+    "options": [
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Misrepresentation, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
+  },
+  {
+    "id": 190,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
+    "options": [
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
+  },
+  {
+    "id": 191,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Professional Conduct",
+    "difficulty": "Easy",
+    "question": "Professional Conduct: Privacy (PIPEDA) requires:",
+    "options": [
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
+  },
+  {
+    "id": 192,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Disclosure",
+    "difficulty": "Easy",
+    "question": "Disclosure: Suitable recommendation requires:",
+    "options": [
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
+  },
+  {
+    "id": 193,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "FSRA Rules",
+    "difficulty": "Easy",
+    "question": "FSRA Rules: Agent must disclose:",
+    "options": [
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In FSRA Rules, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
+  },
+  {
+    "id": 194,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Conflicts of Interest",
+    "difficulty": "Medium",
+    "question": "Conflicts of Interest: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
+    "options": [
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
+  },
+  {
+    "id": 195,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Replacement",
+    "difficulty": "Medium",
+    "question": "Replacement: Privacy (PIPEDA) requires:",
+    "options": [
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
+  },
+  {
+    "id": 196,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Privacy",
+    "difficulty": "Medium",
+    "question": "Privacy: Suitable recommendation requires:",
+    "options": [
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
+  },
+  {
+    "id": 197,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Suitability: Agent must disclose:",
+    "options": [
+      "Commission, conflicts, product limitations, how personal info used",
+      "Nothing",
+      "Only price",
+      "Only name"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Suitability, FSRA requires full disclosure: agent identity, licensing, compensation method, conflicts, product nature, limitations, privacy use."
+  },
+  {
+    "id": 198,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Documentation",
+    "difficulty": "Medium",
+    "question": "Documentation: If client has existing policy and agent recommends replacement to earn commission (churning), this is:",
+    "options": [
+      "Acceptable",
+      "Unethical, violates FSRA, must be in client's best interest with comparison",
+      "Required",
+      "No issue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Churning for commission violates ethics and FSRA. Replacement must be in client's interest with full comparison, needs analysis, LIRD, disclosure."
+  },
+  {
+    "id": 199,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Misrepresentation",
+    "difficulty": "Hard",
+    "question": "Misrepresentation: Privacy (PIPEDA) requires:",
+    "options": [
+      "Consent to collect, use, disclose personal info, safeguard, access rights",
+      "No consent needed",
+      "Can share with anyone",
+      "No rules"
+    ],
+    "correctAnswer": 0,
+    "explanation": "PIPEDA requires consent, limited collection, safeguards, accuracy, access, retention limits. Agent must protect client info."
+  },
+  {
+    "id": 200,
+    "moduleId": "ethics",
+    "moduleName": "Ethics and Professional Practice",
+    "topic": "Advertising",
+    "difficulty": "Hard",
+    "question": "Advertising: Suitable recommendation requires:",
+    "options": [
+      "Needs analysis, financial situation, objectives, risk tolerance, existing coverage",
+      "Sell max coverage",
+      "Sell cheapest",
+      "No analysis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Suitability: gather financial info, needs, objectives, existing coverage, budget, then recommend suitable product. Document rationale."
   }
 ]

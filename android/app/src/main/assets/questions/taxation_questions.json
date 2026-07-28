@@ -1,50 +1,3202 @@
 [
   {
-    "id": 80001,
+    "id": 90001,
     "moduleId": "taxation",
     "moduleName": "Taxation",
-    "topic": "Fundamentals",
+    "topic": "RRSP",
     "difficulty": "Easy",
-    "question": "Why is taxation knowledge important for an insurance advisor?",
+    "question": "What is RRSP contribution limit for 2024?",
     "options": [
-      "To understand how financial products may affect clients",
-      "To guarantee tax refunds",
-      "To replace professional tax advice",
-      "To avoid all taxation"
+      "18% of earned income up to $31,560",
+      "100% of income",
+      "$6,500",
+      "No limit"
     ],
     "correctAnswer": 0,
-    "explanation": "Advisors need basic taxation knowledge to explain financial planning considerations."
+    "explanation": "RRSP limit is 18% of prior year earned income up to annual max ($31,560 for 2024). Unused room carries forward."
   },
   {
-    "id": 80002,
+    "id": 90002,
     "moduleId": "taxation",
     "moduleName": "Taxation",
-    "topic": "Life Insurance",
-    "difficulty": "Medium",
-    "question": "A life insurance death benefit is generally received by beneficiaries:",
+    "topic": "TFSA",
+    "difficulty": "Easy",
+    "question": "TFSA withdrawal is:",
     "options": [
-      "Tax-free under normal circumstances",
-      "Always fully taxable as income",
-      "Only after investment growth",
-      "Only after retirement"
+      "Taxable",
+      "Tax-free, and room re-added next year",
+      "50% taxable",
+      "Withholding tax"
     ],
-    "correctAnswer": 0,
-    "explanation": "Life insurance death benefits are generally paid tax-free to beneficiaries."
+    "correctAnswer": 1,
+    "explanation": "TFSA withdrawals tax-free, and contribution room restored next calendar year plus growth."
   },
   {
-    "id": 80003,
+    "id": 90003,
     "moduleId": "taxation",
     "moduleName": "Taxation",
-    "topic": "Registered Plans",
-    "difficulty": "Medium",
-    "question": "Registered plans have specific tax rules because:",
+    "topic": "RESP",
+    "difficulty": "Easy",
+    "question": "RESP withdrawal for education (EAP) is:",
     "options": [
-      "Government legislation determines their treatment",
-      "They have no regulations",
-      "They avoid all financial reporting",
-      "They are identical to regular accounts"
+      "Tax-free",
+      "Taxable to student (usually low income)",
+      "Taxable to parent",
+      "50% taxable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "EAP (growth + grants) taxable to student beneficiary, usually low tax. PSE (original contributions) tax-free return to contributor."
+  },
+  {
+    "id": 90004,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRIF",
+    "difficulty": "Medium",
+    "question": "When must RRSP convert to RRIF/annuity by?",
+    "options": [
+      "Age 65",
+      "End of year turning 71",
+      "Age 80",
+      "No conversion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP must be converted to RRIF, annuity or withdrawn by Dec 31 of year turning 71."
+  },
+  {
+    "id": 90005,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Non-Registered",
+    "difficulty": "Medium",
+    "question": "Non-Registered: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90006,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Medium",
+    "question": "Taxation of Benefits: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90007,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Attribution",
+    "difficulty": "Medium",
+    "question": "Attribution: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90008,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Capital Gains",
+    "difficulty": "Medium",
+    "question": "Capital Gains: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90009,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Dividend Taxation",
+    "difficulty": "Hard",
+    "question": "Dividend Taxation: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90010,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Interest Income",
+    "difficulty": "Hard",
+    "question": "Interest Income: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90011,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Estate Taxation",
+    "difficulty": "Easy",
+    "question": "Estate Taxation: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90012,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Tax Brackets",
+    "difficulty": "Easy",
+    "question": "Tax Brackets: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90013,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Withholding Tax",
+    "difficulty": "Easy",
+    "question": "Withholding Tax: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90014,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "LIRA",
+    "difficulty": "Medium",
+    "question": "LIRA: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90015,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "FHSA",
+    "difficulty": "Medium",
+    "question": "FHSA (First Home Savings Account) contribution limit:",
+    "options": [
+      "$8,000 per year up to $40,000 lifetime, tax-deductible, tax-free withdrawal for qualifying home",
+      "$7,000",
+      "$50,000 per year",
+      "No limit"
     ],
     "correctAnswer": 0,
-    "explanation": "Registered plans operate under specific tax legislation."
+    "explanation": "FHSA 2023 introduced: $8k/year, $40k lifetime, deductible like RRSP, tax-free withdrawal like TFSA for first qualifying home."
+  },
+  {
+    "id": 90016,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRSP",
+    "difficulty": "Medium",
+    "question": "Scenario: Client earns $90k, contributes $10k to RRSP, marginal rate 35%. Tax saving?",
+    "options": [
+      "$0",
+      "$3,500",
+      "$10,000",
+      "$1,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP contribution reduces taxable income: $10k x 35% = $3,500 tax saving/deferral. Tax paid on withdrawal later."
+  },
+  {
+    "id": 90017,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "TFSA",
+    "difficulty": "Medium",
+    "question": "TFSA contribution limit for 2024 is:",
+    "options": [
+      "$7,000",
+      "$6,500",
+      "$50,000",
+      "$31,560"
+    ],
+    "correctAnswer": 0,
+    "explanation": "TFSA limit $7,000 for 2024 (indexed). Unused room carries forward. Cumulative ~$95k if never contributed since 2009."
+  },
+  {
+    "id": 90018,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RESP",
+    "difficulty": "Medium",
+    "question": "CESG (Canada Education Savings Grant) is:",
+    "options": [
+      "20% on first $2,500 per year up to $500, max $7,200 lifetime",
+      "50%",
+      "100%",
+      "No grant"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CESG matches 20% on first $2,500 contributed per year ($500/year), lifetime max $7,200 per child."
+  },
+  {
+    "id": 90019,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRIF",
+    "difficulty": "Hard",
+    "question": "RRIF minimum withdrawal is:",
+    "options": [
+      "No minimum",
+      "Mandatory minimum % based on age, taxable",
+      "Maximum only",
+      "Optional"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRIF has annual minimum withdrawal based on age % (e.g., 5.28% at 71), taxable as income. No maximum."
+  },
+  {
+    "id": 90020,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Non-Registered",
+    "difficulty": "Hard",
+    "question": "Non-Registered: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90021,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Easy",
+    "question": "Taxation of Benefits: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90022,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Attribution",
+    "difficulty": "Easy",
+    "question": "Attribution: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90023,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Capital Gains",
+    "difficulty": "Easy",
+    "question": "Capital Gains: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90024,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Dividend Taxation",
+    "difficulty": "Medium",
+    "question": "Dividend Taxation: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90025,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Interest Income",
+    "difficulty": "Medium",
+    "question": "Interest Income: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90026,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Estate Taxation",
+    "difficulty": "Medium",
+    "question": "Estate Taxation: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90027,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Tax Brackets",
+    "difficulty": "Medium",
+    "question": "Tax Brackets: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90028,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Withholding Tax",
+    "difficulty": "Medium",
+    "question": "Withholding Tax: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90029,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "LIRA",
+    "difficulty": "Hard",
+    "question": "LIRA: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90030,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "FHSA",
+    "difficulty": "Hard",
+    "question": "FHSA qualification:",
+    "options": [
+      "First-time home buyer, must use within 15 years, account max 15 years",
+      "Any home buyer",
+      "No conditions",
+      "Only for rental"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FHSA for first-time home buyers, account can stay open 15 years or until 71, must be qualifying first home purchase."
+  },
+  {
+    "id": 90031,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRSP",
+    "difficulty": "Easy",
+    "question": "RRSP contribution deadline for tax year 2023 is:",
+    "options": [
+      "Dec 31 2023",
+      "First 60 days of 2024 (Feb 29 2024)",
+      "April 30",
+      "No deadline"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP deadline is 60 days after year-end, typically late Feb/early March of next year."
+  },
+  {
+    "id": 90032,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "TFSA",
+    "difficulty": "Easy",
+    "question": "Can TFSA hold segregated funds?",
+    "options": [
+      "No",
+      "Yes, eligible investment including seg funds, mutual funds, stocks",
+      "Only cash",
+      "Only GICs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TFSA can hold many eligible investments: cash, GICs, stocks, bonds, mutual funds, seg funds, ETFs."
+  },
+  {
+    "id": 90033,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RESP",
+    "difficulty": "Easy",
+    "question": "RESP lifetime contribution limit per beneficiary is:",
+    "options": [
+      "$50,000",
+      "$7,000",
+      "No limit",
+      "$31,560"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RESP lifetime limit $50k per beneficiary, no annual limit but CESG only on first $2,500/year for grant."
+  },
+  {
+    "id": 90034,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRIF",
+    "difficulty": "Medium",
+    "question": "When must RRSP convert to RRIF/annuity by?",
+    "options": [
+      "Age 65",
+      "End of year turning 71",
+      "Age 80",
+      "No conversion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP must be converted to RRIF, annuity or withdrawn by Dec 31 of year turning 71."
+  },
+  {
+    "id": 90035,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Non-Registered",
+    "difficulty": "Medium",
+    "question": "Non-Registered: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90036,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Medium",
+    "question": "Taxation of Benefits: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90037,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Attribution",
+    "difficulty": "Medium",
+    "question": "Attribution: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90038,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Capital Gains",
+    "difficulty": "Medium",
+    "question": "Capital Gains: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90039,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Dividend Taxation",
+    "difficulty": "Hard",
+    "question": "Dividend Taxation: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90040,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Interest Income",
+    "difficulty": "Hard",
+    "question": "Interest Income: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90041,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Estate Taxation",
+    "difficulty": "Easy",
+    "question": "Estate Taxation: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90042,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Tax Brackets",
+    "difficulty": "Easy",
+    "question": "Tax Brackets: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90043,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Withholding Tax",
+    "difficulty": "Easy",
+    "question": "Withholding Tax: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90044,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "LIRA",
+    "difficulty": "Medium",
+    "question": "LIRA: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90045,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "FHSA",
+    "difficulty": "Medium",
+    "question": "FHSA (First Home Savings Account) contribution limit:",
+    "options": [
+      "$8,000 per year up to $40,000 lifetime, tax-deductible, tax-free withdrawal for qualifying home",
+      "$7,000",
+      "$50,000 per year",
+      "No limit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FHSA 2023 introduced: $8k/year, $40k lifetime, deductible like RRSP, tax-free withdrawal like TFSA for first qualifying home."
+  },
+  {
+    "id": 90046,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRSP",
+    "difficulty": "Medium",
+    "question": "RRSP withdrawal is:",
+    "options": [
+      "Tax-free",
+      "Taxable as income, withholding tax applies",
+      "Capital gains only",
+      "Not taxable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP withdrawals taxable as income at marginal rate, subject to withholding tax (10%/20%/30%)."
+  },
+  {
+    "id": 90047,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "TFSA",
+    "difficulty": "Medium",
+    "question": "TFSA over-contribution penalty:",
+    "options": [
+      "0%",
+      "1% per month on excess",
+      "10%",
+      "50%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CRA charges 1% per month on excess TFSA contribution until removed."
+  },
+  {
+    "id": 90048,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RESP",
+    "difficulty": "Medium",
+    "question": "What happens if child does not pursue post-secondary?",
+    "options": [
+      "RESP lost",
+      "Can transfer to RRSP if conditions met, or return contributions, grants returned to government",
+      "Always taxable",
+      "No options"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If no post-secondary, options: transfer to sibling, transfer to RRSP (up to $50k if conditions), return contributions, CESG returned to government."
+  },
+  {
+    "id": 90049,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRIF",
+    "difficulty": "Hard",
+    "question": "RRIF minimum withdrawal is:",
+    "options": [
+      "No minimum",
+      "Mandatory minimum % based on age, taxable",
+      "Maximum only",
+      "Optional"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRIF has annual minimum withdrawal based on age % (e.g., 5.28% at 71), taxable as income. No maximum."
+  },
+  {
+    "id": 90050,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Non-Registered",
+    "difficulty": "Hard",
+    "question": "Non-Registered: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90051,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Easy",
+    "question": "Taxation of Benefits: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90052,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Attribution",
+    "difficulty": "Easy",
+    "question": "Attribution: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90053,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Capital Gains",
+    "difficulty": "Easy",
+    "question": "Capital Gains: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90054,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Dividend Taxation",
+    "difficulty": "Medium",
+    "question": "Dividend Taxation: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90055,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Interest Income",
+    "difficulty": "Medium",
+    "question": "Interest Income: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90056,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Estate Taxation",
+    "difficulty": "Medium",
+    "question": "Estate Taxation: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90057,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Tax Brackets",
+    "difficulty": "Medium",
+    "question": "Tax Brackets: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90058,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Withholding Tax",
+    "difficulty": "Medium",
+    "question": "Withholding Tax: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90059,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "LIRA",
+    "difficulty": "Hard",
+    "question": "LIRA: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90060,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "FHSA",
+    "difficulty": "Hard",
+    "question": "FHSA qualification:",
+    "options": [
+      "First-time home buyer, must use within 15 years, account max 15 years",
+      "Any home buyer",
+      "No conditions",
+      "Only for rental"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FHSA for first-time home buyers, account can stay open 15 years or until 71, must be qualifying first home purchase."
+  },
+  {
+    "id": 90061,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRSP",
+    "difficulty": "Easy",
+    "question": "What is RRSP contribution limit for 2024?",
+    "options": [
+      "18% of earned income up to $31,560",
+      "100% of income",
+      "$6,500",
+      "No limit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RRSP limit is 18% of prior year earned income up to annual max ($31,560 for 2024). Unused room carries forward."
+  },
+  {
+    "id": 90062,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "TFSA",
+    "difficulty": "Easy",
+    "question": "TFSA withdrawal is:",
+    "options": [
+      "Taxable",
+      "Tax-free, and room re-added next year",
+      "50% taxable",
+      "Withholding tax"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TFSA withdrawals tax-free, and contribution room restored next calendar year plus growth."
+  },
+  {
+    "id": 90063,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RESP",
+    "difficulty": "Easy",
+    "question": "RESP withdrawal for education (EAP) is:",
+    "options": [
+      "Tax-free",
+      "Taxable to student (usually low income)",
+      "Taxable to parent",
+      "50% taxable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "EAP (growth + grants) taxable to student beneficiary, usually low tax. PSE (original contributions) tax-free return to contributor."
+  },
+  {
+    "id": 90064,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRIF",
+    "difficulty": "Medium",
+    "question": "When must RRSP convert to RRIF/annuity by?",
+    "options": [
+      "Age 65",
+      "End of year turning 71",
+      "Age 80",
+      "No conversion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP must be converted to RRIF, annuity or withdrawn by Dec 31 of year turning 71."
+  },
+  {
+    "id": 90065,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Non-Registered",
+    "difficulty": "Medium",
+    "question": "Non-Registered: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90066,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Medium",
+    "question": "Taxation of Benefits: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90067,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Attribution",
+    "difficulty": "Medium",
+    "question": "Attribution: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90068,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Capital Gains",
+    "difficulty": "Medium",
+    "question": "Capital Gains: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90069,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Dividend Taxation",
+    "difficulty": "Hard",
+    "question": "Dividend Taxation: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90070,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Interest Income",
+    "difficulty": "Hard",
+    "question": "Interest Income: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90071,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Estate Taxation",
+    "difficulty": "Easy",
+    "question": "Estate Taxation: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90072,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Tax Brackets",
+    "difficulty": "Easy",
+    "question": "Tax Brackets: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90073,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Withholding Tax",
+    "difficulty": "Easy",
+    "question": "Withholding Tax: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90074,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "LIRA",
+    "difficulty": "Medium",
+    "question": "LIRA: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90075,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "FHSA",
+    "difficulty": "Medium",
+    "question": "FHSA (First Home Savings Account) contribution limit:",
+    "options": [
+      "$8,000 per year up to $40,000 lifetime, tax-deductible, tax-free withdrawal for qualifying home",
+      "$7,000",
+      "$50,000 per year",
+      "No limit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FHSA 2023 introduced: $8k/year, $40k lifetime, deductible like RRSP, tax-free withdrawal like TFSA for first qualifying home."
+  },
+  {
+    "id": 90076,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRSP",
+    "difficulty": "Medium",
+    "question": "Scenario: Client earns $90k, contributes $10k to RRSP, marginal rate 35%. Tax saving?",
+    "options": [
+      "$0",
+      "$3,500",
+      "$10,000",
+      "$1,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP contribution reduces taxable income: $10k x 35% = $3,500 tax saving/deferral. Tax paid on withdrawal later."
+  },
+  {
+    "id": 90077,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "TFSA",
+    "difficulty": "Medium",
+    "question": "TFSA contribution limit for 2024 is:",
+    "options": [
+      "$7,000",
+      "$6,500",
+      "$50,000",
+      "$31,560"
+    ],
+    "correctAnswer": 0,
+    "explanation": "TFSA limit $7,000 for 2024 (indexed). Unused room carries forward. Cumulative ~$95k if never contributed since 2009."
+  },
+  {
+    "id": 90078,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RESP",
+    "difficulty": "Medium",
+    "question": "CESG (Canada Education Savings Grant) is:",
+    "options": [
+      "20% on first $2,500 per year up to $500, max $7,200 lifetime",
+      "50%",
+      "100%",
+      "No grant"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CESG matches 20% on first $2,500 contributed per year ($500/year), lifetime max $7,200 per child."
+  },
+  {
+    "id": 90079,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRIF",
+    "difficulty": "Hard",
+    "question": "RRIF minimum withdrawal is:",
+    "options": [
+      "No minimum",
+      "Mandatory minimum % based on age, taxable",
+      "Maximum only",
+      "Optional"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRIF has annual minimum withdrawal based on age % (e.g., 5.28% at 71), taxable as income. No maximum."
+  },
+  {
+    "id": 90080,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Non-Registered",
+    "difficulty": "Hard",
+    "question": "Non-Registered: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90081,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Easy",
+    "question": "Taxation of Benefits: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90082,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Attribution",
+    "difficulty": "Easy",
+    "question": "Attribution: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90083,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Capital Gains",
+    "difficulty": "Easy",
+    "question": "Capital Gains: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90084,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Dividend Taxation",
+    "difficulty": "Medium",
+    "question": "Dividend Taxation: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90085,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Interest Income",
+    "difficulty": "Medium",
+    "question": "Interest Income: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90086,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Estate Taxation",
+    "difficulty": "Medium",
+    "question": "Estate Taxation: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90087,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Tax Brackets",
+    "difficulty": "Medium",
+    "question": "Tax Brackets: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90088,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Withholding Tax",
+    "difficulty": "Medium",
+    "question": "Withholding Tax: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90089,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "LIRA",
+    "difficulty": "Hard",
+    "question": "LIRA: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90090,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "FHSA",
+    "difficulty": "Hard",
+    "question": "FHSA qualification:",
+    "options": [
+      "First-time home buyer, must use within 15 years, account max 15 years",
+      "Any home buyer",
+      "No conditions",
+      "Only for rental"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FHSA for first-time home buyers, account can stay open 15 years or until 71, must be qualifying first home purchase."
+  },
+  {
+    "id": 90091,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRSP",
+    "difficulty": "Easy",
+    "question": "RRSP contribution deadline for tax year 2023 is:",
+    "options": [
+      "Dec 31 2023",
+      "First 60 days of 2024 (Feb 29 2024)",
+      "April 30",
+      "No deadline"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP deadline is 60 days after year-end, typically late Feb/early March of next year."
+  },
+  {
+    "id": 90092,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "TFSA",
+    "difficulty": "Easy",
+    "question": "Can TFSA hold segregated funds?",
+    "options": [
+      "No",
+      "Yes, eligible investment including seg funds, mutual funds, stocks",
+      "Only cash",
+      "Only GICs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TFSA can hold many eligible investments: cash, GICs, stocks, bonds, mutual funds, seg funds, ETFs."
+  },
+  {
+    "id": 90093,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RESP",
+    "difficulty": "Easy",
+    "question": "RESP lifetime contribution limit per beneficiary is:",
+    "options": [
+      "$50,000",
+      "$7,000",
+      "No limit",
+      "$31,560"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RESP lifetime limit $50k per beneficiary, no annual limit but CESG only on first $2,500/year for grant."
+  },
+  {
+    "id": 90094,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRIF",
+    "difficulty": "Medium",
+    "question": "When must RRSP convert to RRIF/annuity by?",
+    "options": [
+      "Age 65",
+      "End of year turning 71",
+      "Age 80",
+      "No conversion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP must be converted to RRIF, annuity or withdrawn by Dec 31 of year turning 71."
+  },
+  {
+    "id": 90095,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Non-Registered",
+    "difficulty": "Medium",
+    "question": "Non-Registered: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90096,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Medium",
+    "question": "Taxation of Benefits: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90097,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Attribution",
+    "difficulty": "Medium",
+    "question": "Attribution: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90098,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Capital Gains",
+    "difficulty": "Medium",
+    "question": "Capital Gains: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90099,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Dividend Taxation",
+    "difficulty": "Hard",
+    "question": "Dividend Taxation: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90100,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Interest Income",
+    "difficulty": "Hard",
+    "question": "Interest Income: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90101,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Estate Taxation",
+    "difficulty": "Easy",
+    "question": "Estate Taxation: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90102,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Tax Brackets",
+    "difficulty": "Easy",
+    "question": "Tax Brackets: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90103,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Withholding Tax",
+    "difficulty": "Easy",
+    "question": "Withholding Tax: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90104,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "LIRA",
+    "difficulty": "Medium",
+    "question": "LIRA: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90105,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "FHSA",
+    "difficulty": "Medium",
+    "question": "FHSA (First Home Savings Account) contribution limit:",
+    "options": [
+      "$8,000 per year up to $40,000 lifetime, tax-deductible, tax-free withdrawal for qualifying home",
+      "$7,000",
+      "$50,000 per year",
+      "No limit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FHSA 2023 introduced: $8k/year, $40k lifetime, deductible like RRSP, tax-free withdrawal like TFSA for first qualifying home."
+  },
+  {
+    "id": 90106,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRSP",
+    "difficulty": "Medium",
+    "question": "RRSP withdrawal is:",
+    "options": [
+      "Tax-free",
+      "Taxable as income, withholding tax applies",
+      "Capital gains only",
+      "Not taxable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP withdrawals taxable as income at marginal rate, subject to withholding tax (10%/20%/30%)."
+  },
+  {
+    "id": 90107,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "TFSA",
+    "difficulty": "Medium",
+    "question": "TFSA over-contribution penalty:",
+    "options": [
+      "0%",
+      "1% per month on excess",
+      "10%",
+      "50%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CRA charges 1% per month on excess TFSA contribution until removed."
+  },
+  {
+    "id": 90108,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RESP",
+    "difficulty": "Medium",
+    "question": "What happens if child does not pursue post-secondary?",
+    "options": [
+      "RESP lost",
+      "Can transfer to RRSP if conditions met, or return contributions, grants returned to government",
+      "Always taxable",
+      "No options"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If no post-secondary, options: transfer to sibling, transfer to RRSP (up to $50k if conditions), return contributions, CESG returned to government."
+  },
+  {
+    "id": 90109,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRIF",
+    "difficulty": "Hard",
+    "question": "RRIF minimum withdrawal is:",
+    "options": [
+      "No minimum",
+      "Mandatory minimum % based on age, taxable",
+      "Maximum only",
+      "Optional"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRIF has annual minimum withdrawal based on age % (e.g., 5.28% at 71), taxable as income. No maximum."
+  },
+  {
+    "id": 90110,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Non-Registered",
+    "difficulty": "Hard",
+    "question": "Non-Registered: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90111,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Easy",
+    "question": "Taxation of Benefits: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90112,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Attribution",
+    "difficulty": "Easy",
+    "question": "Attribution: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90113,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Capital Gains",
+    "difficulty": "Easy",
+    "question": "Capital Gains: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90114,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Dividend Taxation",
+    "difficulty": "Medium",
+    "question": "Dividend Taxation: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90115,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Interest Income",
+    "difficulty": "Medium",
+    "question": "Interest Income: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90116,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Estate Taxation",
+    "difficulty": "Medium",
+    "question": "Estate Taxation: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90117,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Tax Brackets",
+    "difficulty": "Medium",
+    "question": "Tax Brackets: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90118,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Withholding Tax",
+    "difficulty": "Medium",
+    "question": "Withholding Tax: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90119,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "LIRA",
+    "difficulty": "Hard",
+    "question": "LIRA: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90120,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "FHSA",
+    "difficulty": "Hard",
+    "question": "FHSA qualification:",
+    "options": [
+      "First-time home buyer, must use within 15 years, account max 15 years",
+      "Any home buyer",
+      "No conditions",
+      "Only for rental"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FHSA for first-time home buyers, account can stay open 15 years or until 71, must be qualifying first home purchase."
+  },
+  {
+    "id": 90121,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRSP",
+    "difficulty": "Easy",
+    "question": "What is RRSP contribution limit for 2024?",
+    "options": [
+      "18% of earned income up to $31,560",
+      "100% of income",
+      "$6,500",
+      "No limit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RRSP limit is 18% of prior year earned income up to annual max ($31,560 for 2024). Unused room carries forward."
+  },
+  {
+    "id": 90122,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "TFSA",
+    "difficulty": "Easy",
+    "question": "TFSA withdrawal is:",
+    "options": [
+      "Taxable",
+      "Tax-free, and room re-added next year",
+      "50% taxable",
+      "Withholding tax"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TFSA withdrawals tax-free, and contribution room restored next calendar year plus growth."
+  },
+  {
+    "id": 90123,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RESP",
+    "difficulty": "Easy",
+    "question": "RESP withdrawal for education (EAP) is:",
+    "options": [
+      "Tax-free",
+      "Taxable to student (usually low income)",
+      "Taxable to parent",
+      "50% taxable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "EAP (growth + grants) taxable to student beneficiary, usually low tax. PSE (original contributions) tax-free return to contributor."
+  },
+  {
+    "id": 90124,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRIF",
+    "difficulty": "Medium",
+    "question": "When must RRSP convert to RRIF/annuity by?",
+    "options": [
+      "Age 65",
+      "End of year turning 71",
+      "Age 80",
+      "No conversion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP must be converted to RRIF, annuity or withdrawn by Dec 31 of year turning 71."
+  },
+  {
+    "id": 90125,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Non-Registered",
+    "difficulty": "Medium",
+    "question": "Non-Registered: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90126,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Medium",
+    "question": "Taxation of Benefits: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90127,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Attribution",
+    "difficulty": "Medium",
+    "question": "Attribution: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90128,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Capital Gains",
+    "difficulty": "Medium",
+    "question": "Capital Gains: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90129,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Dividend Taxation",
+    "difficulty": "Hard",
+    "question": "Dividend Taxation: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90130,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Interest Income",
+    "difficulty": "Hard",
+    "question": "Interest Income: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90131,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Estate Taxation",
+    "difficulty": "Easy",
+    "question": "Estate Taxation: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90132,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Tax Brackets",
+    "difficulty": "Easy",
+    "question": "Tax Brackets: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90133,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Withholding Tax",
+    "difficulty": "Easy",
+    "question": "Withholding Tax: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90134,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "LIRA",
+    "difficulty": "Medium",
+    "question": "LIRA: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90135,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "FHSA",
+    "difficulty": "Medium",
+    "question": "FHSA (First Home Savings Account) contribution limit:",
+    "options": [
+      "$8,000 per year up to $40,000 lifetime, tax-deductible, tax-free withdrawal for qualifying home",
+      "$7,000",
+      "$50,000 per year",
+      "No limit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FHSA 2023 introduced: $8k/year, $40k lifetime, deductible like RRSP, tax-free withdrawal like TFSA for first qualifying home."
+  },
+  {
+    "id": 90136,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRSP",
+    "difficulty": "Medium",
+    "question": "Scenario: Client earns $90k, contributes $10k to RRSP, marginal rate 35%. Tax saving?",
+    "options": [
+      "$0",
+      "$3,500",
+      "$10,000",
+      "$1,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP contribution reduces taxable income: $10k x 35% = $3,500 tax saving/deferral. Tax paid on withdrawal later."
+  },
+  {
+    "id": 90137,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "TFSA",
+    "difficulty": "Medium",
+    "question": "TFSA contribution limit for 2024 is:",
+    "options": [
+      "$7,000",
+      "$6,500",
+      "$50,000",
+      "$31,560"
+    ],
+    "correctAnswer": 0,
+    "explanation": "TFSA limit $7,000 for 2024 (indexed). Unused room carries forward. Cumulative ~$95k if never contributed since 2009."
+  },
+  {
+    "id": 90138,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RESP",
+    "difficulty": "Medium",
+    "question": "CESG (Canada Education Savings Grant) is:",
+    "options": [
+      "20% on first $2,500 per year up to $500, max $7,200 lifetime",
+      "50%",
+      "100%",
+      "No grant"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CESG matches 20% on first $2,500 contributed per year ($500/year), lifetime max $7,200 per child."
+  },
+  {
+    "id": 90139,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRIF",
+    "difficulty": "Hard",
+    "question": "RRIF minimum withdrawal is:",
+    "options": [
+      "No minimum",
+      "Mandatory minimum % based on age, taxable",
+      "Maximum only",
+      "Optional"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRIF has annual minimum withdrawal based on age % (e.g., 5.28% at 71), taxable as income. No maximum."
+  },
+  {
+    "id": 90140,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Non-Registered",
+    "difficulty": "Hard",
+    "question": "Non-Registered: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90141,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Easy",
+    "question": "Taxation of Benefits: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90142,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Attribution",
+    "difficulty": "Easy",
+    "question": "Attribution: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90143,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Capital Gains",
+    "difficulty": "Easy",
+    "question": "Capital Gains: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90144,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Dividend Taxation",
+    "difficulty": "Medium",
+    "question": "Dividend Taxation: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90145,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Interest Income",
+    "difficulty": "Medium",
+    "question": "Interest Income: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90146,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Estate Taxation",
+    "difficulty": "Medium",
+    "question": "Estate Taxation: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90147,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Tax Brackets",
+    "difficulty": "Medium",
+    "question": "Tax Brackets: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90148,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Withholding Tax",
+    "difficulty": "Medium",
+    "question": "Withholding Tax: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90149,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "LIRA",
+    "difficulty": "Hard",
+    "question": "LIRA: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90150,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "FHSA",
+    "difficulty": "Hard",
+    "question": "FHSA qualification:",
+    "options": [
+      "First-time home buyer, must use within 15 years, account max 15 years",
+      "Any home buyer",
+      "No conditions",
+      "Only for rental"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FHSA for first-time home buyers, account can stay open 15 years or until 71, must be qualifying first home purchase."
+  },
+  {
+    "id": 90151,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRSP",
+    "difficulty": "Easy",
+    "question": "RRSP contribution deadline for tax year 2023 is:",
+    "options": [
+      "Dec 31 2023",
+      "First 60 days of 2024 (Feb 29 2024)",
+      "April 30",
+      "No deadline"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP deadline is 60 days after year-end, typically late Feb/early March of next year."
+  },
+  {
+    "id": 90152,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "TFSA",
+    "difficulty": "Easy",
+    "question": "Can TFSA hold segregated funds?",
+    "options": [
+      "No",
+      "Yes, eligible investment including seg funds, mutual funds, stocks",
+      "Only cash",
+      "Only GICs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TFSA can hold many eligible investments: cash, GICs, stocks, bonds, mutual funds, seg funds, ETFs."
+  },
+  {
+    "id": 90153,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RESP",
+    "difficulty": "Easy",
+    "question": "RESP lifetime contribution limit per beneficiary is:",
+    "options": [
+      "$50,000",
+      "$7,000",
+      "No limit",
+      "$31,560"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RESP lifetime limit $50k per beneficiary, no annual limit but CESG only on first $2,500/year for grant."
+  },
+  {
+    "id": 90154,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRIF",
+    "difficulty": "Medium",
+    "question": "When must RRSP convert to RRIF/annuity by?",
+    "options": [
+      "Age 65",
+      "End of year turning 71",
+      "Age 80",
+      "No conversion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP must be converted to RRIF, annuity or withdrawn by Dec 31 of year turning 71."
+  },
+  {
+    "id": 90155,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Non-Registered",
+    "difficulty": "Medium",
+    "question": "Non-Registered: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90156,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Medium",
+    "question": "Taxation of Benefits: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90157,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Attribution",
+    "difficulty": "Medium",
+    "question": "Attribution: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90158,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Capital Gains",
+    "difficulty": "Medium",
+    "question": "Capital Gains: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90159,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Dividend Taxation",
+    "difficulty": "Hard",
+    "question": "Dividend Taxation: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90160,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Interest Income",
+    "difficulty": "Hard",
+    "question": "Interest Income: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90161,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Estate Taxation",
+    "difficulty": "Easy",
+    "question": "Estate Taxation: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90162,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Tax Brackets",
+    "difficulty": "Easy",
+    "question": "Tax Brackets: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90163,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Withholding Tax",
+    "difficulty": "Easy",
+    "question": "Withholding Tax: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90164,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "LIRA",
+    "difficulty": "Medium",
+    "question": "LIRA: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90165,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "FHSA",
+    "difficulty": "Medium",
+    "question": "FHSA (First Home Savings Account) contribution limit:",
+    "options": [
+      "$8,000 per year up to $40,000 lifetime, tax-deductible, tax-free withdrawal for qualifying home",
+      "$7,000",
+      "$50,000 per year",
+      "No limit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FHSA 2023 introduced: $8k/year, $40k lifetime, deductible like RRSP, tax-free withdrawal like TFSA for first qualifying home."
+  },
+  {
+    "id": 90166,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRSP",
+    "difficulty": "Medium",
+    "question": "RRSP withdrawal is:",
+    "options": [
+      "Tax-free",
+      "Taxable as income, withholding tax applies",
+      "Capital gains only",
+      "Not taxable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP withdrawals taxable as income at marginal rate, subject to withholding tax (10%/20%/30%)."
+  },
+  {
+    "id": 90167,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "TFSA",
+    "difficulty": "Medium",
+    "question": "TFSA over-contribution penalty:",
+    "options": [
+      "0%",
+      "1% per month on excess",
+      "10%",
+      "50%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CRA charges 1% per month on excess TFSA contribution until removed."
+  },
+  {
+    "id": 90168,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RESP",
+    "difficulty": "Medium",
+    "question": "What happens if child does not pursue post-secondary?",
+    "options": [
+      "RESP lost",
+      "Can transfer to RRSP if conditions met, or return contributions, grants returned to government",
+      "Always taxable",
+      "No options"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If no post-secondary, options: transfer to sibling, transfer to RRSP (up to $50k if conditions), return contributions, CESG returned to government."
+  },
+  {
+    "id": 90169,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRIF",
+    "difficulty": "Hard",
+    "question": "RRIF minimum withdrawal is:",
+    "options": [
+      "No minimum",
+      "Mandatory minimum % based on age, taxable",
+      "Maximum only",
+      "Optional"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRIF has annual minimum withdrawal based on age % (e.g., 5.28% at 71), taxable as income. No maximum."
+  },
+  {
+    "id": 90170,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Non-Registered",
+    "difficulty": "Hard",
+    "question": "Non-Registered: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90171,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Easy",
+    "question": "Taxation of Benefits: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90172,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Attribution",
+    "difficulty": "Easy",
+    "question": "Attribution: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90173,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Capital Gains",
+    "difficulty": "Easy",
+    "question": "Capital Gains: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90174,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Dividend Taxation",
+    "difficulty": "Medium",
+    "question": "Dividend Taxation: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90175,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Interest Income",
+    "difficulty": "Medium",
+    "question": "Interest Income: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90176,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Estate Taxation",
+    "difficulty": "Medium",
+    "question": "Estate Taxation: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90177,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Tax Brackets",
+    "difficulty": "Medium",
+    "question": "Tax Brackets: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90178,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Withholding Tax",
+    "difficulty": "Medium",
+    "question": "Withholding Tax: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90179,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "LIRA",
+    "difficulty": "Hard",
+    "question": "LIRA: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90180,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "FHSA",
+    "difficulty": "Hard",
+    "question": "FHSA qualification:",
+    "options": [
+      "First-time home buyer, must use within 15 years, account max 15 years",
+      "Any home buyer",
+      "No conditions",
+      "Only for rental"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FHSA for first-time home buyers, account can stay open 15 years or until 71, must be qualifying first home purchase."
+  },
+  {
+    "id": 90181,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRSP",
+    "difficulty": "Easy",
+    "question": "What is RRSP contribution limit for 2024?",
+    "options": [
+      "18% of earned income up to $31,560",
+      "100% of income",
+      "$6,500",
+      "No limit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RRSP limit is 18% of prior year earned income up to annual max ($31,560 for 2024). Unused room carries forward."
+  },
+  {
+    "id": 90182,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "TFSA",
+    "difficulty": "Easy",
+    "question": "TFSA withdrawal is:",
+    "options": [
+      "Taxable",
+      "Tax-free, and room re-added next year",
+      "50% taxable",
+      "Withholding tax"
+    ],
+    "correctAnswer": 1,
+    "explanation": "TFSA withdrawals tax-free, and contribution room restored next calendar year plus growth."
+  },
+  {
+    "id": 90183,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RESP",
+    "difficulty": "Easy",
+    "question": "RESP withdrawal for education (EAP) is:",
+    "options": [
+      "Tax-free",
+      "Taxable to student (usually low income)",
+      "Taxable to parent",
+      "50% taxable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "EAP (growth + grants) taxable to student beneficiary, usually low tax. PSE (original contributions) tax-free return to contributor."
+  },
+  {
+    "id": 90184,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRIF",
+    "difficulty": "Medium",
+    "question": "When must RRSP convert to RRIF/annuity by?",
+    "options": [
+      "Age 65",
+      "End of year turning 71",
+      "Age 80",
+      "No conversion"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP must be converted to RRIF, annuity or withdrawn by Dec 31 of year turning 71."
+  },
+  {
+    "id": 90185,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Non-Registered",
+    "difficulty": "Medium",
+    "question": "Non-Registered: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90186,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Medium",
+    "question": "Taxation of Benefits: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90187,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Attribution",
+    "difficulty": "Medium",
+    "question": "Attribution: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90188,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Capital Gains",
+    "difficulty": "Medium",
+    "question": "Capital Gains: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90189,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Dividend Taxation",
+    "difficulty": "Hard",
+    "question": "Dividend Taxation: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90190,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Interest Income",
+    "difficulty": "Hard",
+    "question": "Interest Income: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90191,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Estate Taxation",
+    "difficulty": "Easy",
+    "question": "Estate Taxation: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90192,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Tax Brackets",
+    "difficulty": "Easy",
+    "question": "Tax Brackets: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90193,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Withholding Tax",
+    "difficulty": "Easy",
+    "question": "Withholding Tax: In Canada, interest income is:",
+    "options": [
+      "Tax-free",
+      "100% taxable as income at marginal rate",
+      "50% taxable",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Interest income fully taxable as income at marginal rate. Dividends get gross-up and credit, capital gains 50% inclusion (currently)."
+  },
+  {
+    "id": 90194,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "LIRA",
+    "difficulty": "Medium",
+    "question": "LIRA: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
+  },
+  {
+    "id": 90195,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "FHSA",
+    "difficulty": "Medium",
+    "question": "FHSA (First Home Savings Account) contribution limit:",
+    "options": [
+      "$8,000 per year up to $40,000 lifetime, tax-deductible, tax-free withdrawal for qualifying home",
+      "$7,000",
+      "$50,000 per year",
+      "No limit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FHSA 2023 introduced: $8k/year, $40k lifetime, deductible like RRSP, tax-free withdrawal like TFSA for first qualifying home."
+  },
+  {
+    "id": 90196,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRSP",
+    "difficulty": "Medium",
+    "question": "Scenario: Client earns $90k, contributes $10k to RRSP, marginal rate 35%. Tax saving?",
+    "options": [
+      "$0",
+      "$3,500",
+      "$10,000",
+      "$1,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP contribution reduces taxable income: $10k x 35% = $3,500 tax saving/deferral. Tax paid on withdrawal later."
+  },
+  {
+    "id": 90197,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "TFSA",
+    "difficulty": "Medium",
+    "question": "TFSA contribution limit for 2024 is:",
+    "options": [
+      "$7,000",
+      "$6,500",
+      "$50,000",
+      "$31,560"
+    ],
+    "correctAnswer": 0,
+    "explanation": "TFSA limit $7,000 for 2024 (indexed). Unused room carries forward. Cumulative ~$95k if never contributed since 2009."
+  },
+  {
+    "id": 90198,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RESP",
+    "difficulty": "Medium",
+    "question": "CESG (Canada Education Savings Grant) is:",
+    "options": [
+      "20% on first $2,500 per year up to $500, max $7,200 lifetime",
+      "50%",
+      "100%",
+      "No grant"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CESG matches 20% on first $2,500 contributed per year ($500/year), lifetime max $7,200 per child."
+  },
+  {
+    "id": 90199,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "RRIF",
+    "difficulty": "Hard",
+    "question": "RRIF minimum withdrawal is:",
+    "options": [
+      "No minimum",
+      "Mandatory minimum % based on age, taxable",
+      "Maximum only",
+      "Optional"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRIF has annual minimum withdrawal based on age % (e.g., 5.28% at 71), taxable as income. No maximum."
+  },
+  {
+    "id": 90200,
+    "moduleId": "taxation",
+    "moduleName": "Taxation",
+    "topic": "Non-Registered",
+    "difficulty": "Hard",
+    "question": "Non-Registered: Capital gains inclusion rate currently is:",
+    "options": [
+      "0%",
+      "50% of gain included in income (proposed changes to 66.67% above threshold)",
+      "100%",
+      "25%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Currently 50% inclusion rate for capital gains (1/2 taxable). 2024 budget proposed 66.67% inclusion above $250k for individuals, 66.67% for corps/trusts."
   }
 ]

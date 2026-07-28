@@ -1,0 +1,5 @@
+-keep class com.vasapps.hllqpprep.** { *; }
+-keep class androidx.** { *; }
+-keep class com.google.android.gms.** { *; }
+-dontwarn com.google.android.gms.**
+-keepattributes *Annotation*,InnerClasses,EnclosingMethod,Signature

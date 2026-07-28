@@ -17,3 +17,8 @@ local.properties
 *.bak
 backups/
 *.py
+key.properties
+app/key.properties
+**/key.properties
+*.jks
+*.keystore

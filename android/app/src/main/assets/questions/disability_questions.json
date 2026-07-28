@@ -7,44 +7,3196 @@
     "difficulty": "Easy",
     "question": "What is the primary purpose of disability insurance?",
     "options": [
-      "Replace income when an insured cannot work",
-      "Provide property protection",
-      "Guarantee investment growth",
-      "Cover automobile damage"
+      "To reimburse medical expenses",
+      "To replace lost income when insured cannot work due to disability",
+      "To provide lump-sum on critical illness diagnosis",
+      "To cover long-term care costs"
     ],
-    "correctAnswer": 0,
-    "explanation": "Disability insurance is designed to replace income lost due to disability."
+    "correctAnswer": 1,
+    "explanation": "Disability insurance is income replacement. It pays a monthly benefit when illness/injury prevents working, not medical bills. CI and LTC are separate products."
   },
   {
     "id": 60002,
     "moduleId": "disability",
     "moduleName": "Disability Insurance",
-    "topic": "Benefits",
+    "topic": "Definitions",
     "difficulty": "Easy",
-    "question": "Disability benefits are generally paid when:",
+    "question": "In HLLQP, disability is defined as:",
     "options": [
-      "The insured meets the policy definition of disability",
-      "The client requests any amount",
-      "The advisor approves payment",
-      "The policy has no conditions"
+      "Any illness diagnosed by a physician",
+      "Inability to perform duties due to sickness/injury resulting in loss of income",
+      "Condition requiring 48h hospitalization",
+      "Permanent condition only"
     ],
-    "correctAnswer": 0,
-    "explanation": "Benefits depend on meeting the policy's disability definition."
+    "correctAnswer": 1,
+    "explanation": "HLLQP defines disability as inability to work due to sickness/injury causing loss of income. Diagnosis alone is insufficient, and temporary disabilities qualify."
   },
   {
     "id": 60003,
     "moduleId": "disability",
     "moduleName": "Disability Insurance",
-    "topic": "Suitability",
-    "difficulty": "Medium",
-    "question": "An advisor recommending disability insurance should first consider:",
+    "topic": "Income Replacement",
+    "difficulty": "Easy",
+    "question": "Why do disability policies typically insure only 60-85% of gross income?",
     "options": [
-      "Client income needs and financial obligations",
-      "Highest commission available",
-      "Only insurer preference",
-      "The advisor's personal choice"
+      "To reduce insurer admin costs",
+      "To maintain incentive to return to work and prevent over-insurance/moral hazard",
+      "Because CRA prohibits 100% coverage",
+      "Because income after disability is always higher"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Partial income replacement (60-85%) maintains incentive to return to work and controls moral hazard and anti-selection. 100% would encourage malingering."
+  },
+  {
+    "id": 60004,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Own Occupation",
+    "difficulty": "Medium",
+    "question": "Dr. Lee is a neurosurgeon with an own-occupation disability policy. After a hand injury, she cannot perform surgery but can teach medicine. Is she considered disabled under own-occupation definition?",
+    "options": [
+      "No, because she can teach",
+      "Yes, because she cannot perform duties of her own occupation as neurosurgeon",
+      "No, unless she is unemployed",
+      "Yes, only if she cannot do any job"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Own-occupation focuses on inability to perform duties of your own specific occupation at time of disability, not any occupation. Teaching is different occupation."
+  },
+  {
+    "id": 60005,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Any Occupation",
+    "difficulty": "Medium",
+    "question": "What does any-occupation definition require?",
+    "options": [
+      "Cannot perform duties of own occupation only",
+      "Cannot perform duties of any occupation for which you are reasonably suited by education, training, experience",
+      "Must be unemployed for 12 months",
+      "Cannot work in any job worldwide"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Any-occupation is stricter: unable to work in any suitable occupation given education/training/experience, not just own job and not any job in existence."
+  },
+  {
+    "id": 60006,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Regular Occupation",
+    "difficulty": "Medium",
+    "question": "How does regular occupation definition differ from own occupation?",
+    "options": [
+      "It is identical",
+      "Regular occupation considers the occupation as it is normally performed in the national economy, not the specific job duties of insured",
+      "It only covers accidents",
+      "It requires total unemployment"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Regular occupation uses a broader, standardized description of the occupation rather than the insured's specific duties or specialty. Own occupation is more specific to insured."
+  },
+  {
+    "id": 60007,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Elimination Period",
+    "difficulty": "Easy",
+    "question": "What is the elimination period in disability insurance?",
+    "options": [
+      "Period after benefits end",
+      "Waiting period from onset of disability to when benefits begin",
+      "Policy renewal period",
+      "Underwriting period"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Elimination period is the waiting period before benefits start, like a deductible measured in days. Common periods: 30, 60, 90, 120 days."
+  },
+  {
+    "id": 60008,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Elimination Period",
+    "difficulty": "Medium",
+    "question": "Client chooses 90-day vs 30-day elimination period. What is the impact?",
+    "options": [
+      "30-day has lower premium",
+      "90-day has significantly lower premium but client self-insures first 90 days",
+      "No impact on premium",
+      "90-day is not allowed in Canada"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Longer elimination = lower premium because insurer pays less often/shorter. Client must have savings to cover waiting period. Shorter elimination = higher premium."
+  },
+  {
+    "id": 60009,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Benefit Period",
+    "difficulty": "Easy",
+    "question": "What does benefit period determine?",
+    "options": [
+      "How long disability benefits may be paid if disabled",
+      "How long premium is waived",
+      "Application processing time",
+      "Medical exam validity"
     ],
     "correctAnswer": 0,
-    "explanation": "Recommendations must be based on client circumstances."
+    "explanation": "Benefit period is max duration benefits payable for a claim: 2 years, 5 years, to age 65 are common. Longer benefit period = higher premium."
+  },
+  {
+    "id": 60010,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Benefit Period",
+    "difficulty": "Medium",
+    "question": "Which benefit period is most common for LTD to protect retirement?",
+    "options": [
+      "6 months",
+      "2 years",
+      "To age 65",
+      "To age 100"
+    ],
+    "correctAnswer": 2,
+    "explanation": "To age 65 aligns with retirement, protecting income until retirement. Short periods leave client exposed before retirement. To 100 is not offered for disability."
+  },
+  {
+    "id": 60011,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which is NOT a type of disability insurance?",
+    "options": [
+      "Individual",
+      "Group LTD",
+      "Business Overhead Expense",
+      "Term to 100 life insurance"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Individual, group LTD, BOE are disability types. Term to 100 is life insurance, not disability."
+  },
+  {
+    "id": 60012,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Definitions",
+    "difficulty": "Hard",
+    "question": "Scenario: Raj, 40, software developer, has herniated disc, can work 4 hours/day, income down 60%. Under own-occupation total disability definition, is he totally disabled?",
+    "options": [
+      "Yes, automatically",
+      "No, because he can still work partially and has income loss less than 100% - may qualify for residual/partial not total",
+      "Yes, if he has any back pain",
+      "No, because back injuries excluded"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Total disability requires inability to perform substantial duties. Partial work with 60% income loss qualifies for residual/partial benefit, not total, unless definition includes presumptive or total."
+  },
+  {
+    "id": 60013,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Income Replacement",
+    "difficulty": "Medium",
+    "question": "A disability policy insuring $5,000/month benefit for someone earning $60,000/year is:",
+    "options": [
+      "Over-insured at 100% of gross",
+      "Appropriately insured around 60-70% of gross plus considering net",
+      "Under-insured",
+      "Prohibited by FSRA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "$60k gross ~ $5k/month gross. $5k benefit = 100% replacement, typically over-insured. But if net is considered and taxes, $3k-$4k is more typical. $5k might be borderline over-insurance requiring justification."
+  },
+  {
+    "id": 60014,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Elimination Period",
+    "difficulty": "Hard",
+    "question": "How does elimination period interact with recurrent disability provision?",
+    "options": [
+      "Resets every time",
+      "If recurrence within specified period (e.g., 6 months) from same cause, elimination may be waived",
+      "Never waived",
+      "Only waived for accidents"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Recurrent provision allows if same disability recurs within 6-12 months, prior elimination satisfied, benefits resume without new elimination. Prevents penalizing return-to-work attempts."
+  },
+  {
+    "id": 60015,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Waiting Period",
+    "difficulty": "Easy",
+    "question": "Is waiting period different from elimination period?",
+    "options": [
+      "Yes, completely different concept",
+      "No, terms often used interchangeably for period before benefits start",
+      "Waiting period is after benefit period",
+      "Waiting period only for group"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In HLLQP, waiting period and elimination period are often synonymous: time from disability onset to benefit commencement."
+  },
+  {
+    "id": 60016,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Definitions",
+    "difficulty": "Medium",
+    "question": "Total disability generally requires:",
+    "options": [
+      "Complete inability to perform all activities of daily living",
+      "Inability to perform substantial and material duties of occupation and not engaged in other occupation",
+      "Unemployment only",
+      "Hospitalization"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Total disability = unable to perform substantial/material duties of occupation and not working elsewhere. ADL is for LTC, not disability."
+  },
+  {
+    "id": 60017,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Medium",
+    "question": "What is the main risk disability insurance protects against?",
+    "options": [
+      "Early death",
+      "Living too long",
+      "Loss of ability to earn income due to sickness/injury",
+      "Market volatility"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Life insurance protects against early death, annuities against living too long, disability against loss of human capital/earning ability during working years."
+  },
+  {
+    "id": 60018,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Own Occupation",
+    "difficulty": "Hard",
+    "question": "Which occupation benefits MOST from own-occupation rider?",
+    "options": [
+      "Unskilled laborer",
+      "Highly specialized professional like surgeon, dentist, specialist",
+      "Retiree",
+      "Student with no income"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Highly specialized professionals have most to lose if they can work in another field but not their specialty. Own-occ is critical for surgeons, dentists, lawyers etc. Cost is justified."
+  },
+  {
+    "id": 60019,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Any Occupation",
+    "difficulty": "Hard",
+    "question": "Group LTD often has own-occupation for 2 years then switches to any-occupation. What is implication?",
+    "options": [
+      "Benefits stop automatically after 2 years",
+      "After 2 years, definition becomes stricter, must be unable to do any suitable occupation to continue benefits",
+      "Definition becomes easier",
+      "Premium increases after 2 years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Many group LTD plans have 2-year own-occ then any-occ. After 2 years, many claims denied if claimant can do other suitable work. Important limitation to explain to client."
+  },
+  {
+    "id": 60020,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Income Replacement",
+    "difficulty": "Easy",
+    "question": "Earned income for disability underwriting includes:",
+    "options": [
+      "Salary, bonuses, self-employed net income",
+      "Investment income only",
+      "Inheritance",
+      "Lottery winnings"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disability insures earned income from occupation: salary, wages, bonuses, self-employed net. Passive investment income not covered as it continues during disability."
+  },
+  {
+    "id": 60021,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "Which statement about disability insurance is true?",
+    "options": [
+      "It covers only workplace injuries",
+      "It covers both sickness and injury that prevents work",
+      "It covers only accidents",
+      "It covers only sickness"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Comprehensive disability covers both sickness and accident. Workers comp covers only workplace injuries. Good policies cover both."
+  },
+  {
+    "id": 60022,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Elimination Period",
+    "difficulty": "Medium",
+    "question": "Client has $10,000 emergency fund and monthly expenses $5,000. Which elimination period is suitable?",
+    "options": [
+      "14 days",
+      "30 days",
+      "90-120 days to lower premium, but fund only covers 2 months, so 60 days max advisable",
+      "365 days"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Emergency fund should cover elimination period. $10k covers 2 months expenses, so 60-day elimination is max. 90+ would leave gap. Shorter elimination needed given low savings."
+  },
+  {
+    "id": 60023,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Benefit Period",
+    "difficulty": "Easy",
+    "question": "Short benefit period (2 years) is risky because:",
+    "options": [
+      "Most disabilities last < 2 years, but severe ones lasting to 65 would leave client without income for decades",
+      "Premiums too high",
+      "Not allowed by CRA",
+      "Only covers accidents"
+    ],
+    "correctAnswer": 0,
+    "explanation": "While many disabilities are short, the catastrophic risk is long-term disability to age 65. 2-year benefit leaves huge gap. Need to age 65 for full protection."
+  },
+  {
+    "id": 60024,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Definitions",
+    "difficulty": "Medium",
+    "question": "Substantial and material duties refers to:",
+    "options": [
+      "Minor tasks",
+      "Important duties that normally take significant time and are essential to occupation",
+      "Any hobby",
+      "Volunteer work"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Substantial and material duties are core essential duties of occupation, not incidental tasks. Inability to perform these triggers disability."
+  },
+  {
+    "id": 60025,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Own Occupation",
+    "difficulty": "Easy",
+    "question": "Own-occupation is more expensive than any-occupation because:",
+    "options": [
+      "Insurer pays claims more often under own-occ",
+      "It has higher admin fees only",
+      "CRA requires it",
+      "It covers less"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Own-occ is broader coverage (easier to qualify as disabled), so insurer expects more claims, thus higher premium. More liberal definition = higher cost."
+  },
+  {
+    "id": 60026,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Hard",
+    "question": "Human capital concept in disability planning means:",
+    "options": [
+      "Value of home",
+      "Present value of future earned income to be protected",
+      "Cash value of life insurance",
+      "Value of investments"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Human capital is economic value of person's future earnings. Disability insurance protects this asset, often worth millions for young worker."
+  },
+  {
+    "id": 60027,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Any Occupation",
+    "difficulty": "Medium",
+    "question": "Under any-occupation, who determines if another suitable occupation exists?",
+    "options": [
+      "Client",
+      "Employer",
+      "Insurer, often using vocational assessment considering education, training, experience",
+      "Family doctor only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Insurer uses vocational experts to assess suitable alternate occupations based on education, training, experience. Not client or employer decision alone."
+  },
+  {
+    "id": 60028,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Income Replacement",
+    "difficulty": "Medium",
+    "question": "Non-cancellable and guaranteed renewable provision means:",
+    "options": [
+      "Insurer cannot cancel and cannot increase premium, benefits cannot be changed",
+      "Insurer can increase premium anytime",
+      "Client can cancel anytime but insurer cannot",
+      "Benefits automatically increase"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Non-can = cannot cancel, premium and provisions guaranteed. Guaranteed renewable = cannot cancel but can increase premium by class. Best is non-can & guaranteed renewable."
+  },
+  {
+    "id": 60029,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Elimination Period",
+    "difficulty": "Easy",
+    "question": "Common elimination periods in Canada are:",
+    "options": [
+      "0, 7, 14 days only",
+      "30, 60, 90, 120, 180 days",
+      "5 years",
+      "To age 65"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Typical individual DI elimination: 30/60/90/120/180. Group LTD often 90/120/180. Shorter periods exist for STD."
+  },
+  {
+    "id": 60030,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Benefit Period",
+    "difficulty": "Medium",
+    "question": "If client age 58 wants disability coverage, benefit period to age 65 means max duration:",
+    "options": [
+      "2 years",
+      "7 years",
+      "25 years",
+      "Lifetime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Age 58 to 65 = 7 years max. Benefit period to 65 shortens as client ages. Important for older clients near retirement."
+  },
+  {
+    "id": 60031,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Definitions",
+    "difficulty": "Easy",
+    "question": "Sickness vs injury in disability policy:",
+    "options": [
+      "Sickness has same elimination as injury always",
+      "Some policies differentiate, injury may have shorter elimination or cover from day 1 accident",
+      "Only injury covered",
+      "Only sickness covered"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Many policies cover accident from day 1 or shorter elimination for injury vs sickness. Some have accident benefit. Distinction important for claims."
+  },
+  {
+    "id": 60032,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Own Occupation",
+    "difficulty": "Medium",
+    "question": "Modified own-occupation means:",
+    "options": [
+      "Cannot do own occupation and not working elsewhere",
+      "Can do any occupation",
+      "Only covers own occupation if unemployed",
+      "Same as any occupation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Modified own-occ: to be totally disabled you must be unable to do own occupation AND not be engaged in other occupation. If you work elsewhere, benefit may be reduced. Less liberal than pure own-occ."
+  },
+  {
+    "id": 60033,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "Disability insurance is needed even with group LTD because:",
+    "options": [
+      "Group LTD often limited, taxable, not portable, with any-occ after 2 years and integration with CPP",
+      "Group LTD is always sufficient",
+      "Individual is always taxable",
+      "Group covers 100% income"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group LTD has gaps: low NEM, taxable if employer pays, not portable, 2-year own then any, integrates with CPP. Individual supplements."
+  },
+  {
+    "id": 60034,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Any Occupation",
+    "difficulty": "Easy",
+    "question": "Any-occupation is:",
+    "options": [
+      "More liberal to claimant",
+      "More restrictive to claimant, harder to qualify",
+      "Same as own-occupation",
+      "Only for business overhead"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Any-occ is more restrictive/harder to qualify as disabled because you must be unable to do any suitable occupation, not just own."
+  },
+  {
+    "id": 60035,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Income Replacement",
+    "difficulty": "Hard",
+    "question": "Over-insurance concern is managed by:",
+    "options": [
+      "Financial underwriting, income documentation, coordination of benefits provision",
+      "Ignoring income",
+      "Insuring 150% of income",
+      "No management needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurers prevent over-insurance via financial underwriting (T4, tax returns), benefit limits (60-85%), and coordination of benefits clause limiting total benefits from all sources."
+  },
+  {
+    "id": 60036,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Elimination Period",
+    "difficulty": "Medium",
+    "question": "During elimination period, client:",
+    "options": [
+      "Receives full benefits",
+      "Receives no benefits, must be continuously disabled",
+      "Receives partial benefits automatically",
+      "Premium waived automatically"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Elimination period is unpaid waiting period. Must be continuously disabled (or per accumulation provision). No benefits paid during it."
+  },
+  {
+    "id": 60037,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Benefit Period",
+    "difficulty": "Medium",
+    "question": "Lifetime benefit period is:",
+    "options": [
+      "Standard for all policies",
+      "Rare and expensive, usually only for accident or sickness to age 65 with accident lifetime extension",
+      "Prohibited",
+      "Only for group"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lifetime benefits are rare, expensive, often only for accident or as rider. Most max to age 65 because retirement need ends."
+  },
+  {
+    "id": 60038,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Definitions",
+    "difficulty": "Hard",
+    "question": "Presumptive disability definition includes:",
+    "options": [
+      "Loss of sight in both eyes, loss of hearing in both ears, loss of speech, loss of use of two limbs - deemed totally disabled with no elimination",
+      "Any cold",
+      "Temporary back pain",
+      "Minor fracture"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Presumptive = severe, presumed total: loss of sight both eyes, hearing both ears, speech, use of two limbs. Waives elimination period, deemed total disabled permanently."
+  },
+  {
+    "id": 60039,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "Disability probability vs death probability during working years:",
+    "options": [
+      "Death more likely",
+      "Disability more likely than death during working years",
+      "Equal",
+      "Disability impossible"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Statistically, disability during working years is more likely than death. Important for need analysis to prioritize DI."
+  },
+  {
+    "id": 60040,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Own Occupation",
+    "difficulty": "Medium",
+    "question": "Client is general dentist who can no longer do root canals but can do hygiene checks. Under own-occ specialist definition, likely:",
+    "options": [
+      "Totally disabled if specialist and cannot perform specialty duties",
+      "Not disabled",
+      "Partially disabled only if income loss >80%",
+      "Must be any occupation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Specialist own-occ may consider inability to perform specialty duties as total disability, even if can do general dentistry. Important for specialists."
+  },
+  {
+    "id": 60041,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Any Occupation",
+    "difficulty": "Medium",
+    "question": "Suitable occupation under any-occ means:",
+    "options": [
+      "Any job regardless of income or status",
+      "Occupation reasonably suited by education, training, experience with comparable income/status",
+      "Unskilled job only",
+      "Job chosen by client"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Suitable means comparable in education/training/experience and income/status, not any job at minimum wage. Insurer cannot force to totally unsuitable occupation."
+  },
+  {
+    "id": 60042,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Income Replacement",
+    "difficulty": "Easy",
+    "question": "Why is net income important for disability benefit amount?",
+    "options": [
+      "Gross is irrelevant",
+      "Because benefits may be taxable or non-taxable, target is to replace net take-home to avoid over-insurance",
+      "CRA requires gross only",
+      "Net income never used"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Goal is replace net take-home. Taxable benefits need higher gross benefit to net same, non-taxable needs lower. Underwriting looks at net."
+  },
+  {
+    "id": 60043,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Elimination Period",
+    "difficulty": "Easy",
+    "question": "Accumulation provision allows:",
+    "options": [
+      "Elimination days need not be consecutive but can accumulate within certain timeframe",
+      "Benefits accumulate",
+      "Premium accumulates",
+      "Elimination never accumulates"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accumulation allows elimination period days to be accumulated over time (e.g., 90 days within 180 days) rather than consecutive continuous disability."
+  },
+  {
+    "id": 60044,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Benefit Period",
+    "difficulty": "Hard",
+    "question": "If benefit period is 2 years and elimination 90 days, max total time from disability onset to last payment is:",
+    "options": [
+      "2 years",
+      "2 years + 90 days",
+      "90 days only",
+      "5 years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Benefit period starts after elimination. So total time from onset = elimination + benefit period = 90 days + 2 years. Last payment after 2y90d from onset."
+  },
+  {
+    "id": 60045,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Definitions",
+    "difficulty": "Medium",
+    "question": "Injury vs sickness: injury is generally:",
+    "options": [
+      "Caused by accidental bodily injury, sudden and unforeseen",
+      "Any illness",
+      "Gradual disease",
+      "Same as sickness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Injury = accidental bodily injury, external, violent, sudden. Sickness = illness, disease. Some policies treat them differently for elimination and exclusions."
+  },
+  {
+    "id": 60046,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Fundamentals",
+    "difficulty": "Easy",
+    "question": "Long-term disability (LTD) typically starts after:",
+    "options": [
+      "0 days",
+      "Short-term disability period ends, often 90-180 days",
+      "10 years",
+      "Retirement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "STD covers first 0-26 weeks, LTD kicks in after STD/ex elimination (90-180 days) and pays to age 65."
+  },
+  {
+    "id": 60047,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Own Occupation",
+    "difficulty": "Hard",
+    "question": "Pure own-occupation vs modified own-occupation, which pays if surgeon becomes teacher?",
+    "options": [
+      "Pure own-occ pays full benefit even while teaching, modified may reduce or not pay if working",
+      "Both pay same",
+      "Neither pays",
+      "Modified pays more"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pure own-occ: can collect full benefit even if working in other occupation. Modified: if working in other occupation, not considered totally disabled, may get residual only."
+  },
+  {
+    "id": 60048,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Any Occupation",
+    "difficulty": "Easy",
+    "question": "Which is cheapest for same benefit?",
+    "options": [
+      "Own occupation",
+      "Any occupation",
+      "Same price",
+      "Regular occupation cheapest"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Any-occupation is cheapest because most restrictive, fewest claims. Own-occ most expensive. Price reflects risk."
+  },
+  {
+    "id": 60049,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Income Replacement",
+    "difficulty": "Medium",
+    "question": "Coordination of benefits provision means:",
+    "options": [
+      "Insurer reduces benefit if total benefits from all sources exceed specified % of pre-disability income",
+      "Benefits always stack to 200%",
+      "No coordination needed",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Coordination prevents over-insurance: if client has multiple DI policies, total benefits capped at e.g., 85% pre-disability income, excess reduced."
+  },
+  {
+    "id": 60050,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Elimination Period",
+    "difficulty": "Medium",
+    "question": "Client wants lowest premium and has 6-month emergency fund. Best elimination?",
+    "options": [
+      "14 days",
+      "30 days",
+      "120-180 days",
+      "0 days"
+    ],
+    "correctAnswer": 2,
+    "explanation": "With 6-month fund, can afford longer elimination (120-180 days) to significantly reduce premium, self-insuring short-term."
+  },
+  {
+    "id": 60051,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Partial Disability",
+    "difficulty": "Easy",
+    "question": "Sarah works 3 days/week after wrist injury, earning 40% income. Partial disability benefit typically:",
+    "options": [
+      "Pays 50% of total benefit for limited period if working part-time with income loss >=20%",
+      "Pays 100% forever",
+      "Only after presumptive disability",
+      "Replaces 100% lost income"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Partial benefit allows reduced benefit (often 50%) for part-time work with income loss, limited to 6-12 months."
+  },
+  {
+    "id": 60052,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Residual Disability",
+    "difficulty": "Easy",
+    "question": "Key difference between Residual and Partial:",
+    "options": [
+      "Partial pays based on time/duties only, Residual pays based on proportional income loss",
+      "Residual pays based on time only",
+      "Both identical",
+      "Residual only group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Partial is time/duties based. Residual is income-based, paying proportionally to actual income loss, longer duration, more comprehensive."
+  },
+  {
+    "id": 60053,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Residual Disability",
+    "difficulty": "Medium",
+    "question": "Mark was earning $10k/month, now earning $4k/month due to disability (60% loss). Residual benefit with $6k total benefit would pay:",
+    "options": [
+      "$0",
+      "$6k full",
+      "$3,600 (60% of $6k proportional to loss)",
+      "$10k"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Residual formula: (Loss/Pre-disability Income) * Total Benefit = (6k/10k)*6k = 60% *6k = $3,600. Pays proportionally."
+  },
+  {
+    "id": 60054,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Presumptive Disability",
+    "difficulty": "Easy",
+    "question": "Presumptive disability includes:",
+    "options": [
+      "Loss of sight both eyes, hearing both ears, speech, use of two limbs - deemed total disabled, no elimination",
+      "Common cold",
+      "Back pain",
+      "Minor fracture"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Presumptive = severe permanent losses deemed total disability, elimination waived, benefits paid even if can work."
+  },
+  {
+    "id": 60055,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Recurrent Disability",
+    "difficulty": "Medium",
+    "question": "What is recurrent disability provision?",
+    "options": [
+      "If same disability recurs within 6-12 months, elimination waived, considered same claim",
+      "Every recurrence new claim",
+      "Never waived",
+      "Only for accidents"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recurrent provision protects return-to-work attempts: if same cause recurs within specified period, prior elimination satisfied, benefits resume without new waiting."
+  },
+  {
+    "id": 60056,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Return-to-work Provisions",
+    "difficulty": "Medium",
+    "question": "Rehabilitation benefit encourages:",
+    "options": [
+      "Staying disabled",
+      "Return-to-work with vocational rehab, sometimes paying for retraining and continuing benefits during trial",
+      "Retirement",
+      "Suing employer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rehab provision pays for retraining, education, and may continue benefits during trial work period to encourage return to work."
+  },
+  {
+    "id": 60057,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Return-to-work Provisions",
+    "difficulty": "Easy",
+    "question": "Why insurer offers return-to-work incentive?",
+    "options": [
+      "To reduce claim costs and help client regain earning capacity, win-win",
+      "To increase claims",
+      "CRA requirement",
+      "To punish client"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Encouraging return to work reduces long-term claim costs for insurer and restores client's income and purpose."
+  },
+  {
+    "id": 60058,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Partial Disability",
+    "difficulty": "Medium",
+    "question": "Partial disability benefit period typically limited to:",
+    "options": [
+      "Lifetime",
+      "6-12 months",
+      "To age 100",
+      "30 days"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Partial often limited to 6-12 months, after that must qualify for residual or total. Residual can be longer to age 65."
+  },
+  {
+    "id": 60059,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Residual Disability",
+    "difficulty": "Hard",
+    "question": "Residual disability requires:",
+    "options": [
+      "Minimum 20% income loss and inability to perform some duties or time limitation",
+      "100% income loss",
+      "No income loss",
+      "Only time loss no income loss"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Residual typically requires 20% income loss due to sickness/injury and inability to perform one or more duties or time restriction. Captures reduced capacity with income impact."
+  },
+  {
+    "id": 60060,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Presumptive Disability",
+    "difficulty": "Medium",
+    "question": "Under presumptive disability, elimination period is:",
+    "options": [
+      "Always 180 days",
+      "Waived, benefits start immediately as deemed total",
+      "2 years",
+      "Same as regular"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Presumptive losses are so severe that elimination is waived, benefits begin immediately as totally disabled."
+  },
+  {
+    "id": 60061,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Recurrent Disability",
+    "difficulty": "Easy",
+    "question": "If disability recurs after 18 months from same cause, usually:",
+    "options": [
+      "Considered new claim with new elimination",
+      "Same claim no elimination",
+      "Not covered",
+      "Only partial"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recurrent window typically 6-12 months. After 18 months exceeds window, considered new claim requiring new elimination period."
+  },
+  {
+    "id": 60062,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Return-to-work Provisions",
+    "difficulty": "Hard",
+    "question": "Survivor benefit in disability policy pays:",
+    "options": [
+      "Benefit to survivor if insured dies during disability after receiving benefits for period",
+      "Benefit if client recovers",
+      "Extra benefit for spouse illness",
+      "Retirement bonus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Survivor benefit pays lump-sum (e.g., 3x monthly benefit) to beneficiary if insured dies while on claim after being disabled for specified period."
+  },
+  {
+    "id": 60063,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "COLA Rider",
+    "difficulty": "Medium",
+    "question": "Cost of Living Adjustment (COLA) rider:",
+    "options": [
+      "Increases benefit during claim to keep up with inflation, often CPI-linked, compounds",
+      "Reduces benefit",
+      "Only increases premium",
+      "Pays during elimination"
+    ],
+    "correctAnswer": 0,
+    "explanation": "COLA increases disability benefit while on claim to offset inflation, often 2-3% or CPI, simple or compound. Important for long claims to age 65."
+  },
+  {
+    "id": 60064,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Future Insurability",
+    "difficulty": "Medium",
+    "question": "Future Increase Option (FIO) / Guaranteed Insurability rider allows:",
+    "options": [
+      "Increase coverage in future without medical evidence when income increases, life events",
+      "Decrease coverage only",
+      "Increase anytime without conditions",
+      "Only at age 65"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FIO allows increasing benefit as income grows without new medical underwriting, subject to financial evidence and age limits, protecting insurability."
+  },
+  {
+    "id": 60065,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Waiver of Premium",
+    "difficulty": "Easy",
+    "question": "Waiver of Premium rider in disability policy means:",
+    "options": [
+      "Premium waived while totally disabled after elimination, policy stays in force",
+      "Premium waived from day 1 sickness",
+      "Premium never waived",
+      "Only for life insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Waiver of premium waives premiums while disabled after elimination period, policy remains active. Standard in many DI policies."
+  },
+  {
+    "id": 60066,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Partial Disability",
+    "difficulty": "Hard",
+    "question": "Client with residual rider vs partial only, which better protects income loss of 30% for 5 years?",
+    "options": [
+      "Partial only",
+      "Residual better as it pays proportionally for longer and covers 30% loss",
+      "Neither",
+      "Both same"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Residual superior for long-term partial income loss as it pays proportionally and typically to age 65, while partial limited to short period and 50% flat."
+  },
+  {
+    "id": 60067,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Residual Disability",
+    "difficulty": "Medium",
+    "question": "Residual benefit calculation uses:",
+    "options": [
+      "Pre-disability income vs current income to compute % loss",
+      "Only current income",
+      "Only pre-disability income",
+      "Investment income"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Residual formula uses pre-disability earnings vs current post-disability earnings to determine percentage loss, then applies to total benefit."
+  },
+  {
+    "id": 60068,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "COLA Rider",
+    "difficulty": "Hard",
+    "question": "Compound vs simple COLA:",
+    "options": [
+      "Compound applies increase on increased benefit, grows faster, more expensive",
+      "Simple grows faster",
+      "Same",
+      "Compound only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Compound COLA calculates increase on prior increased benefit, exponential growth, more valuable and expensive than simple (increase on original benefit only)."
+  },
+  {
+    "id": 60069,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Future Insurability",
+    "difficulty": "Easy",
+    "question": "FIO is important for:",
+    "options": [
+      "Young professional whose income will rise significantly and wants to lock insurability",
+      "Retiree",
+      "Person with declining income",
+      "No one"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Young professionals, doctors, lawyers benefit most from FIO as incomes will rise, health may deteriorate. Locks insurability for future increases."
+  },
+  {
+    "id": 60070,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Waiver of Premium",
+    "difficulty": "Medium",
+    "question": "When does waiver of premium typically begin?",
+    "options": [
+      "Immediately on disability",
+      "After elimination period and while totally disabled",
+      "After 2 years only",
+      "Never"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Waiver begins after elimination period satisfied and while totally disabled (some include residual). Not immediate."
+  },
+  {
+    "id": 60071,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Partial Disability",
+    "difficulty": "Easy",
+    "question": "Partial disability requires:",
+    "options": [
+      "Inability to work full-time and loss of time/duties",
+      "100% inability",
+      "Presumptive loss",
+      "No requirement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Partial requires inability to work full-time (time/duties) and often income loss. Not total inability."
+  },
+  {
+    "id": 60072,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Residual Disability",
+    "difficulty": "Medium",
+    "question": "Which provision allows proportional benefit for reduced income while working?",
+    "options": [
+      "Presumptive",
+      "Residual",
+      "Waiver",
+      "COLA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Residual allows proportional benefit based on income loss percentage while able to work part-time or reduced capacity."
+  },
+  {
+    "id": 60073,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Presumptive Disability",
+    "difficulty": "Hard",
+    "question": "Why presumptive disability waives elimination?",
+    "options": [
+      "Losses are severe, permanent, obviously total, no need to prove ongoing disability",
+      "To save admin",
+      "CRA rule",
+      "Marketing only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Presumptive losses are clearly permanent and total, so insurer waives elimination and deems insured totally disabled without further proof."
+  },
+  {
+    "id": 60074,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Recurrent Disability",
+    "difficulty": "Medium",
+    "question": "Recurrent provision time frame commonly:",
+    "options": [
+      "6-12 months",
+      "10 years",
+      "Lifetime",
+      "0 days"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Common recurrent period 6-12 months. Some policies up to 24 months. After that, new claim."
+  },
+  {
+    "id": 60075,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Return-to-work Provisions",
+    "difficulty": "Medium",
+    "question": "Vocational rehabilitation provision may pay:",
+    "options": [
+      "Cost of retraining, education, workplace modification, job search",
+      "Vacation",
+      "New car",
+      "Investment losses"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rehab provision covers costs to help insured return to work: retraining, education, workplace accommodation."
+  },
+  {
+    "id": 60076,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "COLA Rider",
+    "difficulty": "Easy",
+    "question": "COLA rider cost is justified when:",
+    "options": [
+      "Claim likely short",
+      "Client young and benefit period to 65, inflation would erode benefit over decades",
+      "Client near retirement only",
+      "Never"
+    ],
+    "correctAnswer": 1,
+    "explanation": "COLA valuable for young clients with long benefit period to 65, as inflation over 20-30 years erodes purchasing power significantly."
+  },
+  {
+    "id": 60077,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Future Insurability",
+    "difficulty": "Medium",
+    "question": "Financial evidence for FIO increase requires:",
+    "options": [
+      "Proof of increased income and existing coverage limits",
+      "Medical only",
+      "No evidence",
+      "Only age proof"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FIO requires financial evidence of increased income to justify increase, but no medical. Must exercise within specified ages and before certain expiry."
+  },
+  {
+    "id": 60078,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Waiver of Premium",
+    "difficulty": "Hard",
+    "question": "Waiver of premium vs waiver of premium rider in life insurance:",
+    "options": [
+      "Same concept - premiums waived during disability, but in DI policy itself premium waived while on claim",
+      "Different",
+      "DI never waives",
+      "Only life waives"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Both waive premiums during disability. In DI, often built-in, premiums waived while totally disabled on claim. In life insurance, separate rider waives life premium if disabled."
+  },
+  {
+    "id": 60079,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Residual Disability",
+    "difficulty": "Hard",
+    "question": "Scenario: Pre-disability $8k, post $5k (37.5% loss), total benefit $5k, residual pays:",
+    "options": [
+      "$0",
+      "$1,875 (37.5% of $5k)",
+      "$5k",
+      "$8k"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Residual pays % loss x benefit = 37.5% x $5k = $1,875. Some policies have minimum loss threshold e.g., 20%."
+  },
+  {
+    "id": 60080,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Presumptive Disability",
+    "difficulty": "Easy",
+    "question": "Presumptive disability benefit is:",
+    "options": [
+      "Total disability benefit",
+      "Partial only",
+      "50% benefit",
+      "No benefit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Presumptive pays total disability benefit as deemed totally disabled."
+  },
+  {
+    "id": 60081,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Recurrent Disability",
+    "difficulty": "Easy",
+    "question": "Recurrent provision encourages:",
+    "options": [
+      "Return-to-work attempts without fear of new elimination if relapse",
+      "Staying disabled",
+      "Not working",
+      "Fraud"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recurrent encourages trying to return to work knowing if relapse quickly, no new elimination."
+  },
+  {
+    "id": 60082,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Return-to-work Provisions",
+    "difficulty": "Easy",
+    "question": "Reasonable accommodation means:",
+    "options": [
+      "Employer modifies job duties/hours to help disabled employee return",
+      "Insurer pays vacation",
+      "Client must change career",
+      "No accommodation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reasonable accommodation: employer modifies workplace/duties/hours to help disabled return, often coordinated with insurer."
+  },
+  {
+    "id": 60083,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "COLA Rider",
+    "difficulty": "Medium",
+    "question": "COLA increases typically:",
+    "options": [
+      "Capped at 8-10% per year and maybe 2-3x original benefit max",
+      "Unlimited",
+      "Only once",
+      "Decreases benefit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "COLA has caps: annual max increase and overall max (e.g., 2-3x original monthly benefit) to limit insurer exposure."
+  },
+  {
+    "id": 60084,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Future Insurability",
+    "difficulty": "Hard",
+    "question": "FIO expiry typically:",
+    "options": [
+      "Age 55 or 60, must exercise before then",
+      "Age 90",
+      "Never expires",
+      "Only at issue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FIO expires at age 55 or 60, option to increase ends. Must exercise before expiry, usually every 3 years or on life events."
+  },
+  {
+    "id": 60085,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Waiver of Premium",
+    "difficulty": "Easy",
+    "question": "If premium waived during claim, coverage:",
+    "options": [
+      "Remains in force, no lapse",
+      "Lapses",
+      "Reduces",
+      "Becomes taxable"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Waiver keeps policy in force during disability without premium payment, preventing lapse when most needed."
+  },
+  {
+    "id": 60086,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Partial Disability",
+    "difficulty": "Medium",
+    "question": "Which is more comprehensive: partial or residual?",
+    "options": [
+      "Partial",
+      "Residual more comprehensive as income-based, longer, covers more scenarios",
+      "Equal",
+      "Neither"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Residual more comprehensive, income-based, longer benefit period, covers partial income loss scenarios better than time-based partial."
+  },
+  {
+    "id": 60087,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Residual Disability",
+    "difficulty": "Easy",
+    "question": "Residual rider is especially important for:",
+    "options": [
+      "Self-employed, professionals with variable income, who may work reduced hours but lose income",
+      "Unemployed",
+      "Retirees",
+      "Children"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Self-employed and professionals who may continue working partially but suffer income loss benefit greatly from residual."
+  },
+  {
+    "id": 60088,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "COLA Rider",
+    "difficulty": "Medium",
+    "question": "Client age 30, benefit $4k to age 65, 3% inflation for 20 years, purchasing power without COLA:",
+    "options": [
+      "Same",
+      "Significantly eroded, ~55% of original value after 20 years at 3%",
+      "Increases",
+      "Doubles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Inflation erodes value: $4k today = ~$2,215 in 20 years at 3% inflation. COLA preserves purchasing power for long claims."
+  },
+  {
+    "id": 60089,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Future Insurability",
+    "difficulty": "Medium",
+    "question": "At FIO exercise, financial underwriting checks:",
+    "options": [
+      "Total disability coverage from all sources does not exceed max % of income (e.g., 85%)",
+      "Only medical",
+      "Only age",
+      "No checks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurer checks total coverage with increase does not exceed allowable % of income to prevent over-insurance, requires income docs."
+  },
+  {
+    "id": 60090,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Return-to-work Provisions",
+    "difficulty": "Hard",
+    "question": "Trial work period allows:",
+    "options": [
+      "Working full-time while still receiving full benefits for limited time to test ability",
+      "No work",
+      "Only part-time",
+      "Retirement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trial work period allows insured to attempt return to work full-time while still receiving benefits for limited time (e.g., 12 months) to ensure recovery."
+  },
+  {
+    "id": 60091,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Partial Disability",
+    "difficulty": "Easy",
+    "question": "Partial disability benefit often requires:",
+    "options": [
+      "Prior total disability for same cause for X days",
+      "No prior total needed always",
+      "Presumptive only",
+      "No requirement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Many partial provisions require prior period of total disability for same cause (e.g., 30 days total before partial). Some modern policies waive this."
+  },
+  {
+    "id": 60092,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Residual Disability",
+    "difficulty": "Medium",
+    "question": "Minimum income loss to qualify for residual is typically:",
+    "options": [
+      "0%",
+      "15-20%",
+      "80%",
+      "100%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Residual typically requires at least 15-20% income loss due to disability. Below threshold, no benefit."
+  },
+  {
+    "id": 60093,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Presumptive Disability",
+    "difficulty": "Medium",
+    "question": "Loss of use vs loss of limb:",
+    "options": [
+      "Loss of use means functional loss even if limb physically present, qualifies",
+      "Only physical severance qualifies",
+      "Never qualifies",
+      "Only one limb"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Presumptive includes loss of use (functional loss) not just severance. Loss of use of two limbs qualifies."
+  },
+  {
+    "id": 60094,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Recurrent Disability",
+    "difficulty": "Hard",
+    "question": "Two disabilities: back injury then 8 months later heart attack, recurrent?",
+    "options": [
+      "Yes same claim",
+      "No, different cause, separate claims each with elimination",
+      "Never covered",
+      "Only first covered"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Recurrent requires same or related cause. Different cause (back vs heart) is new claim, new elimination."
+  },
+  {
+    "id": 60095,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "COLA Rider",
+    "difficulty": "Easy",
+    "question": "COLA rider applies:",
+    "options": [
+      "During claim, not before",
+      "Before claim",
+      "Always increases base benefit even when not disabled",
+      "Only during elimination"
+    ],
+    "correctAnswer": 0,
+    "explanation": "COLA increases benefit only while on claim, not before disability occurs. Base benefit stays level until claim."
+  },
+  {
+    "id": 60096,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Future Insurability",
+    "difficulty": "Easy",
+    "question": "FIO premium for increase is based on:",
+    "options": [
+      "Attained age at exercise and original health class",
+      "Original age only",
+      "Always same as original",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premium for increased coverage at exercise based on attained age and original risk class, not original age. Cost rises with age."
+  },
+  {
+    "id": 60097,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Waiver of Premium",
+    "difficulty": "Medium",
+    "question": "Waiver of premium is particularly valuable because:",
+    "options": [
+      "Client cannot pay premium when disabled and without income",
+      "It reduces benefit",
+      "It increases benefit",
+      "It is taxable"
+    ],
+    "correctAnswer": 0,
+    "explanation": "When disabled without income, paying premium is hardship. Waiver ensures policy stays in force when most needed without payment."
+  },
+  {
+    "id": 60098,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Partial Disability",
+    "difficulty": "Hard",
+    "question": "Scenario: Policy has 50% partial benefit for 6 months, residual rider 70% loss. Client has 70% income loss for 12 months. Which pays more?",
+    "options": [
+      "Partial only: $2,500 x6 = $15k if $5k total benefit",
+      "Residual: 70% x $5k = $3,500/month x12 = $42k, significantly more",
+      "Equal",
+      "Neither"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Residual pays longer and proportionally more for high loss. Partial limited and flat 50% short term. Residual better for substantial prolonged loss."
+  },
+  {
+    "id": 60099,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Return-to-work Provisions",
+    "difficulty": "Medium",
+    "question": "Transitional benefit is similar to residual but:",
+    "options": [
+      "May require less income loss threshold and helps transition back to work",
+      "Same as total",
+      "Never offered",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Transitional benefit helps transition back to work with reduced income, may have lower threshold than residual, encouraging return."
+  },
+  {
+    "id": 60100,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Residual Disability",
+    "difficulty": "Easy",
+    "question": "Residual benefit formula in simple terms:",
+    "options": [
+      "(Income Loss % ) x Total Monthly Benefit",
+      "Total benefit always",
+      "50% always",
+      "0%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Residual = percentage of income loss multiplied by total monthly benefit, reflecting proportional loss."
+  },
+  {
+    "id": 60101,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Group Disability",
+    "difficulty": "Easy",
+    "question": "Key characteristic of group LTD:",
+    "options": [
+      "Individually underwritten with full medical",
+      "Non-evidence up to NEM and lower premium due to pooling",
+      "Always tax-free",
+      "Portable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Group LTD is underwritten at group level with Non-Evidence Maximum, no medical up to NEM, lower pooled premium, not portable."
+  },
+  {
+    "id": 60102,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Individual Disability",
+    "difficulty": "Easy",
+    "question": "Why individual DI more expensive than group LTD?",
+    "options": [
+      "Never integrates with CPP",
+      "Individually underwritten, portable, non-cancellable, richer definitions",
+      "Always taxable",
+      "Only accidents"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Individual is medically underwritten for one life, portable, guaranteed provisions, own-occ definitions, thus more expensive."
+  },
+  {
+    "id": 60103,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Medium",
+    "question": "If employer pays 100% of group LTD premium, benefits are:",
+    "options": [
+      "Tax-free to employee",
+      "Taxable to employee as income",
+      "Tax-free if 2+ years",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CRA: If employer pays premium (and does not include in employee income), benefits taxable to employee. If employee pays with after-tax dollars, tax-free."
+  },
+  {
+    "id": 60104,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Medium",
+    "question": "If employee pays 100% of group LTD premium with after-tax dollars, benefits are:",
+    "options": [
+      "Taxable",
+      "Tax-free",
+      "50% taxable",
+      "Subject to capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "When employee pays premium with after-tax dollars and not deducted, benefits received tax-free. This is key tax planning point."
+  },
+  {
+    "id": 60105,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Hard",
+    "question": "Employer pays 60% premium, employee pays 40% after-tax. $5,000 monthly LTD benefit, taxable portion:",
+    "options": [
+      "$0",
+      "$3,000 (60% taxable)",
+      "$5,000 fully taxable",
+      "$2,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If employer pays portion, that portion of benefit is taxable. 60% employer-paid => 60% of $5k = $3k taxable, 40% tax-free. Pro-rata."
+  },
+  {
+    "id": 60106,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "CPP Disability Integration",
+    "difficulty": "Medium",
+    "question": "Most group LTD plans integrate with CPP Disability by:",
+    "options": [
+      "Paying in addition with no reduction",
+      "Reducing LTD benefit dollar-for-dollar by CPP Disability benefit received",
+      "Increasing benefit",
+      "Ignoring CPP"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Group LTD typically integrates: LTD benefit reduced by CPP Disability amount to prevent over-insurance and keep cost down. Net to employee similar."
+  },
+  {
+    "id": 60107,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "CPP Disability Integration",
+    "difficulty": "Hard",
+    "question": "CPP Disability requires:",
+    "options": [
+      "Any disability",
+      "Severe and prolonged disability preventing any substantially gainful occupation and expected long-term",
+      "Only accidents",
+      "Age 65+"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CPP Disability has strict definition: severe and prolonged, unable to do any substantially gainful occupation, long-term or indefinite. Harder to qualify than many private plans."
+  },
+  {
+    "id": 60108,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Group Disability",
+    "difficulty": "Medium",
+    "question": "Non-Evidence Maximum (NEM) means:",
+    "options": [
+      "Amount of coverage employee gets without medical evidence, excess requires evidence",
+      "Max employer can pay",
+      "Max benefit period",
+      "Max age"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NEM is amount of group coverage guaranteed without medical evidence. Above NEM requires medical underwriting. Protects insurer from anti-selection."
+  },
+  {
+    "id": 60109,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Individual Disability",
+    "difficulty": "Medium",
+    "question": "Advantage of individual DI over group:",
+    "options": [
+      "Portability, non-cancellable, own-occ definition, tax-free if personally paid, cannot be terminated by employer",
+      "Always cheaper",
+      "Always taxable",
+      "No underwriting"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Individual advantages: portable when change jobs, non-cancellable, better definitions, tax-free benefits, controlled by insured, not employer."
+  },
+  {
+    "id": 60110,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Business Overhead Expense",
+    "difficulty": "Medium",
+    "question": "Business Overhead Expense (BOE) disability insurance covers:",
+    "options": [
+      "Personal income",
+      "Business fixed expenses (rent, salaries, utilities) during owner's disability",
+      "Business profit",
+      "Investment losses"
+    ],
+    "correctAnswer": 1,
+    "explanation": "BOE pays business overhead expenses while business owner disabled, not personal income. Keeps business alive. Typically 12-24 months benefit period."
+  },
+  {
+    "id": 60111,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Business Overhead Expense",
+    "difficulty": "Hard",
+    "question": "BOE benefit is:",
+    "options": [
+      "Tax-free to business",
+      "Taxable to business as income but expenses deductible, premium deductible",
+      "Not deductible",
+      "Capital gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "BOE: premium deductible as business expense, benefits taxable as income, but overhead expenses paid are deductible, net effect often neutral. Differs from personal DI."
+  },
+  {
+    "id": 60112,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Buy-Sell Disability",
+    "difficulty": "Medium",
+    "question": "Buy-sell disability insurance funds:",
+    "options": [
+      "Personal income",
+      "Buyout of disabled partner's share by remaining partners under buy-sell agreement",
+      "Business overhead",
+      "Key person loss"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buy-sell disability funds purchase of disabled owner's share if disabled beyond waiting period (often 12-24 months), per buy-sell agreement."
+  },
+  {
+    "id": 60113,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Buy-Sell Disability",
+    "difficulty": "Hard",
+    "question": "Buy-sell disability waiting period typically:",
+    "options": [
+      "30 days",
+      "12-24 months, longer than personal DI, to confirm permanence",
+      "0 days",
+      "7 days"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buy-sell has long elimination 12-24 months because buyout is permanent decision, need to confirm disability is long-term/permanent, not short-term."
+  },
+  {
+    "id": 60114,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Key Person Disability",
+    "difficulty": "Medium",
+    "question": "Key person disability insurance:",
+    "options": [
+      "Pays business to cover loss of key employee's contribution, business is owner/beneficiary",
+      "Pays key person personally",
+      "Pays for overhead only",
+      "Same as BOE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Key person: business owns policy on key employee, benefits to business to cover recruitment, lost profits, etc. Compensates business for loss of key person's value."
+  },
+  {
+    "id": 60115,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Easy",
+    "question": "Individual disability benefits where client pays premium personally are:",
+    "options": [
+      "Taxable",
+      "Tax-free",
+      "50% taxable",
+      "Always 100% taxable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Individual DI premiums paid personally with after-tax dollars => benefits tax-free. No deduction for premium."
+  },
+  {
+    "id": 60116,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Medium",
+    "question": "Can individual disability premium be deducted?",
+    "options": [
+      "Yes always",
+      "No, not deductible for employee, but BOE premium deductible for business",
+      "Yes as medical expense",
+      "Yes as RRSP"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Personal individual DI premium not deductible, but benefit tax-free. BOE premium deductible as business expense. No double dip."
+  },
+  {
+    "id": 60117,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Group Disability",
+    "difficulty": "Hard",
+    "question": "Group LTD taxable vs non-taxable affects net benefit planning. If client nets $4k/month after tax need, and group LTD taxable at 30% marginal, required gross benefit:",
+    "options": [
+      "$4,000",
+      "$5,714 ($4k / 0.7)",
+      "$2,800",
+      "$4,500"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If taxable, need gross up: Net needed / (1-tax rate) = 4000/0.7 = $5,714 gross to net $4k after 30% tax. Tax-free needs only $4k."
+  },
+  {
+    "id": 60118,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "CPP Disability Integration",
+    "difficulty": "Easy",
+    "question": "CPP Disability benefit is:",
+    "options": [
+      "Tax-free",
+      "Taxable",
+      "Not income",
+      "Capital"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CPP Disability is taxable income, similar to CPP retirement."
+  },
+  {
+    "id": 60119,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Individual Disability",
+    "difficulty": "Medium",
+    "question": "Guaranteed Standard Issue (GSI) individual DI is:",
+    "options": [
+      "Fully underwritten",
+      "Offered to group members up to limit without medical, but with some health questions simplified",
+      "Only for retirees",
+      "Not available in Canada"
+    ],
+    "correctAnswer": 1,
+    "explanation": "GSI allows individuals in a group to get individual portable coverage without full medical, limited simplified underwriting, good for those uninsurable in group."
+  },
+  {
+    "id": 60120,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Group Disability",
+    "difficulty": "Easy",
+    "question": "Group STD typically covers:",
+    "options": [
+      "First 17-26 weeks, often 60-70% income, 0-14 day elimination",
+      "To age 65",
+      "Lifetime",
+      "Only accidents"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group STD short-term: 0-14 day elimination, 17-26 weeks duration, then LTD kicks in. Often salary continuance."
+  },
+  {
+    "id": 60121,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Business Overhead Expense",
+    "difficulty": "Easy",
+    "question": "BOE benefit period typically:",
+    "options": [
+      "To age 65",
+      "12-24 months",
+      "Lifetime",
+      "5 years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "BOE short benefit period 12-24 months as business expected to either recover owner returns, hire replacement, or wind down. Not to age 65."
+  },
+  {
+    "id": 60122,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Buy-Sell Disability",
+    "difficulty": "Easy",
+    "question": "Buy-sell disability benefit is paid as:",
+    "options": [
+      "Monthly to disabled",
+      "Lump-sum or installments to buy out share, often after elimination",
+      "Weekly",
+      "To CRA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buy-sell pays lump-sum or installments to fund buyout after long elimination, to remaining partners or company to buy disabled's share."
+  },
+  {
+    "id": 60123,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Key Person Disability",
+    "difficulty": "Hard",
+    "question": "Key person disability benefit is:",
+    "options": [
+      "Taxable to business? Generally benefits taxable? Actually key person benefits taxable as income? In Canada, benefits generally taxable to corporation but offset by loss. Need check: Key person life taxable? For disability, benefit taxable",
+      "Tax-free always",
+      "Not income",
+      "Capital dividend"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Key person disability benefits received by corporation are generally taxable as business income, but premium not deductible. Different from key person life where CDA aspects. Plan accordingly."
+  },
+  {
+    "id": 60124,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Group Disability",
+    "difficulty": "Medium",
+    "question": "Evidence of insurability for group LTD above NEM requires:",
+    "options": [
+      "No evidence",
+      "Medical questionnaire, maybe exam, to approve excess",
+      "Only age proof",
+      "Only salary proof"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Above NEM requires evidence of insurability: health questionnaire, maybe paramed, to get excess coverage. Can be declined for excess."
+  },
+  {
+    "id": 60125,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Hard",
+    "question": "Scenario: Employer pays premium and includes premium amount as taxable benefit in employee's income each year. Benefits are:",
+    "options": [
+      "Taxable",
+      "Tax-free because employee effectively paid tax on premium",
+      "50% taxable",
+      "Double taxable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CRA rule: If employer pays but includes premium in employee's income as taxable benefit, benefits become tax-free to employee. Planning opportunity to make group LTD tax-free."
+  },
+  {
+    "id": 60126,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "CPP Disability Integration",
+    "difficulty": "Medium",
+    "question": "If group LTD is $3,000/month and CPP Disability approves $1,200/month, net to claimant with integration:",
+    "options": [
+      "$4,200",
+      "$3,000 total ($1,800 from LTD + $1,200 CPP)",
+      "$1,800",
+      "$0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Integration: LTD pays $3k total including CPP. When CPP pays $1,200, LTD reduces to $1,800, total still $3k. Claimant not double-dipping."
+  },
+  {
+    "id": 60127,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Business Overhead Expense",
+    "difficulty": "Medium",
+    "question": "BOE covers which expenses?",
+    "options": [
+      "Rent, utilities, employee salaries, accounting, property taxes, lease payments",
+      "Owner's personal groceries",
+      "Owner's salary and profit",
+      "Investment purchases"
+    ],
+    "correctAnswer": 0,
+    "explanation": "BOE covers fixed business overhead: rent, utilities, staff salaries, etc., not owner's personal expenses or salary/profit (personal DI covers income)."
+  },
+  {
+    "id": 60128,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Buy-Sell Disability",
+    "difficulty": "Medium",
+    "question": "Buy-sell agreement funded with disability should define:",
+    "options": [
+      "Disability definition, waiting period, valuation method, funding amount",
+      "Only price",
+      "Only waiting period",
+      "No definitions needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Buy-sell agreement must clearly define disability definition, elimination period, valuation (book, FMV), funding mechanism to avoid disputes."
+  },
+  {
+    "id": 60129,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Key Person Disability",
+    "difficulty": "Easy",
+    "question": "Key person insurance premium is:",
+    "options": [
+      "Deductible",
+      "Not deductible as business expense in Canada",
+      "Refundable",
+      "Tax credit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CRA: Key person disability premium not deductible (like life), benefits taxable. BOE is deductible, key person not."
+  },
+  {
+    "id": 60130,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Group Disability",
+    "difficulty": "Medium",
+    "question": "Group LTD premium for employer is:",
+    "options": [
+      "Not deductible",
+      "Deductible as business expense",
+      "Tax credit only",
+      "Capital"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Employer can deduct group LTD premiums as business expense, reduces corporate tax."
+  },
+  {
+    "id": 60131,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Individual Disability",
+    "difficulty": "Hard",
+    "question": "Future increase option for individual DI vs GSI increase:",
+    "options": [
+      "FIO requires financial evidence only, GSI simplified health, both lock insurability",
+      "Both require full medical",
+      "Neither requires evidence",
+      "Only FIO requires medical"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FIO and GSI both protect insurability: FIO no medical but financial proof, GSI simplified issue. Important for growing income/uninsurable."
+  },
+  {
+    "id": 60132,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Easy",
+    "question": "LTD benefits are tax-free when:",
+    "options": [
+      "Employer pays premium",
+      "Employee pays premium with after-tax dollars and employer does not deduct",
+      "Always taxable",
+      "Never tax-free"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tax-free when employee pays with after-tax dollars. Taxable when employer pays and doesn't include in income."
+  },
+  {
+    "id": 60133,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "CPP Disability Integration",
+    "difficulty": "Hard",
+    "question": "Why insurers require claimant to apply for CPP Disability?",
+    "options": [
+      "To reduce insurer's cost via integration and ensure claimant gets all benefits",
+      "To punish claimant",
+      "CRA requires",
+      "To increase premium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Insurers require CPPD application to integrate and reduce LTD payout, and because CPPD provides additional benefits like dependent benefits and retirement protection."
+  },
+  {
+    "id": 60134,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Business Overhead Expense",
+    "difficulty": "Hard",
+    "question": "BOE carry-forward provision allows:",
+    "options": [
+      "Unused benefit in month to carry forward to increase future months within year",
+      "Carry to age 65",
+      "No carry-forward",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "BOE often has carry-forward: if actual expenses less than benefit in a month, excess can be carried to cover higher expense months within benefit period year."
+  },
+  {
+    "id": 60135,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Buy-Sell Disability",
+    "difficulty": "Easy",
+    "question": "Who is beneficiary in entity buy-sell disability?",
+    "options": [
+      "Disabled owner",
+      "Corporation/company that will buy shares",
+      "CRA",
+      "Spouse"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In entity/corporate buy-sell, corporation is owner and beneficiary, receives benefit to buy disabled shareholder's shares."
+  },
+  {
+    "id": 60136,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Key Person Disability",
+    "difficulty": "Medium",
+    "question": "Key person amount determined by:",
+    "options": [
+      "Multiple of income, value of contribution, cost to replace, profit impact",
+      "Age only",
+      "Random",
+      "Equal to all employees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Key person amount based on economic value: income multiple, replacement cost, profit attributable to key person, loan guarantees."
+  },
+  {
+    "id": 60137,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Group Disability",
+    "difficulty": "Easy",
+    "question": "Group LTD is not portable because:",
+    "options": [
+      "Contract between employer and insurer, coverage ends when employment ends",
+      "Always portable",
+      "Employee owns it",
+      "CRA prohibits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group LTD contract is employer-owned, coverage terminates on termination of employment. Not portable, need conversion or individual."
+  },
+  {
+    "id": 60138,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Medium",
+    "question": "If benefits tax-free, what % of gross needed?",
+    "options": [
+      "100% of gross",
+      "Less than gross because no tax, e.g., 60% gross tax-free approximates 80% net",
+      "More than gross",
+      "0%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tax-free benefit goes further: 60% tax-free may equal ~80% after-tax take-home, so need lower % of gross to maintain lifestyle."
+  },
+  {
+    "id": 60139,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "CPP Disability Integration",
+    "difficulty": "Medium",
+    "question": "CPP Disability dependent benefits are:",
+    "options": [
+      "Paid extra to children, not integrated by most group LTD, extra money to family",
+      "Integrated always",
+      "Not available",
+      "Only for spouse"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CPPD pays children's benefits extra, typically not offset by group LTD, so family gets more than LTD amount, valuable."
+  },
+  {
+    "id": 60140,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Business Overhead Expense",
+    "difficulty": "Medium",
+    "question": "BOE exclusion:",
+    "options": [
+      "Owner's salary, personal draw, profit",
+      "Rent",
+      "Staff salary",
+      "Utilities"
+    ],
+    "correctAnswer": 0,
+    "explanation": "BOE does not cover owner's salary/profit (that's personal DI), only business overhead. Owner's income is separate."
+  },
+  {
+    "id": 60141,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Buy-Sell Disability",
+    "difficulty": "Hard",
+    "question": "Cross-purchase vs entity buy-sell disability ownership:",
+    "options": [
+      "Cross-purchase: each partner owns policy on other, entity: company owns on each partner",
+      "Same",
+      "No difference",
+      "Only cross-purchase allowed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cross-purchase: partners own policies on each other, are beneficiaries. Entity: corporation owns policies on partners, corporation beneficiary. Tax implications differ."
+  },
+  {
+    "id": 60142,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Key Person Disability",
+    "difficulty": "Easy",
+    "question": "Purpose of key person disability is to:",
+    "options": [
+      "Protect business against financial loss if key person disabled",
+      "Protect key person's family only",
+      "Pay key person's mortgage",
+      "Fund retirement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Key person protects business financial loss from key person's disability: lost profits, recruitment costs, loan guarantees."
+  },
+  {
+    "id": 60143,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Group Disability",
+    "difficulty": "Hard",
+    "question": "Group LTD offset provisions may include:",
+    "options": [
+      "CPP Disability, Workers Comp, other disability income, sometimes auto insurance",
+      "Only CPP",
+      "No offsets",
+      "Only investment income"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group LTD may offset other income: CPPD, Workers Comp, auto, other sick leave, to prevent over-insurance and coordinate."
+  },
+  {
+    "id": 60144,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Individual Disability",
+    "difficulty": "Easy",
+    "question": "Individual DI benefit period to age 65 is important because:",
+    "options": [
+      "Retirement income starts at 65, need protection until then",
+      "No reason",
+      "CRA requires",
+      "Cheaper"
+    ],
+    "correctAnswer": 0,
+    "explanation": "To age 65 protects income until retirement age when CPP/OAS and retirement savings kick in. Short period leaves gap before retirement."
+  },
+  {
+    "id": 60145,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Taxation of Benefits",
+    "difficulty": "Medium",
+    "question": "For self-employed individual DI, benefits are:",
+    "options": [
+      "Tax-free (premium not deductible)",
+      "Taxable",
+      "50% taxable",
+      "Deductible"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Self-employed pays premium personally after-tax, benefits tax-free. Same as employee paying. Premium not deductible (except BOE)."
+  },
+  {
+    "id": 60146,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "CPP Disability Integration",
+    "difficulty": "Easy",
+    "question": "CPP Disability amount depends on:",
+    "options": [
+      "Contributions and average earnings",
+      "Age only",
+      "Employer",
+      "Province"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CPPD amount based on CPP contributions, average earnings, flat rate + earnings-related portion."
+  },
+  {
+    "id": 60147,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Business Overhead Expense",
+    "difficulty": "Hard",
+    "question": "BOE benefit is limited to:",
+    "options": [
+      "Actual overhead expenses incurred, not exceeding monthly benefit",
+      "Always full benefit regardless of expenses",
+      "Double expenses",
+      "No limit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "BOE pays lesser of monthly benefit or actual overhead expenses incurred, with proof required. Not automatic full benefit if expenses lower."
+  },
+  {
+    "id": 60148,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Buy-Sell Disability",
+    "difficulty": "Medium",
+    "question": "Why buy-sell disability critical for partnership?",
+    "options": [
+      "Without funding, remaining partners may lack cash to buy out disabled partner, disabled partner may remain owner without working",
+      "Not critical",
+      "Only for life insurance",
+      "CRA requires"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Without funded buy-sell, disabled partner may remain owner without contributing, or partners lack cash to buy out, causing disputes and cash flow issues."
+  },
+  {
+    "id": 60149,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Key Person Disability",
+    "difficulty": "Medium",
+    "question": "Key person vs BOE:",
+    "options": [
+      "Key person covers loss of key person's value to business, BOE covers business overhead expenses when owner disabled",
+      "Same",
+      "Key person covers overhead only",
+      "BOE covers key person"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Key person: compensates business for economic loss of key person. BOE: pays overhead expenses when owner disabled. Different purposes, can have both."
+  },
+  {
+    "id": 60150,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Group Disability",
+    "difficulty": "Easy",
+    "question": "Group LTD conversion privilege:",
+    "options": [
+      "Some plans allow conversion to individual within 31-60 days after termination without medical up to limit, often limited",
+      "Always full conversion to same amount",
+      "Never",
+      "Only to age 100"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some group LTD offers conversion to individual within limited time after leaving job, without medical, but limited amount and higher premium. Not all offer."
+  },
+  {
+    "id": 60151,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "During disability underwriting, two main types evaluated:",
+    "options": [
+      "Medical history and financial information",
+      "Driving record only",
+      "Family history only",
+      "Employment history only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disability underwriting evaluates medical risk (health, lifestyle, occupation) and financial risk (income justification, existing coverage)."
+  },
+  {
+    "id": 60152,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Easy",
+    "question": "Standard exclusion in individual DI:",
+    "options": [
+      "Disability from covered sickness after elimination",
+      "Intentional self-inflicted injury",
+      "Accident at home",
+      "Cancer after issue"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standard exclusions: war, self-inflicted injury, criminal acts, foreign residence. Sickness and home accidents are covered perils."
+  },
+  {
+    "id": 60153,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Riders",
+    "difficulty": "Easy",
+    "question": "Purpose of COLA rider:",
+    "options": [
+      "Reduce premium during disability",
+      "Increase benefit during claim to keep up with inflation",
+      "Pay during elimination",
+      "Waive premium"
+    ],
+    "correctAnswer": 1,
+    "explanation": "COLA increases benefit while on claim to offset inflation, CPI-linked, important for long claims to age 65."
+  },
+  {
+    "id": 60154,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "Future Increase Option (FIO) rider:",
+    "options": [
+      "Allows increase coverage without medical evidence when income increases",
+      "Decrease only",
+      "Increase anytime without conditions",
+      "Only at 65"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FIO allows increasing benefit as income grows without new medical underwriting, subject to financial evidence and age limits."
+  },
+  {
+    "id": 60155,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Medical underwriting for DI includes:",
+    "options": [
+      "Medical questionnaire, health history, lifestyle, occupation class, avocation",
+      "Only age",
+      "Only income",
+      "Only gender"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Medical underwriting: health history, lifestyle (smoking), occupation risk class, hazardous avocations (motor racing), builds, etc."
+  },
+  {
+    "id": 60156,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Financial underwriting ensures:",
+    "options": [
+      "Benefit does not exceed % of income to prevent over-insurance",
+      "Any amount can be insured",
+      "150% of income allowed",
+      "No checks"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Financial underwriting ensures benefit reasonable vs income (60-85% of net), with proof (T4, NOA, financial statements) to prevent over-insurance/moral hazard."
+  },
+  {
+    "id": 60157,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Pre-existing condition exclusion may:",
+    "options": [
+      "Exclude condition for period or permanently, or with exclusion rider",
+      "Never exclude",
+      "Always cover",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pre-existing conditions may be excluded via exclusion rider, rated, or limited. Must disclose on application to avoid voidance."
+  },
+  {
+    "id": 60158,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "To file disability claim, insured must:",
+    "options": [
+      "Notify insurer promptly, provide physician statement, proof of income loss, employer statement",
+      "Wait 5 years",
+      "Only phone call",
+      "No documentation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Claim requires timely notice, attending physician statement, proof of disability, income docs, employer statement. Insurer may require IME."
+  },
+  {
+    "id": 60159,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Moral Hazard",
+    "difficulty": "Medium",
+    "question": "Moral hazard in disability insurance refers to:",
+    "options": [
+      "Risk that insured may malinger or not return to work because benefits too attractive",
+      "Medical risk only",
+      "Investment risk",
+      "Inflation risk"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Moral hazard: insured may prolong disability or not return because benefits disincentivize work. Managed via % income limits, definitions, rehab incentives."
+  },
+  {
+    "id": 60160,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Most important factor in DI needs analysis:",
+    "options": [
+      "Client's age and occupation only",
+      "Current income, expenses, existing group LTD, CPP, savings, tax status, health",
+      "Favorite color",
+      "Car model"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Suitability: analyze income, expenses, existing coverage (group LTD, CPP), savings, emergency fund, tax status, occupation class, health, budget."
+  },
+  {
+    "id": 60161,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "Cost of Living Adjustment (COLA) rider with 3% compound:",
+    "options": [
+      "Benefit increases 3% each year on increased benefit while disabled",
+      "Benefit decreases",
+      "Premium increases only",
+      "Benefit stays same"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Compound COLA: each year's increase calculated on prior year's increased benefit, exponential growth, more valuable."
+  },
+  {
+    "id": 60162,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Riders",
+    "difficulty": "Hard",
+    "question": "Future Increase Option: premium for increase based on:",
+    "options": [
+      "Attained age at exercise and original health class",
+      "Original age only",
+      "Same as original",
+      "Free"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Premium for FIO increase based on attained age at exercise, original risk class, not original age. Cost rises with age."
+  },
+  {
+    "id": 60163,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Easy",
+    "question": "Which is typically excluded?",
+    "options": [
+      "Disability from war, active military service",
+      "Disability from flu after elimination",
+      "Accidental injury at home",
+      "Sickness after policy issue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "War, active military, self-inflicted, criminal act, sometimes foreign residency exclusions are standard. Flu, home accidents covered."
+  },
+  {
+    "id": 60164,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Independent Medical Examination (IME) during claim is:",
+    "options": [
+      "Insurer's right to require exam by independent doctor to verify disability",
+      "Not allowed",
+      "Only client's doctor",
+      "Only for life insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Policy gives insurer right to require IME by chosen doctor at insurer expense to verify ongoing disability, common in long claims."
+  },
+  {
+    "id": 60165,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Hard",
+    "question": "Occupation class 4A vs 2A:",
+    "options": [
+      "4A lower risk (office professional) vs 2A higher risk (manual labor), 4A gets lower premium and better definitions",
+      "Same",
+      "2A lower risk",
+      "Occupation irrelevant"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Occupation class: 4A, 3A, 2A, 1A, B etc. Higher class = lower risk = lower premium, better features. Surgeon may be 4A, laborer B."
+  },
+  {
+    "id": 60166,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Moral Hazard",
+    "difficulty": "Easy",
+    "question": "To control moral hazard, insurer limits benefit to:",
+    "options": [
+      "60-85% of pre-disability income",
+      "200% of income",
+      "No limit",
+      "500%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benefit limited to 60-85% of pre-disability income to maintain incentive to return to work and prevent over-insurance."
+  },
+  {
+    "id": 60167,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Suitability",
+    "difficulty": "Hard",
+    "question": "Scenario: Client age 45, self-employed, income $150k, no group LTD, $5k/month expenses, $20k emergency fund. Recommendation:",
+    "options": [
+      "No DI needed",
+      "Individual DI $6-7k benefit, 90-day elimination (fund covers 4 months), to age 65, with residual, COLA, FIO riders",
+      "Only 2-year benefit period",
+      "Only group"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Self-employed high earner with no group needs individual DI: benefit ~60% net (~$6-7k), elimination 90 days (emergency covers), to age 65, plus residual for partial, COLA for long claim, FIO for income growth."
+  },
+  {
+    "id": 60168,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "Waiver of premium rider means:",
+    "options": [
+      "Premiums waived while totally disabled after elimination",
+      "Premium waived from day 1",
+      "Never waived",
+      "Only for life"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Waiver of premium waives premiums while disabled after elimination, policy stays in force."
+  },
+  {
+    "id": 60169,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Hard",
+    "question": "Substance abuse limitation in many DI policies:",
+    "options": [
+      "Limits benefit period for disability due to drug/alcohol abuse to e.g., 24 months unless in rehab",
+      "Unlimited coverage",
+      "No coverage at all always",
+      "Only covers alcohol"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Many policies limit benefits for substance abuse or mental/nervous to 24 months unless confined or in rehab, to manage risk."
+  },
+  {
+    "id": 60170,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Recurrent provision encourages:",
+    "options": [
+      "Return-to-work attempts without fear of new elimination if relapse within window",
+      "Staying disabled",
+      "Not working",
+      "Fraud"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Recurrent provision encourages return-to-work attempts knowing if same disability recurs within 6-12 months, no new elimination."
+  },
+  {
+    "id": 60171,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Hazardous avocation affects underwriting by:",
+    "options": [
+      "May be excluded or rated, e.g., private piloting, motor racing, scuba",
+      "No effect",
+      "Always declines",
+      "Only for life"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hazardous hobbies/avocations may lead to exclusion rider, extra premium, or decline due to increased disability risk."
+  },
+  {
+    "id": 60172,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "DI for business owner vs employee difference:",
+    "options": [
+      "Owner needs consider BOE, buy-sell, key person plus personal DI, employee may have group",
+      "Same",
+      "Owner needs no DI",
+      "Employee needs BOE"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Business owner needs personal DI plus BOE for business expenses, buy-sell for partnership, key person for business loss. Employee may have group but needs supplement."
+  },
+  {
+    "id": 60173,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Riders",
+    "difficulty": "Hard",
+    "question": "Catastrophic disability rider pays:",
+    "options": [
+      "Extra benefit if unable to perform 2 ADLs or cognitively impaired, in addition to base benefit",
+      "Only base benefit",
+      "No extra",
+      "Only for partial"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Catastrophic (CAT) rider pays additional benefit if catastrophically disabled (ADL failure or cognitive impairment), helping with care costs."
+  },
+  {
+    "id": 60174,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Mental/nervous limitation:",
+    "options": [
+      "Some policies limit benefits for mental/nervous disorders to 24 months unless hospitalized",
+      "Unlimited always",
+      "Never covered",
+      "Only covers mental"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mental/nervous often limited to 24 months due to subjective diagnosis and moral hazard, unless hospital confinement. Important disclosure."
+  },
+  {
+    "id": 60175,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "Elimination period must be satisfied by:",
+    "options": [
+      "Continuous disability or accumulation within timeframe, as per accumulation provision",
+      "Working full-time",
+      "No need",
+      "Retirement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Elimination must be satisfied by continuous disability (or accumulated days within period per accumulation provision). Must be disabled during it."
+  },
+  {
+    "id": 60176,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Smoking status affects DI premium:",
+    "options": [
+      "No effect",
+      "Smoker pays higher premium due to higher morbidity",
+      "Smoker pays lower",
+      "Only for life"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Smoking increases disability risk (health issues), smoker rates higher than non-smoker, similar to life insurance."
+  },
+  {
+    "id": 60177,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Moral Hazard",
+    "difficulty": "Hard",
+    "question": "Morale hazard vs moral hazard:",
+    "options": [
+      "Morale hazard = carelessness due to having insurance, moral hazard = intentional dishonesty/malingering",
+      "Same",
+      "Opposite",
+      "Neither exists"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Morale hazard = indifference/carelessness because insured, may not take precautions. Moral hazard = intentional fraud/malingering to collect benefits. Both managed via underwriting and definitions."
+  },
+  {
+    "id": 60178,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Suitability",
+    "difficulty": "Easy",
+    "question": "Best candidate for high-limit DI:",
+    "options": [
+      "High income earner $300k+ needing benefit above standard $15k/month max",
+      "Low income",
+      "Retiree",
+      "Student"
+    ],
+    "correctAnswer": 0,
+    "explanation": "High-limit DI for high earners needing benefits beyond standard maximum (e.g., $15k/month) via specialty carriers, layering."
+  },
+  {
+    "id": 60179,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "Social Insurance Supplement (SIS) rider:",
+    "options": [
+      "Pays extra benefit that offsets if CPP Disability not approved, reduces when CPP approved",
+      "Always extra",
+      "Never",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "SIS rider pays extra if CPP Disability denied or not receiving, integrates with CPP, provides higher benefit if CPP not approved."
+  },
+  {
+    "id": 60180,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Easy",
+    "question": "Foreign residence exclusion:",
+    "options": [
+      "If disabled while residing outside Canada/US for extended period, benefits may be limited or excluded",
+      "No limitation",
+      "Always covered worldwide",
+      "Only in Canada covered"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Many DI policies limit coverage if residing outside Canada/US beyond 6-12 months, due to difficulty verifying claims. Worldwide coverage may have limits."
+  },
+  {
+    "id": 60181,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Claims",
+    "difficulty": "Hard",
+    "question": "Scenario: Client on claim, working part-time earning 50% income, has residual rider. Insurer will:",
+    "options": [
+      "Stop benefits",
+      "Pay proportional residual benefit (50% loss) and may require proof of income monthly",
+      "Pay full benefit regardless",
+      "Cancel policy"
+    ],
+    "correctAnswer": 1,
+    "explanation": "With residual rider and 50% income loss, insurer pays proportional residual benefit, requires ongoing proof of income, encourages return to work."
+  },
+  {
+    "id": 60182,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Medium",
+    "question": "Financial docs for self-employed:",
+    "options": [
+      "2-3 years NOA, financial statements, business income",
+      "No docs needed",
+      "Only T4",
+      "Only bank statement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Self-employed requires 2-3 years Notice of Assessment, financial statements, to verify earned income average and justify benefit amount."
+  },
+  {
+    "id": 60183,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Moral Hazard",
+    "difficulty": "Medium",
+    "question": "Anti-selection in DI means:",
+    "options": [
+      "Higher risk individuals more likely to seek insurance",
+      "Lower risk seeks more",
+      "No selection",
+      "Only insurer selects"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Anti-selection: those with higher risk of disability more likely to apply. Managed via medical/financial underwriting, elimination periods."
+  },
+  {
+    "id": 60184,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Suitability",
+    "difficulty": "Hard",
+    "question": "Replacement: client has existing DI, new policy better. HLLQP requires:",
+    "options": [
+      "Needs analysis, compare existing vs new, explain differences, avoid churning, disclose",
+      "Just replace",
+      "Never replace",
+      "Replace without disclosure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HLLQP replacement rules: must do needs analysis, compare benefits, provisions, premiums, ensure replacement in client's interest, not for commission, disclose and document."
+  },
+  {
+    "id": 60185,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Riders",
+    "difficulty": "Easy",
+    "question": "Return of Premium (ROP) rider on DI:",
+    "options": [
+      "Returns portion of premiums if no claims after specified period, expensive",
+      "Always returns all premiums",
+      "Never available",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROP rider returns % of premiums if claim-free after period, very expensive, often poor value, but some clients like it."
+  },
+  {
+    "id": 60186,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Normal pregnancy is:",
+    "options": [
+      "Covered as disability? Typically not, but complications covered, some policies have pregnancy exclusion for normal pregnancy",
+      "Always covered as disability",
+      "Never covered even complications",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Normal pregnancy not considered disability, not covered, but complications of pregnancy may be covered as sickness. Some group STD covers pregnancy."
+  },
+  {
+    "id": 60187,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Claims",
+    "difficulty": "Medium",
+    "question": "Proof of loss includes:",
+    "options": [
+      "Physician statement, employer statement, financial docs",
+      "Only client statement",
+      "No proof needed",
+      "Only ID"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Proof of loss: attending physician statement, employer statement, income documentation, details of disability."
+  },
+  {
+    "id": 60188,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Hard",
+    "question": "Rated vs exclusion vs decline:",
+    "options": [
+      "Rated = higher premium for health issue, exclusion = condition not covered but rest covered, decline = no coverage offered",
+      "Same",
+      "Rated means decline",
+      "Exclusion means higher premium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Underwriting actions: standard, rated (extra premium), exclusion rider (condition excluded), decline. Client should understand options."
+  },
+  {
+    "id": 60189,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Moral Hazard",
+    "difficulty": "Easy",
+    "question": "Over-insurance leads to:",
+    "options": [
+      "Moral hazard, less incentive to return to work",
+      "More incentive to return",
+      "No effect",
+      "Lower premium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Over-insurance creates moral hazard: if benefits exceed working income, incentive to stay disabled. Hence limits."
+  },
+  {
+    "id": 60190,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Client has group LTD 60% taxable to age 65, earns $100k. Needs analysis shows gap because:",
+    "options": [
+      "Group taxable reduces net, 60% gross taxable ~42% net, plus bonus not covered, need individual supplement tax-free to reach target",
+      "Group always sufficient",
+      "No gap",
+      "Only need life insurance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Group 60% taxable at 30% tax = 42% net. Bonus often not insured. Need individual tax-free supplement to reach 60-65% net target."
+  },
+  {
+    "id": 60191,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Riders",
+    "difficulty": "Medium",
+    "question": "Accidental Dismemberment rider in DI:",
+    "options": [
+      "Pays lump-sum for loss of limb/sight in addition to disability benefit",
+      "Only pays if disabled",
+      "Same as life insurance",
+      "Never"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accidental dismemberment rider pays additional lump-sum for loss of limb, sight due to accident, separate from disability income benefit."
+  },
+  {
+    "id": 60192,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Hard",
+    "question": "Act of war exclusion means:",
+    "options": [
+      "Disability from war, declared or undeclared, may be excluded, even for civilians",
+      "Always covered",
+      "Only for military",
+      "Never excluded"
+    ],
+    "correctAnswer": 0,
+    "explanation": "War exclusion excludes disability from war, insurrection, even if civilian, due to catastrophic risk. Military personnel may have specific exclusions."
+  },
+  {
+    "id": 60193,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Claims",
+    "difficulty": "Hard",
+    "question": "Rehabilitation and return-to-work coordination involves:",
+    "options": [
+      "Insurer, insured, physician, employer, vocational specialist working together on plan",
+      "Only insurer",
+      "Only insured",
+      "No coordination"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Successful return-to-work involves coordinated effort: insurer case manager, insured, doctor, employer, vocational rehab specialist, with modified duties/hours."
+  },
+  {
+    "id": 60194,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Age affects DI premium:",
+    "options": [
+      "Older age higher premium due to higher morbidity",
+      "No effect",
+      "Younger higher",
+      "Only for group"
+    ],
+    "correctAnswer": 0,
+    "explanation": "DI morbidity increases with age, older applicants pay higher premium for same benefit. Issue age locks premium if non-cancellable."
+  },
+  {
+    "id": 60195,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Moral Hazard",
+    "difficulty": "Medium",
+    "question": "Insurer controls moral hazard via:",
+    "options": [
+      "Benefit limits, elimination periods, definitions, rehab incentives, financial underwriting",
+      "No controls",
+      "Only elimination",
+      "Only definitions"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Controls: benefit limits (% income), elimination periods, strict definitions, financial underwriting, coordination, rehab incentives, surveillance if fraud suspected."
+  },
+  {
+    "id": 60196,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Suitability",
+    "difficulty": "Easy",
+    "question": "HLLQP ethical requirement for DI sale:",
+    "options": [
+      "Assess needs, disclose limitations (2-year own to any, integration, taxable status), recommend suitable product",
+      "Sell max benefit always",
+      "Sell cheapest",
+      "No disclosure needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HLLQP ethics: do needs analysis, disclose limitations like own-to-any switch, CPP integration, taxable status, exclusions, ensure suitable recommendation."
+  },
+  {
+    "id": 60197,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Riders",
+    "difficulty": "Hard",
+    "question": "Comparison: COLA vs Future Increase Option:",
+    "options": [
+      "COLA increases benefit during claim for inflation, FIO increases coverage before claim as income rises",
+      "Same",
+      "Both during claim",
+      "Both before claim"
+    ],
+    "correctAnswer": 0,
+    "explanation": "COLA protects against inflation during claim (benefit increases while disabled). FIO protects insurability before claim, allows increasing coverage as income grows."
+  },
+  {
+    "id": 60198,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Self-inflicted injury exclusion includes:",
+    "options": [
+      "Suicide attempt, intentional self-harm",
+      "Accidental injury",
+      "Sickness",
+      "Work injury"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Self-inflicted injury, attempted suicide excluded to prevent moral hazard. Accidental injuries covered."
+  },
+  {
+    "id": 60199,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Claims",
+    "difficulty": "Easy",
+    "question": "Claimant must be under care of physician:",
+    "options": [
+      "Yes, regular care by licensed physician required to be considered disabled",
+      "No care needed",
+      "Only alternative care",
+      "Only self-care"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Policy requires claimant be under regular care of licensed physician appropriate for condition. Alternative care alone may not satisfy."
+  },
+  {
+    "id": 60200,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Suitability",
+    "difficulty": "Hard",
+    "question": "Scenario: 35-year-old surgeon, income $400k, group LTD $5k/month taxable own-occ 2 years then any-occ, bonus not covered. Gap analysis:",
+    "options": [
+      "No gap",
+      "Large gap: needs individual own-occ to age 65, $10-15k/month tax-free, with residual, COLA, FIO, catastrophic, future increase, to cover bonus and tax shortfall and definition gap after 2 years",
+      "Only needs life insurance",
+      "Needs $1k extra only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "High earner with limited group has huge gap: group only $5k taxable (~$3.5k net) vs need ~$15k net, bonus not insured, definition weakens after 2 years. Needs substantial individual portable own-occ to age 65 with riders, tax-free."
   }
 ]

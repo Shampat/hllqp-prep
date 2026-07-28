@@ -1,3202 +1,3202 @@
 [
   {
     "id": 1,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
+    "topic": "Seg Funds Basics",
     "difficulty": "Easy",
-    "question": "What is a segregated fund?",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "A type of investment insurance product",
-      "A bank account only",
-      "A government pension plan",
-      "A regular savings account"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds combine investment features with insurance protection."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 2,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
+    "topic": "Guarantees",
     "difficulty": "Easy",
-    "question": "Segregated funds are offered by:",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Insurance companies",
-      "Only banks",
-      "Stock exchanges",
-      "Government agencies"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds are insurance contracts offered by insurers."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 3,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Medium",
-    "question": "A segregated fund contract includes:",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Easy",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Insurance guarantees and investment options",
-      "Only stock ownership",
-      "Only tax payments",
-      "No contractual terms"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds provide investment choices with insurance features."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 4,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
+    "topic": "Death Benefit Guarantee",
     "difficulty": "Medium",
-    "question": "A maturity guarantee protects:",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "A portion of the investment value at maturity",
-      "All market gains forever",
-      "Only commissions",
-      "All withdrawals"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Maturity guarantees provide protection at the contract maturity date."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 5,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
+    "topic": "Reset",
     "difficulty": "Medium",
-    "question": "A death benefit guarantee provides protection when:",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "The contract holder dies",
-      "The market rises",
-      "A premium is missed",
-      "The investor changes funds"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Death benefit guarantees protect beneficiaries according to contract terms."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 6,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
-    "difficulty": "Easy",
-    "question": "Segregated funds allow investors to:",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Choose from investment options",
-      "Avoid all market risk",
-      "Guarantee profits",
-      "Remove all fees"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Investors can select from available investment options."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 7,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Creditor Protection",
     "difficulty": "Medium",
-    "question": "The value of segregated funds is generally affected by:",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Market performance",
-      "Only age",
-      "Only location",
-      "Government decisions"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Investment values can change based on market performance."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 8,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Easy",
-    "question": "The contract holder is the person who:",
+    "topic": "Estate Benefits",
+    "difficulty": "Medium",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Owns the segregated fund contract",
-      "Manages the insurer",
-      "Sets government rules",
-      "Receives all claims automatically"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "The contract holder owns the insurance investment contract."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 9,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Medium",
-    "question": "A segregated fund contract combines:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Investment and insurance features",
-      "Only banking services",
-      "Only tax benefits",
-      "Only savings"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds combine investment opportunities with guarantees."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 10,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
-    "difficulty": "Medium",
-    "question": "A guarantee in a segregated fund is based on:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Contract terms",
-      "Market rumours",
-      "Advisor opinion",
-      "Stock predictions"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees depend on the insurance contract."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 11,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
+    "topic": "Seg Funds Basics",
     "difficulty": "Easy",
-    "question": "The beneficiary receives:",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Death benefit proceeds",
-      "Premium payments",
-      "Investment advice",
-      "Tax refunds"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Beneficiaries receive benefits according to contract terms."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 12,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Fees",
+    "topic": "Guarantees",
     "difficulty": "Easy",
-    "question": "Segregated funds may include:",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Management fees",
-      "No costs ever",
-      "Guaranteed profits",
-      "Free insurance"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Investment products may have management fees."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 13,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Fees",
-    "difficulty": "Medium",
-    "question": "Fees should be explained because:",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Easy",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "They affect investment returns",
-      "They increase guarantees automatically",
-      "They remove risks",
-      "They replace contracts"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients should understand product costs."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 14,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
+    "topic": "Death Benefit Guarantee",
     "difficulty": "Medium",
-    "question": "An advisor should explain:",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Benefits, risks, and costs",
-      "Only advantages",
-      "Only guarantees",
-      "Only fees"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients need complete information."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 15,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "Suitability means recommending:",
+    "topic": "Reset",
+    "difficulty": "Medium",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Products appropriate for client needs",
-      "The most expensive product",
-      "Any available product",
-      "Only popular products"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Recommendations should match client circumstances."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 16,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Fees",
     "difficulty": "Medium",
-    "question": "Market value refers to:",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Current investment value",
-      "Original premium only",
-      "Guaranteed amount only",
-      "Tax amount"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Market value changes with investment performance."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 17,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
-    "difficulty": "Easy",
-    "question": "Segregated funds provide access to:",
+    "topic": "Creditor Protection",
+    "difficulty": "Medium",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Investment portfolios",
-      "Only chequing accounts",
-      "Mortgages",
-      "Government bonds only"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds offer investment choices."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 18,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
+    "topic": "Estate Benefits",
     "difficulty": "Medium",
-    "question": "Guarantees are valuable because they:",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Provide protection against some losses",
-      "Guarantee unlimited profits",
-      "Remove all fees",
-      "Prevent all market changes"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees provide protection under specified conditions."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 19,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Withdrawals",
-    "difficulty": "Medium",
-    "question": "Withdrawals from segregated funds may:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Reduce guarantees",
-      "Increase guarantees automatically",
-      "Remove fees permanently",
-      "Create insurance coverage"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Withdrawals may affect guaranteed values."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 20,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Withdrawals",
-    "difficulty": "Easy",
-    "question": "Before withdrawing money, clients should consider:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Contract impact",
-      "Only market rumours",
-      "Only taxes",
-      "Only commissions"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Withdrawals may affect contract benefits."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 21,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
+    "topic": "Seg Funds Basics",
     "difficulty": "Easy",
-    "question": "Segregated funds are considered:",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Insurance investment products",
-      "Regular savings accounts",
-      "Government programs",
-      "Loans"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "They are insurance contracts with investment components."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 22,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
-    "difficulty": "Medium",
-    "question": "The insurer provides:",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Contractual guarantees",
-      "Stock market predictions",
-      "Tax advice only",
-      "Banking services"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "The insurer provides guarantees stated in the contract."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 23,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Beneficiaries",
+    "topic": "Maturity Guarantee",
     "difficulty": "Easy",
-    "question": "A beneficiary designation allows:",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Payment to selected individuals after death",
-      "Guaranteed investment growth",
-      "Free withdrawals",
-      "Tax elimination"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Beneficiaries receive contract benefits."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 24,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Beneficiaries",
+    "topic": "Death Benefit Guarantee",
     "difficulty": "Medium",
-    "question": "Beneficiary information should be:",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Reviewed and updated when needed",
-      "Ignored forever",
-      "Shared publicly",
-      "Removed automatically"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Keeping beneficiary information current is important."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 25,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
+    "topic": "Reset",
     "difficulty": "Medium",
-    "question": "The main purpose of segregated funds is:",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Combine investment growth potential with insurance protection",
-      "Guarantee every investment",
-      "Avoid all fees",
-      "Replace all insurance"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds combine investment and insurance features."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 26,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Fees",
     "difficulty": "Medium",
-    "question": "Segregated funds are invested in:",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Underlying investment funds",
-      "Only cash accounts",
-      "Government offices",
-      "Personal loans"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds invest in underlying funds selected by the investor."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 27,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
-    "difficulty": "Easy",
-    "question": "The investment value of a segregated fund may:",
+    "topic": "Creditor Protection",
+    "difficulty": "Medium",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Increase or decrease with markets",
-      "Never change",
-      "Only increase",
-      "Always stay guaranteed"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Market performance affects investment value."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 28,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
+    "topic": "Estate Benefits",
     "difficulty": "Medium",
-    "question": "The contract maturity date is:",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "The date when maturity guarantees apply",
-      "The purchase date only",
-      "The withdrawal date",
-      "The tax date"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Maturity guarantees apply at the contract maturity date."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 29,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
-    "difficulty": "Medium",
-    "question": "Maturity guarantees are based on:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Specified contract conditions",
-      "Market predictions",
-      "Advisor promises",
-      "Government decisions"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees are defined in the contract."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 30,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
-    "difficulty": "Easy",
-    "question": "A death benefit guarantee protects:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Beneficiaries",
-      "The stock market",
-      "The advisor",
-      "The government"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Death benefit guarantees provide protection to beneficiaries."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 31,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Fees",
-    "difficulty": "Medium",
-    "question": "Management expense ratios affect:",
+    "topic": "Seg Funds Basics",
+    "difficulty": "Easy",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Investment returns",
-      "Beneficiary choices",
-      "Contract ownership",
-      "Insurance claims"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Fees reduce the net investment return."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 32,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Fees",
+    "topic": "Guarantees",
     "difficulty": "Easy",
-    "question": "Clients should understand fees because:",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Costs affect returns",
-      "Fees guarantee profits",
-      "Fees remove risk",
-      "Fees create beneficiaries"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Understanding costs helps clients make informed decisions."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 33,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
-    "difficulty": "Medium",
-    "question": "Investment risk refers to:",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Easy",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Possibility that investment value changes",
-      "Guaranteed loss",
-      "Insurance fees only",
-      "Contract ownership"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Investment values can fluctuate."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 34,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
-    "difficulty": "Easy",
-    "question": "Segregated funds may reduce risk through:",
+    "topic": "Death Benefit Guarantee",
+    "difficulty": "Medium",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Insurance guarantees",
-      "Higher fees only",
-      "No investments",
-      "Government payments"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees can provide some protection."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 35,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
+    "topic": "Reset",
     "difficulty": "Medium",
-    "question": "An advisor must explain:",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Risks and benefits",
-      "Only potential gains",
-      "Only guarantees",
-      "Only fees"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Balanced disclosure is required."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 36,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "Client information should be:",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Kept confidential",
-      "Shared publicly",
-      "Sold to others",
-      "Ignored"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Privacy is a professional responsibility."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 37,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
+    "topic": "Creditor Protection",
     "difficulty": "Medium",
-    "question": "A suitable recommendation considers:",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Client objectives and risk tolerance",
-      "Commission only",
-      "Market rumours",
-      "Advisor preference"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Suitability requires understanding the client."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 38,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
+    "topic": "Estate Benefits",
     "difficulty": "Medium",
-    "question": "Risk tolerance measures:",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "How much investment risk a client can accept",
-      "The amount of fees",
-      "The contract date",
-      "The beneficiary name"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Risk tolerance helps determine suitable investments."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 39,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
-    "difficulty": "Easy",
-    "question": "Asset allocation means:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "How investments are divided among categories",
-      "The insurance premium",
-      "The beneficiary list",
-      "The contract owner"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Asset allocation describes investment distribution."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 40,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
-    "difficulty": "Medium",
-    "question": "Diversification helps:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Spread investment risk",
-      "Guarantee profits",
-      "Remove all losses",
-      "Avoid contracts"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Diversification can reduce concentration risk."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 41,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Withdrawals",
-    "difficulty": "Medium",
-    "question": "Early withdrawals may:",
+    "topic": "Seg Funds Basics",
+    "difficulty": "Easy",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Affect guarantees",
-      "Increase guarantees automatically",
-      "Remove all fees",
-      "Create new coverage"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Withdrawals can reduce guaranteed amounts."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 42,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Withdrawals",
+    "topic": "Guarantees",
     "difficulty": "Easy",
-    "question": "Clients should review withdrawal rules because:",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Contract values may change",
-      "Withdrawals are always free",
-      "Guarantees always increase",
-      "Fees disappear"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Withdrawal provisions affect contract benefits."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 43,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Beneficiaries",
-    "difficulty": "Medium",
-    "question": "A beneficiary designation may provide:",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Easy",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Protection for estate planning goals",
-      "Guaranteed returns",
-      "No contract terms",
-      "Unlimited withdrawals"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Beneficiary designations are useful estate planning tools."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 44,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Beneficiaries",
-    "difficulty": "Easy",
-    "question": "Beneficiary information should be:",
+    "topic": "Death Benefit Guarantee",
+    "difficulty": "Medium",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Accurate and current",
-      "Hidden from the owner",
-      "Ignored",
-      "Changed randomly"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Current beneficiary information helps ensure proper payment."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 45,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Tax Features",
+    "topic": "Reset",
     "difficulty": "Medium",
-    "question": "Tax treatment of segregated funds depends on:",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Applicable tax rules",
-      "Market performance only",
-      "Advisor choice",
-      "Investment colour"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Tax treatment follows applicable laws."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 46,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Tax Features",
-    "difficulty": "Easy",
-    "question": "Clients should seek tax advice when:",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Tax issues are complex",
-      "Buying any product",
-      "Changing beneficiaries only",
-      "Reviewing markets"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional tax advice may be appropriate."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 47,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
+    "topic": "Creditor Protection",
     "difficulty": "Medium",
-    "question": "A segregated fund contract is different from a mutual fund because it:",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Includes insurance features",
-      "Has no investments",
-      "Cannot change value",
-      "Is only a bank product"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds include insurance guarantees."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 48,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
-    "difficulty": "Easy",
-    "question": "Segregated funds are designed for:",
+    "topic": "Estate Benefits",
+    "difficulty": "Medium",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Investors seeking investment and insurance features",
-      "Only borrowers",
-      "Only businesses",
-      "Only governments"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "They combine investment options with insurance protection."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 49,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Medium",
-    "question": "Contract terms should be:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Reviewed carefully",
-      "Ignored",
-      "Changed without approval",
-      "Assumed"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Understanding contract terms is important."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 50,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "The best recommendation is based on:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Client needs and circumstances",
-      "Highest commission",
-      "Market rumours",
-      "Advisor convenience"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Recommendations should be suitable for the client."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 51,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
+    "topic": "Seg Funds Basics",
     "difficulty": "Easy",
-    "question": "The policyholder of a segregated fund is the person who:",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Owns the contract",
-      "Manages the stock market",
-      "Creates tax laws",
-      "Guarantees returns"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "The policyholder owns the insurance contract."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 52,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Medium",
-    "question": "The contract holder can usually:",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Make decisions about the contract",
-      "Change government rules",
-      "Control markets",
-      "Guarantee profits"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "The contract holder has rights under the contract."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 53,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Maturity Guarantee",
     "difficulty": "Easy",
-    "question": "Investment options allow clients to:",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Select different funds",
-      "Avoid all risk",
-      "Remove insurance",
-      "Change laws"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients may choose from available investment options."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 54,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Death Benefit Guarantee",
     "difficulty": "Medium",
-    "question": "Fund performance depends on:",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Underlying investments",
-      "Beneficiary choices",
-      "Contract colour",
-      "Advisor location"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Performance is linked to the investments held."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 55,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
-    "difficulty": "Easy",
-    "question": "Market risk means:",
+    "topic": "Reset",
+    "difficulty": "Medium",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Investment values can fluctuate",
-      "Benefits disappear always",
-      "Contracts end automatically",
-      "Fees stop"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Market movements affect investment values."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 56,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
+    "topic": "Fees",
     "difficulty": "Medium",
-    "question": "A conservative investor may prefer:",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Lower-risk investment options",
-      "Maximum volatility",
-      "No information",
-      "Highest fees"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Risk preference affects investment choices."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 57,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
+    "topic": "Creditor Protection",
     "difficulty": "Medium",
-    "question": "Risk tolerance should be assessed:",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Before making recommendations",
-      "After buying products",
-      "Only during claims",
-      "Never"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Risk assessment helps determine suitability."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 58,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
-    "difficulty": "Easy",
-    "question": "Guarantees are provided by:",
+    "topic": "Estate Benefits",
+    "difficulty": "Medium",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "The insurance contract",
-      "Market performance",
-      "Investment rumours",
-      "Other investors"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees come from contract terms."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 59,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
-    "difficulty": "Medium",
-    "question": "Guarantees may require:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Meeting contract conditions",
-      "Ignoring the contract",
-      "Frequent withdrawals",
-      "No premiums"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees apply according to conditions."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 60,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Fees",
-    "difficulty": "Easy",
-    "question": "Investment fees generally:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Reduce returns",
-      "Increase guarantees",
-      "Remove risk",
-      "Create benefits"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Fees reduce the amount earned by investors."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 61,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Fees",
-    "difficulty": "Medium",
-    "question": "Fee disclosure helps clients:",
+    "topic": "Seg Funds Basics",
+    "difficulty": "Easy",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Understand product costs",
-      "Avoid contracts",
-      "Guarantee returns",
-      "Remove taxes"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients need transparency about costs."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 62,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
+    "topic": "Guarantees",
     "difficulty": "Easy",
-    "question": "An advisor should provide:",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Clear information",
-      "False guarantees",
-      "Hidden fees",
-      "Pressure decisions"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Clear communication supports informed decisions."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 63,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "Misrepresentation means:",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Easy",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Providing false or misleading information",
-      "Explaining benefits",
-      "Reviewing needs",
-      "Comparing products"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "False information is unacceptable."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 64,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "Client interests should come:",
+    "topic": "Death Benefit Guarantee",
+    "difficulty": "Medium",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Before advisor compensation",
-      "After commissions",
-      "After sales goals",
-      "Last"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Advice should prioritize client needs."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 65,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Beneficiaries",
+    "topic": "Reset",
     "difficulty": "Medium",
-    "question": "A beneficiary can receive:",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Death benefit proceeds",
-      "Investment advice",
-      "Premium discounts",
-      "Tax refunds"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Beneficiaries receive contract benefits."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 66,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Beneficiaries",
-    "difficulty": "Easy",
-    "question": "A beneficiary designation should be:",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Reviewed periodically",
-      "Ignored forever",
-      "Made randomly",
-      "Removed always"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Life changes may require updates."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 67,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Estate Planning",
+    "topic": "Creditor Protection",
     "difficulty": "Medium",
-    "question": "Segregated funds may help with:",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Estate planning",
-      "Vehicle financing",
-      "Mortgage approval",
-      "Employment contracts"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Beneficiary features can support estate planning."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 68,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Estate Planning",
-    "difficulty": "Easy",
-    "question": "A beneficiary may help:",
+    "topic": "Estate Benefits",
+    "difficulty": "Medium",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Direct payment of benefits",
-      "Increase market returns",
-      "Remove fees",
-      "Change investments"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Beneficiary designations direct benefit payments."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 69,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Medium",
-    "question": "Contract guarantees are based on:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Specified dates and conditions",
-      "Market rumours",
-      "Advisor predictions",
-      "Client wishes only"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees depend on contract rules."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 70,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Easy",
-    "question": "Reading the contract helps clients:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Understand rights and obligations",
-      "Avoid investments",
-      "Guarantee profits",
-      "Remove risks"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Contract knowledge is important."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 71,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
-    "difficulty": "Medium",
-    "question": "Rebalancing a portfolio means:",
+    "topic": "Seg Funds Basics",
+    "difficulty": "Easy",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Adjusting investment allocation",
-      "Ending the contract",
-      "Changing beneficiaries",
-      "Removing guarantees"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Rebalancing changes investment proportions."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 72,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Guarantees",
     "difficulty": "Easy",
-    "question": "Diversification involves:",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Spreading investments",
-      "Buying one asset only",
-      "Avoiding all investments",
-      "Removing insurance"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Diversification spreads risk."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 73,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
-    "difficulty": "Medium",
-    "question": "Segregated funds are regulated as:",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Easy",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Insurance products",
-      "Bank accounts",
-      "Loans",
-      "Government grants"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds are insurance contracts."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 74,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
-    "difficulty": "Easy",
-    "question": "The insurer provides:",
+    "topic": "Death Benefit Guarantee",
+    "difficulty": "Medium",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Contractual protection",
-      "Stock predictions",
-      "Tax refunds",
-      "Employment benefits"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "The insurer provides benefits stated in the contract."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 75,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
+    "topic": "Reset",
     "difficulty": "Medium",
-    "question": "Understanding client goals helps:",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Select suitable products",
-      "Guarantee returns",
-      "Remove market changes",
-      "Avoid contracts"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Recommendations should match client objectives."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 76,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
-    "difficulty": "Easy",
-    "question": "A fund switch allows a client to:",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Move money between investment options",
-      "End the contract automatically",
-      "Remove guarantees",
-      "Avoid all fees"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Fund switches allow movement between available options."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 77,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Creditor Protection",
     "difficulty": "Medium",
-    "question": "Before switching funds, clients should consider:",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Investment objectives and consequences",
-      "Only advertisements",
-      "Only commissions",
-      "Nothing"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Fund choices should match client goals."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 78,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
-    "difficulty": "Easy",
-    "question": "Investment diversification helps:",
+    "topic": "Estate Benefits",
+    "difficulty": "Medium",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Reduce concentration risk",
-      "Guarantee profits",
-      "Remove contracts",
-      "Stop markets"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Diversification can reduce concentration of risk."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 79,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
-    "difficulty": "Medium",
-    "question": "An aggressive investor may accept:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Greater investment fluctuations",
-      "No market changes",
-      "Guaranteed returns",
-      "No risk"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Riskier investments may have greater fluctuations."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 80,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
-    "difficulty": "Easy",
-    "question": "A client's risk profile includes:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Risk tolerance and objectives",
-      "Favourite investments only",
-      "Income tax only",
-      "Age only"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Risk profile considers several client factors."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 81,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
-    "difficulty": "Medium",
-    "question": "A guarantee does not mean:",
+    "topic": "Seg Funds Basics",
+    "difficulty": "Easy",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Unlimited investment growth",
-      "Protection under conditions",
-      "Contract protection",
-      "Specified benefits"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees do not promise unlimited growth."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 82,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
     "topic": "Guarantees",
     "difficulty": "Easy",
-    "question": "Guarantees are valuable because they:",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Provide protection features",
-      "Eliminate investing",
-      "Control markets",
-      "Increase fees"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees provide additional protection."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 83,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Fees",
-    "difficulty": "Medium",
-    "question": "High fees may:",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Easy",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Reduce net returns",
-      "Increase guarantees",
-      "Remove risk",
-      "Improve markets"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Fees affect the amount investors receive."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 84,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Fees",
-    "difficulty": "Easy",
-    "question": "Fee information should be:",
+    "topic": "Death Benefit Guarantee",
+    "difficulty": "Medium",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Provided clearly to clients",
-      "Hidden",
-      "Ignored",
-      "Changed secretly"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients should understand costs."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 85,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
+    "topic": "Reset",
     "difficulty": "Medium",
-    "question": "Know-your-client requirements help advisors:",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Understand client circumstances",
-      "Increase commissions",
-      "Avoid documentation",
-      "Guarantee results"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Knowing the client supports suitable advice."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 86,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "Documentation should be:",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Accurate and complete",
-      "Optional always",
-      "Destroyed immediately",
-      "Hidden"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Proper documentation supports compliance."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 87,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
+    "topic": "Creditor Protection",
     "difficulty": "Medium",
-    "question": "An advisor should avoid:",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Conflicts of interest",
-      "Clear explanations",
-      "Client reviews",
-      "Documentation"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Conflicts must be managed appropriately."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 88,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Easy",
-    "question": "A contract owner should know:",
+    "topic": "Estate Benefits",
+    "difficulty": "Medium",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Contract benefits and conditions",
-      "Only the product name",
-      "Only fees",
-      "Only returns"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Understanding the contract is important."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 89,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Medium",
-    "question": "Changing contract information may require:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Following insurer procedures",
-      "Ignoring the contract",
-      "Market approval",
-      "Government approval only"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Changes must follow contract rules."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 90,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Beneficiaries",
-    "difficulty": "Easy",
-    "question": "Beneficiary designations are important because:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "They identify who receives benefits",
-      "They guarantee returns",
-      "They change investments",
-      "They remove fees"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Beneficiaries receive contract benefits."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 91,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Estate Planning",
-    "difficulty": "Medium",
-    "question": "Segregated funds may provide:",
+    "topic": "Seg Funds Basics",
+    "difficulty": "Easy",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Efficient benefit transfer features",
-      "Guaranteed wealth",
-      "No taxes ever",
-      "No paperwork"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Certain features may support estate planning."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 92,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Tax Features",
-    "difficulty": "Medium",
-    "question": "Tax consequences should be considered when:",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Making investment decisions",
-      "Ignoring contracts",
-      "Changing markets",
-      "Selecting colours"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Tax considerations may affect decisions."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 93,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Maturity Guarantee",
     "difficulty": "Easy",
-    "question": "Investment objectives describe:",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "What the client wants to achieve",
-      "The advisor's goals",
-      "Market predictions",
-      "Government plans"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Objectives guide recommendations."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 94,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Death Benefit Guarantee",
     "difficulty": "Medium",
-    "question": "Time horizon refers to:",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "How long money is invested",
-      "Investment fee amount",
-      "Contract colour",
-      "Beneficiary age"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Time horizon affects investment choices."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 95,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
+    "topic": "Reset",
     "difficulty": "Medium",
-    "question": "A longer investment horizon may:",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Allow more time for market changes",
-      "Guarantee profits",
-      "Remove all risk",
-      "Avoid contracts"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Time horizon is a factor in investment planning."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 96,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
-    "difficulty": "Easy",
-    "question": "Segregated funds provide:",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Investment choices with insurance protection",
-      "Only savings accounts",
-      "Only loans",
-      "Only tax services"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds combine features."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 97,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
+    "topic": "Creditor Protection",
     "difficulty": "Medium",
-    "question": "The insurance component provides:",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Contract guarantees",
-      "Market control",
-      "Government payments",
-      "Stock predictions"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Insurance features provide contractual guarantees."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 98,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "An advisor should recommend products based on:",
+    "topic": "Estate Benefits",
+    "difficulty": "Medium",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Client needs",
-      "Highest commission",
-      "Personal preference",
-      "Market rumours"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Recommendations should be suitable."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 99,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "Suitability review should include:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Client goals, risk, and circumstances",
-      "Only age",
-      "Only income",
-      "Only investments"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Suitability requires a complete client review."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 100,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
-    "difficulty": "Medium",
-    "question": "Segregated funds are best described as:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Insurance contracts with investment features",
-      "Bank deposits",
-      "Loans",
-      "Government programs"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "They combine insurance protection with investment options."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 101,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
+    "topic": "Seg Funds Basics",
     "difficulty": "Easy",
-    "question": "The contract anniversary date is used to:",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Track contract milestones",
-      "Guarantee profits",
-      "Change markets",
-      "Remove fees"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Contract dates help determine features and benefits."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 102,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Medium",
-    "question": "Contract information should be reviewed:",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Regularly with the client",
-      "Never",
-      "Only after claims",
-      "Only after losses"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Regular reviews help keep information accurate."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 103,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Maturity Guarantee",
     "difficulty": "Easy",
-    "question": "Investment portfolios contain:",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Selected underlying investments",
-      "Only insurance fees",
-      "Only taxes",
-      "Only guarantees"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Portfolios contain underlying investments."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 104,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Death Benefit Guarantee",
     "difficulty": "Medium",
-    "question": "Investment performance should be evaluated:",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Against client objectives",
-      "Only against advertisements",
-      "Only against fees",
-      "Without information"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Performance should be considered in relation to goals."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 105,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
-    "difficulty": "Easy",
-    "question": "Risk and return are often:",
+    "topic": "Reset",
+    "difficulty": "Medium",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Related",
-      "Identical",
-      "Unrelated always",
-      "Guaranteed"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Higher potential returns often involve different levels of risk."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 106,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
+    "topic": "Fees",
     "difficulty": "Medium",
-    "question": "Investment risk can be managed by:",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Diversification and planning",
-      "Ignoring markets",
-      "Removing contracts",
-      "Avoiding information"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Planning and diversification help manage risk."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 107,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
-    "difficulty": "Easy",
-    "question": "Guarantees are not the same as:",
+    "topic": "Creditor Protection",
+    "difficulty": "Medium",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Market gains",
-      "Contract benefits",
-      "Insurance features",
-      "Specified protection"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees provide protection, not unlimited gains."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 108,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
+    "topic": "Estate Benefits",
     "difficulty": "Medium",
-    "question": "A guarantee amount may depend on:",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Premiums and contract terms",
-      "Stock predictions",
-      "Advisor opinion",
-      "Government changes"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantee calculations follow contract rules."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 109,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Withdrawals",
-    "difficulty": "Easy",
-    "question": "Withdrawals reduce:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "The amount invested",
-      "The beneficiary name",
-      "The advisor license",
-      "The market"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Withdrawals remove money from the contract."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 110,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Withdrawals",
-    "difficulty": "Medium",
-    "question": "Clients should understand withdrawal:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Effects on guarantees and values",
-      "Only paperwork",
-      "Only commissions",
-      "Only taxes"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Withdrawals may affect benefits."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 111,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Beneficiaries",
+    "topic": "Seg Funds Basics",
     "difficulty": "Easy",
-    "question": "The beneficiary receives payment after:",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "The insured person's death according to contract terms",
-      "Every withdrawal",
-      "Market increase",
-      "Premium payment"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Death benefits are paid according to contract provisions."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 112,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Beneficiaries",
-    "difficulty": "Medium",
-    "question": "Beneficiary designations should consider:",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Client wishes and estate goals",
-      "Market forecasts",
-      "Advisor preferences",
-      "Advertising"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Beneficiary planning reflects client goals."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 113,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Estate Planning",
+    "topic": "Maturity Guarantee",
     "difficulty": "Easy",
-    "question": "Estate planning helps:",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Organize transfer of assets",
-      "Increase market returns",
-      "Remove contracts",
-      "Avoid all taxes"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Estate planning organizes asset transfer."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 114,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Estate Planning",
+    "topic": "Death Benefit Guarantee",
     "difficulty": "Medium",
-    "question": "Segregated funds may provide:",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Creditor protection features in some situations",
-      "Guaranteed profits",
-      "No fees",
-      "No rules"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Certain contracts may have creditor protection features."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 115,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Tax Features",
-    "difficulty": "Easy",
-    "question": "Tax treatment depends on:",
+    "topic": "Reset",
+    "difficulty": "Medium",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Applicable legislation",
-      "Market colour",
-      "Advisor choice",
-      "Investment name"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Tax rules determine treatment."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 116,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Tax Features",
+    "topic": "Fees",
     "difficulty": "Medium",
-    "question": "Clients with tax questions should:",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Seek appropriate professional advice",
-      "Ignore taxes",
-      "Change beneficiaries only",
-      "Avoid contracts"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Tax advice may require specialists."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 117,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "An advisor should:",
+    "topic": "Creditor Protection",
+    "difficulty": "Medium",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Act professionally",
-      "Hide information",
-      "Promise results",
-      "Ignore needs"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional conduct requires responsible behaviour."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 118,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
+    "topic": "Estate Benefits",
     "difficulty": "Medium",
-    "question": "Client records should be:",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Maintained properly",
-      "Destroyed immediately",
-      "Shared publicly",
-      "Ignored"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Proper records support compliance."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 119,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "Disclosure means:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Providing relevant information",
-      "Hiding costs",
-      "Avoiding questions",
-      "Making promises"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Disclosure helps clients make informed choices."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 120,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "An advisor should explain:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Limitations as well as benefits",
-      "Only advantages",
-      "Only fees",
-      "Only risks"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Balanced explanations are required."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 121,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
+    "topic": "Seg Funds Basics",
     "difficulty": "Easy",
-    "question": "Segregated funds are designed to:",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Combine investment and insurance features",
-      "Replace all products",
-      "Remove markets",
-      "Guarantee wealth"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "They combine investment options and insurance protection."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 122,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
-    "difficulty": "Medium",
-    "question": "The insurer's role is to:",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Provide contractual insurance benefits",
-      "Control investments daily",
-      "Set stock prices",
-      "Choose beneficiaries"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "The insurer provides contract benefits."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 123,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Maturity Guarantee",
     "difficulty": "Easy",
-    "question": "An investment objective may include:",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Growth or income goals",
-      "Guaranteed wealth",
-      "No planning",
-      "No risk"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Objectives guide investment selection."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 124,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Death Benefit Guarantee",
     "difficulty": "Medium",
-    "question": "Asset mix refers to:",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Distribution among investment categories",
-      "Contract ownership",
-      "Beneficiary choice",
-      "Premium dates"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Asset mix describes portfolio allocation."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 125,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
+    "topic": "Reset",
     "difficulty": "Medium",
-    "question": "A balanced investor may prefer:",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "A mix of growth and protection",
-      "Only highest risk",
-      "No investments",
-      "Only cash"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Balanced approaches combine different objectives."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 126,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
-    "difficulty": "Easy",
-    "question": "A portfolio manager may:",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Manage underlying investments",
-      "Guarantee profits",
-      "Change laws",
-      "Approve claims"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Portfolio managers manage investment selections."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 127,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Creditor Protection",
     "difficulty": "Medium",
-    "question": "Investment choices should match:",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Client objectives and risk profile",
-      "Advisor commission",
-      "Market rumours",
-      "Advertising"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Choices should be suitable for the client."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 128,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
-    "difficulty": "Easy",
-    "question": "Volatility means:",
+    "topic": "Estate Benefits",
+    "difficulty": "Medium",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Changes in investment value",
-      "Guaranteed growth",
-      "Contract ownership",
-      "Insurance fees"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Volatility describes price fluctuations."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 129,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
-    "difficulty": "Medium",
-    "question": "Market downturns may:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Reduce investment values",
-      "Increase guarantees automatically",
-      "Remove contracts",
-      "Stop fees"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Markets can affect investment values."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 130,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
-    "difficulty": "Easy",
-    "question": "Guarantees provide:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Specified protection",
-      "Unlimited returns",
-      "No contract rules",
-      "Market control"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees provide defined protection."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 131,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
-    "difficulty": "Medium",
-    "question": "Guarantees should be explained with:",
+    "topic": "Seg Funds Basics",
+    "difficulty": "Easy",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Contract conditions",
-      "Predictions",
-      "Opinions",
-      "Advertisements"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Contract details determine guarantees."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 132,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Fees",
+    "topic": "Guarantees",
     "difficulty": "Easy",
-    "question": "Fees are disclosed to:",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Help clients understand costs",
-      "Hide expenses",
-      "Increase returns",
-      "Remove risk"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Disclosure supports informed decisions."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 133,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Fees",
-    "difficulty": "Medium",
-    "question": "Lower fees may:",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Easy",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Improve net returns",
-      "Guarantee profits",
-      "Remove market risk",
-      "Change beneficiaries"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Fees affect net investment results."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 134,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Withdrawals",
-    "difficulty": "Easy",
-    "question": "A withdrawal is:",
+    "topic": "Death Benefit Guarantee",
+    "difficulty": "Medium",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Removing money from the contract",
-      "Adding a beneficiary",
-      "Changing markets",
-      "Buying insurance"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Withdrawals remove contract value."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 135,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Withdrawals",
+    "topic": "Reset",
     "difficulty": "Medium",
-    "question": "Frequent withdrawals may affect:",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Contract guarantees",
-      "Advisor license",
-      "Government rules",
-      "Market operation"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Withdrawals can reduce guarantees."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 136,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Beneficiaries",
-    "difficulty": "Easy",
-    "question": "A beneficiary receives:",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Contract benefits",
-      "Investment control",
-      "Advisor income",
-      "Premium refunds"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Beneficiaries receive benefits under the contract."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 137,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Beneficiaries",
+    "topic": "Creditor Protection",
     "difficulty": "Medium",
-    "question": "Beneficiary choices should reflect:",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Client intentions",
-      "Market timing",
-      "Advisor preference",
-      "Advertising"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Beneficiary designation should follow client wishes."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 138,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Estate Planning",
-    "difficulty": "Easy",
-    "question": "Estate planning involves:",
+    "topic": "Estate Benefits",
+    "difficulty": "Medium",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Planning asset transfer",
-      "Predicting markets",
-      "Removing insurance",
-      "Avoiding contracts"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Estate planning organizes distribution of assets."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 139,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Estate Planning",
-    "difficulty": "Medium",
-    "question": "Segregated funds may help because of:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Insurance contract features",
-      "Stock ownership",
-      "Bank guarantees",
-      "Government payments"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Insurance features may support planning goals."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 140,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Tax Features",
-    "difficulty": "Easy",
-    "question": "Tax rules may change:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Over time",
-      "Never",
-      "By advisor choice",
-      "By market value"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Tax legislation can change."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 141,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Tax Features",
-    "difficulty": "Medium",
-    "question": "Tax advice should come from:",
+    "topic": "Seg Funds Basics",
+    "difficulty": "Easy",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Qualified professionals when needed",
-      "Friends",
-      "Advertisements",
-      "Market reports"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Specialized advice may be required."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 142,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
+    "topic": "Guarantees",
     "difficulty": "Easy",
-    "question": "An advisor should avoid:",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Misleading statements",
-      "Clear explanations",
-      "Documentation",
-      "Client reviews"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Misleading statements are unacceptable."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 143,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "Good documentation protects:",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Easy",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Clients and advisors",
-      "Only markets",
-      "Only insurers",
-      "Only investments"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Records support accountability."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 144,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Easy",
-    "question": "Premiums are:",
+    "topic": "Death Benefit Guarantee",
+    "difficulty": "Medium",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Payments made for the contract",
-      "Market returns",
-      "Beneficiary payments",
-      "Tax refunds"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Premiums fund the insurance contract."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 145,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
+    "topic": "Reset",
     "difficulty": "Medium",
-    "question": "Premium amount may affect:",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Contract value and guarantees",
-      "Market rules",
-      "Advisor license",
-      "Tax laws"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Premiums can influence contract benefits."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 146,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
-    "difficulty": "Easy",
-    "question": "Segregated funds are:",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Insurance contracts with investments",
-      "Bank loans",
-      "Savings accounts only",
-      "Government programs"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "They are insurance-based investment products."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 147,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
+    "topic": "Creditor Protection",
     "difficulty": "Medium",
-    "question": "The main advantage of segregated funds is:",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Combination of investment and insurance features",
-      "No market changes",
-      "Unlimited returns",
-      "No costs"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "They combine multiple features."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 148,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
-    "difficulty": "Easy",
-    "question": "Investment statements show:",
+    "topic": "Estate Benefits",
+    "difficulty": "Medium",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Account and investment information",
-      "Government rules",
-      "Advisor salary",
-      "Insurance claims only"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Statements provide investment details."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 149,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
-    "difficulty": "Medium",
-    "question": "Reviewing statements helps clients:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Monitor investments",
-      "Guarantee results",
-      "Remove risk",
-      "Avoid contracts"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Reviews help track progress."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 150,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "Regular client reviews help:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Keep recommendations suitable",
-      "Increase fees",
-      "Remove guarantees",
-      "Avoid documentation"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Reviews help maintain suitability."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 151,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Seg Funds Basics",
     "difficulty": "Easy",
-    "question": "Investment performance reports help clients:",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Understand investment progress",
-      "Guarantee returns",
-      "Remove fees",
-      "Change laws"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Reports help clients monitor investments."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 152,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
-    "difficulty": "Medium",
-    "question": "A client review should consider:",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Changing needs and objectives",
-      "Only market news",
-      "Only fees",
-      "Only age"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Client circumstances can change."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 153,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
+    "topic": "Maturity Guarantee",
     "difficulty": "Easy",
-    "question": "Risk assessment helps determine:",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Suitable investments",
-      "Guaranteed profits",
-      "Contract dates",
-      "Tax rates"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Risk assessment supports suitable recommendations."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 154,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
+    "topic": "Death Benefit Guarantee",
     "difficulty": "Medium",
-    "question": "Investment losses are possible because:",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Markets fluctuate",
-      "Contracts disappear",
-      "Fees stop",
-      "Guarantees fail always"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Market changes can affect investment values."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 155,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
-    "difficulty": "Easy",
-    "question": "Guarantees are:",
+    "topic": "Reset",
+    "difficulty": "Medium",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Contract-based protections",
-      "Market promises",
-      "Advisor opinions",
-      "Predictions"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees come from the insurance contract."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 156,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
+    "topic": "Fees",
     "difficulty": "Medium",
-    "question": "Clients should understand guarantee:",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Conditions and limitations",
-      "Only benefits",
-      "Only returns",
-      "Only fees"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees have specific conditions."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 157,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Easy",
-    "question": "The contract contains:",
+    "topic": "Creditor Protection",
+    "difficulty": "Medium",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Rights and obligations",
-      "Stock prices",
-      "Tax laws only",
-      "Market forecasts"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "The contract defines responsibilities."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 158,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
+    "topic": "Estate Benefits",
     "difficulty": "Medium",
-    "question": "Reading the contract helps avoid:",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Misunderstanding benefits",
-      "Investment growth",
-      "Client reviews",
-      "Documentation"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Understanding terms is important."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 159,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Fees",
-    "difficulty": "Easy",
-    "question": "Expense information should be:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Available to clients",
-      "Hidden",
-      "Ignored",
-      "Changed secretly"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients should receive cost information."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 160,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Fees",
-    "difficulty": "Medium",
-    "question": "Understanding fees helps clients:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Compare products properly",
-      "Guarantee returns",
-      "Avoid investments",
-      "Remove taxes"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Fee awareness supports decisions."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 161,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
+    "topic": "Seg Funds Basics",
     "difficulty": "Easy",
-    "question": "Fair dealing means:",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Treating clients honestly",
-      "Promising results",
-      "Hiding information",
-      "Ignoring concerns"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Fair treatment is a professional obligation."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 162,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "An advisor should explain:",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Product limitations",
-      "Only advantages",
-      "Only commissions",
-      "Only risks"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients need balanced information."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 163,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Beneficiaries",
+    "topic": "Maturity Guarantee",
     "difficulty": "Easy",
-    "question": "Beneficiary changes should be:",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Properly documented",
-      "Ignored",
-      "Secret from everyone",
-      "Automatic"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Changes require proper procedures."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 164,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Beneficiaries",
+    "topic": "Death Benefit Guarantee",
     "difficulty": "Medium",
-    "question": "Beneficiary planning is part of:",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Estate planning",
-      "Market timing",
-      "Tax avoidance only",
-      "Investment trading"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Beneficiary choices support estate goals."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 165,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Estate Planning",
-    "difficulty": "Easy",
-    "question": "Estate planning considers:",
+    "topic": "Reset",
+    "difficulty": "Medium",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Future transfer of assets",
-      "Daily market prices",
-      "Advisor income",
-      "Fees only"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "It focuses on asset distribution."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 166,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Estate Planning",
+    "topic": "Fees",
     "difficulty": "Medium",
-    "question": "Segregated funds may be attractive for:",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Certain estate planning goals",
-      "Only short-term borrowing",
-      "Only businesses",
-      "No investors"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Some features support estate planning."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 167,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Tax Features",
-    "difficulty": "Easy",
-    "question": "Tax rules apply according to:",
+    "topic": "Creditor Protection",
+    "difficulty": "Medium",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Current legislation",
-      "Advisor preference",
-      "Market movement",
-      "Client wishes only"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Tax treatment follows laws."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 168,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Tax Features",
+    "topic": "Estate Benefits",
     "difficulty": "Medium",
-    "question": "Tax information should be:",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Accurate and current",
-      "Ignored",
-      "Estimated randomly",
-      "Hidden"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Accurate information is important."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 169,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
-    "difficulty": "Easy",
-    "question": "Segregated funds include:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "An insurance component",
-      "Only stocks",
-      "Only bonds",
-      "Only cash"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "The insurance component distinguishes them."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 170,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
-    "difficulty": "Medium",
-    "question": "The insurer's guarantee is:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Defined in the contract",
-      "A market prediction",
-      "An advisor promise",
-      "Unlimited"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees are contractual."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 171,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Seg Funds Basics",
     "difficulty": "Easy",
-    "question": "Clients invest according to:",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Selected investment options",
-      "Random choices",
-      "Government instructions",
-      "Advisor income"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients choose available options based on needs."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 172,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
-    "difficulty": "Medium",
-    "question": "Investment strategy should consider:",
+    "topic": "Guarantees",
+    "difficulty": "Easy",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Goals and risk tolerance",
-      "Only returns",
-      "Only fees",
-      "Only markets"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Strategy should match client circumstances."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 173,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
+    "topic": "Maturity Guarantee",
     "difficulty": "Easy",
-    "question": "Risk tolerance can change because of:",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Life circumstances",
-      "Market colours",
-      "Product names",
-      "Fees only"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Client situations may change."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 174,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
+    "topic": "Death Benefit Guarantee",
     "difficulty": "Medium",
-    "question": "Regular reviews help identify:",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Changes in client needs",
-      "Guaranteed profits",
-      "New laws only",
-      "No risks"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Reviews keep advice suitable."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 175,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
+    "topic": "Reset",
     "difficulty": "Medium",
-    "question": "An advisor must maintain:",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Professional standards",
-      "Market control",
-      "Guaranteed results",
-      "Secret fees"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional standards are required."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 176,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
-    "difficulty": "Easy",
-    "question": "Understanding risk helps clients:",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Make suitable investment decisions",
-      "Guarantee profits",
-      "Avoid all markets",
-      "Remove contracts"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Risk awareness supports better decisions."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 177,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Risk",
+    "topic": "Creditor Protection",
     "difficulty": "Medium",
-    "question": "A client's investment decision should consider:",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Risk tolerance and objectives",
-      "Only market news",
-      "Only fees",
-      "Only guarantees"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Investment decisions should match client circumstances."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 178,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Easy",
-    "question": "The insurance contract contains:",
+    "topic": "Estate Benefits",
+    "difficulty": "Medium",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Terms and conditions",
-      "Market predictions",
-      "Government policies",
-      "Advisor opinions"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "The contract defines rights and obligations."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 179,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Medium",
-    "question": "Contract limitations should be:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Explained clearly",
-      "Ignored",
-      "Hidden",
-      "Removed"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients should understand limitations."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 180,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
-    "difficulty": "Easy",
-    "question": "Guarantees apply:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "According to contract terms",
-      "In every situation",
-      "Without conditions",
-      "Only during growth"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantees depend on the contract."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 181,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Guarantees",
-    "difficulty": "Medium",
-    "question": "A guarantee review should include:",
+    "topic": "Seg Funds Basics",
+    "difficulty": "Easy",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Dates, amounts, and conditions",
-      "Only returns",
-      "Only fees",
-      "Only risks"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantee details should be reviewed."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 182,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Guarantees",
     "difficulty": "Easy",
-    "question": "Investment choices should be:",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Appropriate for client goals",
-      "Based on rumours",
-      "Selected randomly",
-      "Always aggressive"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Suitability is important."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 183,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
-    "difficulty": "Medium",
-    "question": "Changing investment choices may affect:",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Easy",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Portfolio performance and risk",
-      "Contract ownership",
-      "Government rules",
-      "Beneficiary identity"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Investment changes affect outcomes."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 184,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Fees",
-    "difficulty": "Easy",
-    "question": "Clients should know:",
+    "topic": "Death Benefit Guarantee",
+    "difficulty": "Medium",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "All applicable fees",
-      "Only profits",
-      "Only guarantees",
-      "Nothing"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Fee awareness is important."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 185,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Fees",
+    "topic": "Reset",
     "difficulty": "Medium",
-    "question": "Fees should be compared with:",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Product benefits and services",
-      "Market rumours",
-      "Advisor income",
-      "Government programs"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients should evaluate value received."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 186,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "An advisor must:",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Provide honest information",
-      "Guarantee returns",
-      "Hide risks",
-      "Ignore clients"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Honesty is a professional obligation."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 187,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
+    "topic": "Creditor Protection",
     "difficulty": "Medium",
-    "question": "Good communication includes:",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Explaining risks and benefits",
-      "Only selling",
-      "Avoiding questions",
-      "Making promises"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Clients need complete explanations."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 188,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "Client needs should be:",
+    "topic": "Estate Benefits",
+    "difficulty": "Medium",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Reviewed regularly",
-      "Ignored",
-      "Assumed",
-      "Hidden"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Regular reviews help maintain suitability."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 189,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Beneficiaries",
-    "difficulty": "Medium",
-    "question": "Beneficiary designations can be:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Changed according to contract rules",
-      "Changed secretly",
-      "Ignored forever",
-      "Guaranteed returns"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Changes follow contract requirements."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 190,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Estate Planning",
-    "difficulty": "Easy",
-    "question": "Estate planning goals include:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Organizing asset transfer",
-      "Predicting markets",
-      "Removing investments",
-      "Avoiding advice"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Estate planning organizes distribution."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 191,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Tax Features",
-    "difficulty": "Medium",
-    "question": "Tax considerations may affect:",
+    "topic": "Seg Funds Basics",
+    "difficulty": "Easy",
+    "question": "Seg Funds Basics: Segregated fund is:",
     "options": [
-      "Investment decisions",
-      "Market prices",
-      "Insurance guarantees",
-      "Advisor licenses"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Tax rules may influence planning."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 192,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
+    "topic": "Guarantees",
     "difficulty": "Easy",
-    "question": "Segregated funds are offered by:",
+    "question": "Guarantees: Maturity guarantee typically:",
     "options": [
-      "Insurance companies",
-      "Stock exchanges",
-      "Government offices",
-      "Employers"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Insurance companies offer segregated funds."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 193,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
-    "difficulty": "Medium",
-    "question": "Segregated funds are different from regular investments because of:",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Easy",
+    "question": "Maturity Guarantee: Death benefit guarantee in seg funds:",
     "options": [
-      "Insurance guarantees",
-      "No investments",
-      "No contracts",
-      "No fees"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "They include insurance features."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 194,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
-    "difficulty": "Easy",
-    "question": "Investment returns are affected by:",
+    "topic": "Death Benefit Guarantee",
+    "difficulty": "Medium",
+    "question": "Death Benefit Guarantee: Seg fund creditor protection in Canada:",
     "options": [
-      "Market performance",
-      "Beneficiary choice",
-      "Contract paperwork",
-      "Advisor location"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Markets affect investment returns."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 195,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Investment Features",
+    "topic": "Reset",
     "difficulty": "Medium",
-    "question": "Investors should review:",
+    "question": "Reset: Seg fund vs mutual fund taxation:",
     "options": [
-      "Performance and objectives",
-      "Only returns",
-      "Only fees",
-      "Only guarantees"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Reviews compare results with goals."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   },
   {
     "id": 196,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
-    "difficulty": "Easy",
-    "question": "Premium payments are required according to:",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "question": "Fees: Segregated fund is:",
     "options": [
-      "Contract terms",
-      "Market rumours",
-      "Advisor choice",
-      "Government wishes"
+      "Insurance contract investing in underlying funds with guarantees, creditor protection, bypasses probate with beneficiary",
+      "Same as mutual fund",
+      "No guarantees",
+      "No insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Premium requirements are stated in the contract."
+    "explanation": "Seg fund is insurance product: invests in underlying funds but has insurance guarantees (maturity, death benefit), potential creditor protection, bypasses probate with named beneficiary."
   },
   {
     "id": 197,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Contract Features",
+    "topic": "Creditor Protection",
     "difficulty": "Medium",
-    "question": "Failing to meet contract requirements may:",
+    "question": "Creditor Protection: Maturity guarantee typically:",
     "options": [
-      "Affect benefits",
-      "Increase guarantees",
-      "Remove fees",
-      "Improve returns"
+      "75-100% of deposits after 10 years if held to maturity",
+      "100% anytime",
+      "No guarantee",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Contract conditions must be followed."
+    "explanation": "Maturity guarantee typically 75-100% of deposits after at least 10 years if held to maturity. If withdraw early, guarantee proportionate."
   },
   {
     "id": 198,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Easy",
-    "question": "An advisor should recommend:",
+    "topic": "Estate Benefits",
+    "difficulty": "Medium",
+    "question": "Estate Benefits: Death benefit guarantee in seg funds:",
     "options": [
-      "Suitable products",
-      "Highest commission products",
-      "Random products",
-      "Only popular products"
+      "75-100% of deposits at death, even if market down, protects beneficiaries",
+      "No benefit",
+      "Only market value",
+      "0%"
     ],
     "correctAnswer": 0,
-    "explanation": "Recommendations must be suitable."
+    "explanation": "Death benefit guarantee ensures beneficiary gets at least 75-100% of deposits if annuitant dies, even if market value lower."
   },
   {
     "id": 199,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Professional Conduct",
-    "difficulty": "Medium",
-    "question": "Client documentation should show:",
+    "topic": "Taxation",
+    "difficulty": "Hard",
+    "question": "Taxation: Seg fund creditor protection in Canada:",
     "options": [
-      "Reasons for recommendations",
-      "Only sales numbers",
-      "Only fees",
-      "Market predictions"
+      "Potential protection if beneficiary is spouse, child, parent, grandchild (preferred class) or irrevocable beneficiary",
+      "No protection",
+      "Always protected",
+      "Only for corporations"
     ],
     "correctAnswer": 0,
-    "explanation": "Documentation supports suitability."
+    "explanation": "Seg funds may offer creditor protection if preferred beneficiary (spouse, child, parent, grandchild) or irrevocable beneficiary designated, under provincial insurance acts. Not absolute."
   },
   {
     "id": 200,
-    "moduleId": "segregated",
+    "moduleId": "segregated_funds",
     "moduleName": "Segregated Funds",
-    "topic": "Basics",
-    "difficulty": "Medium",
-    "question": "The purpose of segregated funds is to:",
+    "topic": "Mutual Funds vs Seg Funds",
+    "difficulty": "Hard",
+    "question": "Mutual Funds vs Seg Funds: Seg fund vs mutual fund taxation:",
     "options": [
-      "Provide investment options with insurance protection",
-      "Guarantee all profits",
-      "Remove all risk",
-      "Replace every insurance product"
+      "Similar taxation as mutual funds (capital gains, dividends, interest flow through), but death benefit tax-free to beneficiary? Actually growth taxable, but estate bypass",
+      "Tax-free always",
+      "Fully taxable",
+      "No tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds combine investment opportunities with insurance protection."
+    "explanation": "Seg funds taxed similarly to mutual funds: allocations of gains, dividends, interest taxable annually. Upon death, bypasses probate if beneficiary named. MF also taxed but no insurance guarantees."
   }
 ]

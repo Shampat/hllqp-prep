@@ -534,7 +534,7 @@ fun PracticeScreen(
                 if (!state.answers.containsKey(state.currentQuestion)) {
 
                     Text(
-                        text = "⚠ Needs Review",
+                        text = "⚠ Not Answered Yet - Please select an answer",
                         style = MaterialTheme.typography.labelLarge
                     )
 
