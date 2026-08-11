@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "moduleId": "life",
+    "front": "Term 10 convertible owner health worsened. Key advantage of conversion?",
+    "back": "Convert to permanent without medical underwriting",
+    "explanation": "Conversion protects insurability despite health change.",
+    "question": "Term 10 convertible owner health worsened. Key advantage of conversion?",
+    "options": [
+      "Convert to permanent without medical underwriting",
+      "Convert to DI",
+      "Get cash value",
+      "Premium drops"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "moduleId": "life",
+    "front": "Usman scenario: Purpose of Waiver of Premium rider?",
+    "back": "Waives premiums if totally disabled as defined",
+    "explanation": "WOP waives premiums during total disability after waiting period.",
+    "question": "Usman scenario: Purpose of Waiver of Premium rider?",
+    "options": [
+      "Waives death benefit",
+      "Increases cash",
+      "Waives premiums if totally disabled as defined",
+      "Reduces premium"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "moduleId": "life",
+    "front": "Standard underwriting class?",
+    "back": "Average health no major issues",
+    "explanation": "Standard average risk, preferred better, rated higher.",
+    "question": "Standard underwriting class?",
+    "options": [
+      "Average health no major issues",
+      "Preferred plus",
+      "High risk",
+      "Declined"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "moduleId": "life",
+    "front": "Cynthia scenario: Absolute assignment?",
+    "back": "Transfers all ownership rights to assignee",
+    "explanation": "Absolute transfers full ownership vs collateral security.",
+    "question": "Cynthia scenario: Absolute assignment?",
+    "options": [
+      "Temporary",
+      "Same as collateral",
+      "Only loans",
+      "Transfers all ownership rights to assignee"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 5,
+    "moduleId": "life",
+    "front": "Wendy scenario: A 32-year-old with new mortgage and 2 kids needs max coverage lowest initial cost. Best fit?",
+    "back": "Term life insurance",
+    "explanation": "Term gives highest coverage for lowest premium, ideal for temporary needs like mortgage.",
+    "question": "Wendy scenario: A 32-year-old with new mortgage and 2 kids needs max coverage lowest initial cost. Best fit?",
+    "options": [
+      "Term life insurance",
+      "Par whole life",
+      "Universal Life level COI",
+      "Whole life paid to 100"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "moduleId": "life",
+    "front": "Christie scenario: Client wants flexible premium, adjustable benefit, investment choice. Which?",
+    "back": "Universal Life",
+    "explanation": "UL offers flexibility in premium, benefit, investments.",
+    "question": "Christie scenario: Client wants flexible premium, adjustable benefit, investment choice. Which?",
+    "options": [
+      "Term 100",
+      "Term 10",
+      "Universal Life",
+      "Whole Life non-par"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "moduleId": "life",
+    "front": "Brenda scenario: Key person insurance?",
+    "back": "Life owned by business on key employee cover loss if dies",
+    "explanation": "Key person protects business against vital person death.",
+    "question": "Brenda scenario: Key person insurance?",
+    "options": [
+      "Life owned by business on key employee cover loss if dies",
+      "DI only",
+      "Group",
+      "Personal"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "moduleId": "life",
+    "front": "Oscar scenario: Dividends left on deposit?",
+    "back": "Accumulate with interest taxable as interest when paid",
+    "explanation": "Dividends on deposit earn interest interest taxable yearly.",
+    "question": "Oscar scenario: Dividends left on deposit?",
+    "options": [
+      "Never taxable",
+      "Accumulate with interest taxable as interest when paid",
+      "Lost",
+      "Always tax-free"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "moduleId": "life",
+    "front": "Wendy scenario: Collateral assignment?",
+    "back": "Assigns policy as security for loan creditor gets up to debt",
+    "explanation": "Collateral assignment secures debt limited to loan, balance to beneficiary.",
+    "question": "Wendy scenario: Collateral assignment?",
+    "options": [
+      "Assigns policy as security for loan creditor gets up to debt",
+      "Pays loan auto",
+      "Changes beneficiary permanently",
+      "Cancels"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "moduleId": "life",
+    "front": "Reduced paid-up non-forfeiture?",
+    "back": "Uses cash to buy smaller fully paid-up no more premiums",
+    "explanation": "Reduced paid-up is non-forfeiture option.",
+    "question": "Reduced paid-up non-forfeiture?",
+    "options": [
+      "Extended term only",
+      "Lapse",
+      "Uses cash to buy smaller fully paid-up no more premiums",
+      "Cash only"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 11,
+    "moduleId": "life",
+    "front": "Premium mode?",
+    "back": "Frequency of payments monthly annual etc",
+    "explanation": "Mode is frequency monthly quarterly annual may have modal factor.",
+    "question": "Premium mode?",
+    "options": [
+      "Frequency of payments monthly annual etc",
+      "Rider",
+      "Beneficiary",
+      "Type of policy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "moduleId": "life",
+    "front": "Suicide clause Canada?",
+    "back": "If suicide within 2 yrs insurer may deny return premiums",
+    "explanation": "Standard 2-yr suicide exclusion, after covered.",
+    "question": "Suicide clause Canada?",
+    "options": [
+      "If suicide within 2 yrs insurer may deny return premiums",
+      "Always covered",
+      "Only after 10 yrs",
+      "Never covered"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "moduleId": "life",
+    "front": "Baldwin scenario: How does cash value in exempt whole life grow?",
+    "back": "Tax-deferred inside while exempt",
+    "explanation": "Exempt policy growth tax-deferred under Reg 306 exempt test.",
+    "question": "Baldwin scenario: How does cash value in exempt whole life grow?",
+    "options": [
+      "Taxed as cap gains yearly",
+      "Never taxed",
+      "Tax-deferred inside while exempt",
+      "Taxed yearly as interest"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "moduleId": "life",
+    "front": "Cash surrender value determined?",
+    "back": "Cash value minus surrender charges and outstanding loans",
+    "explanation": "CSV = cash - charges - loans.",
+    "question": "Cash surrender value determined?",
+    "options": [
+      "Equals death benefit",
+      "Equals premiums",
+      "Zero always",
+      "Cash value minus surrender charges and outstanding loans"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 15,
+    "moduleId": "life",
+    "front": "Christina scenario: Difference owner insured beneficiary?",
+    "back": "Owner controls policy insured is life insured beneficiary receives benefit",
+    "explanation": "Three roles can be same or different owner has rights.",
+    "question": "Christina scenario: Difference owner insured beneficiary?",
+    "options": [
+      "Beneficiary controls",
+      "Owner receives",
+      "All same",
+      "Owner controls policy insured is life insured beneficiary receives benefit"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 16,
+    "moduleId": "life",
+    "front": "Brenda scenario: When non-exempt policy?",
+    "back": "When cash value exceeds Reg 306 exempt test limits",
+    "explanation": "Exempt test compares actual vs max allowed, excess non-exempt gains taxed yearly.",
+    "question": "Brenda scenario: When non-exempt policy?",
+    "options": [
+      "When premiums stop",
+      "Never",
+      "Always after 10 yrs",
+      "When cash value exceeds Reg 306 exempt test limits"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 17,
+    "moduleId": "life",
+    "front": "Darcee scenario: Evidence of insurability means?",
+    "back": "Medical/health info to prove insurability for new or increase",
+    "explanation": "Health questionnaire, exam, labs to assess risk.",
+    "question": "Darcee scenario: Evidence of insurability means?",
+    "options": [
+      "Only income",
+      "No medical ever",
+      "Only age",
+      "Medical/health info to prove insurability for new or increase"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 18,
+    "moduleId": "life",
+    "front": "Synthia scenario: Stop paying Whole Life takes CSV tax?",
+    "back": "Gain = CSV+loans-ACB taxable income",
+    "explanation": "Surrender disposition gain over ACB taxable T5.",
+    "question": "Synthia scenario: Stop paying Whole Life takes CSV tax?",
+    "options": [
+      "Never taxable",
+      "Always cap gain",
+      "Tax-free",
+      "Gain = CSV+loans-ACB taxable income"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 19,
+    "moduleId": "life",
+    "front": "Frankie scenario: FSRA replacement - advisor must provide?",
+    "back": "Written comparison existing vs proposed incl benefits, limits, costs, penalties, LIRD signatures",
+    "explanation": "Full comparison and LIRD required for suitability.",
+    "question": "Frankie scenario: FSRA replacement - advisor must provide?",
+    "options": [
+      "Verbal only",
+      "Tell client cancel first",
+      "Written comparison existing vs proposed incl benefits, limits, costs, penalties, LIRD signatures",
+      "Only new advantages"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "moduleId": "life",
+    "front": "Wendy scenario: Why disability overhead vs personal DI business owner?",
+    "back": "Overhead pays business expenses if owner disabled DI pays personal income",
+    "explanation": "Overhead vs DI distinction for business clients.",
+    "question": "Wendy scenario: Why disability overhead vs personal DI business owner?",
+    "options": [
+      "Same",
+      "Overhead pays business expenses if owner disabled DI pays personal income",
+      "Overhead pays personal",
+      "Not needed"
+    ],
+    "correctAnswer": 1
+  }
+]

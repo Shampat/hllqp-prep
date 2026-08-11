@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "moduleId": "taxation",
+    "front": "Jessy scenario: Taxation of dividends on par policy left on deposit interest?",
+    "back": "Interest on dividends on deposit taxable yearly as interest",
+    "explanation": "Dividend interest on deposit taxable yearly.",
+    "question": "Jessy scenario: Taxation of dividends on par policy left on deposit interest?",
+    "options": [
+      "Interest never taxable",
+      "Capital gain",
+      "Interest on dividends on deposit taxable yearly as interest",
+      "Dividends always tax-free"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "moduleId": "taxation",
+    "front": "Velonie scenario: Taxation of disability benefits personal vs group? - Scenario 59 ITA 148 reference",
+    "back": "Personal DI paid tax-free if premiums after-tax, group employer-paid taxable",
+    "explanation": "Personal DI tax-free if paid with after-tax dollars, employer-paid taxable.",
+    "question": "Velonie scenario: Taxation of disability benefits personal vs group? - Scenario 59 ITA 148 reference",
+    "options": [
+      "Personal DI paid tax-free if premiums after-tax, group employer-paid taxable",
+      "Capital gain",
+      "Always tax-free",
+      "Always taxable"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "moduleId": "taxation",
+    "front": "Usman scenario: NCPI? - Scenario 33 ITA 148 reference",
+    "back": "Net Cost of Pure Insurance mortality cost per CRA tables reducing ACB",
+    "explanation": "NCPI reduces ACB yearly.",
+    "question": "Usman scenario: NCPI? - Scenario 33 ITA 148 reference",
+    "options": [
+      "Cash value",
+      "Dividend",
+      "Total premium",
+      "Net Cost of Pure Insurance mortality cost per CRA tables reducing ACB"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 4,
+    "moduleId": "taxation",
+    "front": "Policy as collateral assignment tax?",
+    "back": "No disposition, no tax at assignment",
+    "explanation": "Collateral assignment not disposition, no tax at that time.",
+    "question": "Policy as collateral assignment tax?",
+    "options": [
+      "Taxable at assignment",
+      "No disposition, no tax at assignment",
+      "Capital gain",
+      "Deemed disposition always"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "moduleId": "taxation",
+    "front": "Wendy scenario: Full surrender tax?",
+    "back": "Gain = CSV + loans - ACB taxable income",
+    "explanation": "Full surrender disposition gain over ACB income.",
+    "question": "Wendy scenario: Full surrender tax?",
+    "options": [
+      "Gain = CSV + loans - ACB taxable income",
+      "Never taxable",
+      "Tax-free",
+      "Capital gain"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "moduleId": "taxation",
+    "front": "Frankie scenario: Death benefit named beneficiary tax treatment ITA? - Scenario 16 ITA 148 reference",
+    "back": "Tax-free to beneficiary not income",
+    "explanation": "ITA death benefit lump sum generally tax-free to named beneficiary.",
+    "question": "Frankie scenario: Death benefit named beneficiary tax treatment ITA? - Scenario 16 ITA 148 reference",
+    "options": [
+      "Taxable income",
+      "50% taxable",
+      "Capital gain",
+      "Tax-free to beneficiary not income"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 7,
+    "moduleId": "taxation",
+    "front": "Taxation of dividends on par policy left on deposit interest? - Scenario 57 ITA 148 reference",
+    "back": "Interest on dividends on deposit taxable yearly as interest",
+    "explanation": "Dividend interest on deposit taxable yearly.",
+    "question": "Taxation of dividends on par policy left on deposit interest? - Scenario 57 ITA 148 reference",
+    "options": [
+      "Capital gain",
+      "Dividends always tax-free",
+      "Interest on dividends on deposit taxable yearly as interest",
+      "Interest never taxable"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "moduleId": "taxation",
+    "front": "Stop-loss rule ITA?",
+    "back": "Prevents using policy loss to offset gain in related transactions",
+    "explanation": "Stop-loss prevents artificial losses on transfers.",
+    "question": "Stop-loss rule ITA?",
+    "options": [
+      "No such rule",
+      "Only for group",
+      "Prevents using policy loss to offset gain in related transactions",
+      "Only for term"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "moduleId": "taxation",
+    "front": "Full surrender tax? - Scenario 36 ITA 148 reference",
+    "back": "Gain = CSV + loans - ACB taxable income",
+    "explanation": "Full surrender disposition gain over ACB income.",
+    "question": "Full surrender tax? - Scenario 36 ITA 148 reference",
+    "options": [
+      "Gain = CSV + loans - ACB taxable income",
+      "Capital gain",
+      "Never taxable",
+      "Tax-free"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "moduleId": "taxation",
+    "front": "RRSP vs life insurance tax? - Scenario 30 ITA 148 reference",
+    "back": "RRSP contribution deductible, withdrawal taxable income; Life death benefit tax-free but premiums not deductible (except business)",
+    "explanation": "RRSP deductible taxable on withdrawal, life death tax-free premiums non-deductible.",
+    "question": "RRSP vs life insurance tax? - Scenario 30 ITA 148 reference",
+    "options": [
+      "RRSP contribution deductible, withdrawal taxable income; Life death benefit tax-free but premiums not deductible (except business)",
+      "RRSP death benefit tax-free",
+      "Same",
+      "Life premiums deductible"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "moduleId": "taxation",
+    "front": "ACB calculation? - Scenario 17 ITA 148 reference",
+    "back": "Premiums paid minus NCPI plus prior taxable gains",
+    "explanation": "ACB = premiums - NCPI + prior gains per CRA.",
+    "question": "ACB calculation? - Scenario 17 ITA 148 reference",
+    "options": [
+      "Death benefit minus cash",
+      "Premiums paid minus NCPI plus prior taxable gains",
+      "Cash value minus premiums",
+      "Premiums only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "moduleId": "taxation",
+    "front": "Absolute assignment tax? - Scenario 53 ITA 148 reference",
+    "back": "May trigger disposition if for consideration, gain taxable",
+    "explanation": "Absolute assignment for value may trigger gain.",
+    "question": "Absolute assignment tax? - Scenario 53 ITA 148 reference",
+    "options": [
+      "May trigger disposition if for consideration, gain taxable",
+      "Always tax-free",
+      "Only if family",
+      "Never taxable"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "moduleId": "taxation",
+    "front": "Death benefit named beneficiary tax treatment ITA? - Scenario 46 ITA 148 reference",
+    "back": "Tax-free to beneficiary not income",
+    "explanation": "ITA death benefit lump sum generally tax-free to named beneficiary.",
+    "question": "Death benefit named beneficiary tax treatment ITA? - Scenario 46 ITA 148 reference",
+    "options": [
+      "Taxable income",
+      "Tax-free to beneficiary not income",
+      "Capital gain",
+      "50% taxable"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "moduleId": "taxation",
+    "front": "Prescribed annuity taxation? - Scenario 43 ITA 148 reference",
+    "back": "Prescribed: interest and capital blended level taxed, non-prescribed: accrual",
+    "explanation": "Prescribed annuity level tax, non-prescribed accrual method.",
+    "question": "Prescribed annuity taxation? - Scenario 43 ITA 148 reference",
+    "options": [
+      "Prescribed fully taxable",
+      "Prescribed: interest and capital blended level taxed, non-prescribed: accrual",
+      "Both same",
+      "Non-prescribed tax-free"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "moduleId": "taxation",
+    "front": "Melony scenario: Taxation of dividends on par policy left on deposit interest? - Scenario 27 ITA 148 reference",
+    "back": "Interest on dividends on deposit taxable yearly as interest",
+    "explanation": "Dividend interest on deposit taxable yearly.",
+    "question": "Melony scenario: Taxation of dividends on par policy left on deposit interest? - Scenario 27 ITA 148 reference",
+    "options": [
+      "Dividends always tax-free",
+      "Interest never taxable",
+      "Capital gain",
+      "Interest on dividends on deposit taxable yearly as interest"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 16,
+    "moduleId": "taxation",
+    "front": "Prescribed annuity taxation? - Scenario 58 ITA 148 reference",
+    "back": "Prescribed: interest and capital blended level taxed, non-prescribed: accrual",
+    "explanation": "Prescribed annuity level tax, non-prescribed accrual method.",
+    "question": "Prescribed annuity taxation? - Scenario 58 ITA 148 reference",
+    "options": [
+      "Non-prescribed tax-free",
+      "Prescribed: interest and capital blended level taxed, non-prescribed: accrual",
+      "Both same",
+      "Prescribed fully taxable"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "moduleId": "taxation",
+    "front": "Absolute assignment tax? - Scenario 23 ITA 148 reference",
+    "back": "May trigger disposition if for consideration, gain taxable",
+    "explanation": "Absolute assignment for value may trigger gain.",
+    "question": "Absolute assignment tax? - Scenario 23 ITA 148 reference",
+    "options": [
+      "Only if family",
+      "Always tax-free",
+      "Never taxable",
+      "May trigger disposition if for consideration, gain taxable"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 18,
+    "moduleId": "taxation",
+    "front": "Justin scenario: Stop-loss rule ITA? - Scenario 25 ITA 148 reference",
+    "back": "Prevents using policy loss to offset gain in related transactions",
+    "explanation": "Stop-loss prevents artificial losses on transfers.",
+    "question": "Justin scenario: Stop-loss rule ITA? - Scenario 25 ITA 148 reference",
+    "options": [
+      "Only for group",
+      "Prevents using policy loss to offset gain in related transactions",
+      "Only for term",
+      "No such rule"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "moduleId": "taxation",
+    "front": "Raja scenario: Death benefit named beneficiary tax treatment ITA? - Scenario 31 ITA 148 reference",
+    "back": "Tax-free to beneficiary not income",
+    "explanation": "ITA death benefit lump sum generally tax-free to named beneficiary.",
+    "question": "Raja scenario: Death benefit named beneficiary tax treatment ITA? - Scenario 31 ITA 148 reference",
+    "options": [
+      "Taxable income",
+      "Capital gain",
+      "Tax-free to beneficiary not income",
+      "50% taxable"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "moduleId": "taxation",
+    "front": "Harpreet scenario: Absolute assignment tax? - Scenario 38 ITA 148 reference",
+    "back": "May trigger disposition if for consideration, gain taxable",
+    "explanation": "Absolute assignment for value may trigger gain.",
+    "question": "Harpreet scenario: Absolute assignment tax? - Scenario 38 ITA 148 reference",
+    "options": [
+      "Never taxable",
+      "Always tax-free",
+      "May trigger disposition if for consideration, gain taxable",
+      "Only if family"
+    ],
+    "correctAnswer": 2
+  }
+]

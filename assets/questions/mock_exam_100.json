@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "moduleId": "mock_exam",
+    "moduleName": "Life Insurance",
+    "topic": "Beneficiary",
+    "difficulty": "Medium",
+    "question": "Velonie case: Spouse revocable beneficiary - Common Law on death?",
+    "options": [
+      "Bypasses estate direct to spouse tax-free",
+      "Via probate",
+      "Taxable to estate",
+      "Needs will"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Named beneficiary bypasses will/probate, generally tax-free.",
+    "source": "CISRO Competency + CRA ITA 148 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 2,
+    "moduleId": "mock_exam",
+    "moduleName": "Disability Insurance",
+    "topic": "Key Person",
+    "difficulty": "Medium",
+    "question": "Key person DI? - Scenario 58 with client age 42",
+    "options": [
+      "Group only",
+      "Personal DI",
+      "Life insurance only",
+      "Business owned DI on key person to cover loss if disabled"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Key person DI indemnifies business for key person disability.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 3,
+    "moduleId": "mock_exam",
+    "moduleName": "Ethics & Professionalism",
+    "topic": "E&O",
+    "difficulty": "Easy",
+    "question": "Melony case: What is the role of errors and omissions insurance?",
+    "options": [
+      "No role",
+      "Protects client and advisor against negligent advice causing loss",
+      "Replaces life insurance",
+      "Guarantees returns"
+    ],
+    "correctAnswer": 1,
+    "explanation": "E&O insurance covers professional liability for errors.",
+    "source": "FSRA Code of Conduct + PIPEDA + CISRO Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 4,
+    "moduleId": "mock_exam",
+    "moduleName": "Annuities",
+    "topic": "Life Annuity",
+    "difficulty": "Easy",
+    "question": "Life annuity pays?",
+    "options": [
+      "Death benefit only",
+      "Lump sum only",
+      "Income 10 years only",
+      "Income for life of annuitant"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Life annuity provides income for life, protects longevity risk.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 5,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "Corporate",
+    "difficulty": "Hard",
+    "question": "Brenda case: Corporate owned life insurance - death benefit tax treatment? - Scenario 24 ITA 148 reference",
+    "options": [
+      "Taxable income",
+      "No CDA",
+      "Capital gain",
+      "Death benefit tax-free to corp, CDA credit = death benefit minus ACB creates tax-free dividend"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Corporate: death minus ACB credits Capital Dividend Account for tax-free dividend.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 6,
+    "moduleId": "mock_exam",
+    "moduleName": "Life Insurance",
+    "topic": "Non-Forfeiture",
+    "difficulty": "Medium",
+    "question": "Reduced paid-up non-forfeiture?",
+    "options": [
+      "Cash only",
+      "Uses cash to buy smaller fully paid-up no more premiums",
+      "Extended term only",
+      "Lapse"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reduced paid-up is non-forfeiture option.",
+    "source": "CISRO Competency + CRA ITA 148 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 7,
+    "moduleId": "mock_exam",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Heart Attack",
+    "difficulty": "Hard",
+    "question": "Heart attack definition CI? (Case study 57)",
+    "options": [
+      "Any heart disease",
+      "Only bypass",
+      "Any chest pain",
+      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria"
+    ],
+    "correctAnswer": 3,
+    "explanation": "MI requires objective evidence per definition.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 8,
+    "moduleId": "mock_exam",
+    "moduleName": "Estate Planning",
+    "topic": "POA",
+    "difficulty": "Hard",
+    "question": "Baldwin case: What is power of attorney and life insurance? - Case 58",
+    "options": [
+      "Only for term",
+      "Never allowed",
+      "Always allowed",
+      "POA for property may allow beneficiary change only if expressly permitted"
+    ],
+    "correctAnswer": 3,
+    "explanation": "POA beneficiary change requires express authority per province.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 9,
+    "moduleId": "mock_exam",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary",
+    "difficulty": "Medium",
+    "question": "Irrevocable beneficiary in estate planning - effect? - Case 26",
+    "options": [
+      "Owner cannot change without consent, may provide creditor protection",
+      "Estate always",
+      "No protection",
+      "Revocable always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Irrevocable limits owner rights, may offer some creditor protection.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 10,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "Transfer",
+    "difficulty": "Hard",
+    "question": "Transfer of policy to child as gift - tax? - Scenario 41 ITA 148 reference",
+    "options": [
+      "Never taxable",
+      "Always tax-free",
+      "Deemed disposition at FMV, gain = FMV - ACB may be taxable",
+      "Capital gain only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Transfer by gift deemed at FMV triggers tax if FMV > ACB.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 11,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "Death Benefit",
+    "difficulty": "Easy",
+    "question": "Death benefit named beneficiary tax treatment ITA? - Scenario 46 ITA 148 reference",
+    "options": [
+      "Taxable income",
+      "Tax-free to beneficiary not income",
+      "Capital gain",
+      "50% taxable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ITA death benefit lump sum generally tax-free to named beneficiary.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 12,
+    "moduleId": "mock_exam",
+    "moduleName": "Accident & Sickness",
+    "topic": "Benefit Period",
+    "difficulty": "Easy",
+    "question": "Synthia case: Benefit period in DI/accident? (Case 48)",
+    "options": [
+      "Free look",
+      "Same as elimination",
+      "Limits how long benefits payable",
+      "Limits premium paying"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Benefit period = max duration paid.",
+    "source": "CISRO A&S Competency + FSRA",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 13,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "Loan",
+    "difficulty": "Hard",
+    "question": "Jessy case: Policy loan taxable when?",
+    "options": [
+      "Only whole life",
+      "When loan exceeds ACB excess taxable income T5",
+      "Never taxable",
+      "Always taxable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ITA 148 loan is disposition excess over ACB income.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 14,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "Assignment",
+    "difficulty": "Medium",
+    "question": "Policy as collateral assignment tax? - Scenario 22 ITA 148 reference",
+    "options": [
+      "Deemed disposition always",
+      "Taxable at assignment",
+      "Capital gain",
+      "No disposition, no tax at assignment"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Collateral assignment not disposition, no tax at that time.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 15,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "Transfer",
+    "difficulty": "Hard",
+    "question": "Transfer of policy to child as gift - tax? - Scenario 26 ITA 148 reference",
+    "options": [
+      "Deemed disposition at FMV, gain = FMV - ACB may be taxable",
+      "Capital gain only",
+      "Always tax-free",
+      "Never taxable"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Transfer by gift deemed at FMV triggers tax if FMV > ACB.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 16,
+    "moduleId": "mock_exam",
+    "moduleName": "Segregated Funds",
+    "topic": "Difference",
+    "difficulty": "Easy",
+    "question": "Seg fund vs mutual fund main difference? (Case 46)",
+    "options": [
+      "Seg fund no guarantee",
+      "Seg fund is insurance contract with guarantees and beneficiary designation, mutual fund is securities",
+      "Same",
+      "Mutual fund is insurance"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Seg funds are insurance, offer guarantees and bypass probate.",
+    "source": "CISRO Seg Funds + FSRA public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 17,
+    "moduleId": "mock_exam",
+    "moduleName": "Life Insurance",
+    "topic": "UL Benefit",
+    "difficulty": "Medium",
+    "question": "Harpreet case: UL Option 1 vs Option 2 death benefit?",
+    "options": [
+      "Level means premium up",
+      "Increasing cash down",
+      "No difference",
+      "Level: base stays level; Increasing: base + account value"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Option1 level, Option2 = base + account.",
+    "source": "CISRO Competency + CRA ITA 148 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 18,
+    "moduleId": "mock_exam",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Tax",
+    "difficulty": "Medium",
+    "question": "Tax treatment of CI benefit to individual?",
+    "options": [
+      "Capital gain",
+      "Taxable income",
+      "Generally tax-free lump sum if personally owned and not business related",
+      "50% taxable"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CI benefit personally owned is generally tax-free.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 19,
+    "moduleId": "mock_exam",
+    "moduleName": "Ethics & Professionalism",
+    "topic": "Duty",
+    "difficulty": "Easy",
+    "question": "Advisor notices client misunderstanding. Should? (Scenario 57)",
+    "options": [
+      "Correct misunderstanding and ensure client understands before proceeding",
+      "Proceed anyway",
+      "Ignore",
+      "Increase coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Duty to correct and ensure understanding.",
+    "source": "FSRA Code of Conduct + PIPEDA + CISRO Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 20,
+    "moduleId": "mock_exam",
+    "moduleName": "Disability Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Ronaldo case: Exclusions in DI? - Scenario 56 with client age 40",
+    "options": [
+      "Accidents only",
+      "Pre-existing not disclosed, war, self-inflicted, criminal act",
+      "All sicknesses covered",
+      "No exclusions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standard exclusions include pre-existing, war, criminal.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 21,
+    "moduleId": "mock_exam",
+    "moduleName": "Life Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Age 40 smoker wants permanent what affects premium?",
+    "options": [
+      "Only smoking",
+      "Only face",
+      "Only age",
+      "Age sex smoking status health face amount"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Premium based on mortality risk age sex smoking health lifestyle amount.",
+    "source": "CISRO Competency + CRA ITA 148 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 22,
+    "moduleId": "mock_exam",
+    "moduleName": "Ethics & Professionalism",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "question": "Duty of disclosure requires?",
+    "options": [
+      "Disclose after sale",
+      "Only commission",
+      "No disclosure if not asked",
+      "Disclose conflict, compensation, capacity, material facts"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Full material disclosure before sale required.",
+    "source": "FSRA Code of Conduct + PIPEDA + CISRO Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 23,
+    "moduleId": "mock_exam",
+    "moduleName": "Segregated Funds",
+    "topic": "Death Guarantee",
+    "difficulty": "Medium",
+    "question": "Usman case: Death benefit guarantee in seg fund?",
+    "options": [
+      "Guarantees % of deposits on death e.g., 75-100%",
+      "Guarantees market value only",
+      "Guarantees 200%",
+      "No death benefit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Death guarantee protects deposits on death.",
+    "source": "CISRO Seg Funds + FSRA public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 24,
+    "moduleId": "mock_exam",
+    "moduleName": "Accident & Sickness",
+    "topic": "AD&D",
+    "difficulty": "Easy",
+    "question": "AD&D pays? (Case 31)",
+    "options": [
+      "Any death",
+      "Disability income",
+      "Sickness only",
+      "Death/dismemberment due to accident per definition"
+    ],
+    "correctAnswer": 3,
+    "explanation": "AD&D only covers accidental as defined.",
+    "source": "CISRO A&S Competency + FSRA",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 25,
+    "moduleId": "mock_exam",
+    "moduleName": "Segregated Funds",
+    "topic": "MVA",
+    "difficulty": "Medium",
+    "question": "What is market value adjustment? (Case 56)",
+    "options": [
+      "Always increases",
+      "No adjustment",
+      "Only at death",
+      "Adjustment if surrender before maturity may reduce guarantee"
+    ],
+    "correctAnswer": 3,
+    "explanation": "MVA may apply on early surrender.",
+    "source": "CISRO Seg Funds + FSRA public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 26,
+    "moduleId": "mock_exam",
+    "moduleName": "Segregated Funds",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Medium",
+    "question": "Maturity guarantee in seg fund? (Case 17)",
+    "options": [
+      "No guarantee",
+      "Guarantees % of deposits at maturity date e.g., 75% after 10+ years",
+      "Guarantees 100% anytime",
+      "Guarantees gains"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Maturity guarantee e.g., 75% after 10 years.",
+    "source": "CISRO Seg Funds + FSRA public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 27,
+    "moduleId": "mock_exam",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "CI vs DI",
+    "difficulty": "Medium",
+    "question": "Cynthia case: Difference between CI and DI? (Case study 52)",
+    "options": [
+      "Same",
+      "Both same",
+      "CI lump sum on diagnosis, DI monthly income for inability to work",
+      "CI pays monthly, DI lump sum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CI diagnosis trigger, DI disability trigger.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 28,
+    "moduleId": "mock_exam",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiary",
+    "difficulty": "Medium",
+    "question": "Beneficiary designation advantage seg fund? (Case 20)",
+    "options": [
+      "Bypasses probate and estate, direct to beneficiary",
+      "No beneficiary",
+      "Goes via estate always",
+      "Taxable more"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
+    "source": "CISRO Seg Funds + FSRA public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 29,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "Dividends",
+    "difficulty": "Medium",
+    "question": "Christie case: Taxation of dividends on par policy left on deposit interest? - Scenario 42 ITA 148 reference",
+    "options": [
+      "Dividends always tax-free",
+      "Interest never taxable",
+      "Capital gain",
+      "Interest on dividends on deposit taxable yearly as interest"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dividend interest on deposit taxable yearly.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 30,
+    "moduleId": "mock_exam",
+    "moduleName": "Accident & Sickness",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "question": "Baldwin case: What is guaranteed renewable health? (Case 55)",
+    "options": [
+      "Can cancel anytime",
+      "Premium never increases",
+      "Insurer must renew but can increase premium by class",
+      "Cannot renew"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Guaranteed renewable = renew right, premium can change by class.",
+    "source": "CISRO A&S Competency + FSRA",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 31,
+    "moduleId": "mock_exam",
+    "moduleName": "Accident & Sickness",
+    "topic": "AD&D",
+    "difficulty": "Medium",
+    "question": "What is specially protected loss in AD&D? (Case 20)",
+    "options": [
+      "Sickness",
+      "Losses like sight, limbs where benefit may be higher",
+      "Only death",
+      "Any loss"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Special losses have specific definitions and amounts.",
+    "source": "CISRO A&S Competency + FSRA",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 32,
+    "moduleId": "mock_exam",
+    "moduleName": "Annuities",
+    "topic": "Guarantee",
+    "difficulty": "Medium",
+    "question": "What is guarantee period in life annuity? - Scenario 20",
+    "options": [
+      "If annuitant dies early, beneficiary gets remaining guarantee payments",
+      "Guarantee means higher income",
+      "Only for term",
+      "No guarantee"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantee period ensures minimum payments e.g., 10 years.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 33,
+    "moduleId": "mock_exam",
+    "moduleName": "Disability Insurance",
+    "topic": "BOE",
+    "difficulty": "Medium",
+    "question": "Business overhead expense DI?",
+    "options": [
+      "Pays business expenses if owner disabled e.g., rent, salaries",
+      "Pays life benefit",
+      "No benefit",
+      "Pays personal income"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Overhead DI covers business overhead during disability.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 34,
+    "moduleId": "mock_exam",
+    "moduleName": "Accident & Sickness",
+    "topic": "AD&D",
+    "difficulty": "Medium",
+    "question": "What is specially protected loss in AD&D? (Case 35)",
+    "options": [
+      "Losses like sight, limbs where benefit may be higher",
+      "Any loss",
+      "Sickness",
+      "Only death"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Special losses have specific definitions and amounts.",
+    "source": "CISRO A&S Competency + FSRA",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 35,
+    "moduleId": "mock_exam",
+    "moduleName": "Accident & Sickness",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "question": "What is non-cancellable? (Case 26)",
+    "options": [
+      "Premium can increase anytime",
+      "Cannot cancel nor increase premium individually during term",
+      "Can cancel anytime",
+      "Only group"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Non-can is strongest renewability, premium guaranteed.",
+    "source": "CISRO A&S Competency + FSRA",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 36,
+    "moduleId": "mock_exam",
+    "moduleName": "Ethics & Professionalism",
+    "topic": "Twisting",
+    "difficulty": "Medium",
+    "question": "What is twisting?",
+    "options": [
+      "Twisting facts in app",
+      "Misrepresenting existing policy to induce replacement",
+      "Changing beneficiary",
+      "Proper replacement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Twisting = misrepresentation to induce lapse.",
+    "source": "FSRA Code of Conduct + PIPEDA + CISRO Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 37,
+    "moduleId": "mock_exam",
+    "moduleName": "Life Insurance",
+    "topic": "Estate",
+    "difficulty": "Medium",
+    "question": "Rohit case: Age 70 wants avoid probate fees leave to kids?",
+    "options": [
+      "Name estate",
+      "No beneficiary",
+      "Joint only",
+      "Name child beneficiary bypasses probate"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Direct beneficiary bypasses probate, may be creditor protected.",
+    "source": "CISRO Competency + CRA ITA 148 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 38,
+    "moduleId": "mock_exam",
+    "moduleName": "Segregated Funds",
+    "topic": "Registered",
+    "difficulty": "Medium",
+    "question": "Parminder case: Seg fund with RRSP/RRIF?",
+    "options": [
+      "Held inside RRSP, guarantees apply, but probate advantage lost inside registered plan",
+      "RRSP not allowed",
+      "No guarantee inside RRSP",
+      "Cannot hold"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Seg funds inside RRSP lose probate bypass, guarantees remain.",
+    "source": "CISRO Seg Funds + FSRA public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 39,
+    "moduleId": "mock_exam",
+    "moduleName": "Annuities",
+    "topic": "RRIF",
+    "difficulty": "Medium",
+    "question": "Usman case: When is RRIF annuity taxation?",
+    "options": [
+      "50% taxable",
+      "Capital gain",
+      "Income fully taxable as income when paid",
+      "Tax-free"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Annuity from RRSP/RRIF fully taxable income.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 40,
+    "moduleId": "mock_exam",
+    "moduleName": "Accident & Sickness",
+    "topic": "WOP",
+    "difficulty": "Easy",
+    "question": "What is waiver of premium in health?",
+    "options": [
+      "Waives benefit",
+      "Reduces coverage",
+      "Increases premium",
+      "Waives premiums during total disability as defined"
+    ],
+    "correctAnswer": 3,
+    "explanation": "WOP in health waives premiums while disabled.",
+    "source": "CISRO A&S Competency + FSRA",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 41,
+    "moduleId": "mock_exam",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Exclusions in CI? (Case study 50)",
+    "options": [
+      "All cancers covered",
+      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
+      "No exclusions",
+      "All conditions covered"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 42,
+    "moduleId": "mock_exam",
+    "moduleName": "Accident & Sickness",
+    "topic": "AD&D",
+    "difficulty": "Medium",
+    "question": "What is accidental means vs accidental result? (Case 34)",
+    "options": [
+      "Means = sickness",
+      "Same",
+      "Result = only means",
+      "Means = accidental cause, Result = accidental outcome regardless cause"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Some policies cover accidental means stricter than result.",
+    "source": "CISRO A&S Competency + FSRA",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 43,
+    "moduleId": "mock_exam",
+    "moduleName": "Ethics & Professionalism",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Advisor fails to document needs analysis. Violates?",
+    "options": [
+      "Suitability and documentation duty under FSRA",
+      "Only privacy",
+      "Only tax rule",
+      "No violation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Needs analysis and documentation required for suitability.",
+    "source": "FSRA Code of Conduct + PIPEDA + CISRO Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 44,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "Comparison",
+    "difficulty": "Medium",
+    "question": "RRSP vs life insurance tax? - Scenario 30 ITA 148 reference",
+    "options": [
+      "RRSP contribution deductible, withdrawal taxable income; Life death benefit tax-free but premiums not deductible (except business)",
+      "RRSP death benefit tax-free",
+      "Same",
+      "Life premiums deductible"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RRSP deductible taxable on withdrawal, life death tax-free premiums non-deductible.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 45,
+    "moduleId": "mock_exam",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Benefit",
+    "difficulty": "Easy",
+    "question": "Benefit period in CI? (Case study 55)",
+    "options": [
+      "Grace",
+      "Monthly for life",
+      "Usually lump sum one-time, policy may terminate or allow second event",
+      "Free look"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Most CI pays once and terminates, some second event.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 46,
+    "moduleId": "mock_exam",
+    "moduleName": "Disability Insurance",
+    "topic": "Key Person",
+    "difficulty": "Medium",
+    "question": "Yelder case: Key person DI? - Scenario 28 with client age 42",
+    "options": [
+      "Life insurance only",
+      "Group only",
+      "Personal DI",
+      "Business owned DI on key person to cover loss if disabled"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Key person DI indemnifies business for key person disability.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 47,
+    "moduleId": "mock_exam",
+    "moduleName": "Ethics & Professionalism",
+    "topic": "Conflict",
+    "difficulty": "Medium",
+    "question": "Neena case: What is conflict of interest example? (Scenario 41)",
+    "options": [
+      "Advisor recommends product paying higher commission when lower commission product better meets need",
+      "Disclosing compensation",
+      "Referring to specialist",
+      "Recommending best product"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Conflict when personal interest conflicts with client interest, must disclose and prioritize client.",
+    "source": "FSRA Code of Conduct + PIPEDA + CISRO Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 48,
+    "moduleId": "mock_exam",
+    "moduleName": "Ethics & Professionalism",
+    "topic": "Duty",
+    "difficulty": "Easy",
+    "question": "Advisor notices client misunderstanding. Should?",
+    "options": [
+      "Ignore",
+      "Increase coverage",
+      "Correct misunderstanding and ensure client understands before proceeding",
+      "Proceed anyway"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Duty to correct and ensure understanding.",
+    "source": "FSRA Code of Conduct + PIPEDA + CISRO Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 49,
+    "moduleId": "mock_exam",
+    "moduleName": "Segregated Funds",
+    "topic": "Difference",
+    "difficulty": "Easy",
+    "question": "Amrit case: Seg fund vs mutual fund main difference?",
+    "options": [
+      "Seg fund no guarantee",
+      "Seg fund is insurance contract with guarantees and beneficiary designation, mutual fund is securities",
+      "Mutual fund is insurance",
+      "Same"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Seg funds are insurance, offer guarantees and bypass probate.",
+    "source": "CISRO Seg Funds + FSRA public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 50,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "NCPI",
+    "difficulty": "Hard",
+    "question": "Parminder case: NCPI? - Scenario 18 ITA 148 reference",
+    "options": [
+      "Net Cost of Pure Insurance mortality cost per CRA tables reducing ACB",
+      "Total premium",
+      "Cash value",
+      "Dividend"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NCPI reduces ACB yearly.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 51,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "NCPI",
+    "difficulty": "Hard",
+    "question": "NCPI? - Scenario 33 ITA 148 reference",
+    "options": [
+      "Cash value",
+      "Dividend",
+      "Total premium",
+      "Net Cost of Pure Insurance mortality cost per CRA tables reducing ACB"
+    ],
+    "correctAnswer": 3,
+    "explanation": "NCPI reduces ACB yearly.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 52,
+    "moduleId": "mock_exam",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Survival",
+    "difficulty": "Easy",
+    "question": "Survival period in CI? (Case study 47)",
+    "options": [
+      "Period before coverage starts",
+      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days",
+      "Grace",
+      "Free look"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Survival ensures condition not immediately fatal.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 53,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "Stop-Loss",
+    "difficulty": "Hard",
+    "question": "Xeona case: Stop-loss rule ITA? - Scenario 25 ITA 148 reference",
+    "options": [
+      "Only for group",
+      "Prevents using policy loss to offset gain in related transactions",
+      "Only for term",
+      "No such rule"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stop-loss prevents artificial losses on transfers.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 54,
+    "moduleId": "mock_exam",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Exclusions in CI? (Case study 35)",
+    "options": [
+      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
+      "All conditions covered",
+      "No exclusions",
+      "All cancers covered"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 55,
+    "moduleId": "mock_exam",
+    "moduleName": "Ethics & Professionalism",
+    "topic": "Licensing",
+    "difficulty": "Easy",
+    "question": "What should advisor do if not licensed for product client needs?",
+    "options": [
+      "Refer to properly licensed advisor or obtain licensing, disclose limitation",
+      "Sell anyway",
+      "Ignore need",
+      "Sell similar unlicensed product"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Must not act outside licensing, refer appropriately.",
+    "source": "FSRA Code of Conduct + PIPEDA + CISRO Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 56,
+    "moduleId": "mock_exam",
+    "moduleName": "Disability Insurance",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "question": "Non-cancellable and guaranteed renewable DI?",
+    "options": [
+      "Premium can rise individually",
+      "Insurer cannot cancel nor increase premium nor change terms individually",
+      "Only group",
+      "Can cancel anytime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 57,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "ACB",
+    "difficulty": "Hard",
+    "question": "Roma case: ACB calculation? - Scenario 47 ITA 148 reference",
+    "options": [
+      "Premiums only",
+      "Premiums paid minus NCPI plus prior taxable gains",
+      "Cash value minus premiums",
+      "Death benefit minus cash"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ACB = premiums - NCPI + prior gains per CRA.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 58,
+    "moduleId": "mock_exam",
+    "moduleName": "Estate Planning",
+    "topic": "Charity",
+    "difficulty": "Medium",
+    "question": "Charitable giving via life insurance?",
+    "options": [
+      "No receipt",
+      "Always taxable",
+      "Donate policy or name charity beneficiary, gets donation receipt for premiums or death benefit per CRA rules",
+      "Only term"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Charitable donation of life policy can generate donation receipt per CRA.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 59,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "Dividends",
+    "difficulty": "Medium",
+    "question": "Allwyn case: Taxation of dividends on par policy left on deposit interest? - Scenario 57 ITA 148 reference",
+    "options": [
+      "Capital gain",
+      "Dividends always tax-free",
+      "Interest on dividends on deposit taxable yearly as interest",
+      "Interest never taxable"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dividend interest on deposit taxable yearly.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 60,
+    "moduleId": "mock_exam",
+    "moduleName": "Ethics & Professionalism",
+    "topic": "Complaint",
+    "difficulty": "Easy",
+    "question": "What is best practice for handling client complaint? (Scenario 43)",
+    "options": [
+      "Argue",
+      "Document, acknowledge promptly, escalate per insurer/MGA process, inform FSRA if required",
+      "Ignore",
+      "Delete"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Complaint handling must be prompt, fair, documented.",
+    "source": "FSRA Code of Conduct + PIPEDA + CISRO Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 61,
+    "moduleId": "mock_exam",
+    "moduleName": "Ethics & Professionalism",
+    "topic": "Licensing",
+    "difficulty": "Easy",
+    "question": "Neena case: What should advisor do if not licensed for product client needs? (Scenario 51)",
+    "options": [
+      "Ignore need",
+      "Sell anyway",
+      "Sell similar unlicensed product",
+      "Refer to properly licensed advisor or obtain licensing, disclose limitation"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Must not act outside licensing, refer appropriately.",
+    "source": "FSRA Code of Conduct + PIPEDA + CISRO Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 62,
+    "moduleId": "mock_exam",
+    "moduleName": "Life Insurance",
+    "topic": "Business",
+    "difficulty": "Hard",
+    "question": "Buy-sell agreement funded life?",
+    "options": [
+      "Lease",
+      "Buy-sell funded life insurance business partner can buy shares at death",
+      "Will",
+      "POA"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buy-sell provides funds for survivor to buy deceased shares.",
+    "source": "CISRO Competency + CRA ITA 148 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 63,
+    "moduleId": "mock_exam",
+    "moduleName": "Annuities",
+    "topic": "Joint",
+    "difficulty": "Medium",
+    "question": "Joint and last survivor annuity? - Scenario 51",
+    "options": [
+      "Pays until second spouse dies",
+      "No survivor",
+      "Pays term only",
+      "Pays first death only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Joint last survivor continues to survivor, lower payment than single life.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 64,
+    "moduleId": "mock_exam",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Survival",
+    "difficulty": "Easy",
+    "question": "Wendy case: Survival period in CI? (Case study 32)",
+    "options": [
+      "Grace",
+      "Period before coverage starts",
+      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days",
+      "Free look"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Survival ensures condition not immediately fatal.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 65,
+    "moduleId": "mock_exam",
+    "moduleName": "Annuities",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "question": "Best practice explaining annuity? - Scenario 29",
+    "options": [
+      "Say refundable always",
+      "No need explain",
+      "Explain no liquidity after annuitization, guarantee, tax, income amount not guaranteed until purchase",
+      "Say liquid anytime"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Must explain irrevocable nature and lack of liquidity.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 66,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "DI Tax",
+    "difficulty": "Medium",
+    "question": "Taxation of disability benefits personal vs group? - Scenario 59 ITA 148 reference",
+    "options": [
+      "Personal DI paid tax-free if premiums after-tax, group employer-paid taxable",
+      "Capital gain",
+      "Always tax-free",
+      "Always taxable"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Personal DI tax-free if paid with after-tax dollars, employer-paid taxable.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 67,
+    "moduleId": "mock_exam",
+    "moduleName": "Segregated Funds",
+    "topic": "Registered",
+    "difficulty": "Medium",
+    "question": "Seg fund with RRSP/RRIF? (Case 55)",
+    "options": [
+      "No guarantee inside RRSP",
+      "Cannot hold",
+      "Held inside RRSP, guarantees apply, but probate advantage lost inside registered plan",
+      "RRSP not allowed"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Seg funds inside RRSP lose probate bypass, guarantees remain.",
+    "source": "CISRO Seg Funds + FSRA public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 68,
+    "moduleId": "mock_exam",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Medium",
+    "question": "What is probate fee impact in Ontario? - Case 50",
+    "options": [
+      "Always probate",
+      "Only Quebec",
+      "Life proceeds to named beneficiary avoid probate fees, to estate attract fees",
+      "Never probate"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ontario probate fees on estate assets, named beneficiary avoids.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 69,
+    "moduleId": "mock_exam",
+    "moduleName": "Accident & Sickness",
+    "topic": "Co-insurance",
+    "difficulty": "Easy",
+    "question": "What is co-insurance? (Case 53)",
+    "options": [
+      "Insured and insurer share costs after deductible per percentage",
+      "Insured pays 100%",
+      "Premium sharing",
+      "Insurer pays 100%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Co-insurance splits eligible expenses after deductible.",
+    "source": "CISRO A&S Competency + FSRA",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 70,
+    "moduleId": "mock_exam",
+    "moduleName": "Segregated Funds",
+    "topic": "Creditor",
+    "difficulty": "Hard",
+    "question": "Creditor protection seg fund? (Case 36)",
+    "options": [
+      "Never protected",
+      "Only if estate",
+      "Always protected",
+      "May offer creditor protection if named beneficiary is spouse, child, parent - per provincial insurance law"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Creditor protection if qualified beneficiary per Insurance Act.",
+    "source": "CISRO Seg Funds + FSRA public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 71,
+    "moduleId": "mock_exam",
+    "moduleName": "Annuities",
+    "topic": "Purpose",
+    "difficulty": "Easy",
+    "question": "Goldy case: What is annuity vs life insurance purpose?",
+    "options": [
+      "Same purpose",
+      "Life protects longevity",
+      "Annuity protects living too long, life insurance protects dying too soon",
+      "Annuity protects death"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Annuity longevity risk, life insurance mortality risk.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 72,
+    "moduleId": "mock_exam",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary",
+    "difficulty": "Medium",
+    "question": "Irrevocable beneficiary in estate planning - effect? - Case 41",
+    "options": [
+      "No protection",
+      "Revocable always",
+      "Estate always",
+      "Owner cannot change without consent, may provide creditor protection"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Irrevocable limits owner rights, may offer some creditor protection.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 73,
+    "moduleId": "mock_exam",
+    "moduleName": "Ethics & Professionalism",
+    "topic": "PIPEDA",
+    "difficulty": "Medium",
+    "question": "Advisor uses client's personal info for other product without consent. Violates? (Scenario 48)",
+    "options": [
+      "PIPEDA purpose limitation and consent principle",
+      "No violation",
+      "Only if client complains",
+      "Allowed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Personal info must be used only for purposes consented.",
+    "source": "FSRA Code of Conduct + PIPEDA + CISRO Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 74,
+    "moduleId": "mock_exam",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Elmer case: Best practice explaining CI to client? (Case study 45)",
+    "options": [
+      "No need explain",
+      "Guarantee claim",
+      "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
+      "Say all conditions covered"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Must explain definitions and limitations to ensure understanding.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 75,
+    "moduleId": "mock_exam",
+    "moduleName": "Ethics & Professionalism",
+    "topic": "Handling Money",
+    "difficulty": "Hard",
+    "question": "What is proper handling of cash premium?",
+    "options": [
+      "Deposit to personal account",
+      "Issue receipt, remit promptly to insurer, never deposit to personal account",
+      "Hold 90 days",
+      "Use personally"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cash handling must be prompt, receipted, separate from personal funds.",
+    "source": "FSRA Code of Conduct + PIPEDA + CISRO Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 76,
+    "moduleId": "mock_exam",
+    "moduleName": "Life Insurance",
+    "topic": "Tax",
+    "difficulty": "Easy",
+    "question": "Tax treatment death benefit named beneficiary Common Law?",
+    "options": [
+      "Generally tax-free to beneficiary not income",
+      "Fully taxable income",
+      "50% taxable",
+      "Cap gain"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Per ITA death benefit tax-free lump sum.",
+    "source": "CISRO Competency + CRA ITA 148 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 77,
+    "moduleId": "mock_exam",
+    "moduleName": "Estate Planning",
+    "topic": "Trust",
+    "difficulty": "Medium",
+    "question": "Sajnay case: Trust as beneficiary of life insurance?",
+    "options": [
+      "No use",
+      "Can name trust to control distribution for minor or disabled beneficiary, avoids court",
+      "Cannot name trust",
+      "Trust always taxed more"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trust allows control over proceeds for minors, spendthrift, disabled.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 78,
+    "moduleId": "mock_exam",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Underwriting in CI?",
+    "options": [
+      "No underwriting",
+      "Only age",
+      "Guaranteed always",
+      "Full medical underwriting similar to life, may have exclusions"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CI requires medical evidence, may rate or exclude.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 79,
+    "moduleId": "mock_exam",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Survival",
+    "difficulty": "Easy",
+    "question": "Survival period in CI?",
+    "options": [
+      "Period before coverage starts",
+      "Grace",
+      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days",
+      "Free look"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Survival ensures condition not immediately fatal.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 80,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "Assignment",
+    "difficulty": "Medium",
+    "question": "Absolute assignment tax? - Scenario 38 ITA 148 reference",
+    "options": [
+      "Never taxable",
+      "Always tax-free",
+      "May trigger disposition if for consideration, gain taxable",
+      "Only if family"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Absolute assignment for value may trigger gain.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 81,
+    "moduleId": "mock_exam",
+    "moduleName": "Life Insurance",
+    "topic": "Provisions",
+    "difficulty": "Easy",
+    "question": "Grace period in life?",
+    "options": [
+      "1 year",
+      "No grace",
+      "31 days after due date policy remains in force",
+      "7 days only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Standard 31-day grace required by law.",
+    "source": "CISRO Competency + CRA ITA 148 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 82,
+    "moduleId": "mock_exam",
+    "moduleName": "Annuities",
+    "topic": "Deferred",
+    "difficulty": "Easy",
+    "question": "Wendy case: What is accumulation annuity?",
+    "options": [
+      "Deferred annuity where funds accumulate then annuitize later",
+      "Immediate income",
+      "Only term",
+      "No accumulation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accumulation (deferred) annuity accumulates with interest before payout.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 83,
+    "moduleId": "mock_exam",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "ROP",
+    "difficulty": "Medium",
+    "question": "Return of premium rider in CI? (Case study 21)",
+    "options": [
+      "Automatic free",
+      "Returns premium if no claim after period or on death, extra cost",
+      "Always returns 100% without cost",
+      "No such rider"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 84,
+    "moduleId": "mock_exam",
+    "moduleName": "Annuities",
+    "topic": "Term Certain",
+    "difficulty": "Easy",
+    "question": "Cynthia case: Term certain annuity? - Scenario 47",
+    "options": [
+      "Pays only on death",
+      "Pays for life only",
+      "No payout",
+      "Pays for fixed term regardless of life"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Term certain pays for fixed period e.g., 10 years.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 85,
+    "moduleId": "mock_exam",
+    "moduleName": "Estate Planning",
+    "topic": "Contingent",
+    "difficulty": "Easy",
+    "question": "What happens if beneficiary predeceases and no contingent? - Case 25",
+    "options": [
+      "Lost",
+      "Go to contingent auto",
+      "Go to insurer",
+      "Proceeds go to estate, subject to probate"
+    ],
+    "correctAnswer": 3,
+    "explanation": "If no contingent alive, proceeds to estate.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 86,
+    "moduleId": "mock_exam",
+    "moduleName": "Life Insurance",
+    "topic": "Term",
+    "difficulty": "Easy",
+    "question": "Baldwin case: A 32-year-old with new mortgage and 2 kids needs max coverage lowest initial cost. Best fit?",
+    "options": [
+      "Term life insurance",
+      "Par whole life",
+      "Universal Life level COI",
+      "Whole life paid to 100"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Term gives highest coverage for lowest premium, ideal for temporary needs like mortgage.",
+    "source": "CISRO Competency + CRA ITA 148 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 87,
+    "moduleId": "mock_exam",
+    "moduleName": "Taxation",
+    "topic": "Comparison",
+    "difficulty": "Medium",
+    "question": "Christina case: RRSP vs life insurance tax? - Scenario 60 ITA 148 reference",
+    "options": [
+      "Same",
+      "RRSP contribution deductible, withdrawal taxable income; Life death benefit tax-free but premiums not deductible (except business)",
+      "RRSP death benefit tax-free",
+      "Life premiums deductible"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RRSP deductible taxable on withdrawal, life death tax-free premiums non-deductible.",
+    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 88,
+    "moduleId": "mock_exam",
+    "moduleName": "Segregated Funds",
+    "topic": "Beneficiary",
+    "difficulty": "Medium",
+    "question": "Beneficiary designation advantage seg fund?",
+    "options": [
+      "No beneficiary",
+      "Taxable more",
+      "Bypasses probate and estate, direct to beneficiary",
+      "Goes via estate always"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
+    "source": "CISRO Seg Funds + FSRA public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 89,
+    "moduleId": "mock_exam",
+    "moduleName": "Ethics & Professionalism",
+    "topic": "Misrepresentation",
+    "difficulty": "Medium",
+    "question": "Amrit case: What is misrepresentation in application? (Scenario 49)",
+    "options": [
+      "True statement",
+      "Agent note",
+      "False statement or omission of material fact that affects underwriting decision",
+      "Opinion"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Misrepresentation can void policy within 2 years, fraud anytime.",
+    "source": "FSRA Code of Conduct + PIPEDA + CISRO Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 90,
+    "moduleId": "mock_exam",
+    "moduleName": "Estate Planning",
+    "topic": "Freeze",
+    "difficulty": "Hard",
+    "question": "What is estate freeze with life insurance? - Case 18",
+    "options": [
+      "Only RRSP",
+      "No freeze",
+      "Only term",
+      "Freeze value of business, future growth to heirs, life funds tax at death"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Estate freeze + insurance funds tax on deemed disposition.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 91,
+    "moduleId": "mock_exam",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Medium",
+    "question": "What is probate fee impact in Ontario? - Case 20",
+    "options": [
+      "Never probate",
+      "Only Quebec",
+      "Life proceeds to named beneficiary avoid probate fees, to estate attract fees",
+      "Always probate"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ontario probate fees on estate assets, named beneficiary avoids.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 92,
+    "moduleId": "mock_exam",
+    "moduleName": "Disability Insurance",
+    "topic": "Key Person",
+    "difficulty": "Medium",
+    "question": "Key person DI? - Scenario 43 with client age 42",
+    "options": [
+      "Business owned DI on key person to cover loss if disabled",
+      "Personal DI",
+      "Life insurance only",
+      "Group only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Key person DI indemnifies business for key person disability.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 93,
+    "moduleId": "mock_exam",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Covered Conditions",
+    "difficulty": "Easy",
+    "question": "Neena case: Common covered conditions in CI? (Case study 18)",
+    "options": [
+      "Cancer, heart attack, stroke, coronary bypass etc as defined",
+      "Only accidents",
+      "Only flu",
+      "Only cold"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 94,
+    "moduleId": "mock_exam",
+    "moduleName": "Life Insurance",
+    "topic": "Premium",
+    "difficulty": "Easy",
+    "question": "Highest premium per $1000 at age 30?",
+    "options": [
+      "Term 10",
+      "Group term",
+      "Whole life par",
+      "Term 20"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Permanent costs more initially than term due to cash and guarantees.",
+    "source": "CISRO Competency + CRA ITA 148 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 95,
+    "moduleId": "mock_exam",
+    "moduleName": "Disability Insurance",
+    "topic": "Buy-Sell",
+    "difficulty": "Hard",
+    "question": "Buy-sell disability funding?",
+    "options": [
+      "Life only",
+      "No funding",
+      "Funds buyout of disabled partner's share per agreement",
+      "Personal income"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Disability buy-sell funds transfer of business interest.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 96,
+    "moduleId": "mock_exam",
+    "moduleName": "Annuities",
+    "topic": "Purpose",
+    "difficulty": "Easy",
+    "question": "What is annuity vs life insurance purpose? - Scenario 53",
+    "options": [
+      "Life protects longevity",
+      "Annuity protects living too long, life insurance protects dying too soon",
+      "Annuity protects death",
+      "Same purpose"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Annuity longevity risk, life insurance mortality risk.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 97,
+    "moduleId": "mock_exam",
+    "moduleName": "Estate Planning",
+    "topic": "Buy-Sell",
+    "difficulty": "Medium",
+    "question": "Harpreet case: What is buy-sell agreement funded with life? - Case 37",
+    "options": [
+      "No business use",
+      "Surviving owner gets funds to buy deceased share",
+      "Personal use only",
+      "Only DI"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buy-sell + life provides liquidity to buy shares per agreement.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 98,
+    "moduleId": "mock_exam",
+    "moduleName": "Life Insurance",
+    "topic": "Business",
+    "difficulty": "Medium",
+    "question": "Zempa case: Why disability overhead vs personal DI business owner?",
+    "options": [
+      "Same",
+      "Overhead pays business expenses if owner disabled DI pays personal income",
+      "Overhead pays personal",
+      "Not needed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Overhead vs DI distinction for business clients.",
+    "source": "CISRO Competency + CRA ITA 148 public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 99,
+    "moduleId": "mock_exam",
+    "moduleName": "Disability Insurance",
+    "topic": "BOE",
+    "difficulty": "Medium",
+    "question": "Raja case: Business overhead expense DI? - Scenario 57 with client age 41",
+    "options": [
+      "Pays life benefit",
+      "No benefit",
+      "Pays personal income",
+      "Pays business expenses if owner disabled e.g., rent, salaries"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Overhead DI covers business overhead during disability.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  },
+  {
+    "id": 100,
+    "moduleId": "mock_exam",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Partial",
+    "difficulty": "Medium",
+    "question": "Harpreet case: Partial benefit in CI? (Case study 34)",
+    "options": [
+      "Only for death",
+      "Full benefit only",
+      "Some conditions pay partial % e.g., early-stage cancer, angioplasty",
+      "No benefit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Some CI pays partial for less severe conditions.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01",
+    "isMock": true
+  }
+]

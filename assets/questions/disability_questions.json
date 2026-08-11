@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "question": "Non-cancellable and guaranteed renewable DI? - Scenario 53 with client age 37",
+    "options": [
+      "Premium can rise individually",
+      "Insurer cannot cancel nor increase premium nor change terms individually",
+      "Only group",
+      "Can cancel anytime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 2,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "question": "Any occupation definition? - Scenario 17 with client age 31",
+    "options": [
+      "Any job",
+      "Own occupation only",
+      "Unable to do any occupation reasonably suited by education/training/experience",
+      "No benefit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Any occ stricter than own occ, harder to qualify.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 3,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "COLA",
+    "difficulty": "Easy",
+    "question": "COLA rider in DI? - Scenario 49 with client age 33",
+    "options": [
+      "Adjusts benefit for inflation",
+      "Only for life",
+      "Reduces benefit",
+      "Cancels benefit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "COLA increases benefit with CPI during claim.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 4,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "question": "Own occupation definition in DI? - Scenario 16 with client age 30",
+    "options": [
+      "Only if unemployed",
+      "Unable to perform duties of own occupation as defined",
+      "Unable to do all jobs",
+      "Any occupation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Own occ pays if cannot do own occupation even if can do other.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 5,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "question": "Non-cancellable and guaranteed renewable DI?",
+    "options": [
+      "Premium can rise individually",
+      "Insurer cannot cancel nor increase premium nor change terms individually",
+      "Only group",
+      "Can cancel anytime"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 6,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Integration",
+    "difficulty": "Hard",
+    "question": "Integration with other benefits in DI? - Scenario 45 with client age 44",
+    "options": [
+      "Only increases",
+      "No integration",
+      "Benefits may be reduced by other income like CPP disability, group LTD",
+      "Only CPP"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Integration prevents overinsurance, offsets other benefits.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 7,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Exclusions in DI? - Scenario 41 with client age 40",
+    "options": [
+      "All sicknesses covered",
+      "Accidents only",
+      "Pre-existing not disclosed, war, self-inflicted, criminal act",
+      "No exclusions"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Standard exclusions include pre-existing, war, criminal.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 8,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "FPO",
+    "difficulty": "Medium",
+    "question": "Future purchase option (FPO) / guaranteed insurability in DI?",
+    "options": [
+      "Requires medical each time",
+      "Allows buying extra coverage without medical evidence at future dates",
+      "No extra coverage",
+      "Only for group"
+    ],
+    "correctAnswer": 1,
+    "explanation": "FPO protects future insurability as income rises.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 9,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "WOP",
+    "difficulty": "Easy",
+    "question": "Waiver of premium in DI? - Scenario 54 with client age 38",
+    "options": [
+      "Waives premiums during total disability after elimination",
+      "Waives benefit",
+      "Reduces benefit",
+      "Increases premium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "WOP waives premiums while on claim.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 10,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Benefit Period",
+    "difficulty": "Easy",
+    "question": "Benefit period in DI? - Scenario 37 with client age 36",
+    "options": [
+      "Grace period",
+      "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65",
+      "How long premium payable",
+      "Free look"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Benefit period limits duration e.g., to age 65.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 11,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Elimination",
+    "difficulty": "Easy",
+    "question": "Elimination period in DI? - Scenario 21 with client age 35",
+    "options": [
+      "Period premium waived",
+      "Free look",
+      "Waiting period before benefits start after disability",
+      "Benefit duration"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Elimination e.g., 90 days reduces premiums.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 12,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "question": "Non-cancellable and guaranteed renewable DI? - Scenario 23 with client age 37",
+    "options": [
+      "Can cancel anytime",
+      "Only group",
+      "Premium can rise individually",
+      "Insurer cannot cancel nor increase premium nor change terms individually"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 13,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "question": "Own occupation definition in DI? - Scenario 46 with client age 30",
+    "options": [
+      "Only if unemployed",
+      "Unable to perform duties of own occupation as defined",
+      "Any occupation",
+      "Unable to do all jobs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Own occ pays if cannot do own occupation even if can do other.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 14,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Elimination",
+    "difficulty": "Easy",
+    "question": "Elimination period in DI? - Scenario 51 with client age 35",
+    "options": [
+      "Benefit duration",
+      "Period premium waived",
+      "Waiting period before benefits start after disability",
+      "Free look"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Elimination e.g., 90 days reduces premiums.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 15,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Elimination",
+    "difficulty": "Easy",
+    "question": "Elimination period in DI? - Scenario 36 with client age 35",
+    "options": [
+      "Benefit duration",
+      "Free look",
+      "Waiting period before benefits start after disability",
+      "Period premium waived"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Elimination e.g., 90 days reduces premiums.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 16,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Rehab",
+    "difficulty": "Medium",
+    "question": "Rehabilitation benefit in DI? - Scenario 25 with client age 39",
+    "options": [
+      "Only death benefit",
+      "Pays/helps with rehab costs to return to work",
+      "No benefit",
+      "Pays lump sum only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rehab incentivizes return to work.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 17,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Integration",
+    "difficulty": "Hard",
+    "question": "Integration with other benefits in DI?",
+    "options": [
+      "Only CPP",
+      "Benefits may be reduced by other income like CPP disability, group LTD",
+      "No integration",
+      "Only increases"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Integration prevents overinsurance, offsets other benefits.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 18,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Buy-Sell",
+    "difficulty": "Hard",
+    "question": "Buy-sell disability funding?",
+    "options": [
+      "Life only",
+      "No funding",
+      "Funds buyout of disabled partner's share per agreement",
+      "Personal income"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Disability buy-sell funds transfer of business interest.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 19,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "COLA",
+    "difficulty": "Easy",
+    "question": "COLA rider in DI?",
+    "options": [
+      "Cancels benefit",
+      "Reduces benefit",
+      "Only for life",
+      "Adjusts benefit for inflation"
+    ],
+    "correctAnswer": 3,
+    "explanation": "COLA increases benefit with CPI during claim.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 20,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "question": "Any occupation definition? - Scenario 32 with client age 31",
+    "options": [
+      "Unable to do any occupation reasonably suited by education/training/experience",
+      "No benefit",
+      "Any job",
+      "Own occupation only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Any occ stricter than own occ, harder to qualify.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 21,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Key Person",
+    "difficulty": "Medium",
+    "question": "Key person DI? - Scenario 28 with client age 42",
+    "options": [
+      "Life insurance only",
+      "Group only",
+      "Personal DI",
+      "Business owned DI on key person to cover loss if disabled"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Key person DI indemnifies business for key person disability.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 22,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Residual",
+    "difficulty": "Medium",
+    "question": "Residual disability benefit pays?",
+    "options": [
+      "Partial benefit for partial loss of income after disability",
+      "Full benefit only",
+      "No benefit if working",
+      "Only if totally disabled"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Residual pays proportionally for reduced earnings.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 23,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Residual",
+    "difficulty": "Medium",
+    "question": "Residual disability benefit pays? - Scenario 48 with client age 32",
+    "options": [
+      "Partial benefit for partial loss of income after disability",
+      "Full benefit only",
+      "No benefit if working",
+      "Only if totally disabled"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Residual pays proportionally for reduced earnings.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 24,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "COLA",
+    "difficulty": "Easy",
+    "question": "COLA rider in DI? - Scenario 19 with client age 33",
+    "options": [
+      "Adjusts benefit for inflation",
+      "Only for life",
+      "Cancels benefit",
+      "Reduces benefit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "COLA increases benefit with CPI during claim.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 25,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Buy-Sell",
+    "difficulty": "Hard",
+    "question": "Buy-sell disability funding? - Scenario 29 with client age 43",
+    "options": [
+      "Funds buyout of disabled partner's share per agreement",
+      "No funding",
+      "Life only",
+      "Personal income"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disability buy-sell funds transfer of business interest.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 26,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Exclusions in DI?",
+    "options": [
+      "No exclusions",
+      "Accidents only",
+      "All sicknesses covered",
+      "Pre-existing not disclosed, war, self-inflicted, criminal act"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Standard exclusions include pre-existing, war, criminal.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 27,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Integration",
+    "difficulty": "Hard",
+    "question": "Integration with other benefits in DI? - Scenario 30 with client age 44",
+    "options": [
+      "No integration",
+      "Benefits may be reduced by other income like CPP disability, group LTD",
+      "Only CPP",
+      "Only increases"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Integration prevents overinsurance, offsets other benefits.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 28,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "question": "Any occupation definition? - Scenario 47 with client age 31",
+    "options": [
+      "No benefit",
+      "Any job",
+      "Own occupation only",
+      "Unable to do any occupation reasonably suited by education/training/experience"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Any occ stricter than own occ, harder to qualify.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 29,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Residual",
+    "difficulty": "Medium",
+    "question": "Residual disability benefit pays? - Scenario 18 with client age 32",
+    "options": [
+      "Full benefit only",
+      "No benefit if working",
+      "Only if totally disabled",
+      "Partial benefit for partial loss of income after disability"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Residual pays proportionally for reduced earnings.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 30,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Exclusions in DI? - Scenario 56 with client age 40",
+    "options": [
+      "All sicknesses covered",
+      "Accidents only",
+      "Pre-existing not disclosed, war, self-inflicted, criminal act",
+      "No exclusions"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Standard exclusions include pre-existing, war, criminal.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 31,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "WOP",
+    "difficulty": "Easy",
+    "question": "Waiver of premium in DI? - Scenario 24 with client age 38",
+    "options": [
+      "Waives benefit",
+      "Waives premiums during total disability after elimination",
+      "Reduces benefit",
+      "Increases premium"
+    ],
+    "correctAnswer": 1,
+    "explanation": "WOP waives premiums while on claim.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 32,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "BOE",
+    "difficulty": "Medium",
+    "question": "Business overhead expense DI? - Scenario 27 with client age 41",
+    "options": [
+      "Pays personal income",
+      "No benefit",
+      "Pays life benefit",
+      "Pays business expenses if owner disabled e.g., rent, salaries"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Overhead DI covers business overhead during disability.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 33,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "FPO",
+    "difficulty": "Medium",
+    "question": "Future purchase option (FPO) / guaranteed insurability in DI? - Scenario 20 with client age 34",
+    "options": [
+      "No extra coverage",
+      "Only for group",
+      "Allows buying extra coverage without medical evidence at future dates",
+      "Requires medical each time"
+    ],
+    "correctAnswer": 2,
+    "explanation": "FPO protects future insurability as income rises.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 34,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "FPO",
+    "difficulty": "Medium",
+    "question": "Future purchase option (FPO) / guaranteed insurability in DI? - Scenario 50 with client age 34",
+    "options": [
+      "Requires medical each time",
+      "No extra coverage",
+      "Only for group",
+      "Allows buying extra coverage without medical evidence at future dates"
+    ],
+    "correctAnswer": 3,
+    "explanation": "FPO protects future insurability as income rises.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 35,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Residual",
+    "difficulty": "Medium",
+    "question": "Residual disability benefit pays? - Scenario 33 with client age 32",
+    "options": [
+      "Full benefit only",
+      "Only if totally disabled",
+      "Partial benefit for partial loss of income after disability",
+      "No benefit if working"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Residual pays proportionally for reduced earnings.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 36,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Rehab",
+    "difficulty": "Medium",
+    "question": "Rehabilitation benefit in DI?",
+    "options": [
+      "Pays/helps with rehab costs to return to work",
+      "No benefit",
+      "Only death benefit",
+      "Pays lump sum only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rehab incentivizes return to work.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 37,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Key Person",
+    "difficulty": "Medium",
+    "question": "Key person DI?",
+    "options": [
+      "Group only",
+      "Life insurance only",
+      "Business owned DI on key person to cover loss if disabled",
+      "Personal DI"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Key person DI indemnifies business for key person disability.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 38,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Rehab",
+    "difficulty": "Medium",
+    "question": "Rehabilitation benefit in DI? - Scenario 40 with client age 39",
+    "options": [
+      "Only death benefit",
+      "Pays/helps with rehab costs to return to work",
+      "No benefit",
+      "Pays lump sum only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rehab incentivizes return to work.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 39,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "question": "Non-cancellable and guaranteed renewable DI? - Scenario 38 with client age 37",
+    "options": [
+      "Can cancel anytime",
+      "Insurer cannot cancel nor increase premium nor change terms individually",
+      "Premium can rise individually",
+      "Only group"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 40,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "BOE",
+    "difficulty": "Medium",
+    "question": "Business overhead expense DI?",
+    "options": [
+      "Pays business expenses if owner disabled e.g., rent, salaries",
+      "Pays life benefit",
+      "No benefit",
+      "Pays personal income"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Overhead DI covers business overhead during disability.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 41,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "BOE",
+    "difficulty": "Medium",
+    "question": "Business overhead expense DI? - Scenario 57 with client age 41",
+    "options": [
+      "Pays life benefit",
+      "No benefit",
+      "Pays personal income",
+      "Pays business expenses if owner disabled e.g., rent, salaries"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Overhead DI covers business overhead during disability.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 42,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "FPO",
+    "difficulty": "Medium",
+    "question": "Future purchase option (FPO) / guaranteed insurability in DI? - Scenario 35 with client age 34",
+    "options": [
+      "Allows buying extra coverage without medical evidence at future dates",
+      "Requires medical each time",
+      "Only for group",
+      "No extra coverage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "FPO protects future insurability as income rises.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 43,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Rehab",
+    "difficulty": "Medium",
+    "question": "Rehabilitation benefit in DI? - Scenario 55 with client age 39",
+    "options": [
+      "Pays lump sum only",
+      "Only death benefit",
+      "No benefit",
+      "Pays/helps with rehab costs to return to work"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Rehab incentivizes return to work.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 44,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "question": "Own occupation definition in DI? - Scenario 31 with client age 30",
+    "options": [
+      "Unable to perform duties of own occupation as defined",
+      "Only if unemployed",
+      "Any occupation",
+      "Unable to do all jobs"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Own occ pays if cannot do own occupation even if can do other.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 45,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Key Person",
+    "difficulty": "Medium",
+    "question": "Key person DI? - Scenario 43 with client age 42",
+    "options": [
+      "Business owned DI on key person to cover loss if disabled",
+      "Personal DI",
+      "Life insurance only",
+      "Group only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Key person DI indemnifies business for key person disability.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 46,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "BOE",
+    "difficulty": "Medium",
+    "question": "Business overhead expense DI? - Scenario 42 with client age 41",
+    "options": [
+      "No benefit",
+      "Pays business expenses if owner disabled e.g., rent, salaries",
+      "Pays personal income",
+      "Pays life benefit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Overhead DI covers business overhead during disability.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 47,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "question": "Any occupation definition?",
+    "options": [
+      "Any job",
+      "Own occupation only",
+      "Unable to do any occupation reasonably suited by education/training/experience",
+      "No benefit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Any occ stricter than own occ, harder to qualify.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 48,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Benefit Period",
+    "difficulty": "Easy",
+    "question": "Benefit period in DI? - Scenario 52 with client age 36",
+    "options": [
+      "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65",
+      "Free look",
+      "Grace period",
+      "How long premium payable"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benefit period limits duration e.g., to age 65.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 49,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Buy-Sell",
+    "difficulty": "Hard",
+    "question": "Buy-sell disability funding? - Scenario 59 with client age 43",
+    "options": [
+      "No funding",
+      "Funds buyout of disabled partner's share per agreement",
+      "Life only",
+      "Personal income"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Disability buy-sell funds transfer of business interest.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 50,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "WOP",
+    "difficulty": "Easy",
+    "question": "Waiver of premium in DI?",
+    "options": [
+      "Waives premiums during total disability after elimination",
+      "Waives benefit",
+      "Increases premium",
+      "Reduces benefit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "WOP waives premiums while on claim.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 51,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Benefit Period",
+    "difficulty": "Easy",
+    "question": "Benefit period in DI? - Scenario 22 with client age 36",
+    "options": [
+      "Grace period",
+      "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65",
+      "Free look",
+      "How long premium payable"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Benefit period limits duration e.g., to age 65.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 52,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Benefit Period",
+    "difficulty": "Easy",
+    "question": "Benefit period in DI?",
+    "options": [
+      "How long premium payable",
+      "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65",
+      "Free look",
+      "Grace period"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Benefit period limits duration e.g., to age 65.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 53,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "WOP",
+    "difficulty": "Easy",
+    "question": "Waiver of premium in DI? - Scenario 39 with client age 38",
+    "options": [
+      "Waives benefit",
+      "Waives premiums during total disability after elimination",
+      "Increases premium",
+      "Reduces benefit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "WOP waives premiums while on claim.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 54,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Buy-Sell",
+    "difficulty": "Hard",
+    "question": "Buy-sell disability funding? - Scenario 44 with client age 43",
+    "options": [
+      "Funds buyout of disabled partner's share per agreement",
+      "No funding",
+      "Personal income",
+      "Life only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disability buy-sell funds transfer of business interest.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 55,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Integration",
+    "difficulty": "Hard",
+    "question": "Integration with other benefits in DI? - Scenario 60 with client age 44",
+    "options": [
+      "Only increases",
+      "No integration",
+      "Only CPP",
+      "Benefits may be reduced by other income like CPP disability, group LTD"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Integration prevents overinsurance, offsets other benefits.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 56,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "COLA",
+    "difficulty": "Easy",
+    "question": "COLA rider in DI? - Scenario 34 with client age 33",
+    "options": [
+      "Cancels benefit",
+      "Adjusts benefit for inflation",
+      "Only for life",
+      "Reduces benefit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "COLA increases benefit with CPI during claim.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 57,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "question": "Own occupation definition in DI?",
+    "options": [
+      "Only if unemployed",
+      "Unable to do all jobs",
+      "Unable to perform duties of own occupation as defined",
+      "Any occupation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Own occ pays if cannot do own occupation even if can do other.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 58,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Key Person",
+    "difficulty": "Medium",
+    "question": "Key person DI? - Scenario 58 with client age 42",
+    "options": [
+      "Life insurance only",
+      "Personal DI",
+      "Business owned DI on key person to cover loss if disabled",
+      "Group only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Key person DI indemnifies business for key person disability.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 59,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Exclusions in DI? - Scenario 26 with client age 40",
+    "options": [
+      "No exclusions",
+      "Accidents only",
+      "Pre-existing not disclosed, war, self-inflicted, criminal act",
+      "All sicknesses covered"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Standard exclusions include pre-existing, war, criminal.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 60,
+    "moduleId": "disability",
+    "moduleName": "Disability Insurance",
+    "topic": "Elimination",
+    "difficulty": "Easy",
+    "question": "Elimination period in DI?",
+    "options": [
+      "Waiting period before benefits start after disability",
+      "Free look",
+      "Benefit duration",
+      "Period premium waived"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Elimination e.g., 90 days reduces premiums.",
+    "source": "CISRO Disability Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  }
+]

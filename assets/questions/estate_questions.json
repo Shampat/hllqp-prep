@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Buy-Sell",
+    "difficulty": "Medium",
+    "question": "What is buy-sell agreement funded with life? - Case 37",
+    "options": [
+      "No business use",
+      "Surviving owner gets funds to buy deceased share",
+      "Personal use only",
+      "Only DI"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buy-sell + life provides liquidity to buy shares per agreement.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 2,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Easy",
+    "question": "What is intestacy if no will and no beneficiary? - Case 60",
+    "options": [
+      "Lost",
+      "Insurance with no beneficiary goes to estate, distributed per provincial intestacy law",
+      "Goes to government",
+      "Goes to insurer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "No beneficiary = estate, intestacy rules apply if no will.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 3,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Key Person",
+    "difficulty": "Medium",
+    "question": "What is key person insurance estate effect? - Case 23",
+    "options": [
+      "No effect",
+      "Business gets funds to replace loss, protects value for estate",
+      "Only group",
+      "Personal estate only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Key person protects business value that is part of owner's estate.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 4,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Tax Funding",
+    "difficulty": "Medium",
+    "question": "Joint last-to-die for estate taxes? - Case 17",
+    "options": [
+      "Pays on second death when estate tax liability often arises",
+      "Only term",
+      "No estate use",
+      "Pays first death"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Last-to-die funds capital gains tax at second death of couple.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 5,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary",
+    "difficulty": "Medium",
+    "question": "Irrevocable beneficiary in estate planning - effect?",
+    "options": [
+      "Revocable always",
+      "Owner cannot change without consent, may provide creditor protection",
+      "No protection",
+      "Estate always"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Irrevocable limits owner rights, may offer some creditor protection.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 6,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Key Person",
+    "difficulty": "Medium",
+    "question": "What is key person insurance estate effect? - Case 38",
+    "options": [
+      "No effect",
+      "Personal estate only",
+      "Only group",
+      "Business gets funds to replace loss, protects value for estate"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Key person protects business value that is part of owner's estate.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 7,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Medium",
+    "question": "What is probate fee impact in Ontario? - Case 50",
+    "options": [
+      "Always probate",
+      "Only Quebec",
+      "Life proceeds to named beneficiary avoid probate fees, to estate attract fees",
+      "Never probate"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ontario probate fees on estate assets, named beneficiary avoids.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 8,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Contingent",
+    "difficulty": "Easy",
+    "question": "What happens if beneficiary predeceases and no contingent? - Case 40",
+    "options": [
+      "Go to insurer",
+      "Go to contingent auto",
+      "Lost",
+      "Proceeds go to estate, subject to probate"
+    ],
+    "correctAnswer": 3,
+    "explanation": "If no contingent alive, proceeds to estate.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 9,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "CDA",
+    "difficulty": "Hard",
+    "question": "CDA credit corporate-owned life - estate planning use?",
+    "options": [
+      "Capital gain",
+      "No CDA",
+      "Taxable",
+      "Death benefit minus ACB credits CDA allowing tax-free dividend to estate"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CDA allows corporation to pay tax-free dividend to estate equal to CDA.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 10,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Easy",
+    "question": "Why name beneficiary vs estate? - Case 31",
+    "options": [
+      "Taxable more",
+      "No difference",
+      "Bypasses probate, direct to beneficiary, faster, avoids probate fees",
+      "Must go via estate"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Named beneficiary bypasses estate and probate, reduces fees.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 11,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "CDA",
+    "difficulty": "Hard",
+    "question": "CDA credit corporate-owned life - estate planning use? - Case 51",
+    "options": [
+      "Death benefit minus ACB credits CDA allowing tax-free dividend to estate",
+      "Capital gain",
+      "No CDA",
+      "Taxable"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CDA allows corporation to pay tax-free dividend to estate equal to CDA.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 12,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Will",
+    "difficulty": "Medium",
+    "question": "Will vs beneficiary designation - which governs life proceeds? - Case 19",
+    "options": [
+      "Beneficiary designation governs over will for life insurance",
+      "No designation needed",
+      "Will governs",
+      "Estate always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Named beneficiary designation takes precedence over will for insurance.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 13,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary",
+    "difficulty": "Medium",
+    "question": "Irrevocable beneficiary in estate planning - effect? - Case 26",
+    "options": [
+      "Estate always",
+      "No protection",
+      "Owner cannot change without consent, may provide creditor protection",
+      "Revocable always"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Irrevocable limits owner rights, may offer some creditor protection.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 14,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charity",
+    "difficulty": "Medium",
+    "question": "Charitable giving via life insurance? - Case 57",
+    "options": [
+      "Donate policy or name charity beneficiary, gets donation receipt for premiums or death benefit per CRA rules",
+      "Only term",
+      "No receipt",
+      "Always taxable"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Charitable donation of life policy can generate donation receipt per CRA.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 15,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Contingent",
+    "difficulty": "Easy",
+    "question": "What happens if beneficiary predeceases and no contingent?",
+    "options": [
+      "Lost",
+      "Go to insurer",
+      "Go to contingent auto",
+      "Proceeds go to estate, subject to probate"
+    ],
+    "correctAnswer": 3,
+    "explanation": "If no contingent alive, proceeds to estate.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 16,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trust",
+    "difficulty": "Medium",
+    "question": "Trust as beneficiary of life insurance? - Case 44",
+    "options": [
+      "Cannot name trust",
+      "Trust always taxed more",
+      "No use",
+      "Can name trust to control distribution for minor or disabled beneficiary, avoids court"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Trust allows control over proceeds for minors, spendthrift, disabled.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 17,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Contingent",
+    "difficulty": "Easy",
+    "question": "What happens if beneficiary predeceases and no contingent? - Case 25",
+    "options": [
+      "Lost",
+      "Go to contingent auto",
+      "Go to insurer",
+      "Proceeds go to estate, subject to probate"
+    ],
+    "correctAnswer": 3,
+    "explanation": "If no contingent alive, proceeds to estate.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 18,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "CDA",
+    "difficulty": "Hard",
+    "question": "CDA credit corporate-owned life - estate planning use? - Case 21",
+    "options": [
+      "Taxable",
+      "No CDA",
+      "Capital gain",
+      "Death benefit minus ACB credits CDA allowing tax-free dividend to estate"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CDA allows corporation to pay tax-free dividend to estate equal to CDA.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 19,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charity",
+    "difficulty": "Medium",
+    "question": "Charitable giving via life insurance? - Case 42",
+    "options": [
+      "Always taxable",
+      "No receipt",
+      "Donate policy or name charity beneficiary, gets donation receipt for premiums or death benefit per CRA rules",
+      "Only term"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Charitable donation of life policy can generate donation receipt per CRA.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 20,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Creation",
+    "difficulty": "Easy",
+    "question": "How can life insurance create estate? - Case 24",
+    "options": [
+      "Only whole life can",
+      "Cannot create",
+      "Provides immediate lump sum at death when little savings",
+      "Only term can"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Life creates immediate estate for dependents.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 21,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charity",
+    "difficulty": "Medium",
+    "question": "Charitable giving via life insurance? - Case 27",
+    "options": [
+      "No receipt",
+      "Only term",
+      "Always taxable",
+      "Donate policy or name charity beneficiary, gets donation receipt for premiums or death benefit per CRA rules"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Charitable donation of life policy can generate donation receipt per CRA.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 22,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trust",
+    "difficulty": "Medium",
+    "question": "Trust as beneficiary of life insurance?",
+    "options": [
+      "No use",
+      "Can name trust to control distribution for minor or disabled beneficiary, avoids court",
+      "Cannot name trust",
+      "Trust always taxed more"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trust allows control over proceeds for minors, spendthrift, disabled.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 23,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Will",
+    "difficulty": "Medium",
+    "question": "Will vs beneficiary designation - which governs life proceeds?",
+    "options": [
+      "No designation needed",
+      "Estate always",
+      "Will governs",
+      "Beneficiary designation governs over will for life insurance"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Named beneficiary designation takes precedence over will for insurance.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 24,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Easy",
+    "question": "What is intestacy if no will and no beneficiary?",
+    "options": [
+      "Insurance with no beneficiary goes to estate, distributed per provincial intestacy law",
+      "Goes to government",
+      "Goes to insurer",
+      "Lost"
+    ],
+    "correctAnswer": 0,
+    "explanation": "No beneficiary = estate, intestacy rules apply if no will.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 25,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Easy",
+    "question": "Why name beneficiary vs estate? - Case 16",
+    "options": [
+      "No difference",
+      "Must go via estate",
+      "Bypasses probate, direct to beneficiary, faster, avoids probate fees",
+      "Taxable more"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Named beneficiary bypasses estate and probate, reduces fees.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 26,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Creation",
+    "difficulty": "Easy",
+    "question": "How can life insurance create estate?",
+    "options": [
+      "Only term can",
+      "Provides immediate lump sum at death when little savings",
+      "Only whole life can",
+      "Cannot create"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Life creates immediate estate for dependents.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 27,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Easy",
+    "question": "Why name beneficiary vs estate? - Case 46",
+    "options": [
+      "Bypasses probate, direct to beneficiary, faster, avoids probate fees",
+      "No difference",
+      "Must go via estate",
+      "Taxable more"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Named beneficiary bypasses estate and probate, reduces fees.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 28,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Charity",
+    "difficulty": "Medium",
+    "question": "Charitable giving via life insurance?",
+    "options": [
+      "No receipt",
+      "Always taxable",
+      "Donate policy or name charity beneficiary, gets donation receipt for premiums or death benefit per CRA rules",
+      "Only term"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Charitable donation of life policy can generate donation receipt per CRA.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 29,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "POA",
+    "difficulty": "Hard",
+    "question": "What is power of attorney and life insurance?",
+    "options": [
+      "Always allowed",
+      "Only for term",
+      "Never allowed",
+      "POA for property may allow beneficiary change only if expressly permitted"
+    ],
+    "correctAnswer": 3,
+    "explanation": "POA beneficiary change requires express authority per province.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 30,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Will",
+    "difficulty": "Medium",
+    "question": "Will vs beneficiary designation - which governs life proceeds? - Case 49",
+    "options": [
+      "No designation needed",
+      "Beneficiary designation governs over will for life insurance",
+      "Will governs",
+      "Estate always"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Named beneficiary designation takes precedence over will for insurance.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 31,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Easy",
+    "question": "What is intestacy if no will and no beneficiary? - Case 45",
+    "options": [
+      "Goes to insurer",
+      "Insurance with no beneficiary goes to estate, distributed per provincial intestacy law",
+      "Lost",
+      "Goes to government"
+    ],
+    "correctAnswer": 1,
+    "explanation": "No beneficiary = estate, intestacy rules apply if no will.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 32,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Creation",
+    "difficulty": "Easy",
+    "question": "How can life insurance create estate? - Case 54",
+    "options": [
+      "Cannot create",
+      "Provides immediate lump sum at death when little savings",
+      "Only whole life can",
+      "Only term can"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Life creates immediate estate for dependents.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 33,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Tax Funding",
+    "difficulty": "Medium",
+    "question": "Joint last-to-die for estate taxes? - Case 47",
+    "options": [
+      "Pays on second death when estate tax liability often arises",
+      "No estate use",
+      "Pays first death",
+      "Only term"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Last-to-die funds capital gains tax at second death of couple.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 34,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Contingent",
+    "difficulty": "Easy",
+    "question": "What happens if beneficiary predeceases and no contingent? - Case 55",
+    "options": [
+      "Proceeds go to estate, subject to probate",
+      "Lost",
+      "Go to insurer",
+      "Go to contingent auto"
+    ],
+    "correctAnswer": 0,
+    "explanation": "If no contingent alive, proceeds to estate.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 35,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trust",
+    "difficulty": "Medium",
+    "question": "Trust as beneficiary of life insurance? - Case 29",
+    "options": [
+      "Can name trust to control distribution for minor or disabled beneficiary, avoids court",
+      "Cannot name trust",
+      "Trust always taxed more",
+      "No use"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Trust allows control over proceeds for minors, spendthrift, disabled.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 36,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Trust",
+    "difficulty": "Medium",
+    "question": "Trust as beneficiary of life insurance? - Case 59",
+    "options": [
+      "No use",
+      "Trust always taxed more",
+      "Can name trust to control distribution for minor or disabled beneficiary, avoids court",
+      "Cannot name trust"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Trust allows control over proceeds for minors, spendthrift, disabled.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 37,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Buy-Sell",
+    "difficulty": "Medium",
+    "question": "What is buy-sell agreement funded with life?",
+    "options": [
+      "Only DI",
+      "Surviving owner gets funds to buy deceased share",
+      "Personal use only",
+      "No business use"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buy-sell + life provides liquidity to buy shares per agreement.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 38,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "POA",
+    "difficulty": "Hard",
+    "question": "What is power of attorney and life insurance? - Case 28",
+    "options": [
+      "Only for term",
+      "Always allowed",
+      "POA for property may allow beneficiary change only if expressly permitted",
+      "Never allowed"
+    ],
+    "correctAnswer": 2,
+    "explanation": "POA beneficiary change requires express authority per province.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 39,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Freeze",
+    "difficulty": "Hard",
+    "question": "What is estate freeze with life insurance? - Case 18",
+    "options": [
+      "Only RRSP",
+      "No freeze",
+      "Only term",
+      "Freeze value of business, future growth to heirs, life funds tax at death"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Estate freeze + insurance funds tax on deemed disposition.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 40,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Medium",
+    "question": "What is probate fee impact in Ontario?",
+    "options": [
+      "Always probate",
+      "Only Quebec",
+      "Life proceeds to named beneficiary avoid probate fees, to estate attract fees",
+      "Never probate"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ontario probate fees on estate assets, named beneficiary avoids.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 41,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "POA",
+    "difficulty": "Hard",
+    "question": "What is power of attorney and life insurance? - Case 58",
+    "options": [
+      "Only for term",
+      "Never allowed",
+      "Always allowed",
+      "POA for property may allow beneficiary change only if expressly permitted"
+    ],
+    "correctAnswer": 3,
+    "explanation": "POA beneficiary change requires express authority per province.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 42,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Freeze",
+    "difficulty": "Hard",
+    "question": "What is estate freeze with life insurance?",
+    "options": [
+      "Only term",
+      "No freeze",
+      "Only RRSP",
+      "Freeze value of business, future growth to heirs, life funds tax at death"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Estate freeze + insurance funds tax on deemed disposition.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 43,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Key Person",
+    "difficulty": "Medium",
+    "question": "What is key person insurance estate effect? - Case 53",
+    "options": [
+      "No effect",
+      "Personal estate only",
+      "Business gets funds to replace loss, protects value for estate",
+      "Only group"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Key person protects business value that is part of owner's estate.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 44,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Tax Funding",
+    "difficulty": "Medium",
+    "question": "Joint last-to-die for estate taxes? - Case 32",
+    "options": [
+      "Pays first death",
+      "No estate use",
+      "Pays on second death when estate tax liability often arises",
+      "Only term"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Last-to-die funds capital gains tax at second death of couple.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 45,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Key Person",
+    "difficulty": "Medium",
+    "question": "What is key person insurance estate effect?",
+    "options": [
+      "Personal estate only",
+      "No effect",
+      "Business gets funds to replace loss, protects value for estate",
+      "Only group"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Key person protects business value that is part of owner's estate.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 46,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Medium",
+    "question": "What is probate fee impact in Ontario? - Case 20",
+    "options": [
+      "Never probate",
+      "Only Quebec",
+      "Life proceeds to named beneficiary avoid probate fees, to estate attract fees",
+      "Always probate"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Ontario probate fees on estate assets, named beneficiary avoids.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 47,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Buy-Sell",
+    "difficulty": "Medium",
+    "question": "What is buy-sell agreement funded with life? - Case 52",
+    "options": [
+      "Surviving owner gets funds to buy deceased share",
+      "Personal use only",
+      "No business use",
+      "Only DI"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Buy-sell + life provides liquidity to buy shares per agreement.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 48,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "CDA",
+    "difficulty": "Hard",
+    "question": "CDA credit corporate-owned life - estate planning use? - Case 36",
+    "options": [
+      "Taxable",
+      "Capital gain",
+      "Death benefit minus ACB credits CDA allowing tax-free dividend to estate",
+      "No CDA"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CDA allows corporation to pay tax-free dividend to estate equal to CDA.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 49,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Will",
+    "difficulty": "Medium",
+    "question": "Will vs beneficiary designation - which governs life proceeds? - Case 34",
+    "options": [
+      "Beneficiary designation governs over will for life insurance",
+      "Estate always",
+      "Will governs",
+      "No designation needed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Named beneficiary designation takes precedence over will for insurance.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 50,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary",
+    "difficulty": "Medium",
+    "question": "Irrevocable beneficiary in estate planning - effect? - Case 56",
+    "options": [
+      "No protection",
+      "Estate always",
+      "Revocable always",
+      "Owner cannot change without consent, may provide creditor protection"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Irrevocable limits owner rights, may offer some creditor protection.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 51,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Easy",
+    "question": "Why name beneficiary vs estate?",
+    "options": [
+      "Bypasses probate, direct to beneficiary, faster, avoids probate fees",
+      "Must go via estate",
+      "No difference",
+      "Taxable more"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Named beneficiary bypasses estate and probate, reduces fees.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 52,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "POA",
+    "difficulty": "Hard",
+    "question": "What is power of attorney and life insurance? - Case 43",
+    "options": [
+      "Always allowed",
+      "Never allowed",
+      "POA for property may allow beneficiary change only if expressly permitted",
+      "Only for term"
+    ],
+    "correctAnswer": 2,
+    "explanation": "POA beneficiary change requires express authority per province.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 53,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Intestacy",
+    "difficulty": "Easy",
+    "question": "What is intestacy if no will and no beneficiary? - Case 30",
+    "options": [
+      "Insurance with no beneficiary goes to estate, distributed per provincial intestacy law",
+      "Goes to government",
+      "Lost",
+      "Goes to insurer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "No beneficiary = estate, intestacy rules apply if no will.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 54,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Probate",
+    "difficulty": "Medium",
+    "question": "What is probate fee impact in Ontario? - Case 35",
+    "options": [
+      "Life proceeds to named beneficiary avoid probate fees, to estate attract fees",
+      "Never probate",
+      "Only Quebec",
+      "Always probate"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ontario probate fees on estate assets, named beneficiary avoids.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 55,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Freeze",
+    "difficulty": "Hard",
+    "question": "What is estate freeze with life insurance? - Case 48",
+    "options": [
+      "Only term",
+      "No freeze",
+      "Only RRSP",
+      "Freeze value of business, future growth to heirs, life funds tax at death"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Estate freeze + insurance funds tax on deemed disposition.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 56,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Freeze",
+    "difficulty": "Hard",
+    "question": "What is estate freeze with life insurance? - Case 33",
+    "options": [
+      "Only RRSP",
+      "No freeze",
+      "Only term",
+      "Freeze value of business, future growth to heirs, life funds tax at death"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Estate freeze + insurance funds tax on deemed disposition.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 57,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Buy-Sell",
+    "difficulty": "Medium",
+    "question": "What is buy-sell agreement funded with life? - Case 22",
+    "options": [
+      "No business use",
+      "Personal use only",
+      "Surviving owner gets funds to buy deceased share",
+      "Only DI"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Buy-sell + life provides liquidity to buy shares per agreement.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 58,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Beneficiary",
+    "difficulty": "Medium",
+    "question": "Irrevocable beneficiary in estate planning - effect? - Case 41",
+    "options": [
+      "No protection",
+      "Revocable always",
+      "Estate always",
+      "Owner cannot change without consent, may provide creditor protection"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Irrevocable limits owner rights, may offer some creditor protection.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 59,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Creation",
+    "difficulty": "Easy",
+    "question": "How can life insurance create estate? - Case 39",
+    "options": [
+      "Only term can",
+      "Provides immediate lump sum at death when little savings",
+      "Only whole life can",
+      "Cannot create"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Life creates immediate estate for dependents.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 60,
+    "moduleId": "estate",
+    "moduleName": "Estate Planning",
+    "topic": "Estate Tax Funding",
+    "difficulty": "Medium",
+    "question": "Joint last-to-die for estate taxes?",
+    "options": [
+      "Pays on second death when estate tax liability often arises",
+      "Pays first death",
+      "Only term",
+      "No estate use"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Last-to-die funds capital gains tax at second death of couple.",
+    "source": "CISRO Estate + CRA CDA Folio public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  }
+]

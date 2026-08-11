@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Covered Conditions",
+    "difficulty": "Easy",
+    "question": "Common covered conditions in CI? (Case study 33)",
+    "options": [
+      "Only cold",
+      "Cancer, heart attack, stroke, coronary bypass etc as defined",
+      "Only flu",
+      "Only accidents"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 2,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Stroke",
+    "difficulty": "Hard",
+    "question": "Stroke definition CI? (Case study 43)",
+    "options": [
+      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition",
+      "TIA always covered",
+      "No definition",
+      "Any dizziness"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Stroke requires lasting deficit, TIA excluded.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 3,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Best practice explaining CI to client?",
+    "options": [
+      "No need explain",
+      "Guarantee claim",
+      "Say all conditions covered",
+      "Explain covered conditions, definitions, exclusions, survival period, partial vs full"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Must explain definitions and limitations to ensure understanding.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 4,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Exclusions in CI?",
+    "options": [
+      "No exclusions",
+      "All cancers covered",
+      "All conditions covered",
+      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 5,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Stroke",
+    "difficulty": "Hard",
+    "question": "Stroke definition CI? (Case study 28)",
+    "options": [
+      "No definition",
+      "TIA always covered",
+      "Any dizziness",
+      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Stroke requires lasting deficit, TIA excluded.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 6,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Trigger",
+    "difficulty": "Easy",
+    "question": "CI pays when?",
+    "options": [
+      "Diagnosis of covered condition as defined and survival period met",
+      "Hospitalization only",
+      "Any sickness",
+      "Death only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 7,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Covered Conditions",
+    "difficulty": "Easy",
+    "question": "Common covered conditions in CI?",
+    "options": [
+      "Only accidents",
+      "Cancer, heart attack, stroke, coronary bypass etc as defined",
+      "Only flu",
+      "Only cold"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 8,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "CI vs DI",
+    "difficulty": "Medium",
+    "question": "Difference between CI and DI? (Case study 37)",
+    "options": [
+      "Same",
+      "CI lump sum on diagnosis, DI monthly income for inability to work",
+      "CI pays monthly, DI lump sum",
+      "Both same"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CI diagnosis trigger, DI disability trigger.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 9,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Cancer",
+    "difficulty": "Hard",
+    "question": "What is covered cancer definition in CI?",
+    "options": [
+      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology",
+      "Any lump",
+      "Skin cancer always covered",
+      "Any cancer always"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 10,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Tax",
+    "difficulty": "Medium",
+    "question": "Tax treatment of CI benefit to individual? (Case study 54)",
+    "options": [
+      "Capital gain",
+      "Taxable income",
+      "50% taxable",
+      "Generally tax-free lump sum if personally owned and not business related"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CI benefit personally owned is generally tax-free.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 11,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Partial",
+    "difficulty": "Medium",
+    "question": "Partial benefit in CI? (Case study 34)",
+    "options": [
+      "Only for death",
+      "Full benefit only",
+      "Some conditions pay partial % e.g., early-stage cancer, angioplasty",
+      "No benefit"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Some CI pays partial for less severe conditions.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 12,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Trigger",
+    "difficulty": "Easy",
+    "question": "CI pays when? (Case study 46)",
+    "options": [
+      "Hospitalization only",
+      "Any sickness",
+      "Death only",
+      "Diagnosis of covered condition as defined and survival period met"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 13,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Underwriting in CI? (Case study 53)",
+    "options": [
+      "Only age",
+      "Guaranteed always",
+      "No underwriting",
+      "Full medical underwriting similar to life, may have exclusions"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CI requires medical evidence, may rate or exclude.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 14,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Covered Conditions",
+    "difficulty": "Easy",
+    "question": "Common covered conditions in CI? (Case study 48)",
+    "options": [
+      "Only flu",
+      "Only accidents",
+      "Cancer, heart attack, stroke, coronary bypass etc as defined",
+      "Only cold"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 15,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Tax",
+    "difficulty": "Medium",
+    "question": "Tax treatment of CI benefit to individual? (Case study 24)",
+    "options": [
+      "50% taxable",
+      "Generally tax-free lump sum if personally owned and not business related",
+      "Capital gain",
+      "Taxable income"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CI benefit personally owned is generally tax-free.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 16,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "ROP",
+    "difficulty": "Medium",
+    "question": "Return of premium rider in CI?",
+    "options": [
+      "No such rider",
+      "Automatic free",
+      "Always returns 100% without cost",
+      "Returns premium if no claim after period or on death, extra cost"
+    ],
+    "correctAnswer": 3,
+    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 17,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Heart Attack",
+    "difficulty": "Hard",
+    "question": "Heart attack definition CI?",
+    "options": [
+      "Only bypass",
+      "Any heart disease",
+      "Any chest pain",
+      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria"
+    ],
+    "correctAnswer": 3,
+    "explanation": "MI requires objective evidence per definition.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 18,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Tax",
+    "difficulty": "Medium",
+    "question": "Tax treatment of CI benefit to individual? (Case study 39)",
+    "options": [
+      "Capital gain",
+      "50% taxable",
+      "Taxable income",
+      "Generally tax-free lump sum if personally owned and not business related"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CI benefit personally owned is generally tax-free.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 19,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Heart Attack",
+    "difficulty": "Hard",
+    "question": "Heart attack definition CI? (Case study 57)",
+    "options": [
+      "Any heart disease",
+      "Only bypass",
+      "Any chest pain",
+      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria"
+    ],
+    "correctAnswer": 3,
+    "explanation": "MI requires objective evidence per definition.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 20,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "ROP",
+    "difficulty": "Medium",
+    "question": "Return of premium rider in CI? (Case study 21)",
+    "options": [
+      "Automatic free",
+      "Returns premium if no claim after period or on death, extra cost",
+      "Always returns 100% without cost",
+      "No such rider"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 21,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Survival",
+    "difficulty": "Easy",
+    "question": "Survival period in CI? (Case study 32)",
+    "options": [
+      "Grace",
+      "Period before coverage starts",
+      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days",
+      "Free look"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Survival ensures condition not immediately fatal.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 22,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Stroke",
+    "difficulty": "Hard",
+    "question": "Stroke definition CI?",
+    "options": [
+      "No definition",
+      "Any dizziness",
+      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition",
+      "TIA always covered"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Stroke requires lasting deficit, TIA excluded.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 23,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Partial",
+    "difficulty": "Medium",
+    "question": "Partial benefit in CI? (Case study 49)",
+    "options": [
+      "Some conditions pay partial % e.g., early-stage cancer, angioplasty",
+      "Only for death",
+      "No benefit",
+      "Full benefit only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some CI pays partial for less severe conditions.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 24,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Tax",
+    "difficulty": "Medium",
+    "question": "Tax treatment of CI benefit to individual?",
+    "options": [
+      "Taxable income",
+      "50% taxable",
+      "Generally tax-free lump sum if personally owned and not business related",
+      "Capital gain"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CI benefit personally owned is generally tax-free.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 25,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Bypass",
+    "difficulty": "Medium",
+    "question": "Coronary bypass definition? (Case study 59)",
+    "options": [
+      "Angioplasty full benefit always",
+      "Any heart procedure",
+      "No bypass cover",
+      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 26,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Bypass",
+    "difficulty": "Medium",
+    "question": "Coronary bypass definition? (Case study 44)",
+    "options": [
+      "Any heart procedure",
+      "Angioplasty full benefit always",
+      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit",
+      "No bypass cover"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 27,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Bypass",
+    "difficulty": "Medium",
+    "question": "Coronary bypass definition? (Case study 29)",
+    "options": [
+      "Angioplasty full benefit always",
+      "No bypass cover",
+      "Any heart procedure",
+      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 28,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Bypass",
+    "difficulty": "Medium",
+    "question": "Coronary bypass definition?",
+    "options": [
+      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit",
+      "No bypass cover",
+      "Angioplasty full benefit always",
+      "Any heart procedure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 29,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Benefit",
+    "difficulty": "Easy",
+    "question": "Benefit period in CI? (Case study 25)",
+    "options": [
+      "Usually lump sum one-time, policy may terminate or allow second event",
+      "Free look",
+      "Monthly for life",
+      "Grace"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Most CI pays once and terminates, some second event.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 30,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Survival",
+    "difficulty": "Easy",
+    "question": "Survival period in CI? (Case study 47)",
+    "options": [
+      "Period before coverage starts",
+      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days",
+      "Grace",
+      "Free look"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Survival ensures condition not immediately fatal.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 31,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Cancer",
+    "difficulty": "Hard",
+    "question": "What is covered cancer definition in CI? (Case study 41)",
+    "options": [
+      "Any cancer always",
+      "Any lump",
+      "Skin cancer always covered",
+      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 32,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Best practice explaining CI to client? (Case study 60)",
+    "options": [
+      "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
+      "No need explain",
+      "Guarantee claim",
+      "Say all conditions covered"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Must explain definitions and limitations to ensure understanding.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 33,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Cancer",
+    "difficulty": "Hard",
+    "question": "What is covered cancer definition in CI? (Case study 56)",
+    "options": [
+      "Skin cancer always covered",
+      "Any lump",
+      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology",
+      "Any cancer always"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 34,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "CI vs DI",
+    "difficulty": "Medium",
+    "question": "Difference between CI and DI? (Case study 52)",
+    "options": [
+      "CI pays monthly, DI lump sum",
+      "Same",
+      "CI lump sum on diagnosis, DI monthly income for inability to work",
+      "Both same"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CI diagnosis trigger, DI disability trigger.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 35,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Survival",
+    "difficulty": "Easy",
+    "question": "Survival period in CI?",
+    "options": [
+      "Period before coverage starts",
+      "Grace",
+      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days",
+      "Free look"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Survival ensures condition not immediately fatal.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 36,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Underwriting in CI?",
+    "options": [
+      "No underwriting",
+      "Only age",
+      "Guaranteed always",
+      "Full medical underwriting similar to life, may have exclusions"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CI requires medical evidence, may rate or exclude.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 37,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Trigger",
+    "difficulty": "Easy",
+    "question": "CI pays when? (Case study 16)",
+    "options": [
+      "Any sickness",
+      "Hospitalization only",
+      "Death only",
+      "Diagnosis of covered condition as defined and survival period met"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 38,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Best practice explaining CI to client? (Case study 30)",
+    "options": [
+      "Guarantee claim",
+      "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
+      "No need explain",
+      "Say all conditions covered"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Must explain definitions and limitations to ensure understanding.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 39,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "ROP",
+    "difficulty": "Medium",
+    "question": "Return of premium rider in CI? (Case study 36)",
+    "options": [
+      "Always returns 100% without cost",
+      "No such rider",
+      "Returns premium if no claim after period or on death, extra cost",
+      "Automatic free"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 40,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Stroke",
+    "difficulty": "Hard",
+    "question": "Stroke definition CI? (Case study 58)",
+    "options": [
+      "TIA always covered",
+      "No definition",
+      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition",
+      "Any dizziness"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Stroke requires lasting deficit, TIA excluded.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 41,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "CI vs DI",
+    "difficulty": "Medium",
+    "question": "Difference between CI and DI?",
+    "options": [
+      "CI lump sum on diagnosis, DI monthly income for inability to work",
+      "Same",
+      "Both same",
+      "CI pays monthly, DI lump sum"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI diagnosis trigger, DI disability trigger.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 42,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Exclusions in CI? (Case study 50)",
+    "options": [
+      "All cancers covered",
+      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
+      "No exclusions",
+      "All conditions covered"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 43,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Underwriting in CI? (Case study 38)",
+    "options": [
+      "No underwriting",
+      "Guaranteed always",
+      "Only age",
+      "Full medical underwriting similar to life, may have exclusions"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CI requires medical evidence, may rate or exclude.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 44,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Cancer",
+    "difficulty": "Hard",
+    "question": "What is covered cancer definition in CI? (Case study 26)",
+    "options": [
+      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology",
+      "Any lump",
+      "Any cancer always",
+      "Skin cancer always covered"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 45,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Benefit",
+    "difficulty": "Easy",
+    "question": "Benefit period in CI? (Case study 40)",
+    "options": [
+      "Grace",
+      "Monthly for life",
+      "Usually lump sum one-time, policy may terminate or allow second event",
+      "Free look"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Most CI pays once and terminates, some second event.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 46,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Heart Attack",
+    "difficulty": "Hard",
+    "question": "Heart attack definition CI? (Case study 27)",
+    "options": [
+      "Only bypass",
+      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria",
+      "Any chest pain",
+      "Any heart disease"
+    ],
+    "correctAnswer": 1,
+    "explanation": "MI requires objective evidence per definition.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 47,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Partial",
+    "difficulty": "Medium",
+    "question": "Partial benefit in CI?",
+    "options": [
+      "Only for death",
+      "No benefit",
+      "Full benefit only",
+      "Some conditions pay partial % e.g., early-stage cancer, angioplasty"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Some CI pays partial for less severe conditions.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 48,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "question": "Underwriting in CI? (Case study 23)",
+    "options": [
+      "Full medical underwriting similar to life, may have exclusions",
+      "Guaranteed always",
+      "Only age",
+      "No underwriting"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI requires medical evidence, may rate or exclude.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 49,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Heart Attack",
+    "difficulty": "Hard",
+    "question": "Heart attack definition CI? (Case study 42)",
+    "options": [
+      "Any heart disease",
+      "Any chest pain",
+      "Only bypass",
+      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria"
+    ],
+    "correctAnswer": 3,
+    "explanation": "MI requires objective evidence per definition.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 50,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "ROP",
+    "difficulty": "Medium",
+    "question": "Return of premium rider in CI? (Case study 51)",
+    "options": [
+      "Returns premium if no claim after period or on death, extra cost",
+      "Automatic free",
+      "Always returns 100% without cost",
+      "No such rider"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 51,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Exclusions in CI? (Case study 35)",
+    "options": [
+      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
+      "All conditions covered",
+      "No exclusions",
+      "All cancers covered"
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 52,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Partial",
+    "difficulty": "Medium",
+    "question": "Partial benefit in CI? (Case study 19)",
+    "options": [
+      "Only for death",
+      "Some conditions pay partial % e.g., early-stage cancer, angioplasty",
+      "Full benefit only",
+      "No benefit"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Some CI pays partial for less severe conditions.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 53,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Trigger",
+    "difficulty": "Easy",
+    "question": "CI pays when? (Case study 31)",
+    "options": [
+      "Hospitalization only",
+      "Death only",
+      "Any sickness",
+      "Diagnosis of covered condition as defined and survival period met"
+    ],
+    "correctAnswer": 3,
+    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 54,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "question": "Best practice explaining CI to client? (Case study 45)",
+    "options": [
+      "No need explain",
+      "Guarantee claim",
+      "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
+      "Say all conditions covered"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Must explain definitions and limitations to ensure understanding.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 55,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "CI vs DI",
+    "difficulty": "Medium",
+    "question": "Difference between CI and DI? (Case study 22)",
+    "options": [
+      "Same",
+      "CI lump sum on diagnosis, DI monthly income for inability to work",
+      "CI pays monthly, DI lump sum",
+      "Both same"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CI diagnosis trigger, DI disability trigger.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 56,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Covered Conditions",
+    "difficulty": "Easy",
+    "question": "Common covered conditions in CI? (Case study 18)",
+    "options": [
+      "Cancer, heart attack, stroke, coronary bypass etc as defined",
+      "Only accidents",
+      "Only flu",
+      "Only cold"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 57,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "question": "Exclusions in CI? (Case study 20)",
+    "options": [
+      "All cancers covered",
+      "No exclusions",
+      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
+      "All conditions covered"
+    ],
+    "correctAnswer": 2,
+    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 58,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Benefit",
+    "difficulty": "Easy",
+    "question": "Benefit period in CI? (Case study 55)",
+    "options": [
+      "Grace",
+      "Monthly for life",
+      "Usually lump sum one-time, policy may terminate or allow second event",
+      "Free look"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Most CI pays once and terminates, some second event.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 59,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Survival",
+    "difficulty": "Easy",
+    "question": "Survival period in CI? (Case study 17)",
+    "options": [
+      "Free look",
+      "Period before coverage starts",
+      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days",
+      "Grace"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Survival ensures condition not immediately fatal.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 60,
+    "moduleId": "critical_illness",
+    "moduleName": "Critical Illness Insurance",
+    "topic": "Benefit",
+    "difficulty": "Easy",
+    "question": "Benefit period in CI?",
+    "options": [
+      "Usually lump sum one-time, policy may terminate or allow second event",
+      "Monthly for life",
+      "Grace",
+      "Free look"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Most CI pays once and terminates, some second event.",
+    "source": "CISRO Critical Illness Competency",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  }
+]

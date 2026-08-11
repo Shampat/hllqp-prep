@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "moduleId": "ethics",
+    "front": "What is an example of unfair practice? (Scenario 60)",
+    "back": "Fear-mongering to induce purchase without need",
+    "explanation": "Fear-mongering and coercion are unfair practices.",
+    "question": "What is an example of unfair practice? (Scenario 60)",
+    "options": [
+      "Providing options",
+      "Fear-mongering to induce purchase without need",
+      "Needs-based selling",
+      "Explaining risks"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "moduleId": "ethics",
+    "front": "PIPEDA governs?",
+    "back": "Collection, use, disclosure of personal info with consent",
+    "explanation": "PIPEDA requires consent and limits use of personal info.",
+    "question": "PIPEDA governs?",
+    "options": [
+      "Collection, use, disclosure of personal info with consent",
+      "Commission rates",
+      "Solvency",
+      "Taxation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "moduleId": "ethics",
+    "front": "Harpreet scenario: What is suitability? (Scenario 45)",
+    "back": "Product fits client's financial needs, objectives, risk tolerance, affordability",
+    "explanation": "Suitability assessment required before recommendation.",
+    "question": "Harpreet scenario: What is suitability? (Scenario 45)",
+    "options": [
+      "Highest commission product",
+      "Any product",
+      "Cheapest product",
+      "Product fits client's financial needs, objectives, risk tolerance, affordability"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 4,
+    "moduleId": "ethics",
+    "front": "Christina scenario: What is an example of unfair practice?",
+    "back": "Fear-mongering to induce purchase without need",
+    "explanation": "Fear-mongering and coercion are unfair practices.",
+    "question": "Christina scenario: What is an example of unfair practice?",
+    "options": [
+      "Explaining risks",
+      "Providing options",
+      "Fear-mongering to induce purchase without need",
+      "Needs-based selling"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "moduleId": "ethics",
+    "front": "Baldwin scenario: What is the role of errors and omissions insurance?",
+    "back": "Protects client and advisor against negligent advice causing loss",
+    "explanation": "E&O insurance covers professional liability for errors.",
+    "question": "Baldwin scenario: What is the role of errors and omissions insurance?",
+    "options": [
+      "Guarantees returns",
+      "No role",
+      "Protects client and advisor against negligent advice causing loss",
+      "Replaces life insurance"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "moduleId": "ethics",
+    "front": "What is suitability?",
+    "back": "Product fits client's financial needs, objectives, risk tolerance, affordability",
+    "explanation": "Suitability assessment required before recommendation.",
+    "question": "What is suitability?",
+    "options": [
+      "Product fits client's financial needs, objectives, risk tolerance, affordability",
+      "Cheapest product",
+      "Any product",
+      "Highest commission product"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "moduleId": "ethics",
+    "front": "What is privacy best practice for client files?",
+    "back": "Store securely, limit access, retain per regulations, obtain consent for use",
+    "explanation": "Privacy and confidentiality required under PIPEDA and insurer rules.",
+    "question": "What is privacy best practice for client files?",
+    "options": [
+      "Share on social media",
+      "No retention",
+      "Store securely, limit access, retain per regulations, obtain consent for use",
+      "Leave on desk"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "moduleId": "ethics",
+    "front": "Xeona scenario: What is conflict of interest example? (Scenario 41)",
+    "back": "Advisor recommends product paying higher commission when lower commission product better meets need",
+    "explanation": "Conflict when personal interest conflicts with client interest, must disclose and prioritize client.",
+    "question": "Xeona scenario: What is conflict of interest example? (Scenario 41)",
+    "options": [
+      "Advisor recommends product paying higher commission when lower commission product better meets need",
+      "Disclosing compensation",
+      "Referring to specialist",
+      "Recommending best product"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "moduleId": "ethics",
+    "front": "Wendy scenario: What is proper handling of cash premium? (Scenario 56)",
+    "back": "Issue receipt, remit promptly to insurer, never deposit to personal account",
+    "explanation": "Cash handling must be prompt, receipted, separate from personal funds.",
+    "question": "Wendy scenario: What is proper handling of cash premium? (Scenario 56)",
+    "options": [
+      "Deposit to personal account",
+      "Use personally",
+      "Hold 90 days",
+      "Issue receipt, remit promptly to insurer, never deposit to personal account"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 10,
+    "moduleId": "ethics",
+    "front": "What is replacement LIRD form purpose? (Scenario 47)",
+    "back": "Document comparison existing vs proposed to ensure client understands costs and consequences",
+    "explanation": "Life Insurance Replacement Declaration protects client and ensures informed consent.",
+    "question": "What is replacement LIRD form purpose? (Scenario 47)",
+    "options": [
+      "No purpose",
+      "Tax form",
+      "Increase sale",
+      "Document comparison existing vs proposed to ensure client understands costs and consequences"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 11,
+    "moduleId": "ethics",
+    "front": "PIPEDA governs? (Scenario 33)",
+    "back": "Collection, use, disclosure of personal info with consent",
+    "explanation": "PIPEDA requires consent and limits use of personal info.",
+    "question": "PIPEDA governs? (Scenario 33)",
+    "options": [
+      "Commission rates",
+      "Collection, use, disclosure of personal info with consent",
+      "Solvency",
+      "Taxation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "moduleId": "ethics",
+    "front": "Client is vulnerable due to age/language. Advisor should? (Scenario 53)",
+    "back": "Take extra care to ensure understanding, use plain language, allow time, document",
+    "explanation": "Vulnerable clients need extra care for informed consent.",
+    "question": "Client is vulnerable due to age/language. Advisor should? (Scenario 53)",
+    "options": [
+      "Increase premium",
+      "Rush sale",
+      "Ignore vulnerability",
+      "Take extra care to ensure understanding, use plain language, allow time, document"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 13,
+    "moduleId": "ethics",
+    "front": "Velonie scenario: Client asks advisor not to disclose smoking on app. Advisor should? (Scenario 40)",
+    "back": "Explain duty to disclose material facts and that non-disclosure can void policy",
+    "explanation": "Material facts must be disclosed, misrepresentation voids policy.",
+    "question": "Velonie scenario: Client asks advisor not to disclose smoking on app. Advisor should? (Scenario 40)",
+    "options": [
+      "Omit as client asked",
+      "Increase premium secretly",
+      "Explain duty to disclose material facts and that non-disclosure can void policy",
+      "Cancel application"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "moduleId": "ethics",
+    "front": "What should advisor do if not licensed for product client needs?",
+    "back": "Refer to properly licensed advisor or obtain licensing, disclose limitation",
+    "explanation": "Must not act outside licensing, refer appropriately.",
+    "question": "What should advisor do if not licensed for product client needs?",
+    "options": [
+      "Refer to properly licensed advisor or obtain licensing, disclose limitation",
+      "Sell anyway",
+      "Ignore need",
+      "Sell similar unlicensed product"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "moduleId": "ethics",
+    "front": "What should advisor do if not licensed for product client needs? (Scenario 51)",
+    "back": "Refer to properly licensed advisor or obtain licensing, disclose limitation",
+    "explanation": "Must not act outside licensing, refer appropriately.",
+    "question": "What should advisor do if not licensed for product client needs? (Scenario 51)",
+    "options": [
+      "Ignore need",
+      "Sell anyway",
+      "Sell similar unlicensed product",
+      "Refer to properly licensed advisor or obtain licensing, disclose limitation"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 16,
+    "moduleId": "ethics",
+    "front": "Baldwin scenario: What is churning? (Scenario 32)",
+    "back": "Inducing client to buy/sell policies excessively to generate commission",
+    "explanation": "Churning is unethical excessive replacement for commission.",
+    "question": "Baldwin scenario: What is churning? (Scenario 32)",
+    "options": [
+      "Providing good advice",
+      "Annual review",
+      "Inducing client to buy/sell policies excessively to generate commission",
+      "Justified switch"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "moduleId": "ethics",
+    "front": "Ronaldo scenario: When is replacement justified? (Scenario 35)",
+    "back": "When new product demonstrably better despite costs with documented comparison",
+    "explanation": "Replacement must be in best interest with evidence.",
+    "question": "Ronaldo scenario: When is replacement justified? (Scenario 35)",
+    "options": [
+      "When higher commission",
+      "When new product demonstrably better despite costs with documented comparison",
+      "Always",
+      "Never"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "moduleId": "ethics",
+    "front": "Christina scenario: What is commission disclosure requirement? (Scenario 54)",
+    "back": "Disclose that advisor receives compensation and how it is paid, and any conflict",
+    "explanation": "Compensation disclosure required, method and conflict.",
+    "question": "Christina scenario: What is commission disclosure requirement? (Scenario 54)",
+    "options": [
+      "Hide commission",
+      "Disclose that advisor receives compensation and how it is paid, and any conflict",
+      "Disclose after sale",
+      "Disclose only if asked"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "moduleId": "ethics",
+    "front": "Mosses scenario: What is the 10-day free look purpose from ethics view? (Scenario 55)",
+    "back": "Allows client to review without pressure, reinforces informed consent",
+    "explanation": "Free look supports client right to informed decision.",
+    "question": "Mosses scenario: What is the 10-day free look purpose from ethics view? (Scenario 55)",
+    "options": [
+      "Free coverage",
+      "Allows client to review without pressure, reinforces informed consent",
+      "No ethics",
+      "Marketing gimmick"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "moduleId": "ethics",
+    "front": "Mosses scenario: What is the principle of utmost good faith?",
+    "back": "Both parties must disclose all material facts honestly",
+    "explanation": "Utmost good faith uberrima fides requires full disclosure both sides.",
+    "question": "Mosses scenario: What is the principle of utmost good faith?",
+    "options": [
+      "Only client must disclose",
+      "Only insurer must disclose",
+      "No disclosure needed",
+      "Both parties must disclose all material facts honestly"
+    ],
+    "correctAnswer": 3
+  }
+]

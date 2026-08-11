@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "moduleId": "disability",
+    "front": "Any occupation definition?",
+    "back": "Unable to do any occupation reasonably suited by education/training/experience",
+    "explanation": "Any occ stricter than own occ, harder to qualify.",
+    "question": "Any occupation definition?",
+    "options": [
+      "Any job",
+      "Own occupation only",
+      "Unable to do any occupation reasonably suited by education/training/experience",
+      "No benefit"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "moduleId": "disability",
+    "front": "Harpreet scenario: Residual disability benefit pays? - Scenario 18 with client age 32",
+    "back": "Partial benefit for partial loss of income after disability",
+    "explanation": "Residual pays proportionally for reduced earnings.",
+    "question": "Harpreet scenario: Residual disability benefit pays? - Scenario 18 with client age 32",
+    "options": [
+      "Full benefit only",
+      "No benefit if working",
+      "Only if totally disabled",
+      "Partial benefit for partial loss of income after disability"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 3,
+    "moduleId": "disability",
+    "front": "Jessy scenario: Residual disability benefit pays? - Scenario 48 with client age 32",
+    "back": "Partial benefit for partial loss of income after disability",
+    "explanation": "Residual pays proportionally for reduced earnings.",
+    "question": "Jessy scenario: Residual disability benefit pays? - Scenario 48 with client age 32",
+    "options": [
+      "Partial benefit for partial loss of income after disability",
+      "Full benefit only",
+      "No benefit if working",
+      "Only if totally disabled"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "moduleId": "disability",
+    "front": "Rohit scenario: Business overhead expense DI?",
+    "back": "Pays business expenses if owner disabled e.g., rent, salaries",
+    "explanation": "Overhead DI covers business overhead during disability.",
+    "question": "Rohit scenario: Business overhead expense DI?",
+    "options": [
+      "Pays business expenses if owner disabled e.g., rent, salaries",
+      "Pays life benefit",
+      "No benefit",
+      "Pays personal income"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "moduleId": "disability",
+    "front": "Business overhead expense DI? - Scenario 57 with client age 41",
+    "back": "Pays business expenses if owner disabled e.g., rent, salaries",
+    "explanation": "Overhead DI covers business overhead during disability.",
+    "question": "Business overhead expense DI? - Scenario 57 with client age 41",
+    "options": [
+      "Pays life benefit",
+      "No benefit",
+      "Pays personal income",
+      "Pays business expenses if owner disabled e.g., rent, salaries"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 6,
+    "moduleId": "disability",
+    "front": "Future purchase option (FPO) / guaranteed insurability in DI?",
+    "back": "Allows buying extra coverage without medical evidence at future dates",
+    "explanation": "FPO protects future insurability as income rises.",
+    "question": "Future purchase option (FPO) / guaranteed insurability in DI?",
+    "options": [
+      "Requires medical each time",
+      "Allows buying extra coverage without medical evidence at future dates",
+      "No extra coverage",
+      "Only for group"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "moduleId": "disability",
+    "front": "Any occupation definition? - Scenario 47 with client age 31",
+    "back": "Unable to do any occupation reasonably suited by education/training/experience",
+    "explanation": "Any occ stricter than own occ, harder to qualify.",
+    "question": "Any occupation definition? - Scenario 47 with client age 31",
+    "options": [
+      "No benefit",
+      "Any job",
+      "Own occupation only",
+      "Unable to do any occupation reasonably suited by education/training/experience"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 8,
+    "moduleId": "disability",
+    "front": "Darcee scenario: Business overhead expense DI? - Scenario 42 with client age 41",
+    "back": "Pays business expenses if owner disabled e.g., rent, salaries",
+    "explanation": "Overhead DI covers business overhead during disability.",
+    "question": "Darcee scenario: Business overhead expense DI? - Scenario 42 with client age 41",
+    "options": [
+      "No benefit",
+      "Pays business expenses if owner disabled e.g., rent, salaries",
+      "Pays personal income",
+      "Pays life benefit"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "moduleId": "disability",
+    "front": "Goldy scenario: Benefit period in DI? - Scenario 52 with client age 36",
+    "back": "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65",
+    "explanation": "Benefit period limits duration e.g., to age 65.",
+    "question": "Goldy scenario: Benefit period in DI? - Scenario 52 with client age 36",
+    "options": [
+      "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65",
+      "Free look",
+      "Grace period",
+      "How long premium payable"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "moduleId": "disability",
+    "front": "Business overhead expense DI? - Scenario 27 with client age 41",
+    "back": "Pays business expenses if owner disabled e.g., rent, salaries",
+    "explanation": "Overhead DI covers business overhead during disability.",
+    "question": "Business overhead expense DI? - Scenario 27 with client age 41",
+    "options": [
+      "Pays personal income",
+      "No benefit",
+      "Pays life benefit",
+      "Pays business expenses if owner disabled e.g., rent, salaries"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 11,
+    "moduleId": "disability",
+    "front": "Waiver of premium in DI? - Scenario 24 with client age 38",
+    "back": "Waives premiums during total disability after elimination",
+    "explanation": "WOP waives premiums while on claim.",
+    "question": "Waiver of premium in DI? - Scenario 24 with client age 38",
+    "options": [
+      "Waives benefit",
+      "Waives premiums during total disability after elimination",
+      "Reduces benefit",
+      "Increases premium"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "moduleId": "disability",
+    "front": "Amrit scenario: Rehabilitation benefit in DI?",
+    "back": "Pays/helps with rehab costs to return to work",
+    "explanation": "Rehab incentivizes return to work.",
+    "question": "Amrit scenario: Rehabilitation benefit in DI?",
+    "options": [
+      "Pays/helps with rehab costs to return to work",
+      "No benefit",
+      "Only death benefit",
+      "Pays lump sum only"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "moduleId": "disability",
+    "front": "Key person DI?",
+    "back": "Business owned DI on key person to cover loss if disabled",
+    "explanation": "Key person DI indemnifies business for key person disability.",
+    "question": "Key person DI?",
+    "options": [
+      "Group only",
+      "Life insurance only",
+      "Business owned DI on key person to cover loss if disabled",
+      "Personal DI"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "moduleId": "disability",
+    "front": "Oscar scenario: Any occupation definition? - Scenario 17 with client age 31",
+    "back": "Unable to do any occupation reasonably suited by education/training/experience",
+    "explanation": "Any occ stricter than own occ, harder to qualify.",
+    "question": "Oscar scenario: Any occupation definition? - Scenario 17 with client age 31",
+    "options": [
+      "Any job",
+      "Own occupation only",
+      "Unable to do any occupation reasonably suited by education/training/experience",
+      "No benefit"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "moduleId": "disability",
+    "front": "Residual disability benefit pays?",
+    "back": "Partial benefit for partial loss of income after disability",
+    "explanation": "Residual pays proportionally for reduced earnings.",
+    "question": "Residual disability benefit pays?",
+    "options": [
+      "Partial benefit for partial loss of income after disability",
+      "Full benefit only",
+      "No benefit if working",
+      "Only if totally disabled"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "moduleId": "disability",
+    "front": "Darcee scenario: Exclusions in DI? - Scenario 41 with client age 40",
+    "back": "Pre-existing not disclosed, war, self-inflicted, criminal act",
+    "explanation": "Standard exclusions include pre-existing, war, criminal.",
+    "question": "Darcee scenario: Exclusions in DI? - Scenario 41 with client age 40",
+    "options": [
+      "All sicknesses covered",
+      "Accidents only",
+      "Pre-existing not disclosed, war, self-inflicted, criminal act",
+      "No exclusions"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "moduleId": "disability",
+    "front": "Jessy scenario: Elimination period in DI? - Scenario 21 with client age 35",
+    "back": "Waiting period before benefits start after disability",
+    "explanation": "Elimination e.g., 90 days reduces premiums.",
+    "question": "Jessy scenario: Elimination period in DI? - Scenario 21 with client age 35",
+    "options": [
+      "Period premium waived",
+      "Free look",
+      "Waiting period before benefits start after disability",
+      "Benefit duration"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "moduleId": "disability",
+    "front": "Jessy scenario: Buy-sell disability funding? - Scenario 59 with client age 43",
+    "back": "Funds buyout of disabled partner's share per agreement",
+    "explanation": "Disability buy-sell funds transfer of business interest.",
+    "question": "Jessy scenario: Buy-sell disability funding? - Scenario 59 with client age 43",
+    "options": [
+      "No funding",
+      "Funds buyout of disabled partner's share per agreement",
+      "Life only",
+      "Personal income"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "moduleId": "disability",
+    "front": "Elmer scenario: Waiver of premium in DI? - Scenario 39 with client age 38",
+    "back": "Waives premiums during total disability after elimination",
+    "explanation": "WOP waives premiums while on claim.",
+    "question": "Elmer scenario: Waiver of premium in DI? - Scenario 39 with client age 38",
+    "options": [
+      "Waives benefit",
+      "Waives premiums during total disability after elimination",
+      "Increases premium",
+      "Reduces benefit"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "moduleId": "disability",
+    "front": "Goldy scenario: Non-cancellable and guaranteed renewable DI?",
+    "back": "Insurer cannot cancel nor increase premium nor change terms individually",
+    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
+    "question": "Goldy scenario: Non-cancellable and guaranteed renewable DI?",
+    "options": [
+      "Premium can rise individually",
+      "Insurer cannot cancel nor increase premium nor change terms individually",
+      "Only group",
+      "Can cancel anytime"
+    ],
+    "correctAnswer": 1
+  }
+]

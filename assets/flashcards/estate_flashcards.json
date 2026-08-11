@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "moduleId": "estate",
+    "front": "Irrevocable beneficiary in estate planning - effect?",
+    "back": "Owner cannot change without consent, may provide creditor protection",
+    "explanation": "Irrevocable limits owner rights, may offer some creditor protection.",
+    "question": "Irrevocable beneficiary in estate planning - effect?",
+    "options": [
+      "Revocable always",
+      "Owner cannot change without consent, may provide creditor protection",
+      "No protection",
+      "Estate always"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "moduleId": "estate",
+    "front": "Joint last-to-die for estate taxes? - Case 17",
+    "back": "Pays on second death when estate tax liability often arises",
+    "explanation": "Last-to-die funds capital gains tax at second death of couple.",
+    "question": "Joint last-to-die for estate taxes? - Case 17",
+    "options": [
+      "Pays on second death when estate tax liability often arises",
+      "Only term",
+      "No estate use",
+      "Pays first death"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "moduleId": "estate",
+    "front": "Wendy scenario: What is probate fee impact in Ontario? - Case 20",
+    "back": "Life proceeds to named beneficiary avoid probate fees, to estate attract fees",
+    "explanation": "Ontario probate fees on estate assets, named beneficiary avoids.",
+    "question": "Wendy scenario: What is probate fee impact in Ontario? - Case 20",
+    "options": [
+      "Never probate",
+      "Only Quebec",
+      "Life proceeds to named beneficiary avoid probate fees, to estate attract fees",
+      "Always probate"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "moduleId": "estate",
+    "front": "Synthia scenario: Irrevocable beneficiary in estate planning - effect? - Case 41",
+    "back": "Owner cannot change without consent, may provide creditor protection",
+    "explanation": "Irrevocable limits owner rights, may offer some creditor protection.",
+    "question": "Synthia scenario: Irrevocable beneficiary in estate planning - effect? - Case 41",
+    "options": [
+      "No protection",
+      "Revocable always",
+      "Estate always",
+      "Owner cannot change without consent, may provide creditor protection"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 5,
+    "moduleId": "estate",
+    "front": "Martha scenario: What is intestacy if no will and no beneficiary? - Case 60",
+    "back": "Insurance with no beneficiary goes to estate, distributed per provincial intestacy law",
+    "explanation": "No beneficiary = estate, intestacy rules apply if no will.",
+    "question": "Martha scenario: What is intestacy if no will and no beneficiary? - Case 60",
+    "options": [
+      "Lost",
+      "Insurance with no beneficiary goes to estate, distributed per provincial intestacy law",
+      "Goes to government",
+      "Goes to insurer"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "moduleId": "estate",
+    "front": "Raja scenario: What is key person insurance estate effect? - Case 23",
+    "back": "Business gets funds to replace loss, protects value for estate",
+    "explanation": "Key person protects business value that is part of owner's estate.",
+    "question": "Raja scenario: What is key person insurance estate effect? - Case 23",
+    "options": [
+      "No effect",
+      "Business gets funds to replace loss, protects value for estate",
+      "Only group",
+      "Personal estate only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "moduleId": "estate",
+    "front": "Will vs beneficiary designation - which governs life proceeds? - Case 19",
+    "back": "Beneficiary designation governs over will for life insurance",
+    "explanation": "Named beneficiary designation takes precedence over will for insurance.",
+    "question": "Will vs beneficiary designation - which governs life proceeds? - Case 19",
+    "options": [
+      "Beneficiary designation governs over will for life insurance",
+      "No designation needed",
+      "Will governs",
+      "Estate always"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "moduleId": "estate",
+    "front": "Xeona scenario: CDA credit corporate-owned life - estate planning use? - Case 36",
+    "back": "Death benefit minus ACB credits CDA allowing tax-free dividend to estate",
+    "explanation": "CDA allows corporation to pay tax-free dividend to estate equal to CDA.",
+    "question": "Xeona scenario: CDA credit corporate-owned life - estate planning use? - Case 36",
+    "options": [
+      "Taxable",
+      "Capital gain",
+      "Death benefit minus ACB credits CDA allowing tax-free dividend to estate",
+      "No CDA"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "moduleId": "estate",
+    "front": "How can life insurance create estate? - Case 24",
+    "back": "Provides immediate lump sum at death when little savings",
+    "explanation": "Life creates immediate estate for dependents.",
+    "question": "How can life insurance create estate? - Case 24",
+    "options": [
+      "Only whole life can",
+      "Cannot create",
+      "Provides immediate lump sum at death when little savings",
+      "Only term can"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "moduleId": "estate",
+    "front": "What is estate freeze with life insurance?",
+    "back": "Freeze value of business, future growth to heirs, life funds tax at death",
+    "explanation": "Estate freeze + insurance funds tax on deemed disposition.",
+    "question": "What is estate freeze with life insurance?",
+    "options": [
+      "Only term",
+      "No freeze",
+      "Only RRSP",
+      "Freeze value of business, future growth to heirs, life funds tax at death"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 11,
+    "moduleId": "estate",
+    "front": "Zempa scenario: What is power of attorney and life insurance? - Case 43",
+    "back": "POA for property may allow beneficiary change only if expressly permitted",
+    "explanation": "POA beneficiary change requires express authority per province.",
+    "question": "Zempa scenario: What is power of attorney and life insurance? - Case 43",
+    "options": [
+      "Always allowed",
+      "Never allowed",
+      "POA for property may allow beneficiary change only if expressly permitted",
+      "Only for term"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "moduleId": "estate",
+    "front": "What is buy-sell agreement funded with life? - Case 37",
+    "back": "Surviving owner gets funds to buy deceased share",
+    "explanation": "Buy-sell + life provides liquidity to buy shares per agreement.",
+    "question": "What is buy-sell agreement funded with life? - Case 37",
+    "options": [
+      "No business use",
+      "Surviving owner gets funds to buy deceased share",
+      "Personal use only",
+      "Only DI"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "moduleId": "estate",
+    "front": "Usman scenario: Joint last-to-die for estate taxes? - Case 47",
+    "back": "Pays on second death when estate tax liability often arises",
+    "explanation": "Last-to-die funds capital gains tax at second death of couple.",
+    "question": "Usman scenario: Joint last-to-die for estate taxes? - Case 47",
+    "options": [
+      "Pays on second death when estate tax liability often arises",
+      "No estate use",
+      "Pays first death",
+      "Only term"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "moduleId": "estate",
+    "front": "Zempa scenario: What is estate freeze with life insurance? - Case 18",
+    "back": "Freeze value of business, future growth to heirs, life funds tax at death",
+    "explanation": "Estate freeze + insurance funds tax on deemed disposition.",
+    "question": "Zempa scenario: What is estate freeze with life insurance? - Case 18",
+    "options": [
+      "Only RRSP",
+      "No freeze",
+      "Only term",
+      "Freeze value of business, future growth to heirs, life funds tax at death"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 15,
+    "moduleId": "estate",
+    "front": "Will vs beneficiary designation - which governs life proceeds? - Case 34",
+    "back": "Beneficiary designation governs over will for life insurance",
+    "explanation": "Named beneficiary designation takes precedence over will for insurance.",
+    "question": "Will vs beneficiary designation - which governs life proceeds? - Case 34",
+    "options": [
+      "Beneficiary designation governs over will for life insurance",
+      "Estate always",
+      "Will governs",
+      "No designation needed"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "moduleId": "estate",
+    "front": "What is intestacy if no will and no beneficiary? - Case 30",
+    "back": "Insurance with no beneficiary goes to estate, distributed per provincial intestacy law",
+    "explanation": "No beneficiary = estate, intestacy rules apply if no will.",
+    "question": "What is intestacy if no will and no beneficiary? - Case 30",
+    "options": [
+      "Insurance with no beneficiary goes to estate, distributed per provincial intestacy law",
+      "Goes to government",
+      "Lost",
+      "Goes to insurer"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "moduleId": "estate",
+    "front": "Synthia scenario: What is key person insurance estate effect?",
+    "back": "Business gets funds to replace loss, protects value for estate",
+    "explanation": "Key person protects business value that is part of owner's estate.",
+    "question": "Synthia scenario: What is key person insurance estate effect?",
+    "options": [
+      "Personal estate only",
+      "No effect",
+      "Business gets funds to replace loss, protects value for estate",
+      "Only group"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "moduleId": "estate",
+    "front": "Irrevocable beneficiary in estate planning - effect? - Case 56",
+    "back": "Owner cannot change without consent, may provide creditor protection",
+    "explanation": "Irrevocable limits owner rights, may offer some creditor protection.",
+    "question": "Irrevocable beneficiary in estate planning - effect? - Case 56",
+    "options": [
+      "No protection",
+      "Estate always",
+      "Revocable always",
+      "Owner cannot change without consent, may provide creditor protection"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 19,
+    "moduleId": "estate",
+    "front": "Why name beneficiary vs estate?",
+    "back": "Bypasses probate, direct to beneficiary, faster, avoids probate fees",
+    "explanation": "Named beneficiary bypasses estate and probate, reduces fees.",
+    "question": "Why name beneficiary vs estate?",
+    "options": [
+      "Bypasses probate, direct to beneficiary, faster, avoids probate fees",
+      "Must go via estate",
+      "No difference",
+      "Taxable more"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "moduleId": "estate",
+    "front": "Yelder scenario: Trust as beneficiary of life insurance?",
+    "back": "Can name trust to control distribution for minor or disabled beneficiary, avoids court",
+    "explanation": "Trust allows control over proceeds for minors, spendthrift, disabled.",
+    "question": "Yelder scenario: Trust as beneficiary of life insurance?",
+    "options": [
+      "No use",
+      "Can name trust to control distribution for minor or disabled beneficiary, avoids court",
+      "Cannot name trust",
+      "Trust always taxed more"
+    ],
+    "correctAnswer": 1
+  }
+]

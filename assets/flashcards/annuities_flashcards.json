@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "moduleId": "annuities",
+    "front": "Christie scenario: What is GIC vs annuity difference? - Scenario 39",
+    "back": "GIC principal returned, annuity principal converted to income may have no residual",
+    "explanation": "Annuity converts capital to income, may have no residual unless guaranteed.",
+    "question": "Christie scenario: What is GIC vs annuity difference? - Scenario 39",
+    "options": [
+      "GIC no principal",
+      "Annuity always refundable",
+      "GIC principal returned, annuity principal converted to income may have no residual",
+      "Same"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "moduleId": "annuities",
+    "front": "Usman scenario: What is guarantee period in life annuity? - Scenario 35",
+    "back": "If annuitant dies early, beneficiary gets remaining guarantee payments",
+    "explanation": "Guarantee period ensures minimum payments e.g., 10 years.",
+    "question": "Usman scenario: What is guarantee period in life annuity? - Scenario 35",
+    "options": [
+      "Only for term",
+      "No guarantee",
+      "Guarantee means higher income",
+      "If annuitant dies early, beneficiary gets remaining guarantee payments"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 3,
+    "moduleId": "annuities",
+    "front": "Term certain annuity? - Scenario 32",
+    "back": "Pays for fixed term regardless of life",
+    "explanation": "Term certain pays for fixed period e.g., 10 years.",
+    "question": "Term certain annuity? - Scenario 32",
+    "options": [
+      "Pays for fixed term regardless of life",
+      "Pays for life only",
+      "No payout",
+      "Pays only on death"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "moduleId": "annuities",
+    "front": "What is guarantee period in life annuity? - Scenario 50",
+    "back": "If annuitant dies early, beneficiary gets remaining guarantee payments",
+    "explanation": "Guarantee period ensures minimum payments e.g., 10 years.",
+    "question": "What is guarantee period in life annuity? - Scenario 50",
+    "options": [
+      "If annuitant dies early, beneficiary gets remaining guarantee payments",
+      "Only for term",
+      "Guarantee means higher income",
+      "No guarantee"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "moduleId": "annuities",
+    "front": "What affects annuity income amount? - Scenario 37",
+    "back": "Age, sex, interest rates, premium, guarantee period, type",
+    "explanation": "Annuity pricing based on mortality and interest rates.",
+    "question": "What affects annuity income amount? - Scenario 37",
+    "options": [
+      "Age, sex, interest rates, premium, guarantee period, type",
+      "Only age",
+      "Only sex",
+      "Only premium"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "moduleId": "annuities",
+    "front": "Rohit scenario: What is accumulation annuity? - Scenario 18",
+    "back": "Deferred annuity where funds accumulate then annuitize later",
+    "explanation": "Accumulation (deferred) annuity accumulates with interest before payout.",
+    "question": "Rohit scenario: What is accumulation annuity? - Scenario 18",
+    "options": [
+      "Only term",
+      "Deferred annuity where funds accumulate then annuitize later",
+      "Immediate income",
+      "No accumulation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "moduleId": "annuities",
+    "front": "What is cashable vs non-cashable annuity? - Scenario 56",
+    "back": "Cashable allows commutation, non-cashable cannot be cashed, pays more",
+    "explanation": "Non-cashable cannot be surrendered, higher income.",
+    "question": "What is cashable vs non-cashable annuity? - Scenario 56",
+    "options": [
+      "Non-cashable cashable anytime",
+      "Same",
+      "Cashable pays more",
+      "Cashable allows commutation, non-cashable cannot be cashed, pays more"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 8,
+    "moduleId": "annuities",
+    "front": "What is accumulation annuity?",
+    "back": "Deferred annuity where funds accumulate then annuitize later",
+    "explanation": "Accumulation (deferred) annuity accumulates with interest before payout.",
+    "question": "What is accumulation annuity?",
+    "options": [
+      "Deferred annuity where funds accumulate then annuitize later",
+      "Immediate income",
+      "Only term",
+      "No accumulation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "moduleId": "annuities",
+    "front": "What is guarantee period in life annuity?",
+    "back": "If annuitant dies early, beneficiary gets remaining guarantee payments",
+    "explanation": "Guarantee period ensures minimum payments e.g., 10 years.",
+    "question": "What is guarantee period in life annuity?",
+    "options": [
+      "If annuitant dies early, beneficiary gets remaining guarantee payments",
+      "Guarantee means higher income",
+      "No guarantee",
+      "Only for term"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "moduleId": "annuities",
+    "front": "What affects annuity income amount? - Scenario 52",
+    "back": "Age, sex, interest rates, premium, guarantee period, type",
+    "explanation": "Annuity pricing based on mortality and interest rates.",
+    "question": "What affects annuity income amount? - Scenario 52",
+    "options": [
+      "Only premium",
+      "Age, sex, interest rates, premium, guarantee period, type",
+      "Only sex",
+      "Only age"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "moduleId": "annuities",
+    "front": "When is RRIF annuity taxation?",
+    "back": "Income fully taxable as income when paid",
+    "explanation": "Annuity from RRSP/RRIF fully taxable income.",
+    "question": "When is RRIF annuity taxation?",
+    "options": [
+      "50% taxable",
+      "Capital gain",
+      "Income fully taxable as income when paid",
+      "Tax-free"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "moduleId": "annuities",
+    "front": "Christie scenario: When is RRIF annuity taxation? - Scenario 25",
+    "back": "Income fully taxable as income when paid",
+    "explanation": "Annuity from RRSP/RRIF fully taxable income.",
+    "question": "Christie scenario: When is RRIF annuity taxation? - Scenario 25",
+    "options": [
+      "Income fully taxable as income when paid",
+      "Tax-free",
+      "50% taxable",
+      "Capital gain"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "moduleId": "annuities",
+    "front": "Raja scenario: What is annuity vs life insurance purpose? - Scenario 38",
+    "back": "Annuity protects living too long, life insurance protects dying too soon",
+    "explanation": "Annuity longevity risk, life insurance mortality risk.",
+    "question": "Raja scenario: What is annuity vs life insurance purpose? - Scenario 38",
+    "options": [
+      "Annuity protects living too long, life insurance protects dying too soon",
+      "Same purpose",
+      "Life protects longevity",
+      "Annuity protects death"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "moduleId": "annuities",
+    "front": "What is cashable vs non-cashable annuity? - Scenario 41",
+    "back": "Cashable allows commutation, non-cashable cannot be cashed, pays more",
+    "explanation": "Non-cashable cannot be surrendered, higher income.",
+    "question": "What is cashable vs non-cashable annuity? - Scenario 41",
+    "options": [
+      "Same",
+      "Cashable pays more",
+      "Non-cashable cashable anytime",
+      "Cashable allows commutation, non-cashable cannot be cashed, pays more"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 15,
+    "moduleId": "annuities",
+    "front": "Best practice explaining annuity? - Scenario 29",
+    "back": "Explain no liquidity after annuitization, guarantee, tax, income amount not guaranteed until purchase",
+    "explanation": "Must explain irrevocable nature and lack of liquidity.",
+    "question": "Best practice explaining annuity? - Scenario 29",
+    "options": [
+      "Say refundable always",
+      "No need explain",
+      "Explain no liquidity after annuitization, guarantee, tax, income amount not guaranteed until purchase",
+      "Say liquid anytime"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "moduleId": "annuities",
+    "front": "Usman scenario: What is indexed annuity? - Scenario 27",
+    "back": "Income increases with inflation index",
+    "explanation": "Indexed annuity increases with CPI, starts lower.",
+    "question": "Usman scenario: What is indexed annuity? - Scenario 27",
+    "options": [
+      "Decreases",
+      "No index",
+      "Income increases with inflation index",
+      "Fixed always"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "moduleId": "annuities",
+    "front": "Life annuity pays? - Scenario 46",
+    "back": "Income for life of annuitant",
+    "explanation": "Life annuity provides income for life, protects longevity risk.",
+    "question": "Life annuity pays? - Scenario 46",
+    "options": [
+      "Income 10 years only",
+      "Death benefit only",
+      "Lump sum only",
+      "Income for life of annuitant"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 18,
+    "moduleId": "annuities",
+    "front": "What is accumulation annuity? - Scenario 33",
+    "back": "Deferred annuity where funds accumulate then annuitize later",
+    "explanation": "Accumulation (deferred) annuity accumulates with interest before payout.",
+    "question": "What is accumulation annuity? - Scenario 33",
+    "options": [
+      "Immediate income",
+      "Deferred annuity where funds accumulate then annuitize later",
+      "No accumulation",
+      "Only term"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "moduleId": "annuities",
+    "front": "Term certain annuity?",
+    "back": "Pays for fixed term regardless of life",
+    "explanation": "Term certain pays for fixed period e.g., 10 years.",
+    "question": "Term certain annuity?",
+    "options": [
+      "Pays only on death",
+      "Pays for fixed term regardless of life",
+      "No payout",
+      "Pays for life only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "moduleId": "annuities",
+    "front": "Melony scenario: What is impaired annuity? - Scenario 28",
+    "back": "Higher income for health impairment shorter life expectancy",
+    "explanation": "Impaired annuity gives higher income for impaired health.",
+    "question": "Melony scenario: What is impaired annuity? - Scenario 28",
+    "options": [
+      "Higher income for health impairment shorter life expectancy",
+      "Same",
+      "Lower income",
+      "No impaired"
+    ],
+    "correctAnswer": 0
+  }
+]

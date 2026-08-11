@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "moduleId": "critical_illness",
+    "front": "Frankie scenario: Common covered conditions in CI? (Case study 48)",
+    "back": "Cancer, heart attack, stroke, coronary bypass etc as defined",
+    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
+    "question": "Frankie scenario: Common covered conditions in CI? (Case study 48)",
+    "options": [
+      "Only flu",
+      "Only accidents",
+      "Cancer, heart attack, stroke, coronary bypass etc as defined",
+      "Only cold"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "moduleId": "critical_illness",
+    "front": "Exclusions in CI? (Case study 50)",
+    "back": "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
+    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
+    "question": "Exclusions in CI? (Case study 50)",
+    "options": [
+      "All cancers covered",
+      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
+      "No exclusions",
+      "All conditions covered"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "moduleId": "critical_illness",
+    "front": "Underwriting in CI?",
+    "back": "Full medical underwriting similar to life, may have exclusions",
+    "explanation": "CI requires medical evidence, may rate or exclude.",
+    "question": "Underwriting in CI?",
+    "options": [
+      "No underwriting",
+      "Only age",
+      "Guaranteed always",
+      "Full medical underwriting similar to life, may have exclusions"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 4,
+    "moduleId": "critical_illness",
+    "front": "Common covered conditions in CI? (Case study 33)",
+    "back": "Cancer, heart attack, stroke, coronary bypass etc as defined",
+    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
+    "question": "Common covered conditions in CI? (Case study 33)",
+    "options": [
+      "Only cold",
+      "Cancer, heart attack, stroke, coronary bypass etc as defined",
+      "Only flu",
+      "Only accidents"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "moduleId": "critical_illness",
+    "front": "Xeona scenario: Exclusions in CI? (Case study 35)",
+    "back": "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
+    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
+    "question": "Xeona scenario: Exclusions in CI? (Case study 35)",
+    "options": [
+      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
+      "All conditions covered",
+      "No exclusions",
+      "All cancers covered"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "moduleId": "critical_illness",
+    "front": "Baldwin scenario: Common covered conditions in CI?",
+    "back": "Cancer, heart attack, stroke, coronary bypass etc as defined",
+    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
+    "question": "Baldwin scenario: Common covered conditions in CI?",
+    "options": [
+      "Only accidents",
+      "Cancer, heart attack, stroke, coronary bypass etc as defined",
+      "Only flu",
+      "Only cold"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "moduleId": "critical_illness",
+    "front": "Partial benefit in CI? (Case study 34)",
+    "back": "Some conditions pay partial % e.g., early-stage cancer, angioplasty",
+    "explanation": "Some CI pays partial for less severe conditions.",
+    "question": "Partial benefit in CI? (Case study 34)",
+    "options": [
+      "Only for death",
+      "Full benefit only",
+      "Some conditions pay partial % e.g., early-stage cancer, angioplasty",
+      "No benefit"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "moduleId": "critical_illness",
+    "front": "Underwriting in CI? (Case study 38)",
+    "back": "Full medical underwriting similar to life, may have exclusions",
+    "explanation": "CI requires medical evidence, may rate or exclude.",
+    "question": "Underwriting in CI? (Case study 38)",
+    "options": [
+      "No underwriting",
+      "Guaranteed always",
+      "Only age",
+      "Full medical underwriting similar to life, may have exclusions"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 9,
+    "moduleId": "critical_illness",
+    "front": "Exclusions in CI?",
+    "back": "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
+    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
+    "question": "Exclusions in CI?",
+    "options": [
+      "No exclusions",
+      "All cancers covered",
+      "All conditions covered",
+      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 10,
+    "moduleId": "critical_illness",
+    "front": "Stroke definition CI? (Case study 28)",
+    "back": "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition",
+    "explanation": "Stroke requires lasting deficit, TIA excluded.",
+    "question": "Stroke definition CI? (Case study 28)",
+    "options": [
+      "No definition",
+      "TIA always covered",
+      "Any dizziness",
+      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 11,
+    "moduleId": "critical_illness",
+    "front": "Coronary bypass definition? (Case study 44)",
+    "back": "Bypass surgery to correct narrowing, not angioplasty unless partial benefit",
+    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
+    "question": "Coronary bypass definition? (Case study 44)",
+    "options": [
+      "Any heart procedure",
+      "Angioplasty full benefit always",
+      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit",
+      "No bypass cover"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "moduleId": "critical_illness",
+    "front": "Partial benefit in CI?",
+    "back": "Some conditions pay partial % e.g., early-stage cancer, angioplasty",
+    "explanation": "Some CI pays partial for less severe conditions.",
+    "question": "Partial benefit in CI?",
+    "options": [
+      "Only for death",
+      "No benefit",
+      "Full benefit only",
+      "Some conditions pay partial % e.g., early-stage cancer, angioplasty"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 13,
+    "moduleId": "critical_illness",
+    "front": "Best practice explaining CI to client? (Case study 45)",
+    "back": "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
+    "explanation": "Must explain definitions and limitations to ensure understanding.",
+    "question": "Best practice explaining CI to client? (Case study 45)",
+    "options": [
+      "No need explain",
+      "Guarantee claim",
+      "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
+      "Say all conditions covered"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "moduleId": "critical_illness",
+    "front": "Sajnay scenario: Coronary bypass definition? (Case study 59)",
+    "back": "Bypass surgery to correct narrowing, not angioplasty unless partial benefit",
+    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
+    "question": "Sajnay scenario: Coronary bypass definition? (Case study 59)",
+    "options": [
+      "Angioplasty full benefit always",
+      "Any heart procedure",
+      "No bypass cover",
+      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 15,
+    "moduleId": "critical_illness",
+    "front": "Heart attack definition CI? (Case study 27)",
+    "back": "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria",
+    "explanation": "MI requires objective evidence per definition.",
+    "question": "Heart attack definition CI? (Case study 27)",
+    "options": [
+      "Only bypass",
+      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria",
+      "Any chest pain",
+      "Any heart disease"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "moduleId": "critical_illness",
+    "front": "Best practice explaining CI to client? (Case study 60)",
+    "back": "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
+    "explanation": "Must explain definitions and limitations to ensure understanding.",
+    "question": "Best practice explaining CI to client? (Case study 60)",
+    "options": [
+      "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
+      "No need explain",
+      "Guarantee claim",
+      "Say all conditions covered"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "moduleId": "critical_illness",
+    "front": "Return of premium rider in CI? (Case study 21)",
+    "back": "Returns premium if no claim after period or on death, extra cost",
+    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
+    "question": "Return of premium rider in CI? (Case study 21)",
+    "options": [
+      "Automatic free",
+      "Returns premium if no claim after period or on death, extra cost",
+      "Always returns 100% without cost",
+      "No such rider"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "moduleId": "critical_illness",
+    "front": "Heart attack definition CI? (Case study 42)",
+    "back": "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria",
+    "explanation": "MI requires objective evidence per definition.",
+    "question": "Heart attack definition CI? (Case study 42)",
+    "options": [
+      "Any heart disease",
+      "Any chest pain",
+      "Only bypass",
+      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 19,
+    "moduleId": "critical_illness",
+    "front": "Neena scenario: CI pays when? (Case study 46)",
+    "back": "Diagnosis of covered condition as defined and survival period met",
+    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
+    "question": "Neena scenario: CI pays when? (Case study 46)",
+    "options": [
+      "Hospitalization only",
+      "Any sickness",
+      "Death only",
+      "Diagnosis of covered condition as defined and survival period met"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 20,
+    "moduleId": "critical_illness",
+    "front": "Allwyn scenario: Return of premium rider in CI?",
+    "back": "Returns premium if no claim after period or on death, extra cost",
+    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
+    "question": "Allwyn scenario: Return of premium rider in CI?",
+    "options": [
+      "No such rider",
+      "Automatic free",
+      "Always returns 100% without cost",
+      "Returns premium if no claim after period or on death, extra cost"
+    ],
+    "correctAnswer": 3
+  }
+]

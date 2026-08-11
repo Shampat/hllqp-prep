@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Pricing",
+    "difficulty": "Medium",
+    "question": "What affects annuity income amount? - Scenario 22",
+    "options": [
+      "Age, sex, interest rates, premium, guarantee period, type",
+      "Only premium",
+      "Only sex",
+      "Only age"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuity pricing based on mortality and interest rates.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 2,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Joint",
+    "difficulty": "Medium",
+    "question": "Joint and last survivor annuity? - Scenario 36",
+    "options": [
+      "No survivor",
+      "Pays first death only",
+      "Pays term only",
+      "Pays until second spouse dies"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Joint last survivor continues to survivor, lower payment than single life.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 3,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "question": "Best practice explaining annuity? - Scenario 44",
+    "options": [
+      "Say liquid anytime",
+      "Say refundable always",
+      "Explain no liquidity after annuitization, guarantee, tax, income amount not guaranteed until purchase",
+      "No need explain"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Must explain irrevocable nature and lack of liquidity.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 4,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Settlement",
+    "difficulty": "Medium",
+    "question": "What is settlement annuity?",
+    "options": [
+      "No settlement",
+      "Annuity purchased with life death benefit to pay beneficiary as income",
+      "Only term",
+      "Only for RRSP"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Settlement option allows beneficiary to take proceeds as annuity.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 5,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Cashable",
+    "difficulty": "Medium",
+    "question": "What is cashable vs non-cashable annuity? - Scenario 26",
+    "options": [
+      "Cashable pays more",
+      "Same",
+      "Non-cashable cashable anytime",
+      "Cashable allows commutation, non-cashable cannot be cashed, pays more"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Non-cashable cannot be surrendered, higher income.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 6,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Settlement",
+    "difficulty": "Medium",
+    "question": "What is settlement annuity? - Scenario 30",
+    "options": [
+      "No settlement",
+      "Only for RRSP",
+      "Annuity purchased with life death benefit to pay beneficiary as income",
+      "Only term"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Settlement option allows beneficiary to take proceeds as annuity.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 7,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax",
+    "difficulty": "Hard",
+    "question": "What is prescribed vs non-prescribed annuity tax?",
+    "options": [
+      "Prescribed level taxable portion, non-prescribed accrual rising taxable",
+      "Same",
+      "Non-prescribed tax-free",
+      "Prescribed fully taxable"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Prescribed annuity levelizes tax, non-prescribed front-loaded.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 8,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Impaired",
+    "difficulty": "Medium",
+    "question": "What is impaired annuity? - Scenario 28",
+    "options": [
+      "Higher income for health impairment shorter life expectancy",
+      "Same",
+      "Lower income",
+      "No impaired"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Impaired annuity gives higher income for impaired health.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 9,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Deferred",
+    "difficulty": "Easy",
+    "question": "What is accumulation annuity? - Scenario 48",
+    "options": [
+      "Immediate income",
+      "No accumulation",
+      "Deferred annuity where funds accumulate then annuitize later",
+      "Only term"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Accumulation (deferred) annuity accumulates with interest before payout.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 10,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Life Annuity",
+    "difficulty": "Easy",
+    "question": "Life annuity pays? - Scenario 31",
+    "options": [
+      "Death benefit only",
+      "Income for life of annuitant",
+      "Lump sum only",
+      "Income 10 years only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Life annuity provides income for life, protects longevity risk.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 11,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Cashable",
+    "difficulty": "Medium",
+    "question": "What is cashable vs non-cashable annuity?",
+    "options": [
+      "Non-cashable cashable anytime",
+      "Cashable allows commutation, non-cashable cannot be cashed, pays more",
+      "Cashable pays more",
+      "Same"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Non-cashable cannot be surrendered, higher income.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 12,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "RRIF",
+    "difficulty": "Medium",
+    "question": "When is RRIF annuity taxation? - Scenario 55",
+    "options": [
+      "Capital gain",
+      "50% taxable",
+      "Tax-free",
+      "Income fully taxable as income when paid"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Annuity from RRSP/RRIF fully taxable income.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 13,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "RRIF",
+    "difficulty": "Medium",
+    "question": "When is RRIF annuity taxation?",
+    "options": [
+      "50% taxable",
+      "Capital gain",
+      "Income fully taxable as income when paid",
+      "Tax-free"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Annuity from RRSP/RRIF fully taxable income.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 14,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Pricing",
+    "difficulty": "Medium",
+    "question": "What affects annuity income amount? - Scenario 37",
+    "options": [
+      "Age, sex, interest rates, premium, guarantee period, type",
+      "Only age",
+      "Only sex",
+      "Only premium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuity pricing based on mortality and interest rates.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 15,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Impaired",
+    "difficulty": "Medium",
+    "question": "What is impaired annuity?",
+    "options": [
+      "Higher income for health impairment shorter life expectancy",
+      "Lower income",
+      "No impaired",
+      "Same"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Impaired annuity gives higher income for impaired health.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 16,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Joint",
+    "difficulty": "Medium",
+    "question": "Joint and last survivor annuity? - Scenario 21",
+    "options": [
+      "No survivor",
+      "Pays until second spouse dies",
+      "Pays term only",
+      "Pays first death only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Joint last survivor continues to survivor, lower payment than single life.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 17,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Comparison",
+    "difficulty": "Medium",
+    "question": "What is GIC vs annuity difference? - Scenario 54",
+    "options": [
+      "Annuity always refundable",
+      "Same",
+      "GIC principal returned, annuity principal converted to income may have no residual",
+      "GIC no principal"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Annuity converts capital to income, may have no residual unless guaranteed.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 18,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Impaired",
+    "difficulty": "Medium",
+    "question": "What is impaired annuity? - Scenario 43",
+    "options": [
+      "No impaired",
+      "Same",
+      "Higher income for health impairment shorter life expectancy",
+      "Lower income"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Impaired annuity gives higher income for impaired health.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 19,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Cashable",
+    "difficulty": "Medium",
+    "question": "What is cashable vs non-cashable annuity? - Scenario 56",
+    "options": [
+      "Non-cashable cashable anytime",
+      "Same",
+      "Cashable pays more",
+      "Cashable allows commutation, non-cashable cannot be cashed, pays more"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Non-cashable cannot be surrendered, higher income.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 20,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Pricing",
+    "difficulty": "Medium",
+    "question": "What affects annuity income amount? - Scenario 52",
+    "options": [
+      "Only premium",
+      "Age, sex, interest rates, premium, guarantee period, type",
+      "Only sex",
+      "Only age"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Annuity pricing based on mortality and interest rates.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 21,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Deferred",
+    "difficulty": "Easy",
+    "question": "What is accumulation annuity? - Scenario 33",
+    "options": [
+      "Immediate income",
+      "Deferred annuity where funds accumulate then annuitize later",
+      "No accumulation",
+      "Only term"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Accumulation (deferred) annuity accumulates with interest before payout.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 22,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Term Certain",
+    "difficulty": "Easy",
+    "question": "Term certain annuity? - Scenario 17",
+    "options": [
+      "Pays for fixed term regardless of life",
+      "Pays for life only",
+      "Pays only on death",
+      "No payout"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Term certain pays for fixed period e.g., 10 years.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 23,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Indexed",
+    "difficulty": "Medium",
+    "question": "What is indexed annuity? - Scenario 57",
+    "options": [
+      "No index",
+      "Decreases",
+      "Fixed always",
+      "Income increases with inflation index"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Indexed annuity increases with CPI, starts lower.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 24,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Purpose",
+    "difficulty": "Easy",
+    "question": "What is annuity vs life insurance purpose?",
+    "options": [
+      "Same purpose",
+      "Life protects longevity",
+      "Annuity protects living too long, life insurance protects dying too soon",
+      "Annuity protects death"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Annuity longevity risk, life insurance mortality risk.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 25,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "RRIF",
+    "difficulty": "Medium",
+    "question": "When is RRIF annuity taxation? - Scenario 40",
+    "options": [
+      "Capital gain",
+      "50% taxable",
+      "Income fully taxable as income when paid",
+      "Tax-free"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Annuity from RRSP/RRIF fully taxable income.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 26,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Guarantee",
+    "difficulty": "Medium",
+    "question": "What is guarantee period in life annuity? - Scenario 20",
+    "options": [
+      "If annuitant dies early, beneficiary gets remaining guarantee payments",
+      "Guarantee means higher income",
+      "Only for term",
+      "No guarantee"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantee period ensures minimum payments e.g., 10 years.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 27,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Indexed",
+    "difficulty": "Medium",
+    "question": "What is indexed annuity? - Scenario 27",
+    "options": [
+      "Decreases",
+      "No index",
+      "Income increases with inflation index",
+      "Fixed always"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Indexed annuity increases with CPI, starts lower.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 28,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Joint",
+    "difficulty": "Medium",
+    "question": "Joint and last survivor annuity?",
+    "options": [
+      "No survivor",
+      "Pays first death only",
+      "Pays term only",
+      "Pays until second spouse dies"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Joint last survivor continues to survivor, lower payment than single life.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 29,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Settlement",
+    "difficulty": "Medium",
+    "question": "What is settlement annuity? - Scenario 60",
+    "options": [
+      "Annuity purchased with life death benefit to pay beneficiary as income",
+      "Only term",
+      "Only for RRSP",
+      "No settlement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Settlement option allows beneficiary to take proceeds as annuity.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 30,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Life Annuity",
+    "difficulty": "Easy",
+    "question": "Life annuity pays? - Scenario 46",
+    "options": [
+      "Income 10 years only",
+      "Death benefit only",
+      "Lump sum only",
+      "Income for life of annuitant"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Life annuity provides income for life, protects longevity risk.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 31,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Term Certain",
+    "difficulty": "Easy",
+    "question": "Term certain annuity?",
+    "options": [
+      "Pays only on death",
+      "Pays for fixed term regardless of life",
+      "No payout",
+      "Pays for life only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Term certain pays for fixed period e.g., 10 years.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 32,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Comparison",
+    "difficulty": "Medium",
+    "question": "What is GIC vs annuity difference? - Scenario 39",
+    "options": [
+      "GIC no principal",
+      "Annuity always refundable",
+      "GIC principal returned, annuity principal converted to income may have no residual",
+      "Same"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Annuity converts capital to income, may have no residual unless guaranteed.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 33,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Settlement",
+    "difficulty": "Medium",
+    "question": "What is settlement annuity? - Scenario 45",
+    "options": [
+      "Only for RRSP",
+      "Only term",
+      "Annuity purchased with life death benefit to pay beneficiary as income",
+      "No settlement"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Settlement option allows beneficiary to take proceeds as annuity.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 34,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Impaired",
+    "difficulty": "Medium",
+    "question": "What is impaired annuity? - Scenario 58",
+    "options": [
+      "Higher income for health impairment shorter life expectancy",
+      "Same",
+      "No impaired",
+      "Lower income"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Impaired annuity gives higher income for impaired health.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 35,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax",
+    "difficulty": "Hard",
+    "question": "What is prescribed vs non-prescribed annuity tax? - Scenario 34",
+    "options": [
+      "Prescribed level taxable portion, non-prescribed accrual rising taxable",
+      "Prescribed fully taxable",
+      "Non-prescribed tax-free",
+      "Same"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Prescribed annuity levelizes tax, non-prescribed front-loaded.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 36,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "question": "Best practice explaining annuity?",
+    "options": [
+      "Say refundable always",
+      "Say liquid anytime",
+      "No need explain",
+      "Explain no liquidity after annuitization, guarantee, tax, income amount not guaranteed until purchase"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Must explain irrevocable nature and lack of liquidity.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 37,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Pricing",
+    "difficulty": "Medium",
+    "question": "What affects annuity income amount?",
+    "options": [
+      "Only age",
+      "Only premium",
+      "Age, sex, interest rates, premium, guarantee period, type",
+      "Only sex"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Annuity pricing based on mortality and interest rates.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 38,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Purpose",
+    "difficulty": "Easy",
+    "question": "What is annuity vs life insurance purpose? - Scenario 38",
+    "options": [
+      "Annuity protects living too long, life insurance protects dying too soon",
+      "Same purpose",
+      "Life protects longevity",
+      "Annuity protects death"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuity longevity risk, life insurance mortality risk.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 39,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Deferred",
+    "difficulty": "Easy",
+    "question": "What is accumulation annuity?",
+    "options": [
+      "Deferred annuity where funds accumulate then annuitize later",
+      "Immediate income",
+      "Only term",
+      "No accumulation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accumulation (deferred) annuity accumulates with interest before payout.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 40,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Guarantee",
+    "difficulty": "Medium",
+    "question": "What is guarantee period in life annuity? - Scenario 50",
+    "options": [
+      "If annuitant dies early, beneficiary gets remaining guarantee payments",
+      "Only for term",
+      "Guarantee means higher income",
+      "No guarantee"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantee period ensures minimum payments e.g., 10 years.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 41,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Guarantee",
+    "difficulty": "Medium",
+    "question": "What is guarantee period in life annuity?",
+    "options": [
+      "If annuitant dies early, beneficiary gets remaining guarantee payments",
+      "Guarantee means higher income",
+      "No guarantee",
+      "Only for term"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guarantee period ensures minimum payments e.g., 10 years.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 42,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Deferred",
+    "difficulty": "Easy",
+    "question": "What is accumulation annuity? - Scenario 18",
+    "options": [
+      "Only term",
+      "Deferred annuity where funds accumulate then annuitize later",
+      "Immediate income",
+      "No accumulation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Accumulation (deferred) annuity accumulates with interest before payout.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 43,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Life Annuity",
+    "difficulty": "Easy",
+    "question": "Life annuity pays?",
+    "options": [
+      "Death benefit only",
+      "Lump sum only",
+      "Income 10 years only",
+      "Income for life of annuitant"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Life annuity provides income for life, protects longevity risk.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 44,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Indexed",
+    "difficulty": "Medium",
+    "question": "What is indexed annuity?",
+    "options": [
+      "Decreases",
+      "No index",
+      "Income increases with inflation index",
+      "Fixed always"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Indexed annuity increases with CPI, starts lower.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 45,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Cashable",
+    "difficulty": "Medium",
+    "question": "What is cashable vs non-cashable annuity? - Scenario 41",
+    "options": [
+      "Same",
+      "Cashable pays more",
+      "Non-cashable cashable anytime",
+      "Cashable allows commutation, non-cashable cannot be cashed, pays more"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Non-cashable cannot be surrendered, higher income.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 46,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Guarantee",
+    "difficulty": "Medium",
+    "question": "What is guarantee period in life annuity? - Scenario 35",
+    "options": [
+      "Only for term",
+      "No guarantee",
+      "Guarantee means higher income",
+      "If annuitant dies early, beneficiary gets remaining guarantee payments"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Guarantee period ensures minimum payments e.g., 10 years.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 47,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Joint",
+    "difficulty": "Medium",
+    "question": "Joint and last survivor annuity? - Scenario 51",
+    "options": [
+      "Pays until second spouse dies",
+      "No survivor",
+      "Pays term only",
+      "Pays first death only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Joint last survivor continues to survivor, lower payment than single life.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 48,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Term Certain",
+    "difficulty": "Easy",
+    "question": "Term certain annuity? - Scenario 32",
+    "options": [
+      "Pays for fixed term regardless of life",
+      "Pays for life only",
+      "No payout",
+      "Pays only on death"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Term certain pays for fixed period e.g., 10 years.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 49,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "RRIF",
+    "difficulty": "Medium",
+    "question": "When is RRIF annuity taxation? - Scenario 25",
+    "options": [
+      "Income fully taxable as income when paid",
+      "Tax-free",
+      "50% taxable",
+      "Capital gain"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuity from RRSP/RRIF fully taxable income.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 50,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Purpose",
+    "difficulty": "Easy",
+    "question": "What is annuity vs life insurance purpose? - Scenario 23",
+    "options": [
+      "Life protects longevity",
+      "Same purpose",
+      "Annuity protects living too long, life insurance protects dying too soon",
+      "Annuity protects death"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Annuity longevity risk, life insurance mortality risk.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 51,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Life Annuity",
+    "difficulty": "Easy",
+    "question": "Life annuity pays? - Scenario 16",
+    "options": [
+      "Income 10 years only",
+      "Income for life of annuitant",
+      "Lump sum only",
+      "Death benefit only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Life annuity provides income for life, protects longevity risk.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 52,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Purpose",
+    "difficulty": "Easy",
+    "question": "What is annuity vs life insurance purpose? - Scenario 53",
+    "options": [
+      "Life protects longevity",
+      "Annuity protects living too long, life insurance protects dying too soon",
+      "Annuity protects death",
+      "Same purpose"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Annuity longevity risk, life insurance mortality risk.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 53,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax",
+    "difficulty": "Hard",
+    "question": "What is prescribed vs non-prescribed annuity tax? - Scenario 49",
+    "options": [
+      "Prescribed fully taxable",
+      "Non-prescribed tax-free",
+      "Prescribed level taxable portion, non-prescribed accrual rising taxable",
+      "Same"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Prescribed annuity levelizes tax, non-prescribed front-loaded.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 54,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "question": "Best practice explaining annuity? - Scenario 59",
+    "options": [
+      "Say refundable always",
+      "Say liquid anytime",
+      "No need explain",
+      "Explain no liquidity after annuitization, guarantee, tax, income amount not guaranteed until purchase"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Must explain irrevocable nature and lack of liquidity.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 55,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Comparison",
+    "difficulty": "Medium",
+    "question": "What is GIC vs annuity difference?",
+    "options": [
+      "GIC principal returned, annuity principal converted to income may have no residual",
+      "Annuity always refundable",
+      "Same",
+      "GIC no principal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Annuity converts capital to income, may have no residual unless guaranteed.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 56,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Term Certain",
+    "difficulty": "Easy",
+    "question": "Term certain annuity? - Scenario 47",
+    "options": [
+      "Pays only on death",
+      "Pays for life only",
+      "No payout",
+      "Pays for fixed term regardless of life"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Term certain pays for fixed period e.g., 10 years.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 57,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Tax",
+    "difficulty": "Hard",
+    "question": "What is prescribed vs non-prescribed annuity tax? - Scenario 19",
+    "options": [
+      "Prescribed fully taxable",
+      "Prescribed level taxable portion, non-prescribed accrual rising taxable",
+      "Same",
+      "Non-prescribed tax-free"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Prescribed annuity levelizes tax, non-prescribed front-loaded.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 58,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Indexed",
+    "difficulty": "Medium",
+    "question": "What is indexed annuity? - Scenario 42",
+    "options": [
+      "Fixed always",
+      "No index",
+      "Income increases with inflation index",
+      "Decreases"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Indexed annuity increases with CPI, starts lower.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 59,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "question": "Best practice explaining annuity? - Scenario 29",
+    "options": [
+      "Say refundable always",
+      "No need explain",
+      "Explain no liquidity after annuitization, guarantee, tax, income amount not guaranteed until purchase",
+      "Say liquid anytime"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Must explain irrevocable nature and lack of liquidity.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  },
+  {
+    "id": 60,
+    "moduleId": "annuities",
+    "moduleName": "Annuities",
+    "topic": "Comparison",
+    "difficulty": "Medium",
+    "question": "What is GIC vs annuity difference? - Scenario 24",
+    "options": [
+      "Same",
+      "Annuity always refundable",
+      "GIC no principal",
+      "GIC principal returned, annuity principal converted to income may have no residual"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Annuity converts capital to income, may have no residual unless guaranteed.",
+    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
+    "jurisdiction": "Common Law Excludes Quebec",
+    "lastVerified": "2026-05-01"
+  }
+]
