@@ -2,301 +2,651 @@
   {
     "id": 1,
     "moduleId": "accident_sickness",
-    "front": "Amrit scenario: What is accidental death benefit rider on life? (Case 28)",
-    "back": "Extra benefit if death due to accident as defined",
-    "explanation": "AD rider adds amount for accidental death.",
-    "question": "Amrit scenario: What is accidental death benefit rider on life? (Case 28)",
+    "question": "Benefit period in DI/accident? (Case 33)",
     "options": [
-      "Extra benefit if death due to accident as defined",
-      "Cash value",
-      "Any death extra",
-      "Sickness extra"
+      "Limits how long benefits payable Benefit period = max duration paid."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Benefit period = max duration paid.",
+    "topic": "Benefit Period",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 2,
     "moduleId": "accident_sickness",
-    "front": "Jessy scenario: What is specially protected loss in AD&D? (Case 35)",
-    "back": "Losses like sight, limbs where benefit may be higher",
-    "explanation": "Special losses have specific definitions and amounts.",
-    "question": "Jessy scenario: What is specially protected loss in AD&D? (Case 35)",
+    "question": "What is waiver of premium in health?",
     "options": [
-      "Sickness",
-      "Losses like sight, limbs where benefit may be higher",
-      "Only death",
-      "Any loss"
+      "Waives premiums during total disability as defined WOP in health waives premiums while disabled."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "WOP in health waives premiums while disabled.",
+    "topic": "WOP",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 3,
     "moduleId": "accident_sickness",
-    "front": "Melony scenario: What is accidental means vs accidental result? (Case 19)",
-    "back": "Means = accidental cause, Result = accidental outcome regardless cause",
-    "explanation": "Some policies cover accidental means stricter than result.",
-    "question": "Melony scenario: What is accidental means vs accidental result? (Case 19)",
+    "question": "What is pre-existing condition clause? (Case 24)",
     "options": [
-      "Means = accidental cause, Result = accidental outcome regardless cause",
-      "Result = only means",
-      "Means = sickness",
-      "Same"
+      "Condition existing before coverage may be excluded or limited for period Pre-existing may have exclusion period."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Pre-existing may have exclusion period.",
+    "topic": "Pre-existing",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 4,
     "moduleId": "accident_sickness",
-    "front": "What is waiver of premium in health? (Case 30)",
-    "back": "Waives premiums during total disability as defined",
-    "explanation": "WOP in health waives premiums while disabled.",
-    "question": "What is waiver of premium in health? (Case 30)",
+    "question": "What is deductible in health insurance? (Case 22)",
     "options": [
-      "Increases premium",
-      "Reduces coverage",
-      "Waives benefit",
-      "Waives premiums during total disability as defined"
+      "Amount insured pays before insurer pays Deductible is insured's initial out-of-pocket."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Deductible is insured's initial out-of-pocket.",
+    "topic": "Deductible",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 5,
     "moduleId": "accident_sickness",
-    "front": "What is pre-existing condition clause? (Case 54)",
-    "back": "Condition existing before coverage may be excluded or limited for period",
-    "explanation": "Pre-existing may have exclusion period.",
-    "question": "What is pre-existing condition clause? (Case 54)",
+    "question": "What is rehabilitation benefit in accident? (Case 59)",
     "options": [
-      "Only after 10 years",
-      "Never covered",
-      "Condition existing before coverage may be excluded or limited for period",
-      "Always covered"
+      "Pays costs to retrain or rehab after covered accident Rehab benefit helps return to work."
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0,
+    "explanation": "Rehab benefit helps return to work.",
+    "topic": "Benefits",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 6,
     "moduleId": "accident_sickness",
-    "front": "What is waiver of premium in health? (Case 45)",
-    "back": "Waives premiums during total disability as defined",
-    "explanation": "WOP in health waives premiums while disabled.",
-    "question": "What is waiver of premium in health? (Case 45)",
+    "question": "What is common exclusion in AD&S? (Case 21)",
     "options": [
-      "Reduces coverage",
-      "Waives benefit",
-      "Increases premium",
-      "Waives premiums during total disability as defined"
+      "War, self-inflicted injury, criminal act, aviation unless passenger Standard exclusions: war, suicide attempt, criminal, drug abuse, etc."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: war, suicide attempt, criminal, drug abuse, etc.",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 7,
     "moduleId": "accident_sickness",
-    "front": "Usman scenario: What is accidental death benefit rider on life? (Case 43)",
-    "back": "Extra benefit if death due to accident as defined",
-    "explanation": "AD rider adds amount for accidental death.",
-    "question": "Usman scenario: What is accidental death benefit rider on life? (Case 43)",
+    "question": "What is common exclusion in AD&S? (Case 36)",
     "options": [
-      "Cash value",
-      "Sickness extra",
-      "Any death extra",
-      "Extra benefit if death due to accident as defined"
+      "War, self-inflicted injury, criminal act, aviation unless passenger Standard exclusions: war, suicide attempt, criminal, drug abuse, etc."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: war, suicide attempt, criminal, drug abuse, etc.",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 8,
     "moduleId": "accident_sickness",
-    "front": "Christina scenario: What does hospital cash rider pay? (Case 42)",
-    "back": "Fixed amount per day hospitalized regardless actual cost",
-    "explanation": "Hospital cash pays per diem fixed benefit.",
-    "question": "Christina scenario: What does hospital cash rider pay? (Case 42)",
+    "question": "What is waiver of premium in health? (Case 30)",
     "options": [
-      "Actual expenses only",
-      "Fixed amount per day hospitalized regardless actual cost",
-      "Only if surgery",
-      "No benefit"
+      "Waives premiums during total disability as defined WOP in health waives premiums while disabled."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "WOP in health waives premiums while disabled.",
+    "topic": "WOP",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 9,
     "moduleId": "accident_sickness",
-    "front": "What is co-insurance? (Case 53)",
-    "back": "Insured and insurer share costs after deductible per percentage",
-    "explanation": "Co-insurance splits eligible expenses after deductible.",
-    "question": "What is co-insurance? (Case 53)",
+    "question": "What is guaranteed renewable health? (Case 25)",
     "options": [
-      "Insured and insurer share costs after deductible per percentage",
-      "Insured pays 100%",
-      "Premium sharing",
-      "Insurer pays 100%"
+      "Insurer must renew but can increase premium by class Guaranteed renewable = renew right, premium can change by class."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Guaranteed renewable = renew right, premium can change by class.",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 10,
     "moduleId": "accident_sickness",
-    "front": "What is deductible in health insurance? (Case 52)",
-    "back": "Amount insured pays before insurer pays",
-    "explanation": "Deductible is insured's initial out-of-pocket.",
-    "question": "What is deductible in health insurance? (Case 52)",
+    "question": "What is non-cancellable? (Case 41)",
     "options": [
-      "Amount insured pays before insurer pays",
-      "Benefit",
-      "Amount insurer pays first",
-      "Premium"
+      "Cannot cancel nor increase premium individually during term Non-can is strongest renewability, premium guaranteed."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Non-can is strongest renewability, premium guaranteed.",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 11,
     "moduleId": "accident_sickness",
-    "front": "What is co-insurance? (Case 23)",
-    "back": "Insured and insurer share costs after deductible per percentage",
-    "explanation": "Co-insurance splits eligible expenses after deductible.",
-    "question": "What is co-insurance? (Case 23)",
+    "question": "What is rehabilitation benefit in accident?",
     "options": [
-      "Premium sharing",
-      "Insured pays 100%",
-      "Insurer pays 100%",
-      "Insured and insurer share costs after deductible per percentage"
+      "Pays costs to retrain or rehab after covered accident Rehab benefit helps return to work."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Rehab benefit helps return to work.",
+    "topic": "Benefits",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 12,
     "moduleId": "accident_sickness",
-    "front": "What is guaranteed renewable health? (Case 40)",
-    "back": "Insurer must renew but can increase premium by class",
-    "explanation": "Guaranteed renewable = renew right, premium can change by class.",
-    "question": "What is guaranteed renewable health? (Case 40)",
+    "question": "AD&D pays? (Case 46)",
     "options": [
-      "Can cancel anytime",
-      "Cannot renew",
-      "Premium never increases",
-      "Insurer must renew but can increase premium by class"
+      "Death/dismemberment due to accident per definition AD&D only covers accidental as defined."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "AD&D only covers accidental as defined.",
+    "topic": "AD&D",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 13,
     "moduleId": "accident_sickness",
-    "front": "What is accidental means vs accidental result?",
-    "back": "Means = accidental cause, Result = accidental outcome regardless cause",
-    "explanation": "Some policies cover accidental means stricter than result.",
-    "question": "What is accidental means vs accidental result?",
+    "question": "What is accidental death benefit rider on life? (Case 43)",
     "options": [
-      "Means = sickness",
-      "Result = only means",
-      "Same",
-      "Means = accidental cause, Result = accidental outcome regardless cause"
+      "Extra benefit if death due to accident as defined AD rider adds amount for accidental death."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "AD rider adds amount for accidental death.",
+    "topic": "Riders",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 14,
     "moduleId": "accident_sickness",
-    "front": "Parminder scenario: What is pre-existing condition clause?",
-    "back": "Condition existing before coverage may be excluded or limited for period",
-    "explanation": "Pre-existing may have exclusion period.",
-    "question": "Parminder scenario: What is pre-existing condition clause?",
+    "question": "What does hospital cash rider pay?",
     "options": [
-      "Condition existing before coverage may be excluded or limited for period",
-      "Only after 10 years",
-      "Never covered",
-      "Always covered"
+      "Fixed amount per day hospitalized regardless actual cost Hospital cash pays per diem fixed benefit."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Hospital cash pays per diem fixed benefit.",
+    "topic": "Riders",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 15,
     "moduleId": "accident_sickness",
-    "front": "Harpreet scenario: What is rehabilitation benefit in accident? (Case 44)",
-    "back": "Pays costs to retrain or rehab after covered accident",
-    "explanation": "Rehab benefit helps return to work.",
-    "question": "Harpreet scenario: What is rehabilitation benefit in accident? (Case 44)",
+    "question": "What does hospital cash rider pay? (Case 57)",
     "options": [
-      "No benefit",
-      "Pays death only",
-      "Only if sickness",
-      "Pays costs to retrain or rehab after covered accident"
+      "Fixed amount per day hospitalized regardless actual cost Hospital cash pays per diem fixed benefit."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Hospital cash pays per diem fixed benefit.",
+    "topic": "Riders",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 16,
     "moduleId": "accident_sickness",
-    "front": "Frankie scenario: What is pre-existing condition clause? (Case 39)",
-    "back": "Condition existing before coverage may be excluded or limited for period",
-    "explanation": "Pre-existing may have exclusion period.",
-    "question": "Frankie scenario: What is pre-existing condition clause? (Case 39)",
+    "question": "What is specially protected loss in AD&D? (Case 20)",
     "options": [
-      "Never covered",
-      "Always covered",
-      "Only after 10 years",
-      "Condition existing before coverage may be excluded or limited for period"
+      "Losses like sight, limbs where benefit may be higher Special losses have specific definitions and amounts."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Special losses have specific definitions and amounts.",
+    "topic": "AD&D",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 17,
     "moduleId": "accident_sickness",
-    "front": "Cynthia scenario: AD&D pays? (Case 31)",
-    "back": "Death/dismemberment due to accident per definition",
-    "explanation": "AD&D only covers accidental as defined.",
-    "question": "Cynthia scenario: AD&D pays? (Case 31)",
+    "question": "Elimination period in health? (Case 47)",
     "options": [
-      "Any death",
-      "Disability income",
-      "Sickness only",
-      "Death/dismemberment due to accident per definition"
+      "Period after disability before benefits start Elimination reduces short claims."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Elimination reduces short claims.",
+    "topic": "Waiting",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 18,
     "moduleId": "accident_sickness",
-    "front": "Parminder scenario: Benefit period in DI/accident? (Case 48)",
-    "back": "Limits how long benefits payable",
-    "explanation": "Benefit period = max duration paid.",
-    "question": "Parminder scenario: Benefit period in DI/accident? (Case 48)",
+    "question": "What is deductible in health insurance? (Case 52)",
     "options": [
-      "Limits premium paying",
-      "Free look",
-      "Limits how long benefits payable",
-      "Same as elimination"
+      "Amount insured pays before insurer pays Deductible is insured's initial out-of-pocket."
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0,
+    "explanation": "Deductible is insured's initial out-of-pocket.",
+    "topic": "Deductible",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 19,
     "moduleId": "accident_sickness",
-    "front": "Wendy scenario: What is specially protected loss in AD&D?",
-    "back": "Losses like sight, limbs where benefit may be higher",
-    "explanation": "Special losses have specific definitions and amounts.",
-    "question": "Wendy scenario: What is specially protected loss in AD&D?",
+    "question": "What is rehabilitation benefit in accident? (Case 44)",
     "options": [
-      "Losses like sight, limbs where benefit may be higher",
-      "Sickness",
-      "Only death",
-      "Any loss"
+      "Pays costs to retrain or rehab after covered accident Rehab benefit helps return to work."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Rehab benefit helps return to work.",
+    "topic": "Benefits",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 20,
     "moduleId": "accident_sickness",
-    "front": "What is accidental means vs accidental result? (Case 34)",
-    "back": "Means = accidental cause, Result = accidental outcome regardless cause",
-    "explanation": "Some policies cover accidental means stricter than result.",
-    "question": "What is accidental means vs accidental result? (Case 34)",
+    "question": "What is rehabilitation benefit in accident? (Case 29)",
     "options": [
-      "Means = sickness",
-      "Same",
-      "Result = only means",
-      "Means = accidental cause, Result = accidental outcome regardless cause"
+      "Pays costs to retrain or rehab after covered accident Rehab benefit helps return to work."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Rehab benefit helps return to work.",
+    "topic": "Benefits",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 21,
+    "moduleId": "accident_sickness",
+    "question": "What is accidental means vs accidental result?",
+    "options": [
+      "Means = accidental cause, Result = accidental outcome regardless cause Some policies cover accidental means stricter than result."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some policies cover accidental means stricter than result.",
+    "topic": "AD&D",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 22,
+    "moduleId": "accident_sickness",
+    "question": "What is guaranteed renewable health?",
+    "options": [
+      "Insurer must renew but can increase premium by class Guaranteed renewable = renew right, premium can change by class."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Guaranteed renewable = renew right, premium can change by class.",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 23,
+    "moduleId": "accident_sickness",
+    "question": "What does hospital cash rider pay? (Case 42)",
+    "options": [
+      "Fixed amount per day hospitalized regardless actual cost Hospital cash pays per diem fixed benefit."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hospital cash pays per diem fixed benefit.",
+    "topic": "Riders",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 24,
+    "moduleId": "accident_sickness",
+    "question": "What is accidental death benefit rider on life? (Case 28)",
+    "options": [
+      "Extra benefit if death due to accident as defined AD rider adds amount for accidental death."
+    ],
+    "correctAnswer": 0,
+    "explanation": "AD rider adds amount for accidental death.",
+    "topic": "Riders",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 25,
+    "moduleId": "accident_sickness",
+    "question": "What is waiver of premium in health? (Case 45)",
+    "options": [
+      "Waives premiums during total disability as defined WOP in health waives premiums while disabled."
+    ],
+    "correctAnswer": 0,
+    "explanation": "WOP in health waives premiums while disabled.",
+    "topic": "WOP",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 26,
+    "moduleId": "accident_sickness",
+    "question": "What is specially protected loss in AD&D?",
+    "options": [
+      "Losses like sight, limbs where benefit may be higher Special losses have specific definitions and amounts."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Special losses have specific definitions and amounts.",
+    "topic": "AD&D",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 27,
+    "moduleId": "accident_sickness",
+    "question": "What is accidental means vs accidental result? (Case 49)",
+    "options": [
+      "Means = accidental cause, Result = accidental outcome regardless cause Some policies cover accidental means stricter than result."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some policies cover accidental means stricter than result.",
+    "topic": "AD&D",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 28,
+    "moduleId": "accident_sickness",
+    "question": "What is deductible in health insurance?",
+    "options": [
+      "Amount insured pays before insurer pays Deductible is insured's initial out-of-pocket."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Deductible is insured's initial out-of-pocket.",
+    "topic": "Deductible",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 29,
+    "moduleId": "accident_sickness",
+    "question": "What is pre-existing condition clause? (Case 54)",
+    "options": [
+      "Condition existing before coverage may be excluded or limited for period Pre-existing may have exclusion period."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pre-existing may have exclusion period.",
+    "topic": "Pre-existing",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 30,
+    "moduleId": "accident_sickness",
+    "question": "Elimination period in health?",
+    "options": [
+      "Period after disability before benefits start Elimination reduces short claims."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Elimination reduces short claims.",
+    "topic": "Waiting",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 31,
+    "moduleId": "accident_sickness",
+    "question": "What is co-insurance? (Case 23)",
+    "options": [
+      "Insured and insurer share costs after deductible per percentage Co-insurance splits eligible expenses after deductible."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Co-insurance splits eligible expenses after deductible.",
+    "topic": "Co-insurance",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 32,
+    "moduleId": "accident_sickness",
+    "question": "Benefit period in DI/accident? (Case 18)",
+    "options": [
+      "Limits how long benefits payable Benefit period = max duration paid."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benefit period = max duration paid.",
+    "topic": "Benefit Period",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 33,
+    "moduleId": "accident_sickness",
+    "question": "What is accidental death benefit rider on life? (Case 58)",
+    "options": [
+      "Extra benefit if death due to accident as defined AD rider adds amount for accidental death."
+    ],
+    "correctAnswer": 0,
+    "explanation": "AD rider adds amount for accidental death.",
+    "topic": "Riders",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 34,
+    "moduleId": "accident_sickness",
+    "question": "AD&D pays?",
+    "options": [
+      "Death/dismemberment due to accident per definition AD&D only covers accidental as defined."
+    ],
+    "correctAnswer": 0,
+    "explanation": "AD&D only covers accidental as defined.",
+    "topic": "AD&D",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 35,
+    "moduleId": "accident_sickness",
+    "question": "What is accidental means vs accidental result? (Case 19)",
+    "options": [
+      "Means = accidental cause, Result = accidental outcome regardless cause Some policies cover accidental means stricter than result."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some policies cover accidental means stricter than result.",
+    "topic": "AD&D",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 36,
+    "moduleId": "accident_sickness",
+    "question": "Elimination period in health? (Case 32)",
+    "options": [
+      "Period after disability before benefits start Elimination reduces short claims."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Elimination reduces short claims.",
+    "topic": "Waiting",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 37,
+    "moduleId": "accident_sickness",
+    "question": "What is pre-existing condition clause?",
+    "options": [
+      "Condition existing before coverage may be excluded or limited for period Pre-existing may have exclusion period."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pre-existing may have exclusion period.",
+    "topic": "Pre-existing",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 38,
+    "moduleId": "accident_sickness",
+    "question": "What is specially protected loss in AD&D? (Case 50)",
+    "options": [
+      "Losses like sight, limbs where benefit may be higher Special losses have specific definitions and amounts."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Special losses have specific definitions and amounts.",
+    "topic": "AD&D",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 39,
+    "moduleId": "accident_sickness",
+    "question": "What is co-insurance?",
+    "options": [
+      "Insured and insurer share costs after deductible per percentage Co-insurance splits eligible expenses after deductible."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Co-insurance splits eligible expenses after deductible.",
+    "topic": "Co-insurance",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 40,
+    "moduleId": "accident_sickness",
+    "question": "What is pre-existing condition clause? (Case 39)",
+    "options": [
+      "Condition existing before coverage may be excluded or limited for period Pre-existing may have exclusion period."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pre-existing may have exclusion period.",
+    "topic": "Pre-existing",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 41,
+    "moduleId": "accident_sickness",
+    "question": "What is waiver of premium in health? (Case 60)",
+    "options": [
+      "Waives premiums during total disability as defined WOP in health waives premiums while disabled."
+    ],
+    "correctAnswer": 0,
+    "explanation": "WOP in health waives premiums while disabled.",
+    "topic": "WOP",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 42,
+    "moduleId": "accident_sickness",
+    "question": "What is specially protected loss in AD&D? (Case 35)",
+    "options": [
+      "Losses like sight, limbs where benefit may be higher Special losses have specific definitions and amounts."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Special losses have specific definitions and amounts.",
+    "topic": "AD&D",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 43,
+    "moduleId": "accident_sickness",
+    "question": "What is common exclusion in AD&S? (Case 51)",
+    "options": [
+      "War, self-inflicted injury, criminal act, aviation unless passenger Standard exclusions: war, suicide attempt, criminal, drug abuse, etc."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions: war, suicide attempt, criminal, drug abuse, etc.",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 44,
+    "moduleId": "accident_sickness",
+    "question": "What is co-insurance? (Case 53)",
+    "options": [
+      "Insured and insurer share costs after deductible per percentage Co-insurance splits eligible expenses after deductible."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Co-insurance splits eligible expenses after deductible.",
+    "topic": "Co-insurance",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 45,
+    "moduleId": "accident_sickness",
+    "question": "What is non-cancellable? (Case 56)",
+    "options": [
+      "Cannot cancel nor increase premium individually during term Non-can is strongest renewability, premium guaranteed."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Non-can is strongest renewability, premium guaranteed.",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 46,
+    "moduleId": "accident_sickness",
+    "question": "What is co-insurance? (Case 38)",
+    "options": [
+      "Insured and insurer share costs after deductible per percentage Co-insurance splits eligible expenses after deductible."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Co-insurance splits eligible expenses after deductible.",
+    "topic": "Co-insurance",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 47,
+    "moduleId": "accident_sickness",
+    "question": "AD&D pays? (Case 31)",
+    "options": [
+      "Death/dismemberment due to accident per definition AD&D only covers accidental as defined."
+    ],
+    "correctAnswer": 0,
+    "explanation": "AD&D only covers accidental as defined.",
+    "topic": "AD&D",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 48,
+    "moduleId": "accident_sickness",
+    "question": "What does hospital cash rider pay? (Case 27)",
+    "options": [
+      "Fixed amount per day hospitalized regardless actual cost Hospital cash pays per diem fixed benefit."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hospital cash pays per diem fixed benefit.",
+    "topic": "Riders",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 49,
+    "moduleId": "accident_sickness",
+    "question": "What is non-cancellable?",
+    "options": [
+      "Cannot cancel nor increase premium individually during term Non-can is strongest renewability, premium guaranteed."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Non-can is strongest renewability, premium guaranteed.",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 50,
+    "moduleId": "accident_sickness",
+    "question": "What is non-cancellable? (Case 26)",
+    "options": [
+      "Cannot cancel nor increase premium individually during term Non-can is strongest renewability, premium guaranteed."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Non-can is strongest renewability, premium guaranteed.",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "isFlashcard": true
   }
 ]

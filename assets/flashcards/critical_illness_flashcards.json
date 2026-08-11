@@ -2,301 +2,651 @@
   {
     "id": 1,
     "moduleId": "critical_illness",
-    "front": "Frankie scenario: Common covered conditions in CI? (Case study 48)",
-    "back": "Cancer, heart attack, stroke, coronary bypass etc as defined",
-    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
-    "question": "Frankie scenario: Common covered conditions in CI? (Case study 48)",
+    "question": "Common covered conditions in CI? (Case study 33)",
     "options": [
-      "Only flu",
-      "Only accidents",
-      "Cancer, heart attack, stroke, coronary bypass etc as defined",
-      "Only cold"
+      "Cancer, heart attack, stroke, coronary bypass etc as defined Standard CI covers life-threatening cancers, heart attack, stroke per definitions."
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0,
+    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
+    "topic": "Covered Conditions",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 2,
     "moduleId": "critical_illness",
-    "front": "Exclusions in CI? (Case study 50)",
-    "back": "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
-    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
-    "question": "Exclusions in CI? (Case study 50)",
+    "question": "Stroke definition CI? (Case study 43)",
     "options": [
-      "All cancers covered",
-      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
-      "No exclusions",
-      "All conditions covered"
+      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition Stroke requires lasting deficit, TIA excluded."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "Stroke requires lasting deficit, TIA excluded.",
+    "topic": "Stroke",
+    "difficulty": "Hard",
+    "isFlashcard": true
   },
   {
     "id": 3,
     "moduleId": "critical_illness",
-    "front": "Underwriting in CI?",
-    "back": "Full medical underwriting similar to life, may have exclusions",
-    "explanation": "CI requires medical evidence, may rate or exclude.",
-    "question": "Underwriting in CI?",
+    "question": "Best practice explaining CI to client?",
     "options": [
-      "No underwriting",
-      "Only age",
-      "Guaranteed always",
-      "Full medical underwriting similar to life, may have exclusions"
+      "Explain covered conditions, definitions, exclusions, survival period, partial vs full Must explain definitions and limitations to ensure understanding."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Must explain definitions and limitations to ensure understanding.",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 4,
     "moduleId": "critical_illness",
-    "front": "Common covered conditions in CI? (Case study 33)",
-    "back": "Cancer, heart attack, stroke, coronary bypass etc as defined",
-    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
-    "question": "Common covered conditions in CI? (Case study 33)",
+    "question": "Exclusions in CI?",
     "options": [
-      "Only cold",
-      "Cancer, heart attack, stroke, coronary bypass etc as defined",
-      "Only flu",
-      "Only accidents"
+      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition CI excludes pre-existing, certain non-life-threatening cancers per definition."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 5,
     "moduleId": "critical_illness",
-    "front": "Xeona scenario: Exclusions in CI? (Case study 35)",
-    "back": "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
-    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
-    "question": "Xeona scenario: Exclusions in CI? (Case study 35)",
+    "question": "Stroke definition CI? (Case study 28)",
     "options": [
-      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
-      "All conditions covered",
-      "No exclusions",
-      "All cancers covered"
+      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition Stroke requires lasting deficit, TIA excluded."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Stroke requires lasting deficit, TIA excluded.",
+    "topic": "Stroke",
+    "difficulty": "Hard",
+    "isFlashcard": true
   },
   {
     "id": 6,
     "moduleId": "critical_illness",
-    "front": "Baldwin scenario: Common covered conditions in CI?",
-    "back": "Cancer, heart attack, stroke, coronary bypass etc as defined",
-    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
-    "question": "Baldwin scenario: Common covered conditions in CI?",
+    "question": "CI pays when?",
     "options": [
-      "Only accidents",
-      "Cancer, heart attack, stroke, coronary bypass etc as defined",
-      "Only flu",
-      "Only cold"
+      "Diagnosis of covered condition as defined and survival period met CI requires diagnosis per definition and survival period e.g., 30 days."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
+    "topic": "Trigger",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 7,
     "moduleId": "critical_illness",
-    "front": "Partial benefit in CI? (Case study 34)",
-    "back": "Some conditions pay partial % e.g., early-stage cancer, angioplasty",
-    "explanation": "Some CI pays partial for less severe conditions.",
-    "question": "Partial benefit in CI? (Case study 34)",
+    "question": "Common covered conditions in CI?",
     "options": [
-      "Only for death",
-      "Full benefit only",
-      "Some conditions pay partial % e.g., early-stage cancer, angioplasty",
-      "No benefit"
+      "Cancer, heart attack, stroke, coronary bypass etc as defined Standard CI covers life-threatening cancers, heart attack, stroke per definitions."
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0,
+    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
+    "topic": "Covered Conditions",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 8,
     "moduleId": "critical_illness",
-    "front": "Underwriting in CI? (Case study 38)",
-    "back": "Full medical underwriting similar to life, may have exclusions",
-    "explanation": "CI requires medical evidence, may rate or exclude.",
-    "question": "Underwriting in CI? (Case study 38)",
+    "question": "Difference between CI and DI? (Case study 37)",
     "options": [
-      "No underwriting",
-      "Guaranteed always",
-      "Only age",
-      "Full medical underwriting similar to life, may have exclusions"
+      "CI lump sum on diagnosis, DI monthly income for inability to work CI diagnosis trigger, DI disability trigger."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "CI diagnosis trigger, DI disability trigger.",
+    "topic": "CI vs DI",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 9,
     "moduleId": "critical_illness",
-    "front": "Exclusions in CI?",
-    "back": "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
-    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
-    "question": "Exclusions in CI?",
+    "question": "What is covered cancer definition in CI?",
     "options": [
-      "No exclusions",
-      "All cancers covered",
-      "All conditions covered",
-      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition"
+      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology Cancer definition requires life-threatening, excludes Tis, low-grade."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
+    "topic": "Cancer",
+    "difficulty": "Hard",
+    "isFlashcard": true
   },
   {
     "id": 10,
     "moduleId": "critical_illness",
-    "front": "Stroke definition CI? (Case study 28)",
-    "back": "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition",
-    "explanation": "Stroke requires lasting deficit, TIA excluded.",
-    "question": "Stroke definition CI? (Case study 28)",
+    "question": "Tax treatment of CI benefit to individual? (Case study 54)",
     "options": [
-      "No definition",
-      "TIA always covered",
-      "Any dizziness",
-      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition"
+      "Generally tax-free lump sum if personally owned and not business related CI benefit personally owned is generally tax-free."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "CI benefit personally owned is generally tax-free.",
+    "topic": "Tax",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 11,
     "moduleId": "critical_illness",
-    "front": "Coronary bypass definition? (Case study 44)",
-    "back": "Bypass surgery to correct narrowing, not angioplasty unless partial benefit",
-    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
-    "question": "Coronary bypass definition? (Case study 44)",
+    "question": "Partial benefit in CI? (Case study 34)",
     "options": [
-      "Any heart procedure",
-      "Angioplasty full benefit always",
-      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit",
-      "No bypass cover"
+      "Some conditions pay partial % e.g., early-stage cancer, angioplasty Some CI pays partial for less severe conditions."
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0,
+    "explanation": "Some CI pays partial for less severe conditions.",
+    "topic": "Partial",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 12,
     "moduleId": "critical_illness",
-    "front": "Partial benefit in CI?",
-    "back": "Some conditions pay partial % e.g., early-stage cancer, angioplasty",
-    "explanation": "Some CI pays partial for less severe conditions.",
-    "question": "Partial benefit in CI?",
+    "question": "CI pays when? (Case study 46)",
     "options": [
-      "Only for death",
-      "No benefit",
-      "Full benefit only",
-      "Some conditions pay partial % e.g., early-stage cancer, angioplasty"
+      "Diagnosis of covered condition as defined and survival period met CI requires diagnosis per definition and survival period e.g., 30 days."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
+    "topic": "Trigger",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 13,
     "moduleId": "critical_illness",
-    "front": "Best practice explaining CI to client? (Case study 45)",
-    "back": "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
-    "explanation": "Must explain definitions and limitations to ensure understanding.",
-    "question": "Best practice explaining CI to client? (Case study 45)",
+    "question": "Underwriting in CI? (Case study 53)",
     "options": [
-      "No need explain",
-      "Guarantee claim",
-      "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
-      "Say all conditions covered"
+      "Full medical underwriting similar to life, may have exclusions CI requires medical evidence, may rate or exclude."
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0,
+    "explanation": "CI requires medical evidence, may rate or exclude.",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 14,
     "moduleId": "critical_illness",
-    "front": "Sajnay scenario: Coronary bypass definition? (Case study 59)",
-    "back": "Bypass surgery to correct narrowing, not angioplasty unless partial benefit",
-    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
-    "question": "Sajnay scenario: Coronary bypass definition? (Case study 59)",
+    "question": "Common covered conditions in CI? (Case study 48)",
     "options": [
-      "Angioplasty full benefit always",
-      "Any heart procedure",
-      "No bypass cover",
-      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit"
+      "Cancer, heart attack, stroke, coronary bypass etc as defined Standard CI covers life-threatening cancers, heart attack, stroke per definitions."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
+    "topic": "Covered Conditions",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 15,
     "moduleId": "critical_illness",
-    "front": "Heart attack definition CI? (Case study 27)",
-    "back": "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria",
-    "explanation": "MI requires objective evidence per definition.",
-    "question": "Heart attack definition CI? (Case study 27)",
+    "question": "Tax treatment of CI benefit to individual? (Case study 24)",
     "options": [
-      "Only bypass",
-      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria",
-      "Any chest pain",
-      "Any heart disease"
+      "Generally tax-free lump sum if personally owned and not business related CI benefit personally owned is generally tax-free."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "CI benefit personally owned is generally tax-free.",
+    "topic": "Tax",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 16,
     "moduleId": "critical_illness",
-    "front": "Best practice explaining CI to client? (Case study 60)",
-    "back": "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
-    "explanation": "Must explain definitions and limitations to ensure understanding.",
-    "question": "Best practice explaining CI to client? (Case study 60)",
+    "question": "Return of premium rider in CI?",
     "options": [
-      "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
-      "No need explain",
-      "Guarantee claim",
-      "Say all conditions covered"
+      "Returns premium if no claim after period or on death, extra cost ROP rider returns premium if no claim, expensive extra premium."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
+    "topic": "ROP",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 17,
     "moduleId": "critical_illness",
-    "front": "Return of premium rider in CI? (Case study 21)",
-    "back": "Returns premium if no claim after period or on death, extra cost",
-    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
-    "question": "Return of premium rider in CI? (Case study 21)",
+    "question": "Heart attack definition CI?",
     "options": [
-      "Automatic free",
-      "Returns premium if no claim after period or on death, extra cost",
-      "Always returns 100% without cost",
-      "No such rider"
+      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria MI requires objective evidence per definition."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "MI requires objective evidence per definition.",
+    "topic": "Heart Attack",
+    "difficulty": "Hard",
+    "isFlashcard": true
   },
   {
     "id": 18,
     "moduleId": "critical_illness",
-    "front": "Heart attack definition CI? (Case study 42)",
-    "back": "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria",
-    "explanation": "MI requires objective evidence per definition.",
-    "question": "Heart attack definition CI? (Case study 42)",
+    "question": "Tax treatment of CI benefit to individual? (Case study 39)",
     "options": [
-      "Any heart disease",
-      "Any chest pain",
-      "Only bypass",
-      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria"
+      "Generally tax-free lump sum if personally owned and not business related CI benefit personally owned is generally tax-free."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "CI benefit personally owned is generally tax-free.",
+    "topic": "Tax",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 19,
     "moduleId": "critical_illness",
-    "front": "Neena scenario: CI pays when? (Case study 46)",
-    "back": "Diagnosis of covered condition as defined and survival period met",
-    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
-    "question": "Neena scenario: CI pays when? (Case study 46)",
+    "question": "Heart attack definition CI? (Case study 57)",
     "options": [
-      "Hospitalization only",
-      "Any sickness",
-      "Death only",
-      "Diagnosis of covered condition as defined and survival period met"
+      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria MI requires objective evidence per definition."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "MI requires objective evidence per definition.",
+    "topic": "Heart Attack",
+    "difficulty": "Hard",
+    "isFlashcard": true
   },
   {
     "id": 20,
     "moduleId": "critical_illness",
-    "front": "Allwyn scenario: Return of premium rider in CI?",
-    "back": "Returns premium if no claim after period or on death, extra cost",
-    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
-    "question": "Allwyn scenario: Return of premium rider in CI?",
+    "question": "Return of premium rider in CI? (Case study 21)",
     "options": [
-      "No such rider",
-      "Automatic free",
-      "Always returns 100% without cost",
-      "Returns premium if no claim after period or on death, extra cost"
+      "Returns premium if no claim after period or on death, extra cost ROP rider returns premium if no claim, expensive extra premium."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
+    "topic": "ROP",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 21,
+    "moduleId": "critical_illness",
+    "question": "Survival period in CI? (Case study 32)",
+    "options": [
+      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days Survival ensures condition not immediately fatal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Survival ensures condition not immediately fatal.",
+    "topic": "Survival",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 22,
+    "moduleId": "critical_illness",
+    "question": "Stroke definition CI?",
+    "options": [
+      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition Stroke requires lasting deficit, TIA excluded."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Stroke requires lasting deficit, TIA excluded.",
+    "topic": "Stroke",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 23,
+    "moduleId": "critical_illness",
+    "question": "Partial benefit in CI? (Case study 49)",
+    "options": [
+      "Some conditions pay partial % e.g., early-stage cancer, angioplasty Some CI pays partial for less severe conditions."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some CI pays partial for less severe conditions.",
+    "topic": "Partial",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 24,
+    "moduleId": "critical_illness",
+    "question": "Tax treatment of CI benefit to individual?",
+    "options": [
+      "Generally tax-free lump sum if personally owned and not business related CI benefit personally owned is generally tax-free."
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI benefit personally owned is generally tax-free.",
+    "topic": "Tax",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 25,
+    "moduleId": "critical_illness",
+    "question": "Coronary bypass definition? (Case study 59)",
+    "options": [
+      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit Bypass definition excludes angioplasty, angioplasty may be partial."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
+    "topic": "Bypass",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 26,
+    "moduleId": "critical_illness",
+    "question": "Coronary bypass definition? (Case study 44)",
+    "options": [
+      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit Bypass definition excludes angioplasty, angioplasty may be partial."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
+    "topic": "Bypass",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 27,
+    "moduleId": "critical_illness",
+    "question": "Coronary bypass definition? (Case study 29)",
+    "options": [
+      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit Bypass definition excludes angioplasty, angioplasty may be partial."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
+    "topic": "Bypass",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 28,
+    "moduleId": "critical_illness",
+    "question": "Coronary bypass definition?",
+    "options": [
+      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit Bypass definition excludes angioplasty, angioplasty may be partial."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
+    "topic": "Bypass",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 29,
+    "moduleId": "critical_illness",
+    "question": "Benefit period in CI? (Case study 25)",
+    "options": [
+      "Usually lump sum one-time, policy may terminate or allow second event Most CI pays once and terminates, some second event."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Most CI pays once and terminates, some second event.",
+    "topic": "Benefit",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 30,
+    "moduleId": "critical_illness",
+    "question": "Survival period in CI? (Case study 47)",
+    "options": [
+      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days Survival ensures condition not immediately fatal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Survival ensures condition not immediately fatal.",
+    "topic": "Survival",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 31,
+    "moduleId": "critical_illness",
+    "question": "What is covered cancer definition in CI? (Case study 41)",
+    "options": [
+      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology Cancer definition requires life-threatening, excludes Tis, low-grade."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
+    "topic": "Cancer",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 32,
+    "moduleId": "critical_illness",
+    "question": "Best practice explaining CI to client? (Case study 60)",
+    "options": [
+      "Explain covered conditions, definitions, exclusions, survival period, partial vs full Must explain definitions and limitations to ensure understanding."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Must explain definitions and limitations to ensure understanding.",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 33,
+    "moduleId": "critical_illness",
+    "question": "What is covered cancer definition in CI? (Case study 56)",
+    "options": [
+      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology Cancer definition requires life-threatening, excludes Tis, low-grade."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
+    "topic": "Cancer",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 34,
+    "moduleId": "critical_illness",
+    "question": "Difference between CI and DI? (Case study 52)",
+    "options": [
+      "CI lump sum on diagnosis, DI monthly income for inability to work CI diagnosis trigger, DI disability trigger."
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI diagnosis trigger, DI disability trigger.",
+    "topic": "CI vs DI",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 35,
+    "moduleId": "critical_illness",
+    "question": "Survival period in CI?",
+    "options": [
+      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days Survival ensures condition not immediately fatal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Survival ensures condition not immediately fatal.",
+    "topic": "Survival",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 36,
+    "moduleId": "critical_illness",
+    "question": "Underwriting in CI?",
+    "options": [
+      "Full medical underwriting similar to life, may have exclusions CI requires medical evidence, may rate or exclude."
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI requires medical evidence, may rate or exclude.",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 37,
+    "moduleId": "critical_illness",
+    "question": "CI pays when? (Case study 16)",
+    "options": [
+      "Diagnosis of covered condition as defined and survival period met CI requires diagnosis per definition and survival period e.g., 30 days."
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
+    "topic": "Trigger",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 38,
+    "moduleId": "critical_illness",
+    "question": "Best practice explaining CI to client? (Case study 30)",
+    "options": [
+      "Explain covered conditions, definitions, exclusions, survival period, partial vs full Must explain definitions and limitations to ensure understanding."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Must explain definitions and limitations to ensure understanding.",
+    "topic": "Suitability",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 39,
+    "moduleId": "critical_illness",
+    "question": "Return of premium rider in CI? (Case study 36)",
+    "options": [
+      "Returns premium if no claim after period or on death, extra cost ROP rider returns premium if no claim, expensive extra premium."
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
+    "topic": "ROP",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 40,
+    "moduleId": "critical_illness",
+    "question": "Stroke definition CI? (Case study 58)",
+    "options": [
+      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition Stroke requires lasting deficit, TIA excluded."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Stroke requires lasting deficit, TIA excluded.",
+    "topic": "Stroke",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 41,
+    "moduleId": "critical_illness",
+    "question": "Difference between CI and DI?",
+    "options": [
+      "CI lump sum on diagnosis, DI monthly income for inability to work CI diagnosis trigger, DI disability trigger."
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI diagnosis trigger, DI disability trigger.",
+    "topic": "CI vs DI",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 42,
+    "moduleId": "critical_illness",
+    "question": "Exclusions in CI? (Case study 50)",
+    "options": [
+      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition CI excludes pre-existing, certain non-life-threatening cancers per definition."
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 43,
+    "moduleId": "critical_illness",
+    "question": "Underwriting in CI? (Case study 38)",
+    "options": [
+      "Full medical underwriting similar to life, may have exclusions CI requires medical evidence, may rate or exclude."
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI requires medical evidence, may rate or exclude.",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 44,
+    "moduleId": "critical_illness",
+    "question": "What is covered cancer definition in CI? (Case study 26)",
+    "options": [
+      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology Cancer definition requires life-threatening, excludes Tis, low-grade."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
+    "topic": "Cancer",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 45,
+    "moduleId": "critical_illness",
+    "question": "Benefit period in CI? (Case study 40)",
+    "options": [
+      "Usually lump sum one-time, policy may terminate or allow second event Most CI pays once and terminates, some second event."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Most CI pays once and terminates, some second event.",
+    "topic": "Benefit",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 46,
+    "moduleId": "critical_illness",
+    "question": "Heart attack definition CI? (Case study 27)",
+    "options": [
+      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria MI requires objective evidence per definition."
+    ],
+    "correctAnswer": 0,
+    "explanation": "MI requires objective evidence per definition.",
+    "topic": "Heart Attack",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 47,
+    "moduleId": "critical_illness",
+    "question": "Partial benefit in CI?",
+    "options": [
+      "Some conditions pay partial % e.g., early-stage cancer, angioplasty Some CI pays partial for less severe conditions."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Some CI pays partial for less severe conditions.",
+    "topic": "Partial",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 48,
+    "moduleId": "critical_illness",
+    "question": "Underwriting in CI? (Case study 23)",
+    "options": [
+      "Full medical underwriting similar to life, may have exclusions CI requires medical evidence, may rate or exclude."
+    ],
+    "correctAnswer": 0,
+    "explanation": "CI requires medical evidence, may rate or exclude.",
+    "topic": "Underwriting",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 49,
+    "moduleId": "critical_illness",
+    "question": "Heart attack definition CI? (Case study 42)",
+    "options": [
+      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria MI requires objective evidence per definition."
+    ],
+    "correctAnswer": 0,
+    "explanation": "MI requires objective evidence per definition.",
+    "topic": "Heart Attack",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 50,
+    "moduleId": "critical_illness",
+    "question": "Return of premium rider in CI? (Case study 51)",
+    "options": [
+      "Returns premium if no claim after period or on death, extra cost ROP rider returns premium if no claim, expensive extra premium."
+    ],
+    "correctAnswer": 0,
+    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
+    "topic": "ROP",
+    "difficulty": "Medium",
+    "isFlashcard": true
   }
 ]

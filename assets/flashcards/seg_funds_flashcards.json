@@ -2,301 +2,651 @@
   {
     "id": 1,
     "moduleId": "seg_funds",
-    "front": "10-day free look for seg fund?",
-    "back": "10 days to cancel and get refund",
-    "explanation": "Free look 10 days for new seg fund contract.",
-    "question": "10-day free look for seg fund?",
+    "question": "What is DSC vs no-load in seg fund? (Case 37)",
     "options": [
-      "Only for mutual funds",
-      "10 days to cancel and get refund",
-      "30 days",
-      "No free look"
+      "DSC surrender charge for early redemption, no-load no upfront sales charge DSC declining surrender charge e.g., 6 years."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "DSC declining surrender charge e.g., 6 years.",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 2,
     "moduleId": "seg_funds",
-    "front": "Taxation of non-registered seg fund withdrawal?",
-    "back": "Gain = market value - ACB minus portion of guarantee fee, capital gain",
-    "explanation": "Seg fund gain is capital gain: proceeds minus ACB.",
-    "question": "Taxation of non-registered seg fund withdrawal?",
+    "question": "Seg fund vs mutual fund main difference? (Case 46)",
     "options": [
-      "Fully income",
-      "Gain = market value - ACB minus portion of guarantee fee, capital gain",
-      "50% income",
-      "Tax-free"
+      "Seg fund is insurance contract with guarantees and beneficiary designation, mutual fund is securities Seg funds are insurance, offer guarantees and bypass probate."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance, offer guarantees and bypass probate.",
+    "topic": "Difference",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 3,
     "moduleId": "seg_funds",
-    "front": "What is reset in seg fund? (Case 49)",
-    "back": "Locks in market gains raising guarantee level, may extend maturity",
-    "explanation": "Reset locks gains raising guarantees, restarts maturity clock.",
-    "question": "What is reset in seg fund? (Case 49)",
+    "question": "What is market value adjustment?",
     "options": [
-      "Cancels guarantee",
-      "Lowers guarantee",
-      "No reset",
-      "Locks in market gains raising guarantee level, may extend maturity"
+      "Adjustment if surrender before maturity may reduce guarantee MVA may apply on early surrender."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "MVA may apply on early surrender.",
+    "topic": "MVA",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 4,
     "moduleId": "seg_funds",
-    "front": "Beneficiary designation advantage seg fund? (Case 50)",
-    "back": "Bypasses probate and estate, direct to beneficiary",
-    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
-    "question": "Beneficiary designation advantage seg fund? (Case 50)",
+    "question": "Creditor protection seg fund?",
     "options": [
-      "Bypasses probate and estate, direct to beneficiary",
-      "Taxable more",
-      "Goes via estate always",
-      "No beneficiary"
+      "May offer creditor protection if named beneficiary is spouse, child, parent - per provincial insurance law Creditor protection if qualified beneficiary per Insurance Act."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Creditor protection if qualified beneficiary per Insurance Act.",
+    "topic": "Creditor",
+    "difficulty": "Hard",
+    "isFlashcard": true
   },
   {
     "id": 5,
     "moduleId": "seg_funds",
-    "front": "Seg fund with RRSP/RRIF? (Case 55)",
-    "back": "Held inside RRSP, guarantees apply, but probate advantage lost inside registered plan",
-    "explanation": "Seg funds inside RRSP lose probate bypass, guarantees remain.",
-    "question": "Seg fund with RRSP/RRIF? (Case 55)",
+    "question": "Maturity guarantee in seg fund? (Case 47)",
     "options": [
-      "No guarantee inside RRSP",
-      "Cannot hold",
-      "Held inside RRSP, guarantees apply, but probate advantage lost inside registered plan",
-      "RRSP not allowed"
+      "Guarantees % of deposits at maturity date e.g., 75% after 10+ years Maturity guarantee e.g., 75% after 10 years."
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0,
+    "explanation": "Maturity guarantee e.g., 75% after 10 years.",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 6,
     "moduleId": "seg_funds",
-    "front": "Death benefit in registered seg fund? (Case 30)",
-    "back": "Paid directly to named beneficiary outside estate if designated",
-    "explanation": "Registered seg with beneficiary bypasses estate.",
-    "question": "Death benefit in registered seg fund? (Case 30)",
+    "question": "Seg fund with RRSP/RRIF? (Case 55)",
     "options": [
-      "Paid directly to named beneficiary outside estate if designated",
-      "Lost",
-      "Via estate always",
-      "Goes to insurer"
+      "Held inside RRSP, guarantees apply, but probate advantage lost inside registered plan Seg funds inside RRSP lose probate bypass, guarantees remain."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Seg funds inside RRSP lose probate bypass, guarantees remain.",
+    "topic": "Registered",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 7,
     "moduleId": "seg_funds",
-    "front": "Beneficiary designation advantage seg fund? (Case 35)",
-    "back": "Bypasses probate and estate, direct to beneficiary",
-    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
-    "question": "Beneficiary designation advantage seg fund? (Case 35)",
+    "question": "Maturity guarantee in seg fund? (Case 17)",
     "options": [
-      "Taxable more",
-      "Goes via estate always",
-      "No beneficiary",
-      "Bypasses probate and estate, direct to beneficiary"
+      "Guarantees % of deposits at maturity date e.g., 75% after 10+ years Maturity guarantee e.g., 75% after 10 years."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Maturity guarantee e.g., 75% after 10 years.",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 8,
     "moduleId": "seg_funds",
-    "front": "What is DSC vs no-load in seg fund? (Case 52)",
-    "back": "DSC surrender charge for early redemption, no-load no upfront sales charge",
-    "explanation": "DSC declining surrender charge e.g., 6 years.",
-    "question": "What is DSC vs no-load in seg fund? (Case 52)",
+    "question": "Death benefit guarantee in seg fund? (Case 48)",
     "options": [
-      "DSC surrender charge for early redemption, no-load no upfront sales charge",
-      "No-load has DSC",
-      "DSC no charge",
-      "Same"
+      "Guarantees % of deposits on death e.g., 75-100% Death guarantee protects deposits on death."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Death guarantee protects deposits on death.",
+    "topic": "Death Guarantee",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 9,
     "moduleId": "seg_funds",
-    "front": "Seg fund vs mutual fund main difference? (Case 46)",
-    "back": "Seg fund is insurance contract with guarantees and beneficiary designation, mutual fund is securities",
-    "explanation": "Seg funds are insurance, offer guarantees and bypass probate.",
-    "question": "Seg fund vs mutual fund main difference? (Case 46)",
+    "question": "What is DSC vs no-load in seg fund? (Case 22)",
     "options": [
-      "Seg fund no guarantee",
-      "Seg fund is insurance contract with guarantees and beneficiary designation, mutual fund is securities",
-      "Same",
-      "Mutual fund is insurance"
+      "DSC surrender charge for early redemption, no-load no upfront sales charge DSC declining surrender charge e.g., 6 years."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "DSC declining surrender charge e.g., 6 years.",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 10,
     "moduleId": "seg_funds",
-    "front": "Roma scenario: What is market value adjustment?",
-    "back": "Adjustment if surrender before maturity may reduce guarantee",
-    "explanation": "MVA may apply on early surrender.",
-    "question": "Roma scenario: What is market value adjustment?",
+    "question": "What is market value adjustment? (Case 41)",
     "options": [
-      "Adjustment if surrender before maturity may reduce guarantee",
-      "No adjustment",
-      "Only at death",
-      "Always increases"
+      "Adjustment if surrender before maturity may reduce guarantee MVA may apply on early surrender."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "MVA may apply on early surrender.",
+    "topic": "MVA",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 11,
     "moduleId": "seg_funds",
-    "front": "Xeona scenario: Death benefit in registered seg fund?",
-    "back": "Paid directly to named beneficiary outside estate if designated",
-    "explanation": "Registered seg with beneficiary bypasses estate.",
-    "question": "Xeona scenario: Death benefit in registered seg fund?",
+    "question": "10-day free look for seg fund? (Case 59)",
     "options": [
-      "Via estate always",
-      "Paid directly to named beneficiary outside estate if designated",
-      "Lost",
-      "Goes to insurer"
+      "10 days to cancel and get refund Free look 10 days for new seg fund contract."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "Free look 10 days for new seg fund contract.",
+    "topic": "Free Look",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 12,
     "moduleId": "seg_funds",
-    "front": "What is reset in seg fund? (Case 19)",
-    "back": "Locks in market gains raising guarantee level, may extend maturity",
-    "explanation": "Reset locks gains raising guarantees, restarts maturity clock.",
-    "question": "What is reset in seg fund? (Case 19)",
+    "question": "10-day free look for seg fund? (Case 29)",
     "options": [
-      "Locks in market gains raising guarantee level, may extend maturity",
-      "No reset",
-      "Cancels guarantee",
-      "Lowers guarantee"
+      "10 days to cancel and get refund Free look 10 days for new seg fund contract."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Free look 10 days for new seg fund contract.",
+    "topic": "Free Look",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 13,
     "moduleId": "seg_funds",
-    "front": "Jessy scenario: Taxation of non-registered seg fund withdrawal? (Case 39)",
-    "back": "Gain = market value - ACB minus portion of guarantee fee, capital gain",
-    "explanation": "Seg fund gain is capital gain: proceeds minus ACB.",
-    "question": "Jessy scenario: Taxation of non-registered seg fund withdrawal? (Case 39)",
+    "question": "Death benefit guarantee in seg fund? (Case 18)",
     "options": [
-      "Tax-free",
-      "Gain = market value - ACB minus portion of guarantee fee, capital gain",
-      "50% income",
-      "Fully income"
+      "Guarantees % of deposits on death e.g., 75-100% Death guarantee protects deposits on death."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "Death guarantee protects deposits on death.",
+    "topic": "Death Guarantee",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 14,
     "moduleId": "seg_funds",
-    "front": "What is MER in seg fund? (Case 38)",
-    "back": "Management expense ratio ongoing fee for fund management",
-    "explanation": "MER includes management, operating, insurance fee for guarantees.",
-    "question": "What is MER in seg fund? (Case 38)",
+    "question": "Seg fund contract structure?",
     "options": [
-      "One-time fee",
-      "Management expense ratio ongoing fee for fund management",
-      "Premium",
-      "No fee"
+      "Groups of funds held separately from insurer general assets Segregated funds held separate from insurer assets."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "Segregated funds held separate from insurer assets.",
+    "topic": "Structure",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 15,
     "moduleId": "seg_funds",
-    "front": "Death benefit in registered seg fund? (Case 45)",
-    "back": "Paid directly to named beneficiary outside estate if designated",
-    "explanation": "Registered seg with beneficiary bypasses estate.",
-    "question": "Death benefit in registered seg fund? (Case 45)",
+    "question": "What is MER in seg fund?",
     "options": [
-      "Goes to insurer",
-      "Paid directly to named beneficiary outside estate if designated",
-      "Via estate always",
-      "Lost"
+      "Management expense ratio ongoing fee for fund management MER includes management, operating, insurance fee for guarantees."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "MER includes management, operating, insurance fee for guarantees.",
+    "topic": "MER",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 16,
     "moduleId": "seg_funds",
-    "front": "Elmer scenario: Maturity guarantee in seg fund?",
-    "back": "Guarantees % of deposits at maturity date e.g., 75% after 10+ years",
-    "explanation": "Maturity guarantee e.g., 75% after 10 years.",
-    "question": "Elmer scenario: Maturity guarantee in seg fund?",
+    "question": "Beneficiary designation advantage seg fund? (Case 35)",
     "options": [
-      "Guarantees % of deposits at maturity date e.g., 75% after 10+ years",
-      "No guarantee",
-      "Guarantees 100% anytime",
-      "Guarantees gains"
+      "Bypasses probate and estate, direct to beneficiary Seg fund beneficiary bypasses probate like life insurance."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
+    "topic": "Beneficiary",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 17,
     "moduleId": "seg_funds",
-    "front": "Death benefit guarantee in seg fund?",
-    "back": "Guarantees % of deposits on death e.g., 75-100%",
-    "explanation": "Death guarantee protects deposits on death.",
-    "question": "Death benefit guarantee in seg fund?",
+    "question": "Taxation of non-registered seg fund withdrawal? (Case 24)",
     "options": [
-      "Guarantees % of deposits on death e.g., 75-100%",
-      "Guarantees market value only",
-      "Guarantees 200%",
-      "No death benefit"
+      "Gain = market value - ACB minus portion of guarantee fee, capital gain Seg fund gain is capital gain: proceeds minus ACB."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Seg fund gain is capital gain: proceeds minus ACB.",
+    "topic": "Tax",
+    "difficulty": "Hard",
+    "isFlashcard": true
   },
   {
     "id": 18,
     "moduleId": "seg_funds",
-    "front": "Teeto scenario: Death benefit guarantee in seg fund? (Case 33)",
-    "back": "Guarantees % of deposits on death e.g., 75-100%",
-    "explanation": "Death guarantee protects deposits on death.",
-    "question": "Teeto scenario: Death benefit guarantee in seg fund? (Case 33)",
+    "question": "What is MER in seg fund? (Case 38)",
     "options": [
-      "Guarantees % of deposits on death e.g., 75-100%",
-      "No death benefit",
-      "Guarantees market value only",
-      "Guarantees 200%"
+      "Management expense ratio ongoing fee for fund management MER includes management, operating, insurance fee for guarantees."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "MER includes management, operating, insurance fee for guarantees.",
+    "topic": "MER",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 19,
     "moduleId": "seg_funds",
-    "front": "Brenda scenario: What is MER in seg fund? (Case 53)",
-    "back": "Management expense ratio ongoing fee for fund management",
-    "explanation": "MER includes management, operating, insurance fee for guarantees.",
-    "question": "Brenda scenario: What is MER in seg fund? (Case 53)",
+    "question": "Seg fund contract structure? (Case 58)",
     "options": [
-      "Management expense ratio ongoing fee for fund management",
-      "One-time fee",
-      "No fee",
-      "Premium"
+      "Groups of funds held separately from insurer general assets Segregated funds held separate from insurer assets."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Segregated funds held separate from insurer assets.",
+    "topic": "Structure",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 20,
     "moduleId": "seg_funds",
-    "front": "Mosses scenario: What is reset in seg fund?",
-    "back": "Locks in market gains raising guarantee level, may extend maturity",
-    "explanation": "Reset locks gains raising guarantees, restarts maturity clock.",
-    "question": "Mosses scenario: What is reset in seg fund?",
+    "question": "What is reset in seg fund?",
     "options": [
-      "No reset",
-      "Lowers guarantee",
-      "Cancels guarantee",
-      "Locks in market gains raising guarantee level, may extend maturity"
+      "Locks in market gains raising guarantee level, may extend maturity Reset locks gains raising guarantees, restarts maturity clock."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Reset locks gains raising guarantees, restarts maturity clock.",
+    "topic": "Reset",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 21,
+    "moduleId": "seg_funds",
+    "question": "What is DSC vs no-load in seg fund?",
+    "options": [
+      "DSC surrender charge for early redemption, no-load no upfront sales charge DSC declining surrender charge e.g., 6 years."
+    ],
+    "correctAnswer": 0,
+    "explanation": "DSC declining surrender charge e.g., 6 years.",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 22,
+    "moduleId": "seg_funds",
+    "question": "Best practice explaining seg fund? (Case 57)",
+    "options": [
+      "Explain guarantees cost, MER higher than mutual fund, guarantees %, maturity date, resets Must explain guarantee costs and limitations."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Must explain guarantee costs and limitations.",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 23,
+    "moduleId": "seg_funds",
+    "question": "What is MER in seg fund? (Case 23)",
+    "options": [
+      "Management expense ratio ongoing fee for fund management MER includes management, operating, insurance fee for guarantees."
+    ],
+    "correctAnswer": 0,
+    "explanation": "MER includes management, operating, insurance fee for guarantees.",
+    "topic": "MER",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 24,
+    "moduleId": "seg_funds",
+    "question": "Maturity guarantee in seg fund?",
+    "options": [
+      "Guarantees % of deposits at maturity date e.g., 75% after 10+ years Maturity guarantee e.g., 75% after 10 years."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Maturity guarantee e.g., 75% after 10 years.",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 25,
+    "moduleId": "seg_funds",
+    "question": "Death benefit in registered seg fund? (Case 45)",
+    "options": [
+      "Paid directly to named beneficiary outside estate if designated Registered seg with beneficiary bypasses estate."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Registered seg with beneficiary bypasses estate.",
+    "topic": "Estate",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 26,
+    "moduleId": "seg_funds",
+    "question": "Creditor protection seg fund? (Case 21)",
+    "options": [
+      "May offer creditor protection if named beneficiary is spouse, child, parent - per provincial insurance law Creditor protection if qualified beneficiary per Insurance Act."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Creditor protection if qualified beneficiary per Insurance Act.",
+    "topic": "Creditor",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 27,
+    "moduleId": "seg_funds",
+    "question": "Best practice explaining seg fund?",
+    "options": [
+      "Explain guarantees cost, MER higher than mutual fund, guarantees %, maturity date, resets Must explain guarantee costs and limitations."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Must explain guarantee costs and limitations.",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 28,
+    "moduleId": "seg_funds",
+    "question": "Beneficiary designation advantage seg fund? (Case 20)",
+    "options": [
+      "Bypasses probate and estate, direct to beneficiary Seg fund beneficiary bypasses probate like life insurance."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
+    "topic": "Beneficiary",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 29,
+    "moduleId": "seg_funds",
+    "question": "Beneficiary designation advantage seg fund? (Case 50)",
+    "options": [
+      "Bypasses probate and estate, direct to beneficiary Seg fund beneficiary bypasses probate like life insurance."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
+    "topic": "Beneficiary",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 30,
+    "moduleId": "seg_funds",
+    "question": "What is market value adjustment? (Case 56)",
+    "options": [
+      "Adjustment if surrender before maturity may reduce guarantee MVA may apply on early surrender."
+    ],
+    "correctAnswer": 0,
+    "explanation": "MVA may apply on early surrender.",
+    "topic": "MVA",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 31,
+    "moduleId": "seg_funds",
+    "question": "Seg fund vs mutual fund main difference? (Case 31)",
+    "options": [
+      "Seg fund is insurance contract with guarantees and beneficiary designation, mutual fund is securities Seg funds are insurance, offer guarantees and bypass probate."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance, offer guarantees and bypass probate.",
+    "topic": "Difference",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 32,
+    "moduleId": "seg_funds",
+    "question": "Taxation of non-registered seg fund withdrawal? (Case 39)",
+    "options": [
+      "Gain = market value - ACB minus portion of guarantee fee, capital gain Seg fund gain is capital gain: proceeds minus ACB."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Seg fund gain is capital gain: proceeds minus ACB.",
+    "topic": "Tax",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 33,
+    "moduleId": "seg_funds",
+    "question": "Death benefit guarantee in seg fund?",
+    "options": [
+      "Guarantees % of deposits on death e.g., 75-100% Death guarantee protects deposits on death."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Death guarantee protects deposits on death.",
+    "topic": "Death Guarantee",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 34,
+    "moduleId": "seg_funds",
+    "question": "What is reset in seg fund? (Case 34)",
+    "options": [
+      "Locks in market gains raising guarantee level, may extend maturity Reset locks gains raising guarantees, restarts maturity clock."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reset locks gains raising guarantees, restarts maturity clock.",
+    "topic": "Reset",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 35,
+    "moduleId": "seg_funds",
+    "question": "Seg fund with RRSP/RRIF?",
+    "options": [
+      "Held inside RRSP, guarantees apply, but probate advantage lost inside registered plan Seg funds inside RRSP lose probate bypass, guarantees remain."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Seg funds inside RRSP lose probate bypass, guarantees remain.",
+    "topic": "Registered",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 36,
+    "moduleId": "seg_funds",
+    "question": "Taxation of non-registered seg fund withdrawal?",
+    "options": [
+      "Gain = market value - ACB minus portion of guarantee fee, capital gain Seg fund gain is capital gain: proceeds minus ACB."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Seg fund gain is capital gain: proceeds minus ACB.",
+    "topic": "Tax",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 37,
+    "moduleId": "seg_funds",
+    "question": "Death benefit in registered seg fund?",
+    "options": [
+      "Paid directly to named beneficiary outside estate if designated Registered seg with beneficiary bypasses estate."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Registered seg with beneficiary bypasses estate.",
+    "topic": "Estate",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 38,
+    "moduleId": "seg_funds",
+    "question": "What is DSC vs no-load in seg fund? (Case 52)",
+    "options": [
+      "DSC surrender charge for early redemption, no-load no upfront sales charge DSC declining surrender charge e.g., 6 years."
+    ],
+    "correctAnswer": 0,
+    "explanation": "DSC declining surrender charge e.g., 6 years.",
+    "topic": "Fees",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 39,
+    "moduleId": "seg_funds",
+    "question": "Beneficiary designation advantage seg fund?",
+    "options": [
+      "Bypasses probate and estate, direct to beneficiary Seg fund beneficiary bypasses probate like life insurance."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
+    "topic": "Beneficiary",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 40,
+    "moduleId": "seg_funds",
+    "question": "Creditor protection seg fund? (Case 36)",
+    "options": [
+      "May offer creditor protection if named beneficiary is spouse, child, parent - per provincial insurance law Creditor protection if qualified beneficiary per Insurance Act."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Creditor protection if qualified beneficiary per Insurance Act.",
+    "topic": "Creditor",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 41,
+    "moduleId": "seg_funds",
+    "question": "Seg fund contract structure? (Case 28)",
+    "options": [
+      "Groups of funds held separately from insurer general assets Segregated funds held separate from insurer assets."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Segregated funds held separate from insurer assets.",
+    "topic": "Structure",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 42,
+    "moduleId": "seg_funds",
+    "question": "Creditor protection seg fund? (Case 51)",
+    "options": [
+      "May offer creditor protection if named beneficiary is spouse, child, parent - per provincial insurance law Creditor protection if qualified beneficiary per Insurance Act."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Creditor protection if qualified beneficiary per Insurance Act.",
+    "topic": "Creditor",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 43,
+    "moduleId": "seg_funds",
+    "question": "Death benefit in registered seg fund? (Case 30)",
+    "options": [
+      "Paid directly to named beneficiary outside estate if designated Registered seg with beneficiary bypasses estate."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Registered seg with beneficiary bypasses estate.",
+    "topic": "Estate",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 44,
+    "moduleId": "seg_funds",
+    "question": "Taxation of non-registered seg fund withdrawal? (Case 54)",
+    "options": [
+      "Gain = market value - ACB minus portion of guarantee fee, capital gain Seg fund gain is capital gain: proceeds minus ACB."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Seg fund gain is capital gain: proceeds minus ACB.",
+    "topic": "Tax",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 45,
+    "moduleId": "seg_funds",
+    "question": "Maturity guarantee in seg fund? (Case 32)",
+    "options": [
+      "Guarantees % of deposits at maturity date e.g., 75% after 10+ years Maturity guarantee e.g., 75% after 10 years."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Maturity guarantee e.g., 75% after 10 years.",
+    "topic": "Maturity Guarantee",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 46,
+    "moduleId": "seg_funds",
+    "question": "Death benefit guarantee in seg fund? (Case 33)",
+    "options": [
+      "Guarantees % of deposits on death e.g., 75-100% Death guarantee protects deposits on death."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Death guarantee protects deposits on death.",
+    "topic": "Death Guarantee",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 47,
+    "moduleId": "seg_funds",
+    "question": "Best practice explaining seg fund? (Case 27)",
+    "options": [
+      "Explain guarantees cost, MER higher than mutual fund, guarantees %, maturity date, resets Must explain guarantee costs and limitations."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Must explain guarantee costs and limitations.",
+    "topic": "Disclosure",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 48,
+    "moduleId": "seg_funds",
+    "question": "10-day free look for seg fund? (Case 44)",
+    "options": [
+      "10 days to cancel and get refund Free look 10 days for new seg fund contract."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Free look 10 days for new seg fund contract.",
+    "topic": "Free Look",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 49,
+    "moduleId": "seg_funds",
+    "question": "Seg fund with RRSP/RRIF? (Case 25)",
+    "options": [
+      "Held inside RRSP, guarantees apply, but probate advantage lost inside registered plan Seg funds inside RRSP lose probate bypass, guarantees remain."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Seg funds inside RRSP lose probate bypass, guarantees remain.",
+    "topic": "Registered",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 50,
+    "moduleId": "seg_funds",
+    "question": "What is reset in seg fund? (Case 19)",
+    "options": [
+      "Locks in market gains raising guarantee level, may extend maturity Reset locks gains raising guarantees, restarts maturity clock."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reset locks gains raising guarantees, restarts maturity clock.",
+    "topic": "Reset",
+    "difficulty": "Medium",
+    "isFlashcard": true
   }
 ]

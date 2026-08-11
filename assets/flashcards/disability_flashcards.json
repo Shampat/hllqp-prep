@@ -2,301 +2,651 @@
   {
     "id": 1,
     "moduleId": "disability",
-    "front": "Any occupation definition?",
-    "back": "Unable to do any occupation reasonably suited by education/training/experience",
-    "explanation": "Any occ stricter than own occ, harder to qualify.",
-    "question": "Any occupation definition?",
+    "question": "Non-cancellable and guaranteed renewable DI? - Scenario 53 with client age 37",
     "options": [
-      "Any job",
-      "Own occupation only",
-      "Unable to do any occupation reasonably suited by education/training/experience",
-      "No benefit"
+      "Insurer cannot cancel nor increase premium nor change terms individually Strongest renewability - cannot cancel nor raise premium."
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0,
+    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 2,
     "moduleId": "disability",
-    "front": "Harpreet scenario: Residual disability benefit pays? - Scenario 18 with client age 32",
-    "back": "Partial benefit for partial loss of income after disability",
-    "explanation": "Residual pays proportionally for reduced earnings.",
-    "question": "Harpreet scenario: Residual disability benefit pays? - Scenario 18 with client age 32",
+    "question": "Any occupation definition? - Scenario 17 with client age 31",
     "options": [
-      "Full benefit only",
-      "No benefit if working",
-      "Only if totally disabled",
-      "Partial benefit for partial loss of income after disability"
+      "Unable to do any occupation reasonably suited by education/training/experience Any occ stricter than own occ, harder to qualify."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Any occ stricter than own occ, harder to qualify.",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 3,
     "moduleId": "disability",
-    "front": "Jessy scenario: Residual disability benefit pays? - Scenario 48 with client age 32",
-    "back": "Partial benefit for partial loss of income after disability",
-    "explanation": "Residual pays proportionally for reduced earnings.",
-    "question": "Jessy scenario: Residual disability benefit pays? - Scenario 48 with client age 32",
+    "question": "COLA rider in DI? - Scenario 49 with client age 33",
     "options": [
-      "Partial benefit for partial loss of income after disability",
-      "Full benefit only",
-      "No benefit if working",
-      "Only if totally disabled"
+      "Adjusts benefit for inflation COLA increases benefit with CPI during claim."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "COLA increases benefit with CPI during claim.",
+    "topic": "COLA",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 4,
     "moduleId": "disability",
-    "front": "Rohit scenario: Business overhead expense DI?",
-    "back": "Pays business expenses if owner disabled e.g., rent, salaries",
-    "explanation": "Overhead DI covers business overhead during disability.",
-    "question": "Rohit scenario: Business overhead expense DI?",
+    "question": "Own occupation definition in DI? - Scenario 16 with client age 30",
     "options": [
-      "Pays business expenses if owner disabled e.g., rent, salaries",
-      "Pays life benefit",
-      "No benefit",
-      "Pays personal income"
+      "Unable to perform duties of own occupation as defined Own occ pays if cannot do own occupation even if can do other."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Own occ pays if cannot do own occupation even if can do other.",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 5,
     "moduleId": "disability",
-    "front": "Business overhead expense DI? - Scenario 57 with client age 41",
-    "back": "Pays business expenses if owner disabled e.g., rent, salaries",
-    "explanation": "Overhead DI covers business overhead during disability.",
-    "question": "Business overhead expense DI? - Scenario 57 with client age 41",
+    "question": "Non-cancellable and guaranteed renewable DI?",
     "options": [
-      "Pays life benefit",
-      "No benefit",
-      "Pays personal income",
-      "Pays business expenses if owner disabled e.g., rent, salaries"
+      "Insurer cannot cancel nor increase premium nor change terms individually Strongest renewability - cannot cancel nor raise premium."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 6,
     "moduleId": "disability",
-    "front": "Future purchase option (FPO) / guaranteed insurability in DI?",
-    "back": "Allows buying extra coverage without medical evidence at future dates",
-    "explanation": "FPO protects future insurability as income rises.",
-    "question": "Future purchase option (FPO) / guaranteed insurability in DI?",
+    "question": "Integration with other benefits in DI? - Scenario 45 with client age 44",
     "options": [
-      "Requires medical each time",
-      "Allows buying extra coverage without medical evidence at future dates",
-      "No extra coverage",
-      "Only for group"
+      "Benefits may be reduced by other income like CPP disability, group LTD Integration prevents overinsurance, offsets other benefits."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "Integration prevents overinsurance, offsets other benefits.",
+    "topic": "Integration",
+    "difficulty": "Hard",
+    "isFlashcard": true
   },
   {
     "id": 7,
     "moduleId": "disability",
-    "front": "Any occupation definition? - Scenario 47 with client age 31",
-    "back": "Unable to do any occupation reasonably suited by education/training/experience",
-    "explanation": "Any occ stricter than own occ, harder to qualify.",
-    "question": "Any occupation definition? - Scenario 47 with client age 31",
+    "question": "Exclusions in DI? - Scenario 41 with client age 40",
     "options": [
-      "No benefit",
-      "Any job",
-      "Own occupation only",
-      "Unable to do any occupation reasonably suited by education/training/experience"
+      "Pre-existing not disclosed, war, self-inflicted, criminal act Standard exclusions include pre-existing, war, criminal."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions include pre-existing, war, criminal.",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 8,
     "moduleId": "disability",
-    "front": "Darcee scenario: Business overhead expense DI? - Scenario 42 with client age 41",
-    "back": "Pays business expenses if owner disabled e.g., rent, salaries",
-    "explanation": "Overhead DI covers business overhead during disability.",
-    "question": "Darcee scenario: Business overhead expense DI? - Scenario 42 with client age 41",
+    "question": "Future purchase option (FPO) / guaranteed insurability in DI?",
     "options": [
-      "No benefit",
-      "Pays business expenses if owner disabled e.g., rent, salaries",
-      "Pays personal income",
-      "Pays life benefit"
+      "Allows buying extra coverage without medical evidence at future dates FPO protects future insurability as income rises."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "FPO protects future insurability as income rises.",
+    "topic": "FPO",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 9,
     "moduleId": "disability",
-    "front": "Goldy scenario: Benefit period in DI? - Scenario 52 with client age 36",
-    "back": "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65",
-    "explanation": "Benefit period limits duration e.g., to age 65.",
-    "question": "Goldy scenario: Benefit period in DI? - Scenario 52 with client age 36",
+    "question": "Waiver of premium in DI? - Scenario 54 with client age 38",
     "options": [
-      "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65",
-      "Free look",
-      "Grace period",
-      "How long premium payable"
+      "Waives premiums during total disability after elimination WOP waives premiums while on claim."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "WOP waives premiums while on claim.",
+    "topic": "WOP",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 10,
     "moduleId": "disability",
-    "front": "Business overhead expense DI? - Scenario 27 with client age 41",
-    "back": "Pays business expenses if owner disabled e.g., rent, salaries",
-    "explanation": "Overhead DI covers business overhead during disability.",
-    "question": "Business overhead expense DI? - Scenario 27 with client age 41",
+    "question": "Benefit period in DI? - Scenario 37 with client age 36",
     "options": [
-      "Pays personal income",
-      "No benefit",
-      "Pays life benefit",
-      "Pays business expenses if owner disabled e.g., rent, salaries"
+      "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65 Benefit period limits duration e.g., to age 65."
     ],
-    "correctAnswer": 3
+    "correctAnswer": 0,
+    "explanation": "Benefit period limits duration e.g., to age 65.",
+    "topic": "Benefit Period",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 11,
     "moduleId": "disability",
-    "front": "Waiver of premium in DI? - Scenario 24 with client age 38",
-    "back": "Waives premiums during total disability after elimination",
-    "explanation": "WOP waives premiums while on claim.",
-    "question": "Waiver of premium in DI? - Scenario 24 with client age 38",
+    "question": "Elimination period in DI? - Scenario 21 with client age 35",
     "options": [
-      "Waives benefit",
-      "Waives premiums during total disability after elimination",
-      "Reduces benefit",
-      "Increases premium"
+      "Waiting period before benefits start after disability Elimination e.g., 90 days reduces premiums."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "Elimination e.g., 90 days reduces premiums.",
+    "topic": "Elimination",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 12,
     "moduleId": "disability",
-    "front": "Amrit scenario: Rehabilitation benefit in DI?",
-    "back": "Pays/helps with rehab costs to return to work",
-    "explanation": "Rehab incentivizes return to work.",
-    "question": "Amrit scenario: Rehabilitation benefit in DI?",
+    "question": "Non-cancellable and guaranteed renewable DI? - Scenario 23 with client age 37",
     "options": [
-      "Pays/helps with rehab costs to return to work",
-      "No benefit",
-      "Only death benefit",
-      "Pays lump sum only"
+      "Insurer cannot cancel nor increase premium nor change terms individually Strongest renewability - cannot cancel nor raise premium."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 13,
     "moduleId": "disability",
-    "front": "Key person DI?",
-    "back": "Business owned DI on key person to cover loss if disabled",
-    "explanation": "Key person DI indemnifies business for key person disability.",
-    "question": "Key person DI?",
+    "question": "Own occupation definition in DI? - Scenario 46 with client age 30",
     "options": [
-      "Group only",
-      "Life insurance only",
-      "Business owned DI on key person to cover loss if disabled",
-      "Personal DI"
+      "Unable to perform duties of own occupation as defined Own occ pays if cannot do own occupation even if can do other."
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0,
+    "explanation": "Own occ pays if cannot do own occupation even if can do other.",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 14,
     "moduleId": "disability",
-    "front": "Oscar scenario: Any occupation definition? - Scenario 17 with client age 31",
-    "back": "Unable to do any occupation reasonably suited by education/training/experience",
-    "explanation": "Any occ stricter than own occ, harder to qualify.",
-    "question": "Oscar scenario: Any occupation definition? - Scenario 17 with client age 31",
+    "question": "Elimination period in DI? - Scenario 51 with client age 35",
     "options": [
-      "Any job",
-      "Own occupation only",
-      "Unable to do any occupation reasonably suited by education/training/experience",
-      "No benefit"
+      "Waiting period before benefits start after disability Elimination e.g., 90 days reduces premiums."
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0,
+    "explanation": "Elimination e.g., 90 days reduces premiums.",
+    "topic": "Elimination",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 15,
     "moduleId": "disability",
-    "front": "Residual disability benefit pays?",
-    "back": "Partial benefit for partial loss of income after disability",
-    "explanation": "Residual pays proportionally for reduced earnings.",
-    "question": "Residual disability benefit pays?",
+    "question": "Elimination period in DI? - Scenario 36 with client age 35",
     "options": [
-      "Partial benefit for partial loss of income after disability",
-      "Full benefit only",
-      "No benefit if working",
-      "Only if totally disabled"
+      "Waiting period before benefits start after disability Elimination e.g., 90 days reduces premiums."
     ],
-    "correctAnswer": 0
+    "correctAnswer": 0,
+    "explanation": "Elimination e.g., 90 days reduces premiums.",
+    "topic": "Elimination",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 16,
     "moduleId": "disability",
-    "front": "Darcee scenario: Exclusions in DI? - Scenario 41 with client age 40",
-    "back": "Pre-existing not disclosed, war, self-inflicted, criminal act",
-    "explanation": "Standard exclusions include pre-existing, war, criminal.",
-    "question": "Darcee scenario: Exclusions in DI? - Scenario 41 with client age 40",
+    "question": "Rehabilitation benefit in DI? - Scenario 25 with client age 39",
     "options": [
-      "All sicknesses covered",
-      "Accidents only",
-      "Pre-existing not disclosed, war, self-inflicted, criminal act",
-      "No exclusions"
+      "Pays/helps with rehab costs to return to work Rehab incentivizes return to work."
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0,
+    "explanation": "Rehab incentivizes return to work.",
+    "topic": "Rehab",
+    "difficulty": "Medium",
+    "isFlashcard": true
   },
   {
     "id": 17,
     "moduleId": "disability",
-    "front": "Jessy scenario: Elimination period in DI? - Scenario 21 with client age 35",
-    "back": "Waiting period before benefits start after disability",
-    "explanation": "Elimination e.g., 90 days reduces premiums.",
-    "question": "Jessy scenario: Elimination period in DI? - Scenario 21 with client age 35",
+    "question": "Integration with other benefits in DI?",
     "options": [
-      "Period premium waived",
-      "Free look",
-      "Waiting period before benefits start after disability",
-      "Benefit duration"
+      "Benefits may be reduced by other income like CPP disability, group LTD Integration prevents overinsurance, offsets other benefits."
     ],
-    "correctAnswer": 2
+    "correctAnswer": 0,
+    "explanation": "Integration prevents overinsurance, offsets other benefits.",
+    "topic": "Integration",
+    "difficulty": "Hard",
+    "isFlashcard": true
   },
   {
     "id": 18,
     "moduleId": "disability",
-    "front": "Jessy scenario: Buy-sell disability funding? - Scenario 59 with client age 43",
-    "back": "Funds buyout of disabled partner's share per agreement",
-    "explanation": "Disability buy-sell funds transfer of business interest.",
-    "question": "Jessy scenario: Buy-sell disability funding? - Scenario 59 with client age 43",
+    "question": "Buy-sell disability funding?",
     "options": [
-      "No funding",
-      "Funds buyout of disabled partner's share per agreement",
-      "Life only",
-      "Personal income"
+      "Funds buyout of disabled partner's share per agreement Disability buy-sell funds transfer of business interest."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "Disability buy-sell funds transfer of business interest.",
+    "topic": "Buy-Sell",
+    "difficulty": "Hard",
+    "isFlashcard": true
   },
   {
     "id": 19,
     "moduleId": "disability",
-    "front": "Elmer scenario: Waiver of premium in DI? - Scenario 39 with client age 38",
-    "back": "Waives premiums during total disability after elimination",
-    "explanation": "WOP waives premiums while on claim.",
-    "question": "Elmer scenario: Waiver of premium in DI? - Scenario 39 with client age 38",
+    "question": "COLA rider in DI?",
     "options": [
-      "Waives benefit",
-      "Waives premiums during total disability after elimination",
-      "Increases premium",
-      "Reduces benefit"
+      "Adjusts benefit for inflation COLA increases benefit with CPI during claim."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "COLA increases benefit with CPI during claim.",
+    "topic": "COLA",
+    "difficulty": "Easy",
+    "isFlashcard": true
   },
   {
     "id": 20,
     "moduleId": "disability",
-    "front": "Goldy scenario: Non-cancellable and guaranteed renewable DI?",
-    "back": "Insurer cannot cancel nor increase premium nor change terms individually",
-    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
-    "question": "Goldy scenario: Non-cancellable and guaranteed renewable DI?",
+    "question": "Any occupation definition? - Scenario 32 with client age 31",
     "options": [
-      "Premium can rise individually",
-      "Insurer cannot cancel nor increase premium nor change terms individually",
-      "Only group",
-      "Can cancel anytime"
+      "Unable to do any occupation reasonably suited by education/training/experience Any occ stricter than own occ, harder to qualify."
     ],
-    "correctAnswer": 1
+    "correctAnswer": 0,
+    "explanation": "Any occ stricter than own occ, harder to qualify.",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 21,
+    "moduleId": "disability",
+    "question": "Key person DI? - Scenario 28 with client age 42",
+    "options": [
+      "Business owned DI on key person to cover loss if disabled Key person DI indemnifies business for key person disability."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Key person DI indemnifies business for key person disability.",
+    "topic": "Key Person",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 22,
+    "moduleId": "disability",
+    "question": "Residual disability benefit pays?",
+    "options": [
+      "Partial benefit for partial loss of income after disability Residual pays proportionally for reduced earnings."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Residual pays proportionally for reduced earnings.",
+    "topic": "Residual",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 23,
+    "moduleId": "disability",
+    "question": "Residual disability benefit pays? - Scenario 48 with client age 32",
+    "options": [
+      "Partial benefit for partial loss of income after disability Residual pays proportionally for reduced earnings."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Residual pays proportionally for reduced earnings.",
+    "topic": "Residual",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 24,
+    "moduleId": "disability",
+    "question": "COLA rider in DI? - Scenario 19 with client age 33",
+    "options": [
+      "Adjusts benefit for inflation COLA increases benefit with CPI during claim."
+    ],
+    "correctAnswer": 0,
+    "explanation": "COLA increases benefit with CPI during claim.",
+    "topic": "COLA",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 25,
+    "moduleId": "disability",
+    "question": "Buy-sell disability funding? - Scenario 29 with client age 43",
+    "options": [
+      "Funds buyout of disabled partner's share per agreement Disability buy-sell funds transfer of business interest."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disability buy-sell funds transfer of business interest.",
+    "topic": "Buy-Sell",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 26,
+    "moduleId": "disability",
+    "question": "Exclusions in DI?",
+    "options": [
+      "Pre-existing not disclosed, war, self-inflicted, criminal act Standard exclusions include pre-existing, war, criminal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions include pre-existing, war, criminal.",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 27,
+    "moduleId": "disability",
+    "question": "Integration with other benefits in DI? - Scenario 30 with client age 44",
+    "options": [
+      "Benefits may be reduced by other income like CPP disability, group LTD Integration prevents overinsurance, offsets other benefits."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Integration prevents overinsurance, offsets other benefits.",
+    "topic": "Integration",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 28,
+    "moduleId": "disability",
+    "question": "Any occupation definition? - Scenario 47 with client age 31",
+    "options": [
+      "Unable to do any occupation reasonably suited by education/training/experience Any occ stricter than own occ, harder to qualify."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Any occ stricter than own occ, harder to qualify.",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 29,
+    "moduleId": "disability",
+    "question": "Residual disability benefit pays? - Scenario 18 with client age 32",
+    "options": [
+      "Partial benefit for partial loss of income after disability Residual pays proportionally for reduced earnings."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Residual pays proportionally for reduced earnings.",
+    "topic": "Residual",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 30,
+    "moduleId": "disability",
+    "question": "Exclusions in DI? - Scenario 56 with client age 40",
+    "options": [
+      "Pre-existing not disclosed, war, self-inflicted, criminal act Standard exclusions include pre-existing, war, criminal."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Standard exclusions include pre-existing, war, criminal.",
+    "topic": "Exclusions",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 31,
+    "moduleId": "disability",
+    "question": "Waiver of premium in DI? - Scenario 24 with client age 38",
+    "options": [
+      "Waives premiums during total disability after elimination WOP waives premiums while on claim."
+    ],
+    "correctAnswer": 0,
+    "explanation": "WOP waives premiums while on claim.",
+    "topic": "WOP",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 32,
+    "moduleId": "disability",
+    "question": "Business overhead expense DI? - Scenario 27 with client age 41",
+    "options": [
+      "Pays business expenses if owner disabled e.g., rent, salaries Overhead DI covers business overhead during disability."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Overhead DI covers business overhead during disability.",
+    "topic": "BOE",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 33,
+    "moduleId": "disability",
+    "question": "Future purchase option (FPO) / guaranteed insurability in DI? - Scenario 20 with client age 34",
+    "options": [
+      "Allows buying extra coverage without medical evidence at future dates FPO protects future insurability as income rises."
+    ],
+    "correctAnswer": 0,
+    "explanation": "FPO protects future insurability as income rises.",
+    "topic": "FPO",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 34,
+    "moduleId": "disability",
+    "question": "Future purchase option (FPO) / guaranteed insurability in DI? - Scenario 50 with client age 34",
+    "options": [
+      "Allows buying extra coverage without medical evidence at future dates FPO protects future insurability as income rises."
+    ],
+    "correctAnswer": 0,
+    "explanation": "FPO protects future insurability as income rises.",
+    "topic": "FPO",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 35,
+    "moduleId": "disability",
+    "question": "Residual disability benefit pays? - Scenario 33 with client age 32",
+    "options": [
+      "Partial benefit for partial loss of income after disability Residual pays proportionally for reduced earnings."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Residual pays proportionally for reduced earnings.",
+    "topic": "Residual",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 36,
+    "moduleId": "disability",
+    "question": "Rehabilitation benefit in DI?",
+    "options": [
+      "Pays/helps with rehab costs to return to work Rehab incentivizes return to work."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rehab incentivizes return to work.",
+    "topic": "Rehab",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 37,
+    "moduleId": "disability",
+    "question": "Key person DI?",
+    "options": [
+      "Business owned DI on key person to cover loss if disabled Key person DI indemnifies business for key person disability."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Key person DI indemnifies business for key person disability.",
+    "topic": "Key Person",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 38,
+    "moduleId": "disability",
+    "question": "Rehabilitation benefit in DI? - Scenario 40 with client age 39",
+    "options": [
+      "Pays/helps with rehab costs to return to work Rehab incentivizes return to work."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rehab incentivizes return to work.",
+    "topic": "Rehab",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 39,
+    "moduleId": "disability",
+    "question": "Non-cancellable and guaranteed renewable DI? - Scenario 38 with client age 37",
+    "options": [
+      "Insurer cannot cancel nor increase premium nor change terms individually Strongest renewability - cannot cancel nor raise premium."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
+    "topic": "Renewability",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 40,
+    "moduleId": "disability",
+    "question": "Business overhead expense DI?",
+    "options": [
+      "Pays business expenses if owner disabled e.g., rent, salaries Overhead DI covers business overhead during disability."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Overhead DI covers business overhead during disability.",
+    "topic": "BOE",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 41,
+    "moduleId": "disability",
+    "question": "Business overhead expense DI? - Scenario 57 with client age 41",
+    "options": [
+      "Pays business expenses if owner disabled e.g., rent, salaries Overhead DI covers business overhead during disability."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Overhead DI covers business overhead during disability.",
+    "topic": "BOE",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 42,
+    "moduleId": "disability",
+    "question": "Future purchase option (FPO) / guaranteed insurability in DI? - Scenario 35 with client age 34",
+    "options": [
+      "Allows buying extra coverage without medical evidence at future dates FPO protects future insurability as income rises."
+    ],
+    "correctAnswer": 0,
+    "explanation": "FPO protects future insurability as income rises.",
+    "topic": "FPO",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 43,
+    "moduleId": "disability",
+    "question": "Rehabilitation benefit in DI? - Scenario 55 with client age 39",
+    "options": [
+      "Pays/helps with rehab costs to return to work Rehab incentivizes return to work."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rehab incentivizes return to work.",
+    "topic": "Rehab",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 44,
+    "moduleId": "disability",
+    "question": "Own occupation definition in DI? - Scenario 31 with client age 30",
+    "options": [
+      "Unable to perform duties of own occupation as defined Own occ pays if cannot do own occupation even if can do other."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Own occ pays if cannot do own occupation even if can do other.",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 45,
+    "moduleId": "disability",
+    "question": "Key person DI? - Scenario 43 with client age 42",
+    "options": [
+      "Business owned DI on key person to cover loss if disabled Key person DI indemnifies business for key person disability."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Key person DI indemnifies business for key person disability.",
+    "topic": "Key Person",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 46,
+    "moduleId": "disability",
+    "question": "Business overhead expense DI? - Scenario 42 with client age 41",
+    "options": [
+      "Pays business expenses if owner disabled e.g., rent, salaries Overhead DI covers business overhead during disability."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Overhead DI covers business overhead during disability.",
+    "topic": "BOE",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 47,
+    "moduleId": "disability",
+    "question": "Any occupation definition?",
+    "options": [
+      "Unable to do any occupation reasonably suited by education/training/experience Any occ stricter than own occ, harder to qualify."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Any occ stricter than own occ, harder to qualify.",
+    "topic": "Definition",
+    "difficulty": "Medium",
+    "isFlashcard": true
+  },
+  {
+    "id": 48,
+    "moduleId": "disability",
+    "question": "Benefit period in DI? - Scenario 52 with client age 36",
+    "options": [
+      "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65 Benefit period limits duration e.g., to age 65."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Benefit period limits duration e.g., to age 65.",
+    "topic": "Benefit Period",
+    "difficulty": "Easy",
+    "isFlashcard": true
+  },
+  {
+    "id": 49,
+    "moduleId": "disability",
+    "question": "Buy-sell disability funding? - Scenario 59 with client age 43",
+    "options": [
+      "Funds buyout of disabled partner's share per agreement Disability buy-sell funds transfer of business interest."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Disability buy-sell funds transfer of business interest.",
+    "topic": "Buy-Sell",
+    "difficulty": "Hard",
+    "isFlashcard": true
+  },
+  {
+    "id": 50,
+    "moduleId": "disability",
+    "question": "Waiver of premium in DI?",
+    "options": [
+      "Waives premiums during total disability after elimination WOP waives premiums while on claim."
+    ],
+    "correctAnswer": 0,
+    "explanation": "WOP waives premiums while on claim.",
+    "topic": "WOP",
+    "difficulty": "Easy",
+    "isFlashcard": true
   }
 ]
