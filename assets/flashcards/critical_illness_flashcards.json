@@ -2,650 +2,650 @@
   {
     "id": 1,
     "moduleId": "critical_illness",
-    "question": "Common covered conditions in CI? (Case study 33)",
+    "question": "What is critical illness insurance?",
     "options": [
-      "Cancer, heart attack, stroke, coronary bypass etc as defined Standard CI covers life-threatening cancers, heart attack, stroke per definitions."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
-    "topic": "Covered Conditions",
-    "difficulty": "Easy",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 2,
     "moduleId": "critical_illness",
-    "question": "Stroke definition CI? (Case study 43)",
+    "question": "What conditions are covered in CI?",
     "options": [
-      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition Stroke requires lasting deficit, TIA excluded."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "Stroke requires lasting deficit, TIA excluded.",
-    "topic": "Stroke",
-    "difficulty": "Hard",
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 3,
     "moduleId": "critical_illness",
-    "question": "Best practice explaining CI to client?",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Explain covered conditions, definitions, exclusions, survival period, partial vs full Must explain definitions and limitations to ensure understanding."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Must explain definitions and limitations to ensure understanding.",
-    "topic": "Suitability",
+    "explanation": "30-day survival.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 4,
     "moduleId": "critical_illness",
-    "question": "Exclusions in CI?",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition CI excludes pre-existing, certain non-life-threatening cancers per definition."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
-    "topic": "Exclusions",
+    "explanation": "Covered conditions.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 5,
     "moduleId": "critical_illness",
-    "question": "Stroke definition CI? (Case study 28)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition Stroke requires lasting deficit, TIA excluded."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Stroke requires lasting deficit, TIA excluded.",
-    "topic": "Stroke",
-    "difficulty": "Hard",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 6,
     "moduleId": "critical_illness",
-    "question": "CI pays when?",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Diagnosis of covered condition as defined and survival period met CI requires diagnosis per definition and survival period e.g., 30 days."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
-    "topic": "Trigger",
-    "difficulty": "Easy",
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 7,
     "moduleId": "critical_illness",
-    "question": "Common covered conditions in CI?",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Cancer, heart attack, stroke, coronary bypass etc as defined Standard CI covers life-threatening cancers, heart attack, stroke per definitions."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
-    "topic": "Covered Conditions",
-    "difficulty": "Easy",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 8,
     "moduleId": "critical_illness",
-    "question": "Difference between CI and DI? (Case study 37)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "CI lump sum on diagnosis, DI monthly income for inability to work CI diagnosis trigger, DI disability trigger."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "CI diagnosis trigger, DI disability trigger.",
-    "topic": "CI vs DI",
+    "explanation": "Covered conditions.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 9,
     "moduleId": "critical_illness",
-    "question": "What is covered cancer definition in CI?",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology Cancer definition requires life-threatening, excludes Tis, low-grade."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
-    "topic": "Cancer",
-    "difficulty": "Hard",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 10,
     "moduleId": "critical_illness",
-    "question": "Tax treatment of CI benefit to individual? (Case study 54)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Generally tax-free lump sum if personally owned and not business related CI benefit personally owned is generally tax-free."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "CI benefit personally owned is generally tax-free.",
-    "topic": "Tax",
+    "explanation": "Covered conditions.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 11,
     "moduleId": "critical_illness",
-    "question": "Partial benefit in CI? (Case study 34)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Some conditions pay partial % e.g., early-stage cancer, angioplasty Some CI pays partial for less severe conditions."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Some CI pays partial for less severe conditions.",
-    "topic": "Partial",
+    "explanation": "30-day survival.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 12,
     "moduleId": "critical_illness",
-    "question": "CI pays when? (Case study 46)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Diagnosis of covered condition as defined and survival period met CI requires diagnosis per definition and survival period e.g., 30 days."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
-    "topic": "Trigger",
-    "difficulty": "Easy",
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 13,
     "moduleId": "critical_illness",
-    "question": "Underwriting in CI? (Case study 53)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Full medical underwriting similar to life, may have exclusions CI requires medical evidence, may rate or exclude."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "CI requires medical evidence, may rate or exclude.",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 14,
     "moduleId": "critical_illness",
-    "question": "Common covered conditions in CI? (Case study 48)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Cancer, heart attack, stroke, coronary bypass etc as defined Standard CI covers life-threatening cancers, heart attack, stroke per definitions."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
-    "topic": "Covered Conditions",
-    "difficulty": "Easy",
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 15,
     "moduleId": "critical_illness",
-    "question": "Tax treatment of CI benefit to individual? (Case study 24)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Generally tax-free lump sum if personally owned and not business related CI benefit personally owned is generally tax-free."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "CI benefit personally owned is generally tax-free.",
-    "topic": "Tax",
+    "explanation": "30-day survival.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 16,
     "moduleId": "critical_illness",
-    "question": "Return of premium rider in CI?",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Returns premium if no claim after period or on death, extra cost ROP rider returns premium if no claim, expensive extra premium."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
-    "topic": "ROP",
+    "explanation": "Covered conditions.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 17,
     "moduleId": "critical_illness",
-    "question": "Heart attack definition CI?",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria MI requires objective evidence per definition."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "MI requires objective evidence per definition.",
-    "topic": "Heart Attack",
-    "difficulty": "Hard",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 18,
     "moduleId": "critical_illness",
-    "question": "Tax treatment of CI benefit to individual? (Case study 39)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Generally tax-free lump sum if personally owned and not business related CI benefit personally owned is generally tax-free."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "CI benefit personally owned is generally tax-free.",
-    "topic": "Tax",
+    "explanation": "Covered conditions.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 19,
     "moduleId": "critical_illness",
-    "question": "Heart attack definition CI? (Case study 57)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria MI requires objective evidence per definition."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "MI requires objective evidence per definition.",
-    "topic": "Heart Attack",
-    "difficulty": "Hard",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 20,
     "moduleId": "critical_illness",
-    "question": "Return of premium rider in CI? (Case study 21)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Returns premium if no claim after period or on death, extra cost ROP rider returns premium if no claim, expensive extra premium."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
-    "topic": "ROP",
+    "explanation": "Covered conditions.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 21,
     "moduleId": "critical_illness",
-    "question": "Survival period in CI? (Case study 32)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days Survival ensures condition not immediately fatal."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Survival ensures condition not immediately fatal.",
-    "topic": "Survival",
-    "difficulty": "Easy",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 22,
     "moduleId": "critical_illness",
-    "question": "Stroke definition CI?",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition Stroke requires lasting deficit, TIA excluded."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "Stroke requires lasting deficit, TIA excluded.",
-    "topic": "Stroke",
-    "difficulty": "Hard",
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 23,
     "moduleId": "critical_illness",
-    "question": "Partial benefit in CI? (Case study 49)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Some conditions pay partial % e.g., early-stage cancer, angioplasty Some CI pays partial for less severe conditions."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Some CI pays partial for less severe conditions.",
-    "topic": "Partial",
+    "explanation": "30-day survival.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 24,
     "moduleId": "critical_illness",
-    "question": "Tax treatment of CI benefit to individual?",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Generally tax-free lump sum if personally owned and not business related CI benefit personally owned is generally tax-free."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "CI benefit personally owned is generally tax-free.",
-    "topic": "Tax",
+    "explanation": "Covered conditions.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 25,
     "moduleId": "critical_illness",
-    "question": "Coronary bypass definition? (Case study 59)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit Bypass definition excludes angioplasty, angioplasty may be partial."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
-    "topic": "Bypass",
+    "explanation": "30-day survival.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 26,
     "moduleId": "critical_illness",
-    "question": "Coronary bypass definition? (Case study 44)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit Bypass definition excludes angioplasty, angioplasty may be partial."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
-    "topic": "Bypass",
+    "explanation": "Covered conditions.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 27,
     "moduleId": "critical_illness",
-    "question": "Coronary bypass definition? (Case study 29)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit Bypass definition excludes angioplasty, angioplasty may be partial."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
-    "topic": "Bypass",
+    "explanation": "30-day survival.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 28,
     "moduleId": "critical_illness",
-    "question": "Coronary bypass definition?",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit Bypass definition excludes angioplasty, angioplasty may be partial."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
-    "topic": "Bypass",
+    "explanation": "Covered conditions.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 29,
     "moduleId": "critical_illness",
-    "question": "Benefit period in CI? (Case study 25)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Usually lump sum one-time, policy may terminate or allow second event Most CI pays once and terminates, some second event."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Most CI pays once and terminates, some second event.",
-    "topic": "Benefit",
-    "difficulty": "Easy",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 30,
     "moduleId": "critical_illness",
-    "question": "Survival period in CI? (Case study 47)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days Survival ensures condition not immediately fatal."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "Survival ensures condition not immediately fatal.",
-    "topic": "Survival",
-    "difficulty": "Easy",
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 31,
     "moduleId": "critical_illness",
-    "question": "What is covered cancer definition in CI? (Case study 41)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology Cancer definition requires life-threatening, excludes Tis, low-grade."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
-    "topic": "Cancer",
-    "difficulty": "Hard",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 32,
     "moduleId": "critical_illness",
-    "question": "Best practice explaining CI to client? (Case study 60)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Explain covered conditions, definitions, exclusions, survival period, partial vs full Must explain definitions and limitations to ensure understanding."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "Must explain definitions and limitations to ensure understanding.",
-    "topic": "Suitability",
+    "explanation": "Covered conditions.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 33,
     "moduleId": "critical_illness",
-    "question": "What is covered cancer definition in CI? (Case study 56)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology Cancer definition requires life-threatening, excludes Tis, low-grade."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
-    "topic": "Cancer",
-    "difficulty": "Hard",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 34,
     "moduleId": "critical_illness",
-    "question": "Difference between CI and DI? (Case study 52)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "CI lump sum on diagnosis, DI monthly income for inability to work CI diagnosis trigger, DI disability trigger."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "CI diagnosis trigger, DI disability trigger.",
-    "topic": "CI vs DI",
+    "explanation": "Covered conditions.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 35,
     "moduleId": "critical_illness",
-    "question": "Survival period in CI?",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days Survival ensures condition not immediately fatal."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Survival ensures condition not immediately fatal.",
-    "topic": "Survival",
-    "difficulty": "Easy",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 36,
     "moduleId": "critical_illness",
-    "question": "Underwriting in CI?",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Full medical underwriting similar to life, may have exclusions CI requires medical evidence, may rate or exclude."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "CI requires medical evidence, may rate or exclude.",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 37,
     "moduleId": "critical_illness",
-    "question": "CI pays when? (Case study 16)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Diagnosis of covered condition as defined and survival period met CI requires diagnosis per definition and survival period e.g., 30 days."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
-    "topic": "Trigger",
-    "difficulty": "Easy",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 38,
     "moduleId": "critical_illness",
-    "question": "Best practice explaining CI to client? (Case study 30)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Explain covered conditions, definitions, exclusions, survival period, partial vs full Must explain definitions and limitations to ensure understanding."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "Must explain definitions and limitations to ensure understanding.",
-    "topic": "Suitability",
+    "explanation": "Covered conditions.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 39,
     "moduleId": "critical_illness",
-    "question": "Return of premium rider in CI? (Case study 36)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Returns premium if no claim after period or on death, extra cost ROP rider returns premium if no claim, expensive extra premium."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
-    "topic": "ROP",
+    "explanation": "30-day survival.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 40,
     "moduleId": "critical_illness",
-    "question": "Stroke definition CI? (Case study 58)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition Stroke requires lasting deficit, TIA excluded."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "Stroke requires lasting deficit, TIA excluded.",
-    "topic": "Stroke",
-    "difficulty": "Hard",
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 41,
     "moduleId": "critical_illness",
-    "question": "Difference between CI and DI?",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "CI lump sum on diagnosis, DI monthly income for inability to work CI diagnosis trigger, DI disability trigger."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "CI diagnosis trigger, DI disability trigger.",
-    "topic": "CI vs DI",
+    "explanation": "30-day survival.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 42,
     "moduleId": "critical_illness",
-    "question": "Exclusions in CI? (Case study 50)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition CI excludes pre-existing, certain non-life-threatening cancers per definition."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
-    "topic": "Exclusions",
+    "explanation": "Covered conditions.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 43,
     "moduleId": "critical_illness",
-    "question": "Underwriting in CI? (Case study 38)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Full medical underwriting similar to life, may have exclusions CI requires medical evidence, may rate or exclude."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "CI requires medical evidence, may rate or exclude.",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 44,
     "moduleId": "critical_illness",
-    "question": "What is covered cancer definition in CI? (Case study 26)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology Cancer definition requires life-threatening, excludes Tis, low-grade."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
-    "topic": "Cancer",
-    "difficulty": "Hard",
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 45,
     "moduleId": "critical_illness",
-    "question": "Benefit period in CI? (Case study 40)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Usually lump sum one-time, policy may terminate or allow second event Most CI pays once and terminates, some second event."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Most CI pays once and terminates, some second event.",
-    "topic": "Benefit",
-    "difficulty": "Easy",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 46,
     "moduleId": "critical_illness",
-    "question": "Heart attack definition CI? (Case study 27)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria MI requires objective evidence per definition."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "MI requires objective evidence per definition.",
-    "topic": "Heart Attack",
-    "difficulty": "Hard",
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 47,
     "moduleId": "critical_illness",
-    "question": "Partial benefit in CI?",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Some conditions pay partial % e.g., early-stage cancer, angioplasty Some CI pays partial for less severe conditions."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "Some CI pays partial for less severe conditions.",
-    "topic": "Partial",
+    "explanation": "30-day survival.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 48,
     "moduleId": "critical_illness",
-    "question": "Underwriting in CI? (Case study 23)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Full medical underwriting similar to life, may have exclusions CI requires medical evidence, may rate or exclude."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "CI requires medical evidence, may rate or exclude.",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 49,
     "moduleId": "critical_illness",
-    "question": "Heart attack definition CI? (Case study 42)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria MI requires objective evidence per definition."
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 0,
-    "explanation": "MI requires objective evidence per definition.",
-    "topic": "Heart Attack",
-    "difficulty": "Hard",
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 50,
     "moduleId": "critical_illness",
-    "question": "Return of premium rider in CI? (Case study 51)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Returns premium if no claim after period or on death, extra cost ROP rider returns premium if no claim, expensive extra premium."
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 0,
-    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
-    "topic": "ROP",
+    "explanation": "Covered conditions.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   }

@@ -2,651 +2,651 @@
   {
     "id": 1,
     "moduleId": "disability",
-    "question": "Non-cancellable and guaranteed renewable DI? - Scenario 53 with client age 37",
+    "question": "What is elimination period for disability insurance?",
     "options": [
-      "Insurer cannot cancel nor increase premium nor change terms individually Strongest renewability - cannot cancel nor raise premium."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
-    "topic": "Renewability",
+    "explanation": "Waiting period.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 2,
     "moduleId": "disability",
-    "question": "Any occupation definition? - Scenario 17 with client age 31",
+    "question": "What is benefit period for disability insurance?",
     "options": [
-      "Unable to do any occupation reasonably suited by education/training/experience Any occ stricter than own occ, harder to qualify."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Any occ stricter than own occ, harder to qualify.",
-    "topic": "Definition",
+    "explanation": "Duration.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 3,
     "moduleId": "disability",
-    "question": "COLA rider in DI? - Scenario 49 with client age 33",
+    "question": "What is own occupation vs any occupation?",
     "options": [
-      "Adjusts benefit for inflation COLA increases benefit with CPI during claim."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "COLA increases benefit with CPI during claim.",
-    "topic": "COLA",
-    "difficulty": "Easy",
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 4,
     "moduleId": "disability",
-    "question": "Own occupation definition in DI? - Scenario 16 with client age 30",
+    "question": "What is elimination period for disability insurance regarding taxation?",
     "options": [
-      "Unable to perform duties of own occupation as defined Own occ pays if cannot do own occupation even if can do other."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "Own occ pays if cannot do own occupation even if can do other.",
-    "topic": "Definition",
+    "explanation": "Waiting period.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 5,
     "moduleId": "disability",
-    "question": "Non-cancellable and guaranteed renewable DI?",
+    "question": "What is benefit period for disability insurance regarding eligibility?",
     "options": [
-      "Insurer cannot cancel nor increase premium nor change terms individually Strongest renewability - cannot cancel nor raise premium."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
-    "topic": "Renewability",
+    "explanation": "Duration.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 6,
     "moduleId": "disability",
-    "question": "Integration with other benefits in DI? - Scenario 45 with client age 44",
+    "question": "What is own occupation vs any occupation regarding calculation?",
     "options": [
-      "Benefits may be reduced by other income like CPP disability, group LTD Integration prevents overinsurance, offsets other benefits."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "Integration prevents overinsurance, offsets other benefits.",
-    "topic": "Integration",
-    "difficulty": "Hard",
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 7,
     "moduleId": "disability",
-    "question": "Exclusions in DI? - Scenario 41 with client age 40",
+    "question": "What is elimination period for disability insurance regarding application?",
     "options": [
-      "Pre-existing not disclosed, war, self-inflicted, criminal act Standard exclusions include pre-existing, war, criminal."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard exclusions include pre-existing, war, criminal.",
-    "topic": "Exclusions",
+    "explanation": "Waiting period.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 8,
     "moduleId": "disability",
-    "question": "Future purchase option (FPO) / guaranteed insurability in DI?",
+    "question": "What is benefit period for disability insurance regarding taxation?",
     "options": [
-      "Allows buying extra coverage without medical evidence at future dates FPO protects future insurability as income rises."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "FPO protects future insurability as income rises.",
-    "topic": "FPO",
+    "explanation": "Duration.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 9,
     "moduleId": "disability",
-    "question": "Waiver of premium in DI? - Scenario 54 with client age 38",
+    "question": "What is own occupation vs any occupation regarding eligibility?",
     "options": [
-      "Waives premiums during total disability after elimination WOP waives premiums while on claim."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "WOP waives premiums while on claim.",
-    "topic": "WOP",
-    "difficulty": "Easy",
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 10,
     "moduleId": "disability",
-    "question": "Benefit period in DI? - Scenario 37 with client age 36",
+    "question": "What is elimination period for disability insurance regarding calculation?",
     "options": [
-      "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65 Benefit period limits duration e.g., to age 65."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "Benefit period limits duration e.g., to age 65.",
-    "topic": "Benefit Period",
-    "difficulty": "Easy",
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 11,
     "moduleId": "disability",
-    "question": "Elimination period in DI? - Scenario 21 with client age 35",
+    "question": "What is benefit period for disability insurance regarding application?",
     "options": [
-      "Waiting period before benefits start after disability Elimination e.g., 90 days reduces premiums."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination e.g., 90 days reduces premiums.",
-    "topic": "Elimination",
-    "difficulty": "Easy",
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 12,
     "moduleId": "disability",
-    "question": "Non-cancellable and guaranteed renewable DI? - Scenario 23 with client age 37",
+    "question": "What is own occupation vs any occupation regarding taxation?",
     "options": [
-      "Insurer cannot cancel nor increase premium nor change terms individually Strongest renewability - cannot cancel nor raise premium."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
-    "topic": "Renewability",
+    "explanation": "Definition.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 13,
     "moduleId": "disability",
-    "question": "Own occupation definition in DI? - Scenario 46 with client age 30",
+    "question": "What is elimination period for disability insurance regarding eligibility?",
     "options": [
-      "Unable to perform duties of own occupation as defined Own occ pays if cannot do own occupation even if can do other."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "Own occ pays if cannot do own occupation even if can do other.",
-    "topic": "Definition",
+    "explanation": "Waiting period.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 14,
     "moduleId": "disability",
-    "question": "Elimination period in DI? - Scenario 51 with client age 35",
+    "question": "What is benefit period for disability insurance regarding calculation?",
     "options": [
-      "Waiting period before benefits start after disability Elimination e.g., 90 days reduces premiums."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination e.g., 90 days reduces premiums.",
-    "topic": "Elimination",
-    "difficulty": "Easy",
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 15,
     "moduleId": "disability",
-    "question": "Elimination period in DI? - Scenario 36 with client age 35",
+    "question": "What is own occupation vs any occupation regarding application?",
     "options": [
-      "Waiting period before benefits start after disability Elimination e.g., 90 days reduces premiums."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination e.g., 90 days reduces premiums.",
-    "topic": "Elimination",
-    "difficulty": "Easy",
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 16,
     "moduleId": "disability",
-    "question": "Rehabilitation benefit in DI? - Scenario 25 with client age 39",
+    "question": "What is elimination period for disability insurance regarding taxation?",
     "options": [
-      "Pays/helps with rehab costs to return to work Rehab incentivizes return to work."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "Rehab incentivizes return to work.",
-    "topic": "Rehab",
+    "explanation": "Waiting period.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 17,
     "moduleId": "disability",
-    "question": "Integration with other benefits in DI?",
+    "question": "What is benefit period for disability insurance regarding eligibility?",
     "options": [
-      "Benefits may be reduced by other income like CPP disability, group LTD Integration prevents overinsurance, offsets other benefits."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Integration prevents overinsurance, offsets other benefits.",
-    "topic": "Integration",
-    "difficulty": "Hard",
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 18,
     "moduleId": "disability",
-    "question": "Buy-sell disability funding?",
+    "question": "What is own occupation vs any occupation regarding calculation?",
     "options": [
-      "Funds buyout of disabled partner's share per agreement Disability buy-sell funds transfer of business interest."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "Disability buy-sell funds transfer of business interest.",
-    "topic": "Buy-Sell",
-    "difficulty": "Hard",
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 19,
     "moduleId": "disability",
-    "question": "COLA rider in DI?",
+    "question": "What is elimination period for disability insurance regarding application?",
     "options": [
-      "Adjusts benefit for inflation COLA increases benefit with CPI during claim."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "COLA increases benefit with CPI during claim.",
-    "topic": "COLA",
-    "difficulty": "Easy",
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 20,
     "moduleId": "disability",
-    "question": "Any occupation definition? - Scenario 32 with client age 31",
+    "question": "What is benefit period for disability insurance regarding taxation?",
     "options": [
-      "Unable to do any occupation reasonably suited by education/training/experience Any occ stricter than own occ, harder to qualify."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Any occ stricter than own occ, harder to qualify.",
-    "topic": "Definition",
+    "explanation": "Duration.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 21,
     "moduleId": "disability",
-    "question": "Key person DI? - Scenario 28 with client age 42",
+    "question": "What is own occupation vs any occupation regarding eligibility?",
     "options": [
-      "Business owned DI on key person to cover loss if disabled Key person DI indemnifies business for key person disability."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "Key person DI indemnifies business for key person disability.",
-    "topic": "Key Person",
+    "explanation": "Definition.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 22,
     "moduleId": "disability",
-    "question": "Residual disability benefit pays?",
+    "question": "What is elimination period for disability insurance regarding calculation?",
     "options": [
-      "Partial benefit for partial loss of income after disability Residual pays proportionally for reduced earnings."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "Residual pays proportionally for reduced earnings.",
-    "topic": "Residual",
+    "explanation": "Waiting period.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 23,
     "moduleId": "disability",
-    "question": "Residual disability benefit pays? - Scenario 48 with client age 32",
+    "question": "What is benefit period for disability insurance regarding application?",
     "options": [
-      "Partial benefit for partial loss of income after disability Residual pays proportionally for reduced earnings."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Residual pays proportionally for reduced earnings.",
-    "topic": "Residual",
+    "explanation": "Duration.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 24,
     "moduleId": "disability",
-    "question": "COLA rider in DI? - Scenario 19 with client age 33",
+    "question": "What is own occupation vs any occupation regarding taxation?",
     "options": [
-      "Adjusts benefit for inflation COLA increases benefit with CPI during claim."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "COLA increases benefit with CPI during claim.",
-    "topic": "COLA",
-    "difficulty": "Easy",
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 25,
     "moduleId": "disability",
-    "question": "Buy-sell disability funding? - Scenario 29 with client age 43",
+    "question": "What is elimination period for disability insurance regarding eligibility?",
     "options": [
-      "Funds buyout of disabled partner's share per agreement Disability buy-sell funds transfer of business interest."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "Disability buy-sell funds transfer of business interest.",
-    "topic": "Buy-Sell",
-    "difficulty": "Hard",
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 26,
     "moduleId": "disability",
-    "question": "Exclusions in DI?",
+    "question": "What is benefit period for disability insurance regarding calculation?",
     "options": [
-      "Pre-existing not disclosed, war, self-inflicted, criminal act Standard exclusions include pre-existing, war, criminal."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard exclusions include pre-existing, war, criminal.",
-    "topic": "Exclusions",
+    "explanation": "Duration.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 27,
     "moduleId": "disability",
-    "question": "Integration with other benefits in DI? - Scenario 30 with client age 44",
+    "question": "What is own occupation vs any occupation regarding application?",
     "options": [
-      "Benefits may be reduced by other income like CPP disability, group LTD Integration prevents overinsurance, offsets other benefits."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "Integration prevents overinsurance, offsets other benefits.",
-    "topic": "Integration",
-    "difficulty": "Hard",
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 28,
     "moduleId": "disability",
-    "question": "Any occupation definition? - Scenario 47 with client age 31",
+    "question": "What is elimination period for disability insurance regarding taxation?",
     "options": [
-      "Unable to do any occupation reasonably suited by education/training/experience Any occ stricter than own occ, harder to qualify."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "Any occ stricter than own occ, harder to qualify.",
-    "topic": "Definition",
+    "explanation": "Waiting period.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 29,
     "moduleId": "disability",
-    "question": "Residual disability benefit pays? - Scenario 18 with client age 32",
+    "question": "What is benefit period for disability insurance regarding eligibility?",
     "options": [
-      "Partial benefit for partial loss of income after disability Residual pays proportionally for reduced earnings."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Residual pays proportionally for reduced earnings.",
-    "topic": "Residual",
+    "explanation": "Duration.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 30,
     "moduleId": "disability",
-    "question": "Exclusions in DI? - Scenario 56 with client age 40",
+    "question": "What is own occupation vs any occupation regarding calculation?",
     "options": [
-      "Pre-existing not disclosed, war, self-inflicted, criminal act Standard exclusions include pre-existing, war, criminal."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard exclusions include pre-existing, war, criminal.",
-    "topic": "Exclusions",
+    "explanation": "Definition.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 31,
     "moduleId": "disability",
-    "question": "Waiver of premium in DI? - Scenario 24 with client age 38",
+    "question": "What is elimination period for disability insurance regarding application?",
     "options": [
-      "Waives premiums during total disability after elimination WOP waives premiums while on claim."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "WOP waives premiums while on claim.",
-    "topic": "WOP",
-    "difficulty": "Easy",
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 32,
     "moduleId": "disability",
-    "question": "Business overhead expense DI? - Scenario 27 with client age 41",
+    "question": "What is benefit period for disability insurance regarding taxation?",
     "options": [
-      "Pays business expenses if owner disabled e.g., rent, salaries Overhead DI covers business overhead during disability."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Overhead DI covers business overhead during disability.",
-    "topic": "BOE",
+    "explanation": "Duration.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 33,
     "moduleId": "disability",
-    "question": "Future purchase option (FPO) / guaranteed insurability in DI? - Scenario 20 with client age 34",
+    "question": "What is own occupation vs any occupation regarding eligibility?",
     "options": [
-      "Allows buying extra coverage without medical evidence at future dates FPO protects future insurability as income rises."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "FPO protects future insurability as income rises.",
-    "topic": "FPO",
+    "explanation": "Definition.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 34,
     "moduleId": "disability",
-    "question": "Future purchase option (FPO) / guaranteed insurability in DI? - Scenario 50 with client age 34",
+    "question": "What is elimination period for disability insurance regarding calculation?",
     "options": [
-      "Allows buying extra coverage without medical evidence at future dates FPO protects future insurability as income rises."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "FPO protects future insurability as income rises.",
-    "topic": "FPO",
+    "explanation": "Waiting period.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 35,
     "moduleId": "disability",
-    "question": "Residual disability benefit pays? - Scenario 33 with client age 32",
+    "question": "What is benefit period for disability insurance regarding application?",
     "options": [
-      "Partial benefit for partial loss of income after disability Residual pays proportionally for reduced earnings."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Residual pays proportionally for reduced earnings.",
-    "topic": "Residual",
+    "explanation": "Duration.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 36,
     "moduleId": "disability",
-    "question": "Rehabilitation benefit in DI?",
+    "question": "What is own occupation vs any occupation regarding taxation?",
     "options": [
-      "Pays/helps with rehab costs to return to work Rehab incentivizes return to work."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "Rehab incentivizes return to work.",
-    "topic": "Rehab",
+    "explanation": "Definition.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 37,
     "moduleId": "disability",
-    "question": "Key person DI?",
+    "question": "What is elimination period for disability insurance regarding eligibility?",
     "options": [
-      "Business owned DI on key person to cover loss if disabled Key person DI indemnifies business for key person disability."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "Key person DI indemnifies business for key person disability.",
-    "topic": "Key Person",
+    "explanation": "Waiting period.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 38,
     "moduleId": "disability",
-    "question": "Rehabilitation benefit in DI? - Scenario 40 with client age 39",
+    "question": "What is benefit period for disability insurance regarding calculation?",
     "options": [
-      "Pays/helps with rehab costs to return to work Rehab incentivizes return to work."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Rehab incentivizes return to work.",
-    "topic": "Rehab",
+    "explanation": "Duration.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 39,
     "moduleId": "disability",
-    "question": "Non-cancellable and guaranteed renewable DI? - Scenario 38 with client age 37",
+    "question": "What is own occupation vs any occupation regarding application?",
     "options": [
-      "Insurer cannot cancel nor increase premium nor change terms individually Strongest renewability - cannot cancel nor raise premium."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
-    "topic": "Renewability",
+    "explanation": "Definition.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 40,
     "moduleId": "disability",
-    "question": "Business overhead expense DI?",
+    "question": "What is elimination period for disability insurance regarding taxation?",
     "options": [
-      "Pays business expenses if owner disabled e.g., rent, salaries Overhead DI covers business overhead during disability."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "Overhead DI covers business overhead during disability.",
-    "topic": "BOE",
+    "explanation": "Waiting period.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 41,
     "moduleId": "disability",
-    "question": "Business overhead expense DI? - Scenario 57 with client age 41",
+    "question": "What is benefit period for disability insurance regarding eligibility?",
     "options": [
-      "Pays business expenses if owner disabled e.g., rent, salaries Overhead DI covers business overhead during disability."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Overhead DI covers business overhead during disability.",
-    "topic": "BOE",
+    "explanation": "Duration.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 42,
     "moduleId": "disability",
-    "question": "Future purchase option (FPO) / guaranteed insurability in DI? - Scenario 35 with client age 34",
+    "question": "What is own occupation vs any occupation regarding calculation?",
     "options": [
-      "Allows buying extra coverage without medical evidence at future dates FPO protects future insurability as income rises."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "FPO protects future insurability as income rises.",
-    "topic": "FPO",
+    "explanation": "Definition.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 43,
     "moduleId": "disability",
-    "question": "Rehabilitation benefit in DI? - Scenario 55 with client age 39",
+    "question": "What is elimination period for disability insurance regarding application?",
     "options": [
-      "Pays/helps with rehab costs to return to work Rehab incentivizes return to work."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "Rehab incentivizes return to work.",
-    "topic": "Rehab",
+    "explanation": "Waiting period.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 44,
     "moduleId": "disability",
-    "question": "Own occupation definition in DI? - Scenario 31 with client age 30",
+    "question": "What is benefit period for disability insurance regarding taxation?",
     "options": [
-      "Unable to perform duties of own occupation as defined Own occ pays if cannot do own occupation even if can do other."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Own occ pays if cannot do own occupation even if can do other.",
-    "topic": "Definition",
+    "explanation": "Duration.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 45,
     "moduleId": "disability",
-    "question": "Key person DI? - Scenario 43 with client age 42",
+    "question": "What is own occupation vs any occupation regarding eligibility?",
     "options": [
-      "Business owned DI on key person to cover loss if disabled Key person DI indemnifies business for key person disability."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "Key person DI indemnifies business for key person disability.",
-    "topic": "Key Person",
+    "explanation": "Definition.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 46,
     "moduleId": "disability",
-    "question": "Business overhead expense DI? - Scenario 42 with client age 41",
+    "question": "What is elimination period for disability insurance regarding calculation?",
     "options": [
-      "Pays business expenses if owner disabled e.g., rent, salaries Overhead DI covers business overhead during disability."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "Overhead DI covers business overhead during disability.",
-    "topic": "BOE",
+    "explanation": "Waiting period.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 47,
     "moduleId": "disability",
-    "question": "Any occupation definition?",
+    "question": "What is benefit period for disability insurance regarding application?",
     "options": [
-      "Unable to do any occupation reasonably suited by education/training/experience Any occ stricter than own occ, harder to qualify."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "Any occ stricter than own occ, harder to qualify.",
-    "topic": "Definition",
+    "explanation": "Duration.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 48,
     "moduleId": "disability",
-    "question": "Benefit period in DI? - Scenario 52 with client age 36",
+    "question": "What is own occupation vs any occupation regarding taxation?",
     "options": [
-      "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65 Benefit period limits duration e.g., to age 65."
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 0,
-    "explanation": "Benefit period limits duration e.g., to age 65.",
-    "topic": "Benefit Period",
-    "difficulty": "Easy",
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 49,
     "moduleId": "disability",
-    "question": "Buy-sell disability funding? - Scenario 59 with client age 43",
+    "question": "What is elimination period for disability insurance regarding eligibility?",
     "options": [
-      "Funds buyout of disabled partner's share per agreement Disability buy-sell funds transfer of business interest."
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 0,
-    "explanation": "Disability buy-sell funds transfer of business interest.",
-    "topic": "Buy-Sell",
-    "difficulty": "Hard",
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 50,
     "moduleId": "disability",
-    "question": "Waiver of premium in DI?",
+    "question": "What is benefit period for disability insurance regarding calculation?",
     "options": [
-      "Waives premiums during total disability after elimination WOP waives premiums while on claim."
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 0,
-    "explanation": "WOP waives premiums while on claim.",
-    "topic": "WOP",
-    "difficulty": "Easy",
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium",
     "isFlashcard": true
   }
 ]

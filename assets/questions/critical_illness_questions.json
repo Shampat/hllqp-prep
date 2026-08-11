@@ -2,1141 +2,901 @@
   {
     "id": 1,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Covered Conditions",
-    "difficulty": "Easy",
-    "question": "Common covered conditions in CI? (Case study 33)",
+    "question": "What is critical illness insurance?",
     "options": [
-      "Only cold",
-      "Cancer, heart attack, stroke, coronary bypass etc as defined",
-      "Only flu",
-      "Only accidents"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Lump sum on diagnosis of covered condition after survival period",
+      "No such provision exists"
     ],
-    "correctAnswer": 1,
-    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 2,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Stroke",
-    "difficulty": "Hard",
-    "question": "Stroke definition CI? (Case study 43)",
+    "question": "What conditions are covered in CI?",
     "options": [
-      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition",
-      "TIA always covered",
-      "No definition",
-      "Any dizziness"
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Stroke requires lasting deficit, TIA excluded.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 3,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Suitability",
-    "difficulty": "Medium",
-    "question": "Best practice explaining CI to client?",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "No need explain",
-      "Guarantee claim",
-      "Say all conditions covered",
-      "Explain covered conditions, definitions, exclusions, survival period, partial vs full"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 3,
-    "explanation": "Must explain definitions and limitations to ensure understanding.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 4,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Exclusions",
-    "difficulty": "Medium",
-    "question": "Exclusions in CI?",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "No exclusions",
-      "All cancers covered",
-      "All conditions covered",
-      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition"
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 3,
-    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 5,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Stroke",
-    "difficulty": "Hard",
-    "question": "Stroke definition CI? (Case study 28)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "No definition",
-      "TIA always covered",
-      "Any dizziness",
-      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition"
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 3,
-    "explanation": "Stroke requires lasting deficit, TIA excluded.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 6,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Trigger",
-    "difficulty": "Easy",
-    "question": "CI pays when?",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Diagnosis of covered condition as defined and survival period met",
-      "Hospitalization only",
-      "Any sickness",
-      "Death only"
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 7,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Covered Conditions",
-    "difficulty": "Easy",
-    "question": "Common covered conditions in CI?",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Only accidents",
-      "Cancer, heart attack, stroke, coronary bypass etc as defined",
-      "Only flu",
-      "Only cold"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "No such provision exists",
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
-    "correctAnswer": 1,
-    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 8,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "CI vs DI",
-    "difficulty": "Medium",
-    "question": "Difference between CI and DI? (Case study 37)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Same",
-      "CI lump sum on diagnosis, DI monthly income for inability to work",
-      "CI pays monthly, DI lump sum",
-      "Both same"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
-    "correctAnswer": 1,
-    "explanation": "CI diagnosis trigger, DI disability trigger.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 9,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Cancer",
-    "difficulty": "Hard",
-    "question": "What is covered cancer definition in CI?",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology",
-      "Any lump",
-      "Skin cancer always covered",
-      "Any cancer always"
+      "No such provision exists",
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 10,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Tax",
-    "difficulty": "Medium",
-    "question": "Tax treatment of CI benefit to individual? (Case study 54)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Capital gain",
-      "Taxable income",
-      "50% taxable",
-      "Generally tax-free lump sum if personally owned and not business related"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 3,
-    "explanation": "CI benefit personally owned is generally tax-free.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 11,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Partial",
-    "difficulty": "Medium",
-    "question": "Partial benefit in CI? (Case study 34)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Only for death",
-      "Full benefit only",
-      "Some conditions pay partial % e.g., early-stage cancer, angioplasty",
-      "No benefit"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists",
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
-    "correctAnswer": 2,
-    "explanation": "Some CI pays partial for less severe conditions.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 12,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Trigger",
-    "difficulty": "Easy",
-    "question": "CI pays when? (Case study 46)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Hospitalization only",
-      "Any sickness",
-      "Death only",
-      "Diagnosis of covered condition as defined and survival period met"
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
-    "correctAnswer": 3,
-    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 13,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
-    "question": "Underwriting in CI? (Case study 53)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Only age",
-      "Guaranteed always",
-      "No underwriting",
-      "Full medical underwriting similar to life, may have exclusions"
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
-    "correctAnswer": 3,
-    "explanation": "CI requires medical evidence, may rate or exclude.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 14,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Covered Conditions",
-    "difficulty": "Easy",
-    "question": "Common covered conditions in CI? (Case study 48)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Only flu",
-      "Only accidents",
-      "Cancer, heart attack, stroke, coronary bypass etc as defined",
-      "Only cold"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Automatically void"
     ],
     "correctAnswer": 2,
-    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 15,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Tax",
-    "difficulty": "Medium",
-    "question": "Tax treatment of CI benefit to individual? (Case study 24)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "50% taxable",
-      "Generally tax-free lump sum if personally owned and not business related",
-      "Capital gain",
-      "Taxable income"
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists"
     ],
-    "correctAnswer": 1,
-    "explanation": "CI benefit personally owned is generally tax-free.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 16,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "ROP",
-    "difficulty": "Medium",
-    "question": "Return of premium rider in CI?",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "No such rider",
-      "Automatic free",
-      "Always returns 100% without cost",
-      "Returns premium if no claim after period or on death, extra cost"
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 3,
-    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 17,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Heart Attack",
-    "difficulty": "Hard",
-    "question": "Heart attack definition CI?",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Only bypass",
-      "Any heart disease",
-      "Any chest pain",
-      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Lump sum on diagnosis of covered condition after survival period",
+      "No such provision exists"
     ],
-    "correctAnswer": 3,
-    "explanation": "MI requires objective evidence per definition.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 18,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Tax",
-    "difficulty": "Medium",
-    "question": "Tax treatment of CI benefit to individual? (Case study 39)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Capital gain",
-      "50% taxable",
-      "Taxable income",
-      "Generally tax-free lump sum if personally owned and not business related"
+      "No such provision exists",
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
-    "correctAnswer": 3,
-    "explanation": "CI benefit personally owned is generally tax-free.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 19,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Heart Attack",
-    "difficulty": "Hard",
-    "question": "Heart attack definition CI? (Case study 57)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Any heart disease",
-      "Only bypass",
-      "Any chest pain",
-      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria"
+      "No such provision exists",
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
-    "correctAnswer": 3,
-    "explanation": "MI requires objective evidence per definition.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 20,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "ROP",
-    "difficulty": "Medium",
-    "question": "Return of premium rider in CI? (Case study 21)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Automatic free",
-      "Returns premium if no claim after period or on death, extra cost",
-      "Always returns 100% without cost",
-      "No such rider"
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 1,
-    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 21,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Survival",
-    "difficulty": "Easy",
-    "question": "Survival period in CI? (Case study 32)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Grace",
-      "Period before coverage starts",
-      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days",
-      "Free look"
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists"
     ],
-    "correctAnswer": 2,
-    "explanation": "Survival ensures condition not immediately fatal.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 22,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Stroke",
-    "difficulty": "Hard",
-    "question": "Stroke definition CI?",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "No definition",
-      "Any dizziness",
-      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition",
-      "TIA always covered"
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "No such provision exists"
     ],
     "correctAnswer": 2,
-    "explanation": "Stroke requires lasting deficit, TIA excluded.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 23,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Partial",
-    "difficulty": "Medium",
-    "question": "Partial benefit in CI? (Case study 49)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Some conditions pay partial % e.g., early-stage cancer, angioplasty",
-      "Only for death",
-      "No benefit",
-      "Full benefit only"
+      "No such provision exists",
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Some CI pays partial for less severe conditions.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 24,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Tax",
-    "difficulty": "Medium",
-    "question": "Tax treatment of CI benefit to individual?",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Taxable income",
-      "50% taxable",
-      "Generally tax-free lump sum if personally owned and not business related",
-      "Capital gain"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 2,
-    "explanation": "CI benefit personally owned is generally tax-free.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 25,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Bypass",
-    "difficulty": "Medium",
-    "question": "Coronary bypass definition? (Case study 59)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Angioplasty full benefit always",
-      "Any heart procedure",
-      "No bypass cover",
-      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit"
+      "Automatically void",
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
-    "correctAnswer": 3,
-    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 26,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Bypass",
-    "difficulty": "Medium",
-    "question": "Coronary bypass definition? (Case study 44)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Any heart procedure",
-      "Angioplasty full benefit always",
-      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit",
-      "No bypass cover"
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
-    "correctAnswer": 2,
-    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 27,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Bypass",
-    "difficulty": "Medium",
-    "question": "Coronary bypass definition? (Case study 29)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Angioplasty full benefit always",
-      "No bypass cover",
-      "Any heart procedure",
-      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit"
+      "Taxed as employment income at source",
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 3,
-    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 28,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Bypass",
-    "difficulty": "Medium",
-    "question": "Coronary bypass definition?",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Bypass surgery to correct narrowing, not angioplasty unless partial benefit",
-      "No bypass cover",
-      "Angioplasty full benefit always",
-      "Any heart procedure"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
-    "correctAnswer": 0,
-    "explanation": "Bypass definition excludes angioplasty, angioplasty may be partial.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 29,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Benefit",
-    "difficulty": "Easy",
-    "question": "Benefit period in CI? (Case study 25)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Usually lump sum one-time, policy may terminate or allow second event",
-      "Free look",
-      "Monthly for life",
-      "Grace"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
-    "correctAnswer": 0,
-    "explanation": "Most CI pays once and terminates, some second event.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 30,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Survival",
-    "difficulty": "Easy",
-    "question": "Survival period in CI? (Case study 47)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Period before coverage starts",
-      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days",
-      "Grace",
-      "Free look"
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
-    "correctAnswer": 1,
-    "explanation": "Survival ensures condition not immediately fatal.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 31,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Cancer",
-    "difficulty": "Hard",
-    "question": "What is covered cancer definition in CI? (Case study 41)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Any cancer always",
-      "Any lump",
-      "Skin cancer always covered",
-      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology"
+      "Automatically void",
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 3,
-    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 32,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Suitability",
-    "difficulty": "Medium",
-    "question": "Best practice explaining CI to client? (Case study 60)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
-      "No need explain",
-      "Guarantee claim",
-      "Say all conditions covered"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
-    "correctAnswer": 0,
-    "explanation": "Must explain definitions and limitations to ensure understanding.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 33,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Cancer",
-    "difficulty": "Hard",
-    "question": "What is covered cancer definition in CI? (Case study 56)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Skin cancer always covered",
-      "Any lump",
-      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology",
-      "Any cancer always"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
-    "correctAnswer": 2,
-    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 34,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "CI vs DI",
-    "difficulty": "Medium",
-    "question": "Difference between CI and DI? (Case study 52)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "CI pays monthly, DI lump sum",
-      "Same",
-      "CI lump sum on diagnosis, DI monthly income for inability to work",
-      "Both same"
+      "Automatically void",
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 2,
-    "explanation": "CI diagnosis trigger, DI disability trigger.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 35,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Survival",
-    "difficulty": "Easy",
-    "question": "Survival period in CI?",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Period before coverage starts",
-      "Grace",
-      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days",
-      "Free look"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Automatically void",
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
-    "correctAnswer": 2,
-    "explanation": "Survival ensures condition not immediately fatal.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 36,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
-    "question": "Underwriting in CI?",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "No underwriting",
-      "Only age",
-      "Guaranteed always",
-      "Full medical underwriting similar to life, may have exclusions"
+      "No such provision exists",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
     "correctAnswer": 3,
-    "explanation": "CI requires medical evidence, may rate or exclude.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 37,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Trigger",
-    "difficulty": "Easy",
-    "question": "CI pays when? (Case study 16)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Any sickness",
-      "Hospitalization only",
-      "Death only",
-      "Diagnosis of covered condition as defined and survival period met"
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 3,
-    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 38,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Suitability",
-    "difficulty": "Medium",
-    "question": "Best practice explaining CI to client? (Case study 30)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Guarantee claim",
-      "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
-      "No need explain",
-      "Say all conditions covered"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "No such provision exists"
     ],
-    "correctAnswer": 1,
-    "explanation": "Must explain definitions and limitations to ensure understanding.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 39,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "ROP",
-    "difficulty": "Medium",
-    "question": "Return of premium rider in CI? (Case study 36)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Always returns 100% without cost",
-      "No such rider",
-      "Returns premium if no claim after period or on death, extra cost",
-      "Automatic free"
+      "Automatically void",
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 2,
-    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 40,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Stroke",
-    "difficulty": "Hard",
-    "question": "Stroke definition CI? (Case study 58)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "TIA always covered",
-      "No definition",
-      "Cerebrovascular event causing neurological deficit persisting 30 days etc per definition",
-      "Any dizziness"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "No such provision exists"
     ],
     "correctAnswer": 2,
-    "explanation": "Stroke requires lasting deficit, TIA excluded.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 41,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "CI vs DI",
-    "difficulty": "Medium",
-    "question": "Difference between CI and DI?",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "CI lump sum on diagnosis, DI monthly income for inability to work",
-      "Same",
-      "Both same",
-      "CI pays monthly, DI lump sum"
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "CI diagnosis trigger, DI disability trigger.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 42,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Exclusions",
-    "difficulty": "Medium",
-    "question": "Exclusions in CI? (Case study 50)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "All cancers covered",
-      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
-      "No exclusions",
-      "All conditions covered"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 1,
-    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 43,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
-    "question": "Underwriting in CI? (Case study 38)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "No underwriting",
-      "Guaranteed always",
-      "Only age",
-      "Full medical underwriting similar to life, may have exclusions"
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 3,
-    "explanation": "CI requires medical evidence, may rate or exclude.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 44,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Cancer",
-    "difficulty": "Hard",
-    "question": "What is covered cancer definition in CI? (Case study 26)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Life-threatening cancer as defined, typically excludes early non-invasive, requires histology",
-      "Any lump",
-      "Any cancer always",
-      "Skin cancer always covered"
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Automatically void"
     ],
     "correctAnswer": 0,
-    "explanation": "Cancer definition requires life-threatening, excludes Tis, low-grade.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 45,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Benefit",
-    "difficulty": "Easy",
-    "question": "Benefit period in CI? (Case study 40)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Grace",
-      "Monthly for life",
-      "Usually lump sum one-time, policy may terminate or allow second event",
-      "Free look"
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 2,
-    "explanation": "Most CI pays once and terminates, some second event.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 46,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Heart Attack",
-    "difficulty": "Hard",
-    "question": "Heart attack definition CI? (Case study 27)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Only bypass",
-      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria",
-      "Any chest pain",
-      "Any heart disease"
+      "Automatically void",
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 1,
-    "explanation": "MI requires objective evidence per definition.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 47,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Partial",
-    "difficulty": "Medium",
-    "question": "Partial benefit in CI?",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Only for death",
-      "No benefit",
-      "Full benefit only",
-      "Some conditions pay partial % e.g., early-stage cancer, angioplasty"
+      "No such provision exists",
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 3,
-    "explanation": "Some CI pays partial for less severe conditions.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 48,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
-    "question": "Underwriting in CI? (Case study 23)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Full medical underwriting similar to life, may have exclusions",
-      "Guaranteed always",
-      "Only age",
-      "No underwriting"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
-    "correctAnswer": 0,
-    "explanation": "CI requires medical evidence, may rate or exclude.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 49,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Heart Attack",
-    "difficulty": "Hard",
-    "question": "Heart attack definition CI? (Case study 42)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Any heart disease",
-      "Any chest pain",
-      "Only bypass",
-      "Myocardial infarction as defined with ECG, enzymes, symptoms meeting criteria"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Lump sum on diagnosis of covered condition after survival period"
     ],
     "correctAnswer": 3,
-    "explanation": "MI requires objective evidence per definition.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 50,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "ROP",
-    "difficulty": "Medium",
-    "question": "Return of premium rider in CI? (Case study 51)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Returns premium if no claim after period or on death, extra cost",
-      "Automatic free",
-      "Always returns 100% without cost",
-      "No such rider"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "No such provision exists",
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
-    "correctAnswer": 0,
-    "explanation": "ROP rider returns premium if no claim, expensive extra premium.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 51,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Exclusions",
-    "difficulty": "Medium",
-    "question": "Exclusions in CI? (Case study 35)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
-      "All conditions covered",
-      "No exclusions",
-      "All cancers covered"
+      "Lump sum on diagnosis of covered condition after survival period",
+      "No such provision exists",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 52,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Partial",
-    "difficulty": "Medium",
-    "question": "Partial benefit in CI? (Case study 19)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Only for death",
-      "Some conditions pay partial % e.g., early-stage cancer, angioplasty",
-      "Full benefit only",
-      "No benefit"
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Automatically void"
     ],
-    "correctAnswer": 1,
-    "explanation": "Some CI pays partial for less severe conditions.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 53,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Trigger",
-    "difficulty": "Easy",
-    "question": "CI pays when? (Case study 31)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "Hospitalization only",
-      "Death only",
-      "Any sickness",
-      "Diagnosis of covered condition as defined and survival period met"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 3,
-    "explanation": "CI requires diagnosis per definition and survival period e.g., 30 days.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 54,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Suitability",
-    "difficulty": "Medium",
-    "question": "Best practice explaining CI to client? (Case study 45)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "No need explain",
-      "Guarantee claim",
-      "Explain covered conditions, definitions, exclusions, survival period, partial vs full",
-      "Say all conditions covered"
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "No such provision exists",
+      "Automatically void",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 2,
-    "explanation": "Must explain definitions and limitations to ensure understanding.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 55,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "CI vs DI",
-    "difficulty": "Medium",
-    "question": "Difference between CI and DI? (Case study 22)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Same",
-      "CI lump sum on diagnosis, DI monthly income for inability to work",
-      "CI pays monthly, DI lump sum",
-      "Both same"
+      "Automatically void",
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 1,
-    "explanation": "CI diagnosis trigger, DI disability trigger.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 56,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Covered Conditions",
-    "difficulty": "Easy",
-    "question": "Common covered conditions in CI? (Case study 18)",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Cancer, heart attack, stroke, coronary bypass etc as defined",
-      "Only accidents",
-      "Only flu",
-      "Only cold"
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard CI covers life-threatening cancers, heart attack, stroke per definitions.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 57,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Exclusions",
-    "difficulty": "Medium",
-    "question": "Exclusions in CI? (Case study 20)",
+    "question": "What is critical illness insurance regarding eligibility?",
     "options": [
-      "All cancers covered",
-      "No exclusions",
-      "Pre-existing non-disclosed, self-inflicted, war, certain early cancers not meeting definition",
-      "All conditions covered"
+      "Taxed as employment income at source",
+      "Lump sum on diagnosis of covered condition after survival period",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 2,
-    "explanation": "CI excludes pre-existing, certain non-life-threatening cancers per definition.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 58,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Benefit",
-    "difficulty": "Easy",
-    "question": "Benefit period in CI? (Case study 55)",
+    "question": "What conditions are covered in CI regarding calculation?",
     "options": [
-      "Grace",
-      "Monthly for life",
-      "Usually lump sum one-time, policy may terminate or allow second event",
-      "Free look"
+      "No such provision exists",
+      "Automatically void",
+      "Cancer, heart attack, stroke, etc, 25+ conditions",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 2,
-    "explanation": "Most CI pays once and terminates, some second event.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 59,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Survival",
-    "difficulty": "Easy",
-    "question": "Survival period in CI? (Case study 17)",
+    "question": "What is critical illness insurance regarding application?",
     "options": [
-      "Free look",
-      "Period before coverage starts",
-      "Period insured must survive after diagnosis before benefit paid, e.g., 30 days",
-      "Grace"
+      "Lump sum on diagnosis of covered condition after survival period",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 2,
-    "explanation": "Survival ensures condition not immediately fatal.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "30-day survival.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 60,
     "moduleId": "critical_illness",
-    "moduleName": "Critical Illness Insurance",
-    "topic": "Benefit",
-    "difficulty": "Easy",
-    "question": "Benefit period in CI?",
+    "question": "What conditions are covered in CI regarding taxation?",
     "options": [
-      "Usually lump sum one-time, policy may terminate or allow second event",
-      "Monthly for life",
-      "Grace",
-      "Free look"
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Cancer, heart attack, stroke, etc, 25+ conditions"
     ],
-    "correctAnswer": 0,
-    "explanation": "Most CI pays once and terminates, some second event.",
-    "source": "CISRO Critical Illness Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Covered conditions.",
+    "topic": "General",
+    "difficulty": "Medium"
   }
 ]

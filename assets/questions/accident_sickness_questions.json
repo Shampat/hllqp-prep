@@ -2,901 +2,901 @@
   {
     "id": 1,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is elimination period in disability insurance?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Automatically void",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Waiting period after disability onset before benefits begin"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "30-120 days common.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 2,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is benefit period in disability insurance?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Taxed as employment income at source",
+      "Maximum time benefits payable, 2 years, 5 years, or to age 65",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 1,
+    "explanation": "To 65 common.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 3,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is own occupation definition?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Unable to perform duties of own specific occupation, best coverage"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "Most expensive.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 4,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is any occupation definition?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Unable to perform any occupation suited by education and experience, stricter",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 2,
+    "explanation": "Stricter.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 5,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is regular occupation definition?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Unable to perform regular duties of own occupation, not working elsewhere",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 2,
+    "explanation": "Mid definition.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 6,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is residual disability benefit?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Automatically void",
+      "Partial benefit for part-time work with income loss",
+      "No such provision exists",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 1,
+    "explanation": "Proportionate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 7,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is waiver of premium in disability?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Taxed as employment income at source",
+      "Waives disability premiums while totally disabled",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 1,
+    "explanation": "Protects policy.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 8,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is COLA rider in disability?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Increases benefit with inflation while disabled"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "Purchasing power.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 9,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is future increase option in disability?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Increase coverage without medical at specified events"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "Future insurability.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 10,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is guaranteed renewable vs non-cancellable?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Automatically void",
+      "No such provision exists",
+      "GR can increase premium for class, non-can cannot increase or cancel",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 2,
+    "explanation": "Non-can best.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 11,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is elimination period in disability insurance regarding application?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Waiting period after disability onset before benefits begin",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "30-120 days common.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 12,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is benefit period in disability insurance regarding taxation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Maximum time benefits payable, 2 years, 5 years, or to age 65",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "To 65 common.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 13,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is own occupation definition regarding eligibility?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Unable to perform duties of own specific occupation, best coverage",
+      "No such provision exists",
+      "Automatically void",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "Most expensive.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 14,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is any occupation definition regarding calculation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Unable to perform any occupation suited by education and experience, stricter",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "Stricter.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 15,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is regular occupation definition regarding application?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Unable to perform regular duties of own occupation, not working elsewhere",
+      "Automatically void",
+      "No such provision exists",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "Mid definition.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 16,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is residual disability benefit regarding taxation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "No such provision exists",
+      "Partial benefit for part-time work with income loss"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "Proportionate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 17,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is waiver of premium in disability regarding eligibility?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "No such provision exists",
+      "Automatically void",
+      "Waives disability premiums while totally disabled",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 2,
+    "explanation": "Protects policy.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 18,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is COLA rider in disability regarding calculation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Taxed as employment income at source",
+      "Increases benefit with inflation while disabled",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 1,
+    "explanation": "Purchasing power.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 19,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is future increase option in disability regarding application?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Increase coverage without medical at specified events",
+      "No such provision exists",
+      "Automatically void",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "Future insurability.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 20,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is guaranteed renewable vs non-cancellable regarding taxation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "GR can increase premium for class, non-can cannot increase or cancel",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "Non-can best.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 21,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is elimination period in disability insurance regarding eligibility?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Waiting period after disability onset before benefits begin",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 2,
+    "explanation": "30-120 days common.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 22,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is benefit period in disability insurance regarding calculation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Maximum time benefits payable, 2 years, 5 years, or to age 65",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 2,
+    "explanation": "To 65 common.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 23,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is own occupation definition regarding application?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "No such provision exists",
+      "Unable to perform duties of own specific occupation, best coverage",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 1,
+    "explanation": "Most expensive.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 24,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is any occupation definition regarding taxation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "No such provision exists",
+      "Unable to perform any occupation suited by education and experience, stricter",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 1,
+    "explanation": "Stricter.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 25,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is regular occupation definition regarding eligibility?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Unable to perform regular duties of own occupation, not working elsewhere",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 2,
+    "explanation": "Mid definition.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 26,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is residual disability benefit regarding calculation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Partial benefit for part-time work with income loss",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "Proportionate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 27,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is waiver of premium in disability regarding application?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Automatically void",
+      "Waives disability premiums while totally disabled",
+      "No such provision exists",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 1,
+    "explanation": "Protects policy.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 28,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is COLA rider in disability regarding taxation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "No such provision exists",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Increases benefit with inflation while disabled"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "Purchasing power.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 29,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is future increase option in disability regarding eligibility?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Automatically void",
+      "Increase coverage without medical at specified events",
+      "No such provision exists",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 1,
+    "explanation": "Future insurability.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 30,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is guaranteed renewable vs non-cancellable regarding calculation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "GR can increase premium for class, non-can cannot increase or cancel"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "Non-can best.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 31,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is elimination period in disability insurance regarding application?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Automatically void",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Waiting period after disability onset before benefits begin"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "30-120 days common.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 32,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is benefit period in disability insurance regarding taxation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "No such provision exists",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Maximum time benefits payable, 2 years, 5 years, or to age 65"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "To 65 common.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 33,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is own occupation definition regarding eligibility?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Automatically void",
+      "Unable to perform duties of own specific occupation, best coverage"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "Most expensive.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 34,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is any occupation definition regarding calculation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Unable to perform any occupation suited by education and experience, stricter",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "Stricter.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 35,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is regular occupation definition regarding application?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Unable to perform regular duties of own occupation, not working elsewhere",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 2,
+    "explanation": "Mid definition.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 36,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is residual disability benefit regarding taxation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "No such provision exists",
+      "Partial benefit for part-time work with income loss",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 1,
+    "explanation": "Proportionate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 37,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is waiver of premium in disability regarding eligibility?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "No such provision exists",
+      "Automatically void",
+      "Waives disability premiums while totally disabled",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 2,
+    "explanation": "Protects policy.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 38,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is COLA rider in disability regarding calculation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Taxed as employment income at source",
+      "Increases benefit with inflation while disabled",
+      "Automatically void",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 1,
+    "explanation": "Purchasing power.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 39,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is future increase option in disability regarding application?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Increase coverage without medical at specified events",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 2,
+    "explanation": "Future insurability.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 40,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is guaranteed renewable vs non-cancellable regarding taxation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "GR can increase premium for class, non-can cannot increase or cancel"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "Non-can best.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 41,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is elimination period in disability insurance regarding eligibility?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "No such provision exists",
+      "Waiting period after disability onset before benefits begin"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "30-120 days common.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 42,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is benefit period in disability insurance regarding calculation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Maximum time benefits payable, 2 years, 5 years, or to age 65",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "To 65 common.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 43,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is own occupation definition regarding application?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Not applicable under Insurance Act",
+      "Unable to perform duties of own specific occupation, best coverage",
+      "Automatically void",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 1,
+    "explanation": "Most expensive.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 44,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is any occupation definition regarding taxation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "No such provision exists",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Unable to perform any occupation suited by education and experience, stricter"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "Stricter.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 45,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is regular occupation definition regarding eligibility?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Unable to perform regular duties of own occupation, not working elsewhere",
+      "No such provision exists",
+      "Automatically void",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "Mid definition.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 46,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is residual disability benefit regarding calculation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Partial benefit for part-time work with income loss",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "Proportionate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 47,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is waiver of premium in disability regarding application?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Waives disability premiums while totally disabled",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "Protects policy.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 48,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is COLA rider in disability regarding taxation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "No such provision exists",
+      "Increases benefit with inflation while disabled",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 1,
+    "explanation": "Purchasing power.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 49,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is future increase option in disability regarding eligibility?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Automatically void",
+      "Increase coverage without medical at specified events",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 1,
+    "explanation": "Future insurability.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 50,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is guaranteed renewable vs non-cancellable regarding calculation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Automatically void",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "GR can increase premium for class, non-can cannot increase or cancel"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "Non-can best.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 51,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is elimination period in disability insurance regarding application?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Waiting period after disability onset before benefits begin",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "30-120 days common.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 52,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is benefit period in disability insurance regarding taxation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Maximum time benefits payable, 2 years, 5 years, or to age 65",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "To 65 common.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 53,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is own occupation definition regarding eligibility?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Unable to perform duties of own specific occupation, best coverage"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "Most expensive.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 54,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is any occupation definition regarding calculation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Automatically void",
+      "Unable to perform any occupation suited by education and experience, stricter"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "Stricter.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 55,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is regular occupation definition regarding application?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Unable to perform regular duties of own occupation, not working elsewhere",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 2,
+    "explanation": "Mid definition.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 56,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is residual disability benefit regarding taxation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Partial benefit for part-time work with income loss",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 2,
+    "explanation": "Proportionate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 57,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is waiver of premium in disability regarding eligibility?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Waives disability premiums while totally disabled",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "Protects policy.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 58,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is COLA rider in disability regarding calculation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Increases benefit with inflation while disabled",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "Purchasing power.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 59,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is future increase option in disability regarding application?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Increase coverage without medical at specified events",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "explanation": "Future insurability.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 60,
     "moduleId": "accident_sickness",
-    "question": "What does the disability elimination period mean?",
+    "question": "What is guaranteed renewable vs non-cancellable regarding taxation?",
     "options": [
-      "Waiting period after disability before benefits start - longer elimination = lower premium",
-      "Period when premium doubled",
-      "Period when coverage ends",
-      "Period for claim approval only"
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "GR can increase premium for class, non-can cannot increase or cancel"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
-    "topic": "Disability",
+    "correctAnswer": 3,
+    "explanation": "Non-can best.",
+    "topic": "General",
     "difficulty": "Medium"
   }
 ]

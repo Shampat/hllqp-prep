@@ -2,1141 +2,901 @@
   {
     "id": 1,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Renewability",
-    "difficulty": "Medium",
-    "question": "Non-cancellable and guaranteed renewable DI? - Scenario 53 with client age 37",
+    "question": "What is elimination period for disability insurance?",
     "options": [
-      "Premium can rise individually",
-      "Insurer cannot cancel nor increase premium nor change terms individually",
-      "Only group",
-      "Can cancel anytime"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Waiting period before benefits begin, 30-120 days"
     ],
-    "correctAnswer": 1,
-    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 2,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Definition",
-    "difficulty": "Medium",
-    "question": "Any occupation definition? - Scenario 17 with client age 31",
+    "question": "What is benefit period for disability insurance?",
     "options": [
-      "Any job",
-      "Own occupation only",
-      "Unable to do any occupation reasonably suited by education/training/experience",
-      "No benefit"
+      "Not applicable under Insurance Act",
+      "How long benefits payable, to age 65 common",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
-    "correctAnswer": 2,
-    "explanation": "Any occ stricter than own occ, harder to qualify.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 3,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "COLA",
-    "difficulty": "Easy",
-    "question": "COLA rider in DI? - Scenario 49 with client age 33",
+    "question": "What is own occupation vs any occupation?",
     "options": [
-      "Adjusts benefit for inflation",
-      "Only for life",
-      "Reduces benefit",
-      "Cancels benefit"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Own is best, any is stricter",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "COLA increases benefit with CPI during claim.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 4,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Definition",
-    "difficulty": "Medium",
-    "question": "Own occupation definition in DI? - Scenario 16 with client age 30",
+    "question": "What is elimination period for disability insurance regarding taxation?",
     "options": [
-      "Only if unemployed",
-      "Unable to perform duties of own occupation as defined",
-      "Unable to do all jobs",
-      "Any occupation"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Waiting period before benefits begin, 30-120 days"
     ],
-    "correctAnswer": 1,
-    "explanation": "Own occ pays if cannot do own occupation even if can do other.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 5,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Renewability",
-    "difficulty": "Medium",
-    "question": "Non-cancellable and guaranteed renewable DI?",
+    "question": "What is benefit period for disability insurance regarding eligibility?",
     "options": [
-      "Premium can rise individually",
-      "Insurer cannot cancel nor increase premium nor change terms individually",
-      "Only group",
-      "Can cancel anytime"
+      "How long benefits payable, to age 65 common",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
-    "correctAnswer": 1,
-    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 6,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Integration",
-    "difficulty": "Hard",
-    "question": "Integration with other benefits in DI? - Scenario 45 with client age 44",
+    "question": "What is own occupation vs any occupation regarding calculation?",
     "options": [
-      "Only increases",
-      "No integration",
-      "Benefits may be reduced by other income like CPP disability, group LTD",
-      "Only CPP"
+      "Own is best, any is stricter",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 2,
-    "explanation": "Integration prevents overinsurance, offsets other benefits.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 7,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Exclusions",
-    "difficulty": "Medium",
-    "question": "Exclusions in DI? - Scenario 41 with client age 40",
+    "question": "What is elimination period for disability insurance regarding application?",
     "options": [
-      "All sicknesses covered",
-      "Accidents only",
-      "Pre-existing not disclosed, war, self-inflicted, criminal act",
-      "No exclusions"
+      "Automatically void",
+      "No such provision exists",
+      "Waiting period before benefits begin, 30-120 days",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 2,
-    "explanation": "Standard exclusions include pre-existing, war, criminal.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 8,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "FPO",
-    "difficulty": "Medium",
-    "question": "Future purchase option (FPO) / guaranteed insurability in DI?",
+    "question": "What is benefit period for disability insurance regarding taxation?",
     "options": [
-      "Requires medical each time",
-      "Allows buying extra coverage without medical evidence at future dates",
-      "No extra coverage",
-      "Only for group"
+      "Automatically void",
+      "How long benefits payable, to age 65 common",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
     "correctAnswer": 1,
-    "explanation": "FPO protects future insurability as income rises.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 9,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "WOP",
-    "difficulty": "Easy",
-    "question": "Waiver of premium in DI? - Scenario 54 with client age 38",
+    "question": "What is own occupation vs any occupation regarding eligibility?",
     "options": [
-      "Waives premiums during total disability after elimination",
-      "Waives benefit",
-      "Reduces benefit",
-      "Increases premium"
+      "Automatically void",
+      "Own is best, any is stricter",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "WOP waives premiums while on claim.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 10,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Benefit Period",
-    "difficulty": "Easy",
-    "question": "Benefit period in DI? - Scenario 37 with client age 36",
+    "question": "What is elimination period for disability insurance regarding calculation?",
     "options": [
-      "Grace period",
-      "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65",
-      "How long premium payable",
-      "Free look"
+      "Taxed as employment income at source",
+      "Waiting period before benefits begin, 30-120 days",
+      "No such provision exists",
+      "Automatically void"
     ],
     "correctAnswer": 1,
-    "explanation": "Benefit period limits duration e.g., to age 65.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 11,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Elimination",
-    "difficulty": "Easy",
-    "question": "Elimination period in DI? - Scenario 21 with client age 35",
+    "question": "What is benefit period for disability insurance regarding application?",
     "options": [
-      "Period premium waived",
-      "Free look",
-      "Waiting period before benefits start after disability",
-      "Benefit duration"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "How long benefits payable, to age 65 common"
     ],
-    "correctAnswer": 2,
-    "explanation": "Elimination e.g., 90 days reduces premiums.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 12,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Renewability",
-    "difficulty": "Medium",
-    "question": "Non-cancellable and guaranteed renewable DI? - Scenario 23 with client age 37",
+    "question": "What is own occupation vs any occupation regarding taxation?",
     "options": [
-      "Can cancel anytime",
-      "Only group",
-      "Premium can rise individually",
-      "Insurer cannot cancel nor increase premium nor change terms individually"
+      "Own is best, any is stricter",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "No such provision exists"
     ],
-    "correctAnswer": 3,
-    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 13,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Definition",
-    "difficulty": "Medium",
-    "question": "Own occupation definition in DI? - Scenario 46 with client age 30",
+    "question": "What is elimination period for disability insurance regarding eligibility?",
     "options": [
-      "Only if unemployed",
-      "Unable to perform duties of own occupation as defined",
-      "Any occupation",
-      "Unable to do all jobs"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Waiting period before benefits begin, 30-120 days",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 1,
-    "explanation": "Own occ pays if cannot do own occupation even if can do other.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 14,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Elimination",
-    "difficulty": "Easy",
-    "question": "Elimination period in DI? - Scenario 51 with client age 35",
+    "question": "What is benefit period for disability insurance regarding calculation?",
     "options": [
-      "Benefit duration",
-      "Period premium waived",
-      "Waiting period before benefits start after disability",
-      "Free look"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "How long benefits payable, to age 65 common",
+      "No such provision exists"
     ],
     "correctAnswer": 2,
-    "explanation": "Elimination e.g., 90 days reduces premiums.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 15,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Elimination",
-    "difficulty": "Easy",
-    "question": "Elimination period in DI? - Scenario 36 with client age 35",
+    "question": "What is own occupation vs any occupation regarding application?",
     "options": [
-      "Benefit duration",
-      "Free look",
-      "Waiting period before benefits start after disability",
-      "Period premium waived"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Own is best, any is stricter"
     ],
-    "correctAnswer": 2,
-    "explanation": "Elimination e.g., 90 days reduces premiums.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 16,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Rehab",
-    "difficulty": "Medium",
-    "question": "Rehabilitation benefit in DI? - Scenario 25 with client age 39",
+    "question": "What is elimination period for disability insurance regarding taxation?",
     "options": [
-      "Only death benefit",
-      "Pays/helps with rehab costs to return to work",
-      "No benefit",
-      "Pays lump sum only"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Waiting period before benefits begin, 30-120 days",
+      "No such provision exists"
     ],
-    "correctAnswer": 1,
-    "explanation": "Rehab incentivizes return to work.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 17,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Integration",
-    "difficulty": "Hard",
-    "question": "Integration with other benefits in DI?",
+    "question": "What is benefit period for disability insurance regarding eligibility?",
     "options": [
-      "Only CPP",
-      "Benefits may be reduced by other income like CPP disability, group LTD",
-      "No integration",
-      "Only increases"
+      "Automatically void",
+      "How long benefits payable, to age 65 common",
+      "No such provision exists",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 1,
-    "explanation": "Integration prevents overinsurance, offsets other benefits.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 18,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Buy-Sell",
-    "difficulty": "Hard",
-    "question": "Buy-sell disability funding?",
+    "question": "What is own occupation vs any occupation regarding calculation?",
     "options": [
-      "Life only",
-      "No funding",
-      "Funds buyout of disabled partner's share per agreement",
-      "Personal income"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Own is best, any is stricter"
     ],
-    "correctAnswer": 2,
-    "explanation": "Disability buy-sell funds transfer of business interest.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 19,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "COLA",
-    "difficulty": "Easy",
-    "question": "COLA rider in DI?",
+    "question": "What is elimination period for disability insurance regarding application?",
     "options": [
-      "Cancels benefit",
-      "Reduces benefit",
-      "Only for life",
-      "Adjusts benefit for inflation"
+      "Waiting period before benefits begin, 30-120 days",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
-    "correctAnswer": 3,
-    "explanation": "COLA increases benefit with CPI during claim.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 20,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Definition",
-    "difficulty": "Medium",
-    "question": "Any occupation definition? - Scenario 32 with client age 31",
+    "question": "What is benefit period for disability insurance regarding taxation?",
     "options": [
-      "Unable to do any occupation reasonably suited by education/training/experience",
-      "No benefit",
-      "Any job",
-      "Own occupation only"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "How long benefits payable, to age 65 common",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Any occ stricter than own occ, harder to qualify.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 21,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Key Person",
-    "difficulty": "Medium",
-    "question": "Key person DI? - Scenario 28 with client age 42",
+    "question": "What is own occupation vs any occupation regarding eligibility?",
     "options": [
-      "Life insurance only",
-      "Group only",
-      "Personal DI",
-      "Business owned DI on key person to cover loss if disabled"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Own is best, any is stricter"
     ],
     "correctAnswer": 3,
-    "explanation": "Key person DI indemnifies business for key person disability.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 22,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Residual",
-    "difficulty": "Medium",
-    "question": "Residual disability benefit pays?",
+    "question": "What is elimination period for disability insurance regarding calculation?",
     "options": [
-      "Partial benefit for partial loss of income after disability",
-      "Full benefit only",
-      "No benefit if working",
-      "Only if totally disabled"
+      "Waiting period before benefits begin, 30-120 days",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Residual pays proportionally for reduced earnings.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 23,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Residual",
-    "difficulty": "Medium",
-    "question": "Residual disability benefit pays? - Scenario 48 with client age 32",
+    "question": "What is benefit period for disability insurance regarding application?",
     "options": [
-      "Partial benefit for partial loss of income after disability",
-      "Full benefit only",
-      "No benefit if working",
-      "Only if totally disabled"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "How long benefits payable, to age 65 common"
     ],
-    "correctAnswer": 0,
-    "explanation": "Residual pays proportionally for reduced earnings.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 24,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "COLA",
-    "difficulty": "Easy",
-    "question": "COLA rider in DI? - Scenario 19 with client age 33",
+    "question": "What is own occupation vs any occupation regarding taxation?",
     "options": [
-      "Adjusts benefit for inflation",
-      "Only for life",
-      "Cancels benefit",
-      "Reduces benefit"
+      "No such provision exists",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Own is best, any is stricter"
     ],
-    "correctAnswer": 0,
-    "explanation": "COLA increases benefit with CPI during claim.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 25,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Buy-Sell",
-    "difficulty": "Hard",
-    "question": "Buy-sell disability funding? - Scenario 29 with client age 43",
+    "question": "What is elimination period for disability insurance regarding eligibility?",
     "options": [
-      "Funds buyout of disabled partner's share per agreement",
-      "No funding",
-      "Life only",
-      "Personal income"
+      "Waiting period before benefits begin, 30-120 days",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Disability buy-sell funds transfer of business interest.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 26,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Exclusions",
-    "difficulty": "Medium",
-    "question": "Exclusions in DI?",
+    "question": "What is benefit period for disability insurance regarding calculation?",
     "options": [
-      "No exclusions",
-      "Accidents only",
-      "All sicknesses covered",
-      "Pre-existing not disclosed, war, self-inflicted, criminal act"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "How long benefits payable, to age 65 common",
+      "Automatically void"
     ],
-    "correctAnswer": 3,
-    "explanation": "Standard exclusions include pre-existing, war, criminal.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 27,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Integration",
-    "difficulty": "Hard",
-    "question": "Integration with other benefits in DI? - Scenario 30 with client age 44",
+    "question": "What is own occupation vs any occupation regarding application?",
     "options": [
-      "No integration",
-      "Benefits may be reduced by other income like CPP disability, group LTD",
-      "Only CPP",
-      "Only increases"
+      "Automatically void",
+      "Own is best, any is stricter",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
     "correctAnswer": 1,
-    "explanation": "Integration prevents overinsurance, offsets other benefits.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 28,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Definition",
-    "difficulty": "Medium",
-    "question": "Any occupation definition? - Scenario 47 with client age 31",
+    "question": "What is elimination period for disability insurance regarding taxation?",
     "options": [
-      "No benefit",
-      "Any job",
-      "Own occupation only",
-      "Unable to do any occupation reasonably suited by education/training/experience"
+      "Waiting period before benefits begin, 30-120 days",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 3,
-    "explanation": "Any occ stricter than own occ, harder to qualify.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 29,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Residual",
-    "difficulty": "Medium",
-    "question": "Residual disability benefit pays? - Scenario 18 with client age 32",
+    "question": "What is benefit period for disability insurance regarding eligibility?",
     "options": [
-      "Full benefit only",
-      "No benefit if working",
-      "Only if totally disabled",
-      "Partial benefit for partial loss of income after disability"
+      "How long benefits payable, to age 65 common",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists"
     ],
-    "correctAnswer": 3,
-    "explanation": "Residual pays proportionally for reduced earnings.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 30,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Exclusions",
-    "difficulty": "Medium",
-    "question": "Exclusions in DI? - Scenario 56 with client age 40",
+    "question": "What is own occupation vs any occupation regarding calculation?",
     "options": [
-      "All sicknesses covered",
-      "Accidents only",
-      "Pre-existing not disclosed, war, self-inflicted, criminal act",
-      "No exclusions"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Own is best, any is stricter"
     ],
-    "correctAnswer": 2,
-    "explanation": "Standard exclusions include pre-existing, war, criminal.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 31,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "WOP",
-    "difficulty": "Easy",
-    "question": "Waiver of premium in DI? - Scenario 24 with client age 38",
+    "question": "What is elimination period for disability insurance regarding application?",
     "options": [
-      "Waives benefit",
-      "Waives premiums during total disability after elimination",
-      "Reduces benefit",
-      "Increases premium"
+      "Waiting period before benefits begin, 30-120 days",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
-    "correctAnswer": 1,
-    "explanation": "WOP waives premiums while on claim.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 32,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "BOE",
-    "difficulty": "Medium",
-    "question": "Business overhead expense DI? - Scenario 27 with client age 41",
+    "question": "What is benefit period for disability insurance regarding taxation?",
     "options": [
-      "Pays personal income",
-      "No benefit",
-      "Pays life benefit",
-      "Pays business expenses if owner disabled e.g., rent, salaries"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "How long benefits payable, to age 65 common",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 3,
-    "explanation": "Overhead DI covers business overhead during disability.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 33,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "FPO",
-    "difficulty": "Medium",
-    "question": "Future purchase option (FPO) / guaranteed insurability in DI? - Scenario 20 with client age 34",
+    "question": "What is own occupation vs any occupation regarding eligibility?",
     "options": [
-      "No extra coverage",
-      "Only for group",
-      "Allows buying extra coverage without medical evidence at future dates",
-      "Requires medical each time"
+      "Automatically void",
+      "No such provision exists",
+      "Own is best, any is stricter",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 2,
-    "explanation": "FPO protects future insurability as income rises.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 34,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "FPO",
-    "difficulty": "Medium",
-    "question": "Future purchase option (FPO) / guaranteed insurability in DI? - Scenario 50 with client age 34",
+    "question": "What is elimination period for disability insurance regarding calculation?",
     "options": [
-      "Requires medical each time",
-      "No extra coverage",
-      "Only for group",
-      "Allows buying extra coverage without medical evidence at future dates"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Waiting period before benefits begin, 30-120 days",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 3,
-    "explanation": "FPO protects future insurability as income rises.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 35,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Residual",
-    "difficulty": "Medium",
-    "question": "Residual disability benefit pays? - Scenario 33 with client age 32",
+    "question": "What is benefit period for disability insurance regarding application?",
     "options": [
-      "Full benefit only",
-      "Only if totally disabled",
-      "Partial benefit for partial loss of income after disability",
-      "No benefit if working"
+      "How long benefits payable, to age 65 common",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
-    "correctAnswer": 2,
-    "explanation": "Residual pays proportionally for reduced earnings.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 36,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Rehab",
-    "difficulty": "Medium",
-    "question": "Rehabilitation benefit in DI?",
+    "question": "What is own occupation vs any occupation regarding taxation?",
     "options": [
-      "Pays/helps with rehab costs to return to work",
-      "No benefit",
-      "Only death benefit",
-      "Pays lump sum only"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Own is best, any is stricter",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Rehab incentivizes return to work.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 37,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Key Person",
-    "difficulty": "Medium",
-    "question": "Key person DI?",
+    "question": "What is elimination period for disability insurance regarding eligibility?",
     "options": [
-      "Group only",
-      "Life insurance only",
-      "Business owned DI on key person to cover loss if disabled",
-      "Personal DI"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Waiting period before benefits begin, 30-120 days",
+      "No such provision exists"
     ],
     "correctAnswer": 2,
-    "explanation": "Key person DI indemnifies business for key person disability.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 38,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Rehab",
-    "difficulty": "Medium",
-    "question": "Rehabilitation benefit in DI? - Scenario 40 with client age 39",
+    "question": "What is benefit period for disability insurance regarding calculation?",
     "options": [
-      "Only death benefit",
-      "Pays/helps with rehab costs to return to work",
-      "No benefit",
-      "Pays lump sum only"
+      "No such provision exists",
+      "How long benefits payable, to age 65 common",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 1,
-    "explanation": "Rehab incentivizes return to work.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 39,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Renewability",
-    "difficulty": "Medium",
-    "question": "Non-cancellable and guaranteed renewable DI? - Scenario 38 with client age 37",
+    "question": "What is own occupation vs any occupation regarding application?",
     "options": [
-      "Can cancel anytime",
-      "Insurer cannot cancel nor increase premium nor change terms individually",
-      "Premium can rise individually",
-      "Only group"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Automatically void",
+      "Own is best, any is stricter"
     ],
-    "correctAnswer": 1,
-    "explanation": "Strongest renewability - cannot cancel nor raise premium.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 40,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "BOE",
-    "difficulty": "Medium",
-    "question": "Business overhead expense DI?",
+    "question": "What is elimination period for disability insurance regarding taxation?",
     "options": [
-      "Pays business expenses if owner disabled e.g., rent, salaries",
-      "Pays life benefit",
-      "No benefit",
-      "Pays personal income"
+      "Automatically void",
+      "Waiting period before benefits begin, 30-120 days",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Overhead DI covers business overhead during disability.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 41,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "BOE",
-    "difficulty": "Medium",
-    "question": "Business overhead expense DI? - Scenario 57 with client age 41",
+    "question": "What is benefit period for disability insurance regarding eligibility?",
     "options": [
-      "Pays life benefit",
-      "No benefit",
-      "Pays personal income",
-      "Pays business expenses if owner disabled e.g., rent, salaries"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "How long benefits payable, to age 65 common"
     ],
     "correctAnswer": 3,
-    "explanation": "Overhead DI covers business overhead during disability.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 42,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "FPO",
-    "difficulty": "Medium",
-    "question": "Future purchase option (FPO) / guaranteed insurability in DI? - Scenario 35 with client age 34",
+    "question": "What is own occupation vs any occupation regarding calculation?",
     "options": [
-      "Allows buying extra coverage without medical evidence at future dates",
-      "Requires medical each time",
-      "Only for group",
-      "No extra coverage"
+      "Own is best, any is stricter",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "FPO protects future insurability as income rises.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 43,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Rehab",
-    "difficulty": "Medium",
-    "question": "Rehabilitation benefit in DI? - Scenario 55 with client age 39",
+    "question": "What is elimination period for disability insurance regarding application?",
     "options": [
-      "Pays lump sum only",
-      "Only death benefit",
-      "No benefit",
-      "Pays/helps with rehab costs to return to work"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Waiting period before benefits begin, 30-120 days",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 3,
-    "explanation": "Rehab incentivizes return to work.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 44,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Definition",
-    "difficulty": "Medium",
-    "question": "Own occupation definition in DI? - Scenario 31 with client age 30",
+    "question": "What is benefit period for disability insurance regarding taxation?",
     "options": [
-      "Unable to perform duties of own occupation as defined",
-      "Only if unemployed",
-      "Any occupation",
-      "Unable to do all jobs"
+      "Taxed as employment income at source",
+      "How long benefits payable, to age 65 common",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Own occ pays if cannot do own occupation even if can do other.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 45,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Key Person",
-    "difficulty": "Medium",
-    "question": "Key person DI? - Scenario 43 with client age 42",
+    "question": "What is own occupation vs any occupation regarding eligibility?",
     "options": [
-      "Business owned DI on key person to cover loss if disabled",
-      "Personal DI",
-      "Life insurance only",
-      "Group only"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Own is best, any is stricter"
     ],
-    "correctAnswer": 0,
-    "explanation": "Key person DI indemnifies business for key person disability.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 46,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "BOE",
-    "difficulty": "Medium",
-    "question": "Business overhead expense DI? - Scenario 42 with client age 41",
+    "question": "What is elimination period for disability insurance regarding calculation?",
     "options": [
-      "No benefit",
-      "Pays business expenses if owner disabled e.g., rent, salaries",
-      "Pays personal income",
-      "Pays life benefit"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Waiting period before benefits begin, 30-120 days"
     ],
-    "correctAnswer": 1,
-    "explanation": "Overhead DI covers business overhead during disability.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 47,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Definition",
-    "difficulty": "Medium",
-    "question": "Any occupation definition?",
+    "question": "What is benefit period for disability insurance regarding application?",
     "options": [
-      "Any job",
-      "Own occupation only",
-      "Unable to do any occupation reasonably suited by education/training/experience",
-      "No benefit"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "How long benefits payable, to age 65 common"
     ],
-    "correctAnswer": 2,
-    "explanation": "Any occ stricter than own occ, harder to qualify.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 48,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Benefit Period",
-    "difficulty": "Easy",
-    "question": "Benefit period in DI? - Scenario 52 with client age 36",
+    "question": "What is own occupation vs any occupation regarding taxation?",
     "options": [
-      "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65",
-      "Free look",
-      "Grace period",
-      "How long premium payable"
+      "Own is best, any is stricter",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Benefit period limits duration e.g., to age 65.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 49,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Buy-Sell",
-    "difficulty": "Hard",
-    "question": "Buy-sell disability funding? - Scenario 59 with client age 43",
+    "question": "What is elimination period for disability insurance regarding eligibility?",
     "options": [
-      "No funding",
-      "Funds buyout of disabled partner's share per agreement",
-      "Life only",
-      "Personal income"
+      "Waiting period before benefits begin, 30-120 days",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
-    "correctAnswer": 1,
-    "explanation": "Disability buy-sell funds transfer of business interest.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 50,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "WOP",
-    "difficulty": "Easy",
-    "question": "Waiver of premium in DI?",
+    "question": "What is benefit period for disability insurance regarding calculation?",
     "options": [
-      "Waives premiums during total disability after elimination",
-      "Waives benefit",
-      "Increases premium",
-      "Reduces benefit"
+      "Automatically void",
+      "How long benefits payable, to age 65 common",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "WOP waives premiums while on claim.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 51,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Benefit Period",
-    "difficulty": "Easy",
-    "question": "Benefit period in DI? - Scenario 22 with client age 36",
+    "question": "What is own occupation vs any occupation regarding application?",
     "options": [
-      "Grace period",
-      "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65",
-      "Free look",
-      "How long premium payable"
+      "Automatically void",
+      "Own is best, any is stricter",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 1,
-    "explanation": "Benefit period limits duration e.g., to age 65.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 52,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Benefit Period",
-    "difficulty": "Easy",
-    "question": "Benefit period in DI?",
+    "question": "What is elimination period for disability insurance regarding taxation?",
     "options": [
-      "How long premium payable",
-      "How long benefits payable if disabled - e.g., 2 yrs, 5 yrs, to 65",
-      "Free look",
-      "Grace period"
+      "No such provision exists",
+      "Waiting period before benefits begin, 30-120 days",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 1,
-    "explanation": "Benefit period limits duration e.g., to age 65.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 53,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "WOP",
-    "difficulty": "Easy",
-    "question": "Waiver of premium in DI? - Scenario 39 with client age 38",
+    "question": "What is benefit period for disability insurance regarding eligibility?",
     "options": [
-      "Waives benefit",
-      "Waives premiums during total disability after elimination",
-      "Increases premium",
-      "Reduces benefit"
+      "Not applicable under Insurance Act",
+      "How long benefits payable, to age 65 common",
+      "No such provision exists",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 1,
-    "explanation": "WOP waives premiums while on claim.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 54,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Buy-Sell",
-    "difficulty": "Hard",
-    "question": "Buy-sell disability funding? - Scenario 44 with client age 43",
+    "question": "What is own occupation vs any occupation regarding calculation?",
     "options": [
-      "Funds buyout of disabled partner's share per agreement",
-      "No funding",
-      "Personal income",
-      "Life only"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Own is best, any is stricter",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Disability buy-sell funds transfer of business interest.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 55,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Integration",
-    "difficulty": "Hard",
-    "question": "Integration with other benefits in DI? - Scenario 60 with client age 44",
+    "question": "What is elimination period for disability insurance regarding application?",
     "options": [
-      "Only increases",
-      "No integration",
-      "Only CPP",
-      "Benefits may be reduced by other income like CPP disability, group LTD"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Waiting period before benefits begin, 30-120 days"
     ],
     "correctAnswer": 3,
-    "explanation": "Integration prevents overinsurance, offsets other benefits.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 56,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "COLA",
-    "difficulty": "Easy",
-    "question": "COLA rider in DI? - Scenario 34 with client age 33",
+    "question": "What is benefit period for disability insurance regarding taxation?",
     "options": [
-      "Cancels benefit",
-      "Adjusts benefit for inflation",
-      "Only for life",
-      "Reduces benefit"
+      "Automatically void",
+      "No such provision exists",
+      "How long benefits payable, to age 65 common",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 1,
-    "explanation": "COLA increases benefit with CPI during claim.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 57,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Definition",
-    "difficulty": "Medium",
-    "question": "Own occupation definition in DI?",
+    "question": "What is own occupation vs any occupation regarding eligibility?",
     "options": [
-      "Only if unemployed",
-      "Unable to do all jobs",
-      "Unable to perform duties of own occupation as defined",
-      "Any occupation"
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Own is best, any is stricter",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 2,
-    "explanation": "Own occ pays if cannot do own occupation even if can do other.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 58,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Key Person",
-    "difficulty": "Medium",
-    "question": "Key person DI? - Scenario 58 with client age 42",
+    "question": "What is elimination period for disability insurance regarding calculation?",
     "options": [
-      "Life insurance only",
-      "Personal DI",
-      "Business owned DI on key person to cover loss if disabled",
-      "Group only"
+      "Automatically void",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Waiting period before benefits begin, 30-120 days"
     ],
-    "correctAnswer": 2,
-    "explanation": "Key person DI indemnifies business for key person disability.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Waiting period.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 59,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Exclusions",
-    "difficulty": "Medium",
-    "question": "Exclusions in DI? - Scenario 26 with client age 40",
+    "question": "What is benefit period for disability insurance regarding application?",
     "options": [
-      "No exclusions",
-      "Accidents only",
-      "Pre-existing not disclosed, war, self-inflicted, criminal act",
-      "All sicknesses covered"
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "How long benefits payable, to age 65 common"
     ],
-    "correctAnswer": 2,
-    "explanation": "Standard exclusions include pre-existing, war, criminal.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Duration.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 60,
     "moduleId": "disability",
-    "moduleName": "Disability Insurance",
-    "topic": "Elimination",
-    "difficulty": "Easy",
-    "question": "Elimination period in DI?",
+    "question": "What is own occupation vs any occupation regarding taxation?",
     "options": [
-      "Waiting period before benefits start after disability",
-      "Free look",
-      "Benefit duration",
-      "Period premium waived"
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Own is best, any is stricter",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Elimination e.g., 90 days reduces premiums.",
-    "source": "CISRO Disability Competency",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Definition.",
+    "topic": "General",
+    "difficulty": "Medium"
   }
 ]

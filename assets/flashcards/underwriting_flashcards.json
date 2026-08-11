@@ -2,650 +2,650 @@
   {
     "id": 1,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Assess risk via medical, lifestyle, financial to classify"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 2,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Risk classifications from best to uninsurable"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 3,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Medical Information Bureau check for previous insurance history"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 4,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Attending Physician Statement from doctor"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 5,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Blood, urine, height, weight, blood pressure"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 6,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Extra $ per $1000 for temporary hazard like aviation"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 7,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Higher premium +50% +100% due to health risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 8,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Assess risk via medical, lifestyle, financial to classify"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 9,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Risk classifications from best to uninsurable"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 10,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Medical Information Bureau check for previous insurance history"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 11,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Attending Physician Statement from doctor"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 12,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Blood, urine, height, weight, blood pressure"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 13,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Extra $ per $1000 for temporary hazard like aviation"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 14,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Higher premium +50% +100% due to health risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 15,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Assess risk via medical, lifestyle, financial to classify"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 16,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Risk classifications from best to uninsurable"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 17,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Medical Information Bureau check for previous insurance history"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 18,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Attending Physician Statement from doctor"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 19,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Blood, urine, height, weight, blood pressure"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 20,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Extra $ per $1000 for temporary hazard like aviation"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 21,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Higher premium +50% +100% due to health risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 22,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Assess risk via medical, lifestyle, financial to classify"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 23,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Risk classifications from best to uninsurable"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 24,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Medical Information Bureau check for previous insurance history"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 25,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Attending Physician Statement from doctor"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 26,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Blood, urine, height, weight, blood pressure"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 27,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Extra $ per $1000 for temporary hazard like aviation"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 28,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Higher premium +50% +100% due to health risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 29,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Assess risk via medical, lifestyle, financial to classify"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 30,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Risk classifications from best to uninsurable"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 31,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Medical Information Bureau check for previous insurance history"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 32,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Attending Physician Statement from doctor"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 33,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Blood, urine, height, weight, blood pressure"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 34,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Extra $ per $1000 for temporary hazard like aviation"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 35,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Higher premium +50% +100% due to health risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 36,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Assess risk via medical, lifestyle, financial to classify"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 37,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Risk classifications from best to uninsurable"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 38,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Medical Information Bureau check for previous insurance history"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 39,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Attending Physician Statement from doctor"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 40,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Blood, urine, height, weight, blood pressure"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 41,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Extra $ per $1000 for temporary hazard like aviation"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 42,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Higher premium +50% +100% due to health risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 43,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Assess risk via medical, lifestyle, financial to classify"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 44,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Risk classifications from best to uninsurable"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 45,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Medical Information Bureau check for previous insurance history"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 46,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Attending Physician Statement from doctor"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 47,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Blood, urine, height, weight, blood pressure"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 48,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Extra $ per $1000 for temporary hazard like aviation"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 49,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Higher premium +50% +100% due to health risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 50,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Assess risk via medical, lifestyle, financial to classify"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   }

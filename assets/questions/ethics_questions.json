@@ -2,901 +2,901 @@
   {
     "id": 1,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What must an agent do with a conflict of interest?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "No such provision exists",
+      "Disclose in writing and obtain client consent",
+      "Automatically void",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "FSRA requirement.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 2,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is utmost good faith?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Automatically void",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Both parties must disclose all material facts honestly"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "Uberrima fides.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 3,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is required for life insurance replacement?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Complete LIRD, compare existing vs proposed, ensure suitable",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 2,
+    "explanation": "Avoid churning.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 4,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYC?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Not applicable under Insurance Act",
+      "Know Your Client, collect financial info, needs, goals",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Ongoing duty.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 5,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYP?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Know Your Product, understand features, risks, costs",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Due diligence.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 6,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is suitability?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Recommendation must match client needs, affordability, risk tolerance"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "Best interest.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 7,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is privacy obligation under PIPEDA?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Automatically void",
+      "Collect, use, disclose personal info only with consent"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "Privacy law.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 8,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is AML obligation under FINTRAC?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Taxed as employment income at source",
+      "Verify identity, report cash 10k+ and suspicious transactions",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Anti-money laundering.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 9,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is churning?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Not applicable under Insurance Act",
+      "Replacing policy unnecessarily to earn commission, prohibited",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 10,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is twisting?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "No such provision exists",
+      "Misrepresenting existing policy to induce replacement, prohibited",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 11,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What must an agent do with a conflict of interest regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Disclose in writing and obtain client consent",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 2,
+    "explanation": "FSRA requirement.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 12,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is utmost good faith regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "No such provision exists",
+      "Automatically void",
+      "Both parties must disclose all material facts honestly",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 2,
+    "explanation": "Uberrima fides.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 13,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is required for life insurance replacement regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Complete LIRD, compare existing vs proposed, ensure suitable",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Avoid churning.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 14,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYC regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Know Your Client, collect financial info, needs, goals",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 2,
+    "explanation": "Ongoing duty.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 15,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYP regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Know Your Product, understand features, risks, costs"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "Due diligence.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 16,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is suitability regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Recommendation must match client needs, affordability, risk tolerance",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Best interest.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 17,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is privacy obligation under PIPEDA regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Collect, use, disclose personal info only with consent",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Privacy law.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 18,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is AML obligation under FINTRAC regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Verify identity, report cash 10k+ and suspicious transactions",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Anti-money laundering.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 19,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is churning regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Replacing policy unnecessarily to earn commission, prohibited",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 20,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is twisting regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Misrepresenting existing policy to induce replacement, prohibited"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 21,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What must an agent do with a conflict of interest regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Not applicable under Insurance Act",
+      "Disclose in writing and obtain client consent",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "FSRA requirement.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 22,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is utmost good faith regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Not applicable under Insurance Act",
+      "Both parties must disclose all material facts honestly",
+      "No such provision exists",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Uberrima fides.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 23,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is required for life insurance replacement regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Complete LIRD, compare existing vs proposed, ensure suitable"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "Avoid churning.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 24,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYC regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Know Your Client, collect financial info, needs, goals",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Ongoing duty.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 25,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYP regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "No such provision exists",
+      "Know Your Product, understand features, risks, costs"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "Due diligence.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 26,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is suitability regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Taxed as employment income at source",
+      "Recommendation must match client needs, affordability, risk tolerance",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Best interest.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 27,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is privacy obligation under PIPEDA regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Collect, use, disclose personal info only with consent",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Privacy law.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 28,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is AML obligation under FINTRAC regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Taxed as employment income at source",
+      "Verify identity, report cash 10k+ and suspicious transactions",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Anti-money laundering.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 29,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is churning regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "No such provision exists",
+      "Replacing policy unnecessarily to earn commission, prohibited",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 30,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is twisting regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Misrepresenting existing policy to induce replacement, prohibited",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 2,
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 31,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What must an agent do with a conflict of interest regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Not applicable under Insurance Act",
+      "Disclose in writing and obtain client consent",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "FSRA requirement.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 32,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is utmost good faith regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Both parties must disclose all material facts honestly",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Uberrima fides.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 33,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is required for life insurance replacement regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Complete LIRD, compare existing vs proposed, ensure suitable"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "Avoid churning.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 34,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYC regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "No such provision exists",
+      "Know Your Client, collect financial info, needs, goals",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Ongoing duty.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 35,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYP regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Know Your Product, understand features, risks, costs"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "Due diligence.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 36,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is suitability regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Recommendation must match client needs, affordability, risk tolerance",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 2,
+    "explanation": "Best interest.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 37,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is privacy obligation under PIPEDA regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Collect, use, disclose personal info only with consent",
+      "No such provision exists",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Privacy law.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 38,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is AML obligation under FINTRAC regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Verify identity, report cash 10k+ and suspicious transactions",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 2,
+    "explanation": "Anti-money laundering.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 39,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is churning regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Replacing policy unnecessarily to earn commission, prohibited",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 40,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is twisting regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Misrepresenting existing policy to induce replacement, prohibited",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 41,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What must an agent do with a conflict of interest regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Disclose in writing and obtain client consent"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "FSRA requirement.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 42,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is utmost good faith regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Both parties must disclose all material facts honestly"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "Uberrima fides.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 43,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is required for life insurance replacement regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Automatically void",
+      "Complete LIRD, compare existing vs proposed, ensure suitable",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Avoid churning.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 44,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYC regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Know Your Client, collect financial info, needs, goals",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Ongoing duty.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 45,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYP regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Automatically void",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Know Your Product, understand features, risks, costs"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "Due diligence.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 46,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is suitability regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "No such provision exists",
+      "Recommendation must match client needs, affordability, risk tolerance",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Best interest.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 47,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is privacy obligation under PIPEDA regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Collect, use, disclose personal info only with consent"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "Privacy law.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 48,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is AML obligation under FINTRAC regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Verify identity, report cash 10k+ and suspicious transactions",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Anti-money laundering.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 49,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is churning regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Replacing policy unnecessarily to earn commission, prohibited"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 50,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is twisting regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Taxed as employment income at source",
+      "Misrepresenting existing policy to induce replacement, prohibited",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 51,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What must an agent do with a conflict of interest regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "No such provision exists",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Disclose in writing and obtain client consent"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 3,
+    "explanation": "FSRA requirement.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 52,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is utmost good faith regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Not applicable under Insurance Act",
+      "Both parties must disclose all material facts honestly",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Uberrima fides.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 53,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is required for life insurance replacement regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Complete LIRD, compare existing vs proposed, ensure suitable",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 2,
+    "explanation": "Avoid churning.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 54,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYC regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Know Your Client, collect financial info, needs, goals",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 2,
+    "explanation": "Ongoing duty.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 55,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYP regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Know Your Product, understand features, risks, costs",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 2,
+    "explanation": "Due diligence.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 56,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is suitability regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Taxed as employment income at source",
+      "Recommendation must match client needs, affordability, risk tolerance",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Best interest.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 57,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is privacy obligation under PIPEDA regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Collect, use, disclose personal info only with consent",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 2,
+    "explanation": "Privacy law.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 58,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is AML obligation under FINTRAC regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Taxed as employment income at source",
+      "Verify identity, report cash 10k+ and suspicious transactions",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Anti-money laundering.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 59,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is churning regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Replacing policy unnecessarily to earn commission, prohibited",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 2,
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 60,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is twisting regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding",
-      "Hide conflict",
-      "Proceed without disclosure",
-      "Cancel all policies"
+      "Not applicable under Insurance Act",
+      "Misrepresenting existing policy to induce replacement, prohibited",
+      "Automatically void",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "correctAnswer": 1,
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium"
   }
 ]

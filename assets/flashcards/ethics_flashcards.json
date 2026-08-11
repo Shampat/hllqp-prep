@@ -2,650 +2,650 @@
   {
     "id": 1,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What must an agent do with a conflict of interest?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Disclose in writing and obtain client consent"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "FSRA requirement.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 2,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is utmost good faith?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Both parties must disclose all material facts honestly"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Uberrima fides.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 3,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is required for life insurance replacement?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Complete LIRD, compare existing vs proposed, ensure suitable"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Avoid churning.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 4,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYC?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Know Your Client, collect financial info, needs, goals"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Ongoing duty.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 5,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYP?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Know Your Product, understand features, risks, costs"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Due diligence.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 6,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is suitability?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Recommendation must match client needs, affordability, risk tolerance"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Best interest.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 7,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is privacy obligation under PIPEDA?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Collect, use, disclose personal info only with consent"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Privacy law.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 8,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is AML obligation under FINTRAC?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Verify identity, report cash 10k+ and suspicious transactions"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Anti-money laundering.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 9,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is churning?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Replacing policy unnecessarily to earn commission, prohibited"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 10,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is twisting?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Misrepresenting existing policy to induce replacement, prohibited"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 11,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What must an agent do with a conflict of interest regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Disclose in writing and obtain client consent"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "FSRA requirement.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 12,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is utmost good faith regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Both parties must disclose all material facts honestly"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Uberrima fides.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 13,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is required for life insurance replacement regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Complete LIRD, compare existing vs proposed, ensure suitable"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Avoid churning.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 14,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYC regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Know Your Client, collect financial info, needs, goals"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Ongoing duty.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 15,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYP regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Know Your Product, understand features, risks, costs"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Due diligence.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 16,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is suitability regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Recommendation must match client needs, affordability, risk tolerance"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Best interest.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 17,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is privacy obligation under PIPEDA regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Collect, use, disclose personal info only with consent"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Privacy law.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 18,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is AML obligation under FINTRAC regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Verify identity, report cash 10k+ and suspicious transactions"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Anti-money laundering.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 19,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is churning regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Replacing policy unnecessarily to earn commission, prohibited"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 20,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is twisting regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Misrepresenting existing policy to induce replacement, prohibited"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 21,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What must an agent do with a conflict of interest regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Disclose in writing and obtain client consent"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "FSRA requirement.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 22,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is utmost good faith regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Both parties must disclose all material facts honestly"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Uberrima fides.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 23,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is required for life insurance replacement regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Complete LIRD, compare existing vs proposed, ensure suitable"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Avoid churning.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 24,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYC regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Know Your Client, collect financial info, needs, goals"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Ongoing duty.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 25,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYP regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Know Your Product, understand features, risks, costs"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Due diligence.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 26,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is suitability regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Recommendation must match client needs, affordability, risk tolerance"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Best interest.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 27,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is privacy obligation under PIPEDA regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Collect, use, disclose personal info only with consent"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Privacy law.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 28,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is AML obligation under FINTRAC regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Verify identity, report cash 10k+ and suspicious transactions"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Anti-money laundering.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 29,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is churning regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Replacing policy unnecessarily to earn commission, prohibited"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 30,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is twisting regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Misrepresenting existing policy to induce replacement, prohibited"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 31,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What must an agent do with a conflict of interest regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Disclose in writing and obtain client consent"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "FSRA requirement.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 32,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is utmost good faith regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Both parties must disclose all material facts honestly"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Uberrima fides.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 33,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is required for life insurance replacement regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Complete LIRD, compare existing vs proposed, ensure suitable"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Avoid churning.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 34,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYC regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Know Your Client, collect financial info, needs, goals"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Ongoing duty.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 35,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYP regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Know Your Product, understand features, risks, costs"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Due diligence.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 36,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is suitability regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Recommendation must match client needs, affordability, risk tolerance"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Best interest.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 37,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is privacy obligation under PIPEDA regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Collect, use, disclose personal info only with consent"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Privacy law.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 38,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is AML obligation under FINTRAC regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Verify identity, report cash 10k+ and suspicious transactions"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Anti-money laundering.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 39,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is churning regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Replacing policy unnecessarily to earn commission, prohibited"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 40,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is twisting regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Misrepresenting existing policy to induce replacement, prohibited"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 41,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What must an agent do with a conflict of interest regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Disclose in writing and obtain client consent"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "FSRA requirement.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 42,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is utmost good faith regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Both parties must disclose all material facts honestly"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Uberrima fides.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 43,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is required for life insurance replacement regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Complete LIRD, compare existing vs proposed, ensure suitable"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Avoid churning.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 44,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYC regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Know Your Client, collect financial info, needs, goals"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Ongoing duty.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 45,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is KYP regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Know Your Product, understand features, risks, costs"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Due diligence.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 46,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is suitability regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Recommendation must match client needs, affordability, risk tolerance"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Best interest.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 47,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is privacy obligation under PIPEDA regarding application?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Collect, use, disclose personal info only with consent"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Privacy law.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 48,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is AML obligation under FINTRAC regarding taxation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Verify identity, report cash 10k+ and suspicious transactions"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Anti-money laundering.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 49,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is churning regarding eligibility?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Replacing policy unnecessarily to earn commission, prohibited"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 50,
     "moduleId": "ethics",
-    "question": "Under ethics and professional practice, what is required when an agent has a conflict of interest?",
+    "question": "What is twisting regarding calculation?",
     "options": [
-      "Disclose conflict in writing to client and obtain consent before proceeding\n\nAgent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required."
+      "Misrepresenting existing policy to induce replacement, prohibited"
     ],
     "correctAnswer": 0,
-    "explanation": "Agent must disclose any conflict, material facts, and act in client's best interest per CLHIA and provincial council rules. Disclosure + consent required.",
-    "topic": "Conflict",
+    "explanation": "Misconduct.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   }

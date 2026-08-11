@@ -2,901 +2,901 @@
   {
     "id": 1,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Assess risk via medical, lifestyle, financial to classify"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 2,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Risk classifications from best to uninsurable"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 3,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Medical Information Bureau check for previous insurance history"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 4,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Attending Physician Statement from doctor",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 5,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists",
+      "Blood, urine, height, weight, blood pressure"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 6,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Extra $ per $1000 for temporary hazard like aviation"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 7,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Higher premium +50% +100% due to health risk",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 8,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Assess risk via medical, lifestyle, financial to classify",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 9,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Risk classifications from best to uninsurable",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 10,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Medical Information Bureau check for previous insurance history",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 11,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Attending Physician Statement from doctor",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 12,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Blood, urine, height, weight, blood pressure",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 13,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists",
+      "Extra $ per $1000 for temporary hazard like aviation"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 14,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Higher premium +50% +100% due to health risk",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 15,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Assess risk via medical, lifestyle, financial to classify",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 16,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Risk classifications from best to uninsurable",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 17,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Medical Information Bureau check for previous insurance history",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Automatically void"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 18,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Attending Physician Statement from doctor",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 19,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Blood, urine, height, weight, blood pressure"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 20,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Automatically void",
+      "Extra $ per $1000 for temporary hazard like aviation"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 21,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Higher premium +50% +100% due to health risk",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 22,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Assess risk via medical, lifestyle, financial to classify",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 23,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Risk classifications from best to uninsurable",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 24,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Medical Information Bureau check for previous insurance history",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 25,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Attending Physician Statement from doctor",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 26,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists",
+      "Blood, urine, height, weight, blood pressure"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 27,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Extra $ per $1000 for temporary hazard like aviation"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 28,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Higher premium +50% +100% due to health risk",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 29,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Assess risk via medical, lifestyle, financial to classify",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 30,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Risk classifications from best to uninsurable",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 31,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Medical Information Bureau check for previous insurance history",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 32,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Attending Physician Statement from doctor",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 33,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Blood, urine, height, weight, blood pressure",
+      "No such provision exists",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 34,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Automatically void",
+      "Extra $ per $1000 for temporary hazard like aviation"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 35,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Higher premium +50% +100% due to health risk",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 36,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Assess risk via medical, lifestyle, financial to classify",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 37,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Risk classifications from best to uninsurable",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 38,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Medical Information Bureau check for previous insurance history",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 39,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Attending Physician Statement from doctor"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 40,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Blood, urine, height, weight, blood pressure"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 41,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Extra $ per $1000 for temporary hazard like aviation"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 42,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Higher premium +50% +100% due to health risk",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 43,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Assess risk via medical, lifestyle, financial to classify",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 44,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Risk classifications from best to uninsurable",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 45,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Medical Information Bureau check for previous insurance history",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 46,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Attending Physician Statement from doctor"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 47,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Blood, urine, height, weight, blood pressure"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 48,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Extra $ per $1000 for temporary hazard like aviation",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Automatically void"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 49,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Higher premium +50% +100% due to health risk",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 50,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Assess risk via medical, lifestyle, financial to classify"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 51,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Risk classifications from best to uninsurable"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 52,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Medical Information Bureau check for previous insurance history",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 53,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Attending Physician Statement from doctor",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 54,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is paramedical exam regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Blood, urine, height, weight, blood pressure",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Medical evidence.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 55,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is flat extra regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Extra $ per $1000 for temporary hazard like aviation",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Temporary.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 56,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is substandard rating regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Higher premium +50% +100% due to health risk",
+      "Automatically void",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Rated.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 57,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is purpose of underwriting regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Assess risk via medical, lifestyle, financial to classify",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Classifies risk.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 58,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is preferred, standard, substandard, decline regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Risk classifications from best to uninsurable",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Classification.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 59,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is MIB regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Medical Information Bureau check for previous insurance history",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "MIB check.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 60,
     "moduleId": "underwriting",
-    "question": "In underwriting planning, what is a key consideration for suitability?",
+    "question": "What is APS regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Attending Physician Statement from doctor",
+      "Automatically void",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Doctor report.",
+    "topic": "General",
     "difficulty": "Medium"
   }
 ]

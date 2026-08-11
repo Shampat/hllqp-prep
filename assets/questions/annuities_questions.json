@@ -2,1141 +2,901 @@
   {
     "id": 1,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Pricing",
-    "difficulty": "Medium",
-    "question": "What affects annuity income amount? - Scenario 22",
+    "question": "What is life annuity?",
     "options": [
-      "Age, sex, interest rates, premium, guarantee period, type",
-      "Only premium",
-      "Only sex",
-      "Only age"
+      "Pays income for life, longevity protection",
+      "Automatically void",
+      "No such provision exists",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Annuity pricing based on mortality and interest rates.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 2,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Joint",
-    "difficulty": "Medium",
-    "question": "Joint and last survivor annuity? - Scenario 36",
+    "question": "What is term certain annuity?",
     "options": [
-      "No survivor",
-      "Pays first death only",
-      "Pays term only",
-      "Pays until second spouse dies"
+      "Automatically void",
+      "Pays for fixed period only, no life contingency",
+      "No such provision exists",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 3,
-    "explanation": "Joint last survivor continues to survivor, lower payment than single life.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 3,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Disclosure",
-    "difficulty": "Medium",
-    "question": "Best practice explaining annuity? - Scenario 44",
+    "question": "What is guarantee period?",
     "options": [
-      "Say liquid anytime",
-      "Say refundable always",
-      "Explain no liquidity after annuitization, guarantee, tax, income amount not guaranteed until purchase",
-      "No need explain"
+      "Minimum years guaranteed even if die early",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
-    "correctAnswer": 2,
-    "explanation": "Must explain irrevocable nature and lack of liquidity.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 4,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Settlement",
-    "difficulty": "Medium",
-    "question": "What is settlement annuity?",
+    "question": "What is life annuity regarding taxation?",
     "options": [
-      "No settlement",
-      "Annuity purchased with life death benefit to pay beneficiary as income",
-      "Only term",
-      "Only for RRSP"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Pays income for life, longevity protection"
     ],
-    "correctAnswer": 1,
-    "explanation": "Settlement option allows beneficiary to take proceeds as annuity.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 5,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Cashable",
-    "difficulty": "Medium",
-    "question": "What is cashable vs non-cashable annuity? - Scenario 26",
+    "question": "What is term certain annuity regarding eligibility?",
     "options": [
-      "Cashable pays more",
-      "Same",
-      "Non-cashable cashable anytime",
-      "Cashable allows commutation, non-cashable cannot be cashed, pays more"
+      "No such provision exists",
+      "Pays for fixed period only, no life contingency",
+      "Automatically void",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 3,
-    "explanation": "Non-cashable cannot be surrendered, higher income.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 6,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Settlement",
-    "difficulty": "Medium",
-    "question": "What is settlement annuity? - Scenario 30",
+    "question": "What is guarantee period regarding calculation?",
     "options": [
-      "No settlement",
-      "Only for RRSP",
-      "Annuity purchased with life death benefit to pay beneficiary as income",
-      "Only term"
+      "No such provision exists",
+      "Automatically void",
+      "Minimum years guaranteed even if die early",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 2,
-    "explanation": "Settlement option allows beneficiary to take proceeds as annuity.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 7,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Tax",
-    "difficulty": "Hard",
-    "question": "What is prescribed vs non-prescribed annuity tax?",
+    "question": "What is life annuity regarding application?",
     "options": [
-      "Prescribed level taxable portion, non-prescribed accrual rising taxable",
-      "Same",
-      "Non-prescribed tax-free",
-      "Prescribed fully taxable"
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Pays income for life, longevity protection"
     ],
-    "correctAnswer": 0,
-    "explanation": "Prescribed annuity levelizes tax, non-prescribed front-loaded.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 8,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Impaired",
-    "difficulty": "Medium",
-    "question": "What is impaired annuity? - Scenario 28",
+    "question": "What is term certain annuity regarding taxation?",
     "options": [
-      "Higher income for health impairment shorter life expectancy",
-      "Same",
-      "Lower income",
-      "No impaired"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Pays for fixed period only, no life contingency"
     ],
-    "correctAnswer": 0,
-    "explanation": "Impaired annuity gives higher income for impaired health.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 9,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Deferred",
-    "difficulty": "Easy",
-    "question": "What is accumulation annuity? - Scenario 48",
+    "question": "What is guarantee period regarding eligibility?",
     "options": [
-      "Immediate income",
-      "No accumulation",
-      "Deferred annuity where funds accumulate then annuitize later",
-      "Only term"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Minimum years guaranteed even if die early",
+      "No such provision exists"
     ],
     "correctAnswer": 2,
-    "explanation": "Accumulation (deferred) annuity accumulates with interest before payout.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 10,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Life Annuity",
-    "difficulty": "Easy",
-    "question": "Life annuity pays? - Scenario 31",
+    "question": "What is life annuity regarding calculation?",
     "options": [
-      "Death benefit only",
-      "Income for life of annuitant",
-      "Lump sum only",
-      "Income 10 years only"
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Pays income for life, longevity protection",
+      "Automatically void"
     ],
-    "correctAnswer": 1,
-    "explanation": "Life annuity provides income for life, protects longevity risk.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 11,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Cashable",
-    "difficulty": "Medium",
-    "question": "What is cashable vs non-cashable annuity?",
+    "question": "What is term certain annuity regarding application?",
     "options": [
-      "Non-cashable cashable anytime",
-      "Cashable allows commutation, non-cashable cannot be cashed, pays more",
-      "Cashable pays more",
-      "Same"
+      "Not applicable under Insurance Act",
+      "Pays for fixed period only, no life contingency",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
     "correctAnswer": 1,
-    "explanation": "Non-cashable cannot be surrendered, higher income.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 12,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "RRIF",
-    "difficulty": "Medium",
-    "question": "When is RRIF annuity taxation? - Scenario 55",
+    "question": "What is guarantee period regarding taxation?",
     "options": [
-      "Capital gain",
-      "50% taxable",
-      "Tax-free",
-      "Income fully taxable as income when paid"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Automatically void",
+      "Minimum years guaranteed even if die early"
     ],
     "correctAnswer": 3,
-    "explanation": "Annuity from RRSP/RRIF fully taxable income.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 13,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "RRIF",
-    "difficulty": "Medium",
-    "question": "When is RRIF annuity taxation?",
+    "question": "What is life annuity regarding eligibility?",
     "options": [
-      "50% taxable",
-      "Capital gain",
-      "Income fully taxable as income when paid",
-      "Tax-free"
+      "Automatically void",
+      "Pays income for life, longevity protection",
+      "No such provision exists",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 2,
-    "explanation": "Annuity from RRSP/RRIF fully taxable income.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 14,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Pricing",
-    "difficulty": "Medium",
-    "question": "What affects annuity income amount? - Scenario 37",
+    "question": "What is term certain annuity regarding calculation?",
     "options": [
-      "Age, sex, interest rates, premium, guarantee period, type",
-      "Only age",
-      "Only sex",
-      "Only premium"
+      "Not applicable under Insurance Act",
+      "Pays for fixed period only, no life contingency",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Annuity pricing based on mortality and interest rates.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 15,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Impaired",
-    "difficulty": "Medium",
-    "question": "What is impaired annuity?",
+    "question": "What is guarantee period regarding application?",
     "options": [
-      "Higher income for health impairment shorter life expectancy",
-      "Lower income",
-      "No impaired",
-      "Same"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Minimum years guaranteed even if die early",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Impaired annuity gives higher income for impaired health.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 16,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Joint",
-    "difficulty": "Medium",
-    "question": "Joint and last survivor annuity? - Scenario 21",
+    "question": "What is life annuity regarding taxation?",
     "options": [
-      "No survivor",
-      "Pays until second spouse dies",
-      "Pays term only",
-      "Pays first death only"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Automatically void",
+      "Pays income for life, longevity protection"
     ],
-    "correctAnswer": 1,
-    "explanation": "Joint last survivor continues to survivor, lower payment than single life.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 17,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Comparison",
-    "difficulty": "Medium",
-    "question": "What is GIC vs annuity difference? - Scenario 54",
+    "question": "What is term certain annuity regarding eligibility?",
     "options": [
-      "Annuity always refundable",
-      "Same",
-      "GIC principal returned, annuity principal converted to income may have no residual",
-      "GIC no principal"
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "Pays for fixed period only, no life contingency"
     ],
-    "correctAnswer": 2,
-    "explanation": "Annuity converts capital to income, may have no residual unless guaranteed.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 18,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Impaired",
-    "difficulty": "Medium",
-    "question": "What is impaired annuity? - Scenario 43",
+    "question": "What is guarantee period regarding calculation?",
     "options": [
-      "No impaired",
-      "Same",
-      "Higher income for health impairment shorter life expectancy",
-      "Lower income"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Minimum years guaranteed even if die early",
+      "Automatically void"
     ],
     "correctAnswer": 2,
-    "explanation": "Impaired annuity gives higher income for impaired health.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 19,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Cashable",
-    "difficulty": "Medium",
-    "question": "What is cashable vs non-cashable annuity? - Scenario 56",
+    "question": "What is life annuity regarding application?",
     "options": [
-      "Non-cashable cashable anytime",
-      "Same",
-      "Cashable pays more",
-      "Cashable allows commutation, non-cashable cannot be cashed, pays more"
+      "Pays income for life, longevity protection",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 3,
-    "explanation": "Non-cashable cannot be surrendered, higher income.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 20,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Pricing",
-    "difficulty": "Medium",
-    "question": "What affects annuity income amount? - Scenario 52",
+    "question": "What is term certain annuity regarding taxation?",
     "options": [
-      "Only premium",
-      "Age, sex, interest rates, premium, guarantee period, type",
-      "Only sex",
-      "Only age"
+      "Pays for fixed period only, no life contingency",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
-    "correctAnswer": 1,
-    "explanation": "Annuity pricing based on mortality and interest rates.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 21,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Deferred",
-    "difficulty": "Easy",
-    "question": "What is accumulation annuity? - Scenario 33",
+    "question": "What is guarantee period regarding eligibility?",
     "options": [
-      "Immediate income",
-      "Deferred annuity where funds accumulate then annuitize later",
-      "No accumulation",
-      "Only term"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Minimum years guaranteed even if die early"
     ],
-    "correctAnswer": 1,
-    "explanation": "Accumulation (deferred) annuity accumulates with interest before payout.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 22,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Term Certain",
-    "difficulty": "Easy",
-    "question": "Term certain annuity? - Scenario 17",
+    "question": "What is life annuity regarding calculation?",
     "options": [
-      "Pays for fixed term regardless of life",
-      "Pays for life only",
-      "Pays only on death",
-      "No payout"
+      "Automatically void",
+      "Pays income for life, longevity protection",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Term certain pays for fixed period e.g., 10 years.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 23,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Indexed",
-    "difficulty": "Medium",
-    "question": "What is indexed annuity? - Scenario 57",
+    "question": "What is term certain annuity regarding application?",
     "options": [
-      "No index",
-      "Decreases",
-      "Fixed always",
-      "Income increases with inflation index"
+      "No such provision exists",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Pays for fixed period only, no life contingency"
     ],
     "correctAnswer": 3,
-    "explanation": "Indexed annuity increases with CPI, starts lower.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 24,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Purpose",
-    "difficulty": "Easy",
-    "question": "What is annuity vs life insurance purpose?",
+    "question": "What is guarantee period regarding taxation?",
     "options": [
-      "Same purpose",
-      "Life protects longevity",
-      "Annuity protects living too long, life insurance protects dying too soon",
-      "Annuity protects death"
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists",
+      "Minimum years guaranteed even if die early"
     ],
-    "correctAnswer": 2,
-    "explanation": "Annuity longevity risk, life insurance mortality risk.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 25,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "RRIF",
-    "difficulty": "Medium",
-    "question": "When is RRIF annuity taxation? - Scenario 40",
+    "question": "What is life annuity regarding eligibility?",
     "options": [
-      "Capital gain",
-      "50% taxable",
-      "Income fully taxable as income when paid",
-      "Tax-free"
+      "Pays income for life, longevity protection",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists"
     ],
-    "correctAnswer": 2,
-    "explanation": "Annuity from RRSP/RRIF fully taxable income.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 26,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Guarantee",
-    "difficulty": "Medium",
-    "question": "What is guarantee period in life annuity? - Scenario 20",
+    "question": "What is term certain annuity regarding calculation?",
     "options": [
-      "If annuitant dies early, beneficiary gets remaining guarantee payments",
-      "Guarantee means higher income",
-      "Only for term",
-      "No guarantee"
+      "Automatically void",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Pays for fixed period only, no life contingency"
     ],
-    "correctAnswer": 0,
-    "explanation": "Guarantee period ensures minimum payments e.g., 10 years.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 27,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Indexed",
-    "difficulty": "Medium",
-    "question": "What is indexed annuity? - Scenario 27",
+    "question": "What is guarantee period regarding application?",
     "options": [
-      "Decreases",
-      "No index",
-      "Income increases with inflation index",
-      "Fixed always"
+      "Automatically void",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Minimum years guaranteed even if die early"
     ],
-    "correctAnswer": 2,
-    "explanation": "Indexed annuity increases with CPI, starts lower.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 28,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Joint",
-    "difficulty": "Medium",
-    "question": "Joint and last survivor annuity?",
+    "question": "What is life annuity regarding taxation?",
     "options": [
-      "No survivor",
-      "Pays first death only",
-      "Pays term only",
-      "Pays until second spouse dies"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Pays income for life, longevity protection"
     ],
     "correctAnswer": 3,
-    "explanation": "Joint last survivor continues to survivor, lower payment than single life.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 29,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Settlement",
-    "difficulty": "Medium",
-    "question": "What is settlement annuity? - Scenario 60",
+    "question": "What is term certain annuity regarding eligibility?",
     "options": [
-      "Annuity purchased with life death benefit to pay beneficiary as income",
-      "Only term",
-      "Only for RRSP",
-      "No settlement"
+      "Automatically void",
+      "No such provision exists",
+      "Pays for fixed period only, no life contingency",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Settlement option allows beneficiary to take proceeds as annuity.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 30,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Life Annuity",
-    "difficulty": "Easy",
-    "question": "Life annuity pays? - Scenario 46",
+    "question": "What is guarantee period regarding calculation?",
     "options": [
-      "Income 10 years only",
-      "Death benefit only",
-      "Lump sum only",
-      "Income for life of annuitant"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Minimum years guaranteed even if die early",
+      "No such provision exists"
     ],
-    "correctAnswer": 3,
-    "explanation": "Life annuity provides income for life, protects longevity risk.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 31,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Term Certain",
-    "difficulty": "Easy",
-    "question": "Term certain annuity?",
+    "question": "What is life annuity regarding application?",
     "options": [
-      "Pays only on death",
-      "Pays for fixed term regardless of life",
-      "No payout",
-      "Pays for life only"
+      "Automatically void",
+      "No such provision exists",
+      "Pays income for life, longevity protection",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 1,
-    "explanation": "Term certain pays for fixed period e.g., 10 years.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 32,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Comparison",
-    "difficulty": "Medium",
-    "question": "What is GIC vs annuity difference? - Scenario 39",
+    "question": "What is term certain annuity regarding taxation?",
     "options": [
-      "GIC no principal",
-      "Annuity always refundable",
-      "GIC principal returned, annuity principal converted to income may have no residual",
-      "Same"
+      "Pays for fixed period only, no life contingency",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
-    "correctAnswer": 2,
-    "explanation": "Annuity converts capital to income, may have no residual unless guaranteed.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 33,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Settlement",
-    "difficulty": "Medium",
-    "question": "What is settlement annuity? - Scenario 45",
+    "question": "What is guarantee period regarding eligibility?",
     "options": [
-      "Only for RRSP",
-      "Only term",
-      "Annuity purchased with life death benefit to pay beneficiary as income",
-      "No settlement"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Minimum years guaranteed even if die early",
+      "Automatically void"
     ],
     "correctAnswer": 2,
-    "explanation": "Settlement option allows beneficiary to take proceeds as annuity.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 34,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Impaired",
-    "difficulty": "Medium",
-    "question": "What is impaired annuity? - Scenario 58",
+    "question": "What is life annuity regarding calculation?",
     "options": [
-      "Higher income for health impairment shorter life expectancy",
-      "Same",
-      "No impaired",
-      "Lower income"
+      "Not applicable under Insurance Act",
+      "Pays income for life, longevity protection",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Impaired annuity gives higher income for impaired health.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 35,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Tax",
-    "difficulty": "Hard",
-    "question": "What is prescribed vs non-prescribed annuity tax? - Scenario 34",
+    "question": "What is term certain annuity regarding application?",
     "options": [
-      "Prescribed level taxable portion, non-prescribed accrual rising taxable",
-      "Prescribed fully taxable",
-      "Non-prescribed tax-free",
-      "Same"
+      "Pays for fixed period only, no life contingency",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Prescribed annuity levelizes tax, non-prescribed front-loaded.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 36,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Disclosure",
-    "difficulty": "Medium",
-    "question": "Best practice explaining annuity?",
+    "question": "What is guarantee period regarding taxation?",
     "options": [
-      "Say refundable always",
-      "Say liquid anytime",
-      "No need explain",
-      "Explain no liquidity after annuitization, guarantee, tax, income amount not guaranteed until purchase"
+      "Minimum years guaranteed even if die early",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
-    "correctAnswer": 3,
-    "explanation": "Must explain irrevocable nature and lack of liquidity.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 37,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Pricing",
-    "difficulty": "Medium",
-    "question": "What affects annuity income amount?",
+    "question": "What is life annuity regarding eligibility?",
     "options": [
-      "Only age",
-      "Only premium",
-      "Age, sex, interest rates, premium, guarantee period, type",
-      "Only sex"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Pays income for life, longevity protection",
+      "No such provision exists"
     ],
     "correctAnswer": 2,
-    "explanation": "Annuity pricing based on mortality and interest rates.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 38,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Purpose",
-    "difficulty": "Easy",
-    "question": "What is annuity vs life insurance purpose? - Scenario 38",
+    "question": "What is term certain annuity regarding calculation?",
     "options": [
-      "Annuity protects living too long, life insurance protects dying too soon",
-      "Same purpose",
-      "Life protects longevity",
-      "Annuity protects death"
+      "Pays for fixed period only, no life contingency",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Annuity longevity risk, life insurance mortality risk.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 39,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Deferred",
-    "difficulty": "Easy",
-    "question": "What is accumulation annuity?",
+    "question": "What is guarantee period regarding application?",
     "options": [
-      "Deferred annuity where funds accumulate then annuitize later",
-      "Immediate income",
-      "Only term",
-      "No accumulation"
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Minimum years guaranteed even if die early"
     ],
-    "correctAnswer": 0,
-    "explanation": "Accumulation (deferred) annuity accumulates with interest before payout.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 40,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Guarantee",
-    "difficulty": "Medium",
-    "question": "What is guarantee period in life annuity? - Scenario 50",
+    "question": "What is life annuity regarding taxation?",
     "options": [
-      "If annuitant dies early, beneficiary gets remaining guarantee payments",
-      "Only for term",
-      "Guarantee means higher income",
-      "No guarantee"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Pays income for life, longevity protection",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Guarantee period ensures minimum payments e.g., 10 years.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 41,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Guarantee",
-    "difficulty": "Medium",
-    "question": "What is guarantee period in life annuity?",
+    "question": "What is term certain annuity regarding eligibility?",
     "options": [
-      "If annuitant dies early, beneficiary gets remaining guarantee payments",
-      "Guarantee means higher income",
-      "No guarantee",
-      "Only for term"
+      "Pays for fixed period only, no life contingency",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Guarantee period ensures minimum payments e.g., 10 years.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 42,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Deferred",
-    "difficulty": "Easy",
-    "question": "What is accumulation annuity? - Scenario 18",
+    "question": "What is guarantee period regarding calculation?",
     "options": [
-      "Only term",
-      "Deferred annuity where funds accumulate then annuitize later",
-      "Immediate income",
-      "No accumulation"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Minimum years guaranteed even if die early",
+      "Automatically void"
     ],
-    "correctAnswer": 1,
-    "explanation": "Accumulation (deferred) annuity accumulates with interest before payout.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 43,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Life Annuity",
-    "difficulty": "Easy",
-    "question": "Life annuity pays?",
+    "question": "What is life annuity regarding application?",
     "options": [
-      "Death benefit only",
-      "Lump sum only",
-      "Income 10 years only",
-      "Income for life of annuitant"
+      "Automatically void",
+      "Pays income for life, longevity protection",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 3,
-    "explanation": "Life annuity provides income for life, protects longevity risk.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 44,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Indexed",
-    "difficulty": "Medium",
-    "question": "What is indexed annuity?",
+    "question": "What is term certain annuity regarding taxation?",
     "options": [
-      "Decreases",
-      "No index",
-      "Income increases with inflation index",
-      "Fixed always"
+      "Not applicable under Insurance Act",
+      "Pays for fixed period only, no life contingency",
+      "No such provision exists",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 2,
-    "explanation": "Indexed annuity increases with CPI, starts lower.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 45,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Cashable",
-    "difficulty": "Medium",
-    "question": "What is cashable vs non-cashable annuity? - Scenario 41",
+    "question": "What is guarantee period regarding eligibility?",
     "options": [
-      "Same",
-      "Cashable pays more",
-      "Non-cashable cashable anytime",
-      "Cashable allows commutation, non-cashable cannot be cashed, pays more"
+      "Not applicable under Insurance Act",
+      "Minimum years guaranteed even if die early",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
-    "correctAnswer": 3,
-    "explanation": "Non-cashable cannot be surrendered, higher income.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 46,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Guarantee",
-    "difficulty": "Medium",
-    "question": "What is guarantee period in life annuity? - Scenario 35",
+    "question": "What is life annuity regarding calculation?",
     "options": [
-      "Only for term",
-      "No guarantee",
-      "Guarantee means higher income",
-      "If annuitant dies early, beneficiary gets remaining guarantee payments"
+      "Not applicable under Insurance Act",
+      "Pays income for life, longevity protection",
+      "No such provision exists",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 3,
-    "explanation": "Guarantee period ensures minimum payments e.g., 10 years.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 47,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Joint",
-    "difficulty": "Medium",
-    "question": "Joint and last survivor annuity? - Scenario 51",
+    "question": "What is term certain annuity regarding application?",
     "options": [
-      "Pays until second spouse dies",
-      "No survivor",
-      "Pays term only",
-      "Pays first death only"
+      "Taxed as employment income at source",
+      "Pays for fixed period only, no life contingency",
+      "Automatically void",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Joint last survivor continues to survivor, lower payment than single life.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 48,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Term Certain",
-    "difficulty": "Easy",
-    "question": "Term certain annuity? - Scenario 32",
+    "question": "What is guarantee period regarding taxation?",
     "options": [
-      "Pays for fixed term regardless of life",
-      "Pays for life only",
-      "No payout",
-      "Pays only on death"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Minimum years guaranteed even if die early"
     ],
-    "correctAnswer": 0,
-    "explanation": "Term certain pays for fixed period e.g., 10 years.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 49,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "RRIF",
-    "difficulty": "Medium",
-    "question": "When is RRIF annuity taxation? - Scenario 25",
+    "question": "What is life annuity regarding eligibility?",
     "options": [
-      "Income fully taxable as income when paid",
-      "Tax-free",
-      "50% taxable",
-      "Capital gain"
+      "Taxed as employment income at source",
+      "Pays income for life, longevity protection",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Annuity from RRSP/RRIF fully taxable income.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 50,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Purpose",
-    "difficulty": "Easy",
-    "question": "What is annuity vs life insurance purpose? - Scenario 23",
+    "question": "What is term certain annuity regarding calculation?",
     "options": [
-      "Life protects longevity",
-      "Same purpose",
-      "Annuity protects living too long, life insurance protects dying too soon",
-      "Annuity protects death"
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Pays for fixed period only, no life contingency"
     ],
-    "correctAnswer": 2,
-    "explanation": "Annuity longevity risk, life insurance mortality risk.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 51,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Life Annuity",
-    "difficulty": "Easy",
-    "question": "Life annuity pays? - Scenario 16",
+    "question": "What is guarantee period regarding application?",
     "options": [
-      "Income 10 years only",
-      "Income for life of annuitant",
-      "Lump sum only",
-      "Death benefit only"
+      "Not applicable under Insurance Act",
+      "Minimum years guaranteed even if die early",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
     "correctAnswer": 1,
-    "explanation": "Life annuity provides income for life, protects longevity risk.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 52,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Purpose",
-    "difficulty": "Easy",
-    "question": "What is annuity vs life insurance purpose? - Scenario 53",
+    "question": "What is life annuity regarding taxation?",
     "options": [
-      "Life protects longevity",
-      "Annuity protects living too long, life insurance protects dying too soon",
-      "Annuity protects death",
-      "Same purpose"
+      "Taxed as employment income at source",
+      "Pays income for life, longevity protection",
+      "No such provision exists",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 1,
-    "explanation": "Annuity longevity risk, life insurance mortality risk.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 53,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Tax",
-    "difficulty": "Hard",
-    "question": "What is prescribed vs non-prescribed annuity tax? - Scenario 49",
+    "question": "What is term certain annuity regarding eligibility?",
     "options": [
-      "Prescribed fully taxable",
-      "Non-prescribed tax-free",
-      "Prescribed level taxable portion, non-prescribed accrual rising taxable",
-      "Same"
+      "Not applicable under Insurance Act",
+      "Pays for fixed period only, no life contingency",
+      "Automatically void",
+      "No such provision exists"
     ],
-    "correctAnswer": 2,
-    "explanation": "Prescribed annuity levelizes tax, non-prescribed front-loaded.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 54,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Disclosure",
-    "difficulty": "Medium",
-    "question": "Best practice explaining annuity? - Scenario 59",
+    "question": "What is guarantee period regarding calculation?",
     "options": [
-      "Say refundable always",
-      "Say liquid anytime",
-      "No need explain",
-      "Explain no liquidity after annuitization, guarantee, tax, income amount not guaranteed until purchase"
+      "Taxed as employment income at source",
+      "Minimum years guaranteed even if die early",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
-    "correctAnswer": 3,
-    "explanation": "Must explain irrevocable nature and lack of liquidity.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 55,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Comparison",
-    "difficulty": "Medium",
-    "question": "What is GIC vs annuity difference?",
+    "question": "What is life annuity regarding application?",
     "options": [
-      "GIC principal returned, annuity principal converted to income may have no residual",
-      "Annuity always refundable",
-      "Same",
-      "GIC no principal"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Automatically void",
+      "Pays income for life, longevity protection"
     ],
-    "correctAnswer": 0,
-    "explanation": "Annuity converts capital to income, may have no residual unless guaranteed.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 56,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Term Certain",
-    "difficulty": "Easy",
-    "question": "Term certain annuity? - Scenario 47",
+    "question": "What is term certain annuity regarding taxation?",
     "options": [
-      "Pays only on death",
-      "Pays for life only",
-      "No payout",
-      "Pays for fixed term regardless of life"
+      "Pays for fixed period only, no life contingency",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
-    "correctAnswer": 3,
-    "explanation": "Term certain pays for fixed period e.g., 10 years.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 57,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Tax",
-    "difficulty": "Hard",
-    "question": "What is prescribed vs non-prescribed annuity tax? - Scenario 19",
+    "question": "What is guarantee period regarding eligibility?",
     "options": [
-      "Prescribed fully taxable",
-      "Prescribed level taxable portion, non-prescribed accrual rising taxable",
-      "Same",
-      "Non-prescribed tax-free"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Minimum years guaranteed even if die early",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 1,
-    "explanation": "Prescribed annuity levelizes tax, non-prescribed front-loaded.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 58,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Indexed",
-    "difficulty": "Medium",
-    "question": "What is indexed annuity? - Scenario 42",
+    "question": "What is life annuity regarding calculation?",
     "options": [
-      "Fixed always",
-      "No index",
-      "Income increases with inflation index",
-      "Decreases"
+      "Taxed as employment income at source",
+      "Pays income for life, longevity protection",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 2,
-    "explanation": "Indexed annuity increases with CPI, starts lower.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 1,
+    "explanation": "Longevity.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 59,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Disclosure",
-    "difficulty": "Medium",
-    "question": "Best practice explaining annuity? - Scenario 29",
+    "question": "What is term certain annuity regarding application?",
     "options": [
-      "Say refundable always",
-      "No need explain",
-      "Explain no liquidity after annuitization, guarantee, tax, income amount not guaranteed until purchase",
-      "Say liquid anytime"
+      "Automatically void",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Pays for fixed period only, no life contingency"
     ],
-    "correctAnswer": 2,
-    "explanation": "Must explain irrevocable nature and lack of liquidity.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 3,
+    "explanation": "Term certain.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 60,
     "moduleId": "annuities",
-    "moduleName": "Annuities",
-    "topic": "Comparison",
-    "difficulty": "Medium",
-    "question": "What is GIC vs annuity difference? - Scenario 24",
+    "question": "What is guarantee period regarding taxation?",
     "options": [
-      "Same",
-      "Annuity always refundable",
-      "GIC no principal",
-      "GIC principal returned, annuity principal converted to income may have no residual"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Minimum years guaranteed even if die early",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 3,
-    "explanation": "Annuity converts capital to income, may have no residual unless guaranteed.",
-    "source": "CISRO Annuities + CRA Prescribed Annuity rules public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 2,
+    "explanation": "Guarantee.",
+    "topic": "General",
+    "difficulty": "Medium"
   }
 ]

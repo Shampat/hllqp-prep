@@ -2,901 +2,901 @@
   {
     "id": 1,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 2,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Named beneficiary receives proceeds without probate fees",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 3,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Death benefit minus ACB credited to Capital Dividend Account",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 4,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Use life insurance to equalize inheritance among children"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 5,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 6,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Automatically void",
+      "Named beneficiary receives proceeds without probate fees"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 7,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Death benefit minus ACB credited to Capital Dividend Account",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 8,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Use life insurance to equalize inheritance among children",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 9,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 10,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Automatically void",
+      "Named beneficiary receives proceeds without probate fees",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 11,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Death benefit minus ACB credited to Capital Dividend Account",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Automatically void"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 12,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Use life insurance to equalize inheritance among children",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 13,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Automatically void"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 14,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Named beneficiary receives proceeds without probate fees",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 15,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Not applicable under Insurance Act",
+      "Death benefit minus ACB credited to Capital Dividend Account"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 16,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Use life insurance to equalize inheritance among children"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 17,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 18,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Named beneficiary receives proceeds without probate fees",
+      "No such provision exists",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 19,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Death benefit minus ACB credited to Capital Dividend Account"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 20,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Use life insurance to equalize inheritance among children",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 21,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts",
+      "Automatically void",
+      "No such provision exists",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 22,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Named beneficiary receives proceeds without probate fees",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 23,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Death benefit minus ACB credited to Capital Dividend Account"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 24,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Use life insurance to equalize inheritance among children"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 25,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 26,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Named beneficiary receives proceeds without probate fees",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 27,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Death benefit minus ACB credited to Capital Dividend Account",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 28,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Use life insurance to equalize inheritance among children",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 29,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 30,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Named beneficiary receives proceeds without probate fees"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 31,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Death benefit minus ACB credited to Capital Dividend Account"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 32,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Use life insurance to equalize inheritance among children",
+      "No such provision exists",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 33,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 34,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Named beneficiary receives proceeds without probate fees",
+      "No such provision exists",
+      "Taxed as employment income at source"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 35,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "No such provision exists",
+      "Death benefit minus ACB credited to Capital Dividend Account",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 36,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Use life insurance to equalize inheritance among children",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 37,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 38,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Named beneficiary receives proceeds without probate fees",
+      "Not applicable under Insurance Act",
+      "Automatically void",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 39,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Death benefit minus ACB credited to Capital Dividend Account",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 40,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "No such provision exists",
+      "Use life insurance to equalize inheritance among children",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 41,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 42,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Named beneficiary receives proceeds without probate fees",
+      "Automatically void",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 43,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Death benefit minus ACB credited to Capital Dividend Account",
+      "Not applicable under Insurance Act",
+      "No such provision exists"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 44,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Use life insurance to equalize inheritance among children",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 45,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 46,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Named beneficiary receives proceeds without probate fees",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 47,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Death benefit minus ACB credited to Capital Dividend Account",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "No such provision exists"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 48,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Use life insurance to equalize inheritance among children",
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 49,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 50,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Taxed as employment income at source",
+      "Named beneficiary receives proceeds without probate fees"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 51,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "No such provision exists",
+      "Death benefit minus ACB credited to Capital Dividend Account",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 52,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Use life insurance to equalize inheritance among children",
+      "Taxed as employment income at source",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 53,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Taxed as employment income at source",
+      "Automatically void",
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 54,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Automatically void",
+      "Named beneficiary receives proceeds without probate fees",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 55,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Not applicable under Insurance Act",
+      "Death benefit minus ACB credited to Capital Dividend Account",
+      "No such provision exists",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 56,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Use life insurance to equalize inheritance among children",
+      "Not applicable under Insurance Act",
+      "Automatically void"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 57,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "How does life insurance help estate planning regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Not applicable under Insurance Act",
+      "No such provision exists",
+      "Creates immediate tax-free liquidity at death to pay final taxes and debts"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Immediate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 58,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is probate bypass regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "No such provision exists",
+      "Automatically void",
+      "Not applicable under Insurance Act",
+      "Named beneficiary receives proceeds without probate fees"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 3,
+    "explanation": "Estate advantage.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 59,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is CDA credit regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Taxed as employment income at source",
+      "Death benefit minus ACB credited to Capital Dividend Account",
+      "No such provision exists",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 1,
+    "explanation": "Corporate estate.",
+    "topic": "General",
     "difficulty": "Medium"
   },
   {
     "id": 60,
     "moduleId": "estate",
-    "question": "In estate planning, what is a key consideration for suitability?",
+    "question": "What is estate equalization regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features",
-      "Only price matters",
-      "Only agent commission matters",
-      "Client age irrelevant"
+      "Automatically void",
+      "Taxed as employment income at source",
+      "Use life insurance to equalize inheritance among children",
+      "Not applicable under Insurance Act"
     ],
-    "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "correctAnswer": 2,
+    "explanation": "Equalization.",
+    "topic": "General",
     "difficulty": "Medium"
   }
 ]

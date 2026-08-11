@@ -2,650 +2,650 @@
   {
     "id": 1,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is group life insurance?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Employer sponsored, limited evidence to limit, lower cost"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Group term.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 2,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is 31-day conversion privilege?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Convert group to individual without medical within 31 days of leaving"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Conversion.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 3,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is coordination of benefits?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Two plans coordinate to max 100% of eligible expenses"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "COB.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 4,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit taxable if employer pays?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, taxable if employer paid premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Taxable.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 5,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit tax-free if employee pays?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, tax-free if employee pays premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Tax-free.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 6,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is group life insurance regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Employer sponsored, limited evidence to limit, lower cost"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Group term.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 7,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is 31-day conversion privilege regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Convert group to individual without medical within 31 days of leaving"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Conversion.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 8,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is coordination of benefits regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Two plans coordinate to max 100% of eligible expenses"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "COB.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 9,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit taxable if employer pays regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, taxable if employer paid premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Taxable.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 10,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit tax-free if employee pays regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, tax-free if employee pays premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Tax-free.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 11,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is group life insurance regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Employer sponsored, limited evidence to limit, lower cost"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Group term.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 12,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is 31-day conversion privilege regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Convert group to individual without medical within 31 days of leaving"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Conversion.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 13,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is coordination of benefits regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Two plans coordinate to max 100% of eligible expenses"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "COB.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 14,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit taxable if employer pays regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, taxable if employer paid premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Taxable.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 15,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit tax-free if employee pays regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, tax-free if employee pays premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Tax-free.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 16,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is group life insurance regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Employer sponsored, limited evidence to limit, lower cost"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Group term.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 17,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is 31-day conversion privilege regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Convert group to individual without medical within 31 days of leaving"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Conversion.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 18,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is coordination of benefits regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Two plans coordinate to max 100% of eligible expenses"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "COB.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 19,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit taxable if employer pays regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, taxable if employer paid premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Taxable.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 20,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit tax-free if employee pays regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, tax-free if employee pays premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Tax-free.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 21,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is group life insurance regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Employer sponsored, limited evidence to limit, lower cost"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Group term.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 22,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is 31-day conversion privilege regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Convert group to individual without medical within 31 days of leaving"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Conversion.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 23,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is coordination of benefits regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Two plans coordinate to max 100% of eligible expenses"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "COB.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 24,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit taxable if employer pays regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, taxable if employer paid premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Taxable.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 25,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit tax-free if employee pays regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, tax-free if employee pays premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Tax-free.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 26,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is group life insurance regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Employer sponsored, limited evidence to limit, lower cost"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Group term.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 27,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is 31-day conversion privilege regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Convert group to individual without medical within 31 days of leaving"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Conversion.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 28,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is coordination of benefits regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Two plans coordinate to max 100% of eligible expenses"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "COB.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 29,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit taxable if employer pays regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, taxable if employer paid premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Taxable.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 30,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit tax-free if employee pays regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, tax-free if employee pays premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Tax-free.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 31,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is group life insurance regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Employer sponsored, limited evidence to limit, lower cost"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Group term.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 32,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is 31-day conversion privilege regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Convert group to individual without medical within 31 days of leaving"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Conversion.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 33,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is coordination of benefits regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Two plans coordinate to max 100% of eligible expenses"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "COB.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 34,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit taxable if employer pays regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, taxable if employer paid premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Taxable.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 35,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit tax-free if employee pays regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, tax-free if employee pays premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Tax-free.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 36,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is group life insurance regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Employer sponsored, limited evidence to limit, lower cost"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Group term.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 37,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is 31-day conversion privilege regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Convert group to individual without medical within 31 days of leaving"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Conversion.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 38,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is coordination of benefits regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Two plans coordinate to max 100% of eligible expenses"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "COB.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 39,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit taxable if employer pays regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, taxable if employer paid premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Taxable.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 40,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit tax-free if employee pays regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, tax-free if employee pays premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Tax-free.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 41,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is group life insurance regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Employer sponsored, limited evidence to limit, lower cost"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Group term.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 42,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is 31-day conversion privilege regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Convert group to individual without medical within 31 days of leaving"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Conversion.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 43,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is coordination of benefits regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Two plans coordinate to max 100% of eligible expenses"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "COB.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 44,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit taxable if employer pays regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, taxable if employer paid premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Taxable.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 45,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit tax-free if employee pays regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, tax-free if employee pays premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Tax-free.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 46,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is group life insurance regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Employer sponsored, limited evidence to limit, lower cost"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Group term.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 47,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is 31-day conversion privilege regarding application?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Convert group to individual without medical within 31 days of leaving"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Conversion.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 48,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "What is coordination of benefits regarding taxation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Two plans coordinate to max 100% of eligible expenses"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "COB.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 49,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit taxable if employer pays regarding eligibility?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, taxable if employer paid premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Taxable.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 50,
     "moduleId": "group_insurance",
-    "question": "In group insurance planning, what is a key consideration for suitability?",
+    "question": "Is group LTD benefit tax-free if employee pays regarding calculation?",
     "options": [
-      "Client needs, affordability, insurable interest, and long-term goals must align with product features\n\nProfessional suitability requires KYC, needs analysis, and best interest duty."
+      "Yes, tax-free if employee pays premium"
     ],
     "correctAnswer": 0,
-    "explanation": "Professional suitability requires KYC, needs analysis, and best interest duty.",
-    "topic": "Suitability",
+    "explanation": "Tax-free.",
+    "topic": "General",
     "difficulty": "Medium",
     "isFlashcard": true
   }

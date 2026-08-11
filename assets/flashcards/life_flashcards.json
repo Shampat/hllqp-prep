@@ -4,10 +4,10 @@
     "moduleId": "life",
     "question": "What is the primary purpose of life insurance?",
     "options": [
-      "To provide financial protection to beneficiaries upon death of insured\n\nLife insurance protects dependents by replacing lost income and covering final expenses at death."
+      "Provide tax-free death benefit to replace income and pay final taxes and liabilities"
     ],
     "correctAnswer": 0,
-    "explanation": "Life insurance protects dependents by replacing lost income and covering final expenses at death.",
+    "explanation": "Creates immediate estate at death.",
     "topic": "Fundamentals",
     "difficulty": "Easy",
     "isFlashcard": true
@@ -15,637 +15,637 @@
   {
     "id": 2,
     "moduleId": "life",
-    "question": "What is meant by insurable interest for life insurance?",
+    "question": "When must insurable interest exist for life insurance?",
     "options": [
-      "Policyowner must suffer financial loss if insured dies, must exist at application\n\nInsurable interest at time of application ensures policy not a wager. Owner must have financial interest in insured's life."
+      "At time of application to prevent wagering"
     ],
     "correctAnswer": 0,
-    "explanation": "Insurable interest at time of application ensures policy not a wager. Owner must have financial interest in insured's life.",
-    "topic": "Insurable Interest",
+    "explanation": "Must have financial interest.",
+    "topic": "Interest",
     "difficulty": "Easy",
     "isFlashcard": true
   },
   {
     "id": 3,
     "moduleId": "life",
-    "question": "What is the difference between term and whole life insurance?",
+    "question": "What is renewable term insurance?",
     "options": [
-      "Term is temporary with no cash value, whole life is permanent with cash value\n\nTerm covers specific years, no CV, cheaper. Whole life is lifetime, cash value, higher premium."
+      "Guarantees renewal without medical evidence, premium increases by age band"
     ],
     "correctAnswer": 0,
-    "explanation": "Term covers specific years, no CV, cheaper. Whole life is lifetime, cash value, higher premium.",
-    "topic": "Types",
+    "explanation": "Protects insurability.",
+    "topic": "Term",
     "difficulty": "Easy",
     "isFlashcard": true
   },
   {
     "id": 4,
     "moduleId": "life",
-    "question": "What is the Regulation 306 exempt test?",
+    "question": "What is convertible term insurance?",
     "options": [
-      "CRA test that limits tax-free cash value growth inside life policy - if cash exceeds limit, policy becomes non-exempt and taxed annually\n\nUnder ITA Reg 306, cash value compared to benchmark 20-pay endowment at age 85. Excess = non-exempt, T5 taxable annually."
+      "Allows conversion to permanent without medical within conversion period"
     ],
     "correctAnswer": 0,
-    "explanation": "Under ITA Reg 306, cash value compared to benchmark 20-pay endowment at age 85. Excess = non-exempt, T5 taxable annually.",
-    "topic": "Taxation",
-    "difficulty": "Hard",
+    "explanation": "Protects future insurability.",
+    "topic": "Term",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 5,
     "moduleId": "life",
-    "question": "In a participating whole life policy, what are dividends?",
+    "question": "What is joint first-to-die life insurance?",
     "options": [
-      "A refund of excess premium that can buy paid-up additions, reduce premium, or be taken as cash\n\nDividends are non-guaranteed return of surplus. Not taxable if used for PUA. Options: cash, PUA, accumulation, premium reduction."
+      "Pays on first death of two insureds, used for mortgage and income replacement"
     ],
     "correctAnswer": 0,
-    "explanation": "Dividends are non-guaranteed return of surplus. Not taxable if used for PUA. Options: cash, PUA, accumulation, premium reduction.",
-    "topic": "Par Policies",
+    "explanation": "Ends at first death.",
+    "topic": "Joint",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 6,
     "moduleId": "life",
-    "question": "What happens when a policyowner takes a policy loan exceeding ACB?",
+    "question": "What is joint last-to-die life insurance?",
     "options": [
-      "Excess over ACB is taxable income and reported on T5\n\nITA 148: policy loan is disposition. Amount exceeding Adjusted Cost Basis is taxable income."
+      "Pays on second death, used for estate taxes and capital gains"
     ],
     "correctAnswer": 0,
-    "explanation": "ITA 148: policy loan is disposition. Amount exceeding Adjusted Cost Basis is taxable income.",
-    "topic": "Policy Loans",
-    "difficulty": "Hard",
+    "explanation": "Pays at second death.",
+    "topic": "Joint",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 7,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about T-100 is correct?",
+    "question": "What is Term to 100 insurance?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 7. Focus on definition, premium structure, and suitability."
+      "Permanent insurance to age 100 with no cash value and low-cost permanent coverage"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 7. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "No cash value.",
+    "topic": "Permanent",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 8,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about whole life limited pay is correct?",
+    "question": "What is 20-pay whole life?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 8. Focus on definition, premium structure, and suitability."
+      "Premiums for 20 years then paid-up for life with cash value and dividends if participating"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 8. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Faster paid-up.",
+    "topic": "Whole Life",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 9,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about estate planning is correct?",
+    "question": "What is Level COI in universal life?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 9. Focus on definition, premium structure, and suitability."
+      "Level cost of insurance for life, higher in early years, best for long-term accumulation"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 9. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Stable cost.",
+    "topic": "UL",
+    "difficulty": "Hard",
     "isFlashcard": true
   },
   {
     "id": 10,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about renewable term is correct?",
+    "question": "What is YRT COI in universal life?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 10. Focus on definition, premium structure, and suitability."
+      "Yearly renewable term COI that increases annually with attained age"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 10. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Cheaper early.",
+    "topic": "UL",
+    "difficulty": "Hard",
     "isFlashcard": true
   },
   {
     "id": 11,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about convertible term is correct?",
+    "question": "What are the five par dividend options?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 11. Focus on definition, premium structure, and suitability."
+      "Cash, paid-up additions, accumulation at interest, premium reduction, term addition"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 11. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Dividends not guaranteed.",
+    "topic": "Par",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 12,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about joint first-to-die is correct?",
+    "question": "What is a paid-up addition (PUA)?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 12. Focus on definition, premium structure, and suitability."
+      "Fully paid-up permanent insurance purchased with dividend, increases cash value and death benefit"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 12. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Increases CSV.",
+    "topic": "Par",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 13,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about joint last-to-die is correct?",
+    "question": "What is cash surrender value?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 13. Focus on definition, premium structure, and suitability."
+      "Amount payable to owner on surrender after surrender charges and fees"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 13. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Living benefit.",
+    "topic": "CSV",
+    "difficulty": "Easy",
     "isFlashcard": true
   },
   {
     "id": 14,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about UL Level COI is correct?",
+    "question": "What happens when cash value exceeds Regulation 306 exempt limit?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 14. Focus on definition, premium structure, and suitability."
+      "Policy becomes non-exempt and excess growth taxed annually with T5 slip"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 14. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Benchmark is 20-pay endowment at 85.",
+    "topic": "Exempt",
+    "difficulty": "Hard",
     "isFlashcard": true
   },
   {
     "id": 15,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about UL Yearly Renewable Term is correct?",
+    "question": "How is a policy loan taxed under ITA 148?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 15. Focus on definition, premium structure, and suitability."
+      "Excess of loan over ACB is taxable income, loan is a disposition"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 15. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "ACB = premiums - NCPI.",
+    "topic": "Tax",
+    "difficulty": "Hard",
     "isFlashcard": true
   },
   {
     "id": 16,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about decreasing term is correct?",
+    "question": "What is ACB in life insurance?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 16. Focus on definition, premium structure, and suitability."
+      "Adjusted cost basis equals premiums paid minus NCPI, used to calculate taxable gain"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 16. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Declines over time.",
+    "topic": "Tax",
+    "difficulty": "Hard",
     "isFlashcard": true
   },
   {
     "id": 17,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about T-100 is correct?",
+    "question": "What is NCPI?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 17. Focus on definition, premium structure, and suitability."
+      "Net cost of pure insurance, CRA deemed mortality cost deducted to calculate ACB"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 17. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Rises with age.",
+    "topic": "Tax",
+    "difficulty": "Hard",
     "isFlashcard": true
   },
   {
     "id": 18,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about whole life limited pay is correct?",
+    "question": "How is gain taxed on surrender?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 18. Focus on definition, premium structure, and suitability."
+      "CSV minus ACB is taxable as income under ITA 148"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 18. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Disposition taxed.",
+    "topic": "Tax",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 19,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about estate planning is correct?",
+    "question": "What is collateral assignment?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 19. Focus on definition, premium structure, and suitability."
+      "Assign policy as collateral for loan, creditor gets limited rights to cash value"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 19. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Security for bank loan.",
+    "topic": "Assignment",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 20,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about renewable term is correct?",
+    "question": "What is absolute assignment?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 20. Focus on definition, premium structure, and suitability."
+      "Transfer all ownership rights to new owner"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 20. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "New owner gets all rights.",
+    "topic": "Assignment",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 21,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about convertible term is correct?",
+    "question": "What is a revocable beneficiary?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 21. Focus on definition, premium structure, and suitability."
+      "Owner can change beneficiary without beneficiary consent, default type"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 21. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Can change anytime.",
+    "topic": "Beneficiary",
+    "difficulty": "Easy",
     "isFlashcard": true
   },
   {
     "id": 22,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about joint first-to-die is correct?",
+    "question": "What is an irrevocable beneficiary?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 22. Focus on definition, premium structure, and suitability."
+      "Owner cannot change without beneficiary written consent, vested right"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 22. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Needs consent.",
+    "topic": "Beneficiary",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 23,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about joint last-to-die is correct?",
+    "question": "What is a contingent beneficiary?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 23. Focus on definition, premium structure, and suitability."
+      "Backup beneficiary if primary beneficiary predeceases insured"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 23. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Second in line.",
+    "topic": "Beneficiary",
+    "difficulty": "Easy",
     "isFlashcard": true
   },
   {
     "id": 24,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about UL Level COI is correct?",
+    "question": "What is a preferred beneficiary under Insurance Act?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 24. Focus on definition, premium structure, and suitability."
+      "Spouse, child, parent, grandchild with statutory creditor protection"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 24. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Creditor protected.",
+    "topic": "Beneficiary",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 25,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about UL Yearly Renewable Term is correct?",
+    "question": "What is waiver of premium rider?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 25. Focus on definition, premium structure, and suitability."
+      "Waives premiums if totally disabled after elimination period"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 25. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Keeps policy in force.",
+    "topic": "Rider",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 26,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about decreasing term is correct?",
+    "question": "What is accidental death and dismemberment rider?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 26. Focus on definition, premium structure, and suitability."
+      "Pays additional benefit if death by accident, double indemnity"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 26. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Accidental only.",
+    "topic": "Rider",
+    "difficulty": "Easy",
     "isFlashcard": true
   },
   {
     "id": 27,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about T-100 is correct?",
+    "question": "What is guaranteed insurability rider?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 27. Focus on definition, premium structure, and suitability."
+      "Allows purchase of additional insurance without medical at life events"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 27. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Marriage, birth, etc.",
+    "topic": "Rider",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 28,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about whole life limited pay is correct?",
+    "question": "What is payor benefit rider?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 28. Focus on definition, premium structure, and suitability."
+      "Waives premiums on juvenile policy if payor dies or becomes disabled"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 28. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "For child policy.",
+    "topic": "Rider",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 29,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about estate planning is correct?",
+    "question": "What is return of premium rider on term?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 29. Focus on definition, premium structure, and suitability."
+      "Returns premiums if insured survives term, expensive rider"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 29. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "ROP term.",
+    "topic": "Rider",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 30,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about renewable term is correct?",
+    "question": "What is decreasing term insurance?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 30. Focus on definition, premium structure, and suitability."
+      "Death benefit decreases over time with level premium, matches mortgage"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 30. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Matches declining debt.",
+    "topic": "Term",
+    "difficulty": "Easy",
     "isFlashcard": true
   },
   {
     "id": 31,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about convertible term is correct?",
+    "question": "What is human life value approach?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 31. Focus on definition, premium structure, and suitability."
+      "Calculates present value of future earnings to determine insurance need"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 31. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Income replacement method.",
+    "topic": "Needs",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 32,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about joint first-to-die is correct?",
+    "question": "What is needs analysis approach?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 32. Focus on definition, premium structure, and suitability."
+      "Calculates estate needs: final taxes, debts, income replacement, education"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 32. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Comprehensive.",
+    "topic": "Needs",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 33,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about joint last-to-die is correct?",
+    "question": "What is estate creation need?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 33. Focus on definition, premium structure, and suitability."
+      "Creates immediate estate at death to pay final taxes and liabilities"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 33. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Immediate estate.",
+    "topic": "Needs",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 34,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about UL Level COI is correct?",
+    "question": "What is mortgage protection need?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 34. Focus on definition, premium structure, and suitability."
+      "Term insurance matching mortgage balance to pay mortgage if death"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 34. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Vs creditor insurance.",
+    "topic": "Needs",
+    "difficulty": "Easy",
     "isFlashcard": true
   },
   {
     "id": 35,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about UL Yearly Renewable Term is correct?",
+    "question": "What is key person insurance?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 35. Focus on definition, premium structure, and suitability."
+      "Business insures key employee, business is owner and beneficiary"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 35. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Protects business.",
+    "topic": "Business",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 36,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about decreasing term is correct?",
+    "question": "What is buy-sell funding with life insurance?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 36. Focus on definition, premium structure, and suitability."
+      "Funds purchase of deceased partner shares, ensures business continuity"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 36. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Criss-cross or entity.",
+    "topic": "Business",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 37,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about T-100 is correct?",
+    "question": "What is a life annuity?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 37. Focus on definition, premium structure, and suitability."
+      "Pays income for life, protects against longevity risk"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 37. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Longevity insurance.",
+    "topic": "Annuity",
+    "difficulty": "Easy",
     "isFlashcard": true
   },
   {
     "id": 38,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about whole life limited pay is correct?",
+    "question": "What is a term certain annuity?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 38. Focus on definition, premium structure, and suitability."
+      "Pays income for fixed period only, no life contingency"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 38. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "No life contingency.",
+    "topic": "Annuity",
+    "difficulty": "Easy",
     "isFlashcard": true
   },
   {
     "id": 39,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about estate planning is correct?",
+    "question": "What is joint life annuity?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 39. Focus on definition, premium structure, and suitability."
+      "Pays income while either annuitant alive"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 39. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "For couples.",
+    "topic": "Annuity",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 40,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about renewable term is correct?",
+    "question": "What is guarantee period in annuities?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 40. Focus on definition, premium structure, and suitability."
+      "Minimum years payments guaranteed even if annuitant dies early"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 40. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "10-year common.",
+    "topic": "Annuity",
+    "difficulty": "Easy",
     "isFlashcard": true
   },
   {
     "id": 41,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about convertible term is correct?",
+    "question": "What is prescribed annuity taxation?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 41. Focus on definition, premium structure, and suitability."
+      "Level blended taxable portion each year using prescribed mortality tables"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 41. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Non-registered life annuities.",
+    "topic": "Tax",
+    "difficulty": "Hard",
     "isFlashcard": true
   },
   {
     "id": 42,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about joint first-to-die is correct?",
+    "question": "What is non-prescribed annuity taxation?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 42. Focus on definition, premium structure, and suitability."
+      "Accrual method, more interest taxed in early years, less later"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 42. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Front-loaded.",
+    "topic": "Tax",
+    "difficulty": "Hard",
     "isFlashcard": true
   },
   {
     "id": 43,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about joint last-to-die is correct?",
+    "question": "What is accumulation annuity?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 43. Focus on definition, premium structure, and suitability."
+      "Deferred annuity accumulating interest until annuitization"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 43. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Growth phase.",
+    "topic": "Annuity",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 44,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about UL Level COI is correct?",
+    "question": "What is a settlement option for beneficiaries?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 44. Focus on definition, premium structure, and suitability."
+      "Beneficiary can choose lump sum, life income, or term certain"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 44. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Choice at claim.",
+    "topic": "Settlement",
+    "difficulty": "Easy",
     "isFlashcard": true
   },
   {
     "id": 45,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about UL Yearly Renewable Term is correct?",
+    "question": "What is lapse in life insurance?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 45. Focus on definition, premium structure, and suitability."
+      "Policy terminates when premiums not paid and cash value exhausted"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 45. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
-    "difficulty": "Medium",
+    "explanation": "Loss of coverage.",
+    "topic": "Lapse",
+    "difficulty": "Easy",
     "isFlashcard": true
   },
   {
     "id": 46,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about decreasing term is correct?",
+    "question": "What is reinstatement?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 46. Focus on definition, premium structure, and suitability."
+      "Restore lapsed policy within 2 years with evidence of insurability and back premiums plus interest"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 46. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Requires insurability.",
+    "topic": "Lapse",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 47,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about T-100 is correct?",
+    "question": "What is automatic premium loan (APL)?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 47. Focus on definition, premium structure, and suitability."
+      "Automatically pays premium from cash value to prevent lapse"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 47. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Prevents lapse.",
+    "topic": "Lapse",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 48,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about whole life limited pay is correct?",
+    "question": "What are non-forfeiture options?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 48. Focus on definition, premium structure, and suitability."
+      "Cash surrender, reduced paid-up insurance, extended term insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 48. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Required by law.",
+    "topic": "Non-forfeiture",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 49,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about estate planning is correct?",
+    "question": "What is reduced paid-up insurance?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 49. Focus on definition, premium structure, and suitability."
+      "Use cash value as single premium for smaller paid-up permanent policy"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 49. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "No further premiums.",
+    "topic": "Non-forfeiture",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 50,
     "moduleId": "life",
-    "question": "Life insurance concept: Which statement about renewable term is correct?",
+    "question": "What is extended term insurance?",
     "options": [
-      "It provides specific benefits as defined in policy contract and provincial insurance act\n\nThis covers standard HLLQP life insurance curriculum for 50. Focus on definition, premium structure, and suitability."
+      "Use cash value as single premium for term insurance equal to original face amount"
     ],
     "correctAnswer": 0,
-    "explanation": "This covers standard HLLQP life insurance curriculum for 50. Focus on definition, premium structure, and suitability.",
-    "topic": "General",
+    "explanation": "Term duration depends on CSV.",
+    "topic": "Non-forfeiture",
     "difficulty": "Medium",
     "isFlashcard": true
   }
