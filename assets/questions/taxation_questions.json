@@ -2,1141 +2,901 @@
   {
     "id": 1,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Annuity",
-    "difficulty": "Hard",
-    "question": "Prescribed annuity taxation? - Scenario 58 ITA 148 reference",
+    "question": "What is the tax treatment when a life insurance policy fails the Regulation 306 exempt test?",
     "options": [
-      "Non-prescribed tax-free",
-      "Prescribed: interest and capital blended level taxed, non-prescribed: accrual",
-      "Both same",
-      "Prescribed fully taxable"
+      "Policy becomes non-exempt and annual growth exceeding limit is taxed as income to policyholder",
+      "Policy remains tax-free forever",
+      "Death benefit becomes fully taxable",
+      "Policy is cancelled by CRA"
     ],
-    "correctAnswer": 1,
-    "explanation": "Prescribed annuity level tax, non-prescribed accrual method.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Reg 306 sets max exempt cash value based on 20-pay endowment at 85. If actual CV > limit, policy is non-exempt. Growth taxed yearly as income (T5). Common with overfunded UL.",
+    "topic": "Exempt Test",
+    "difficulty": "Hard"
   },
   {
     "id": 2,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Loan",
-    "difficulty": "Hard",
-    "question": "Policy loan taxable when? - Scenario 19 ITA 148 reference",
+    "question": "How is a policy loan taxed under ITA Section 148?",
     "options": [
-      "Always taxable",
-      "Never taxable",
-      "When loan exceeds ACB excess taxable income T5",
-      "Only whole life"
+      "A policy loan is a disposition - amount exceeding ACB is taxable income",
+      "Policy loans are never taxable",
+      "Full loan amount is always taxable",
+      "Only interest is taxable"
     ],
-    "correctAnswer": 2,
-    "explanation": "ITA 148 loan is disposition excess over ACB income.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Under ITA 148, policy loan = disposition. ACB = premiums paid minus NCPI. Excess over ACB is income. T5 issued.",
+    "topic": "Policy Loans",
+    "difficulty": "Hard"
   },
   {
     "id": 3,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Stop-Loss",
-    "difficulty": "Hard",
-    "question": "Stop-loss rule ITA? - Scenario 55 ITA 148 reference",
+    "question": "What is the difference between prescribed and non-prescribed annuity taxation?",
     "options": [
-      "Only for group",
-      "No such rule",
-      "Only for term",
-      "Prevents using policy loss to offset gain in related transactions"
+      "Prescribed: equal blend of interest and capital taxed level each year. Non-prescribed: accrual method, interest higher early years",
+      "Both taxed same",
+      "Prescribed not taxed",
+      "Non-prescribed not allowed"
     ],
-    "correctAnswer": 3,
-    "explanation": "Stop-loss prevents artificial losses on transfers.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Prescribed annuity: level taxable portion using prescribed tables. Non-prescribed: accrual method with more interest taxed early. Prescribed available for non-registered funds from life annuities.",
+    "topic": "Annuities",
+    "difficulty": "Hard"
   },
   {
     "id": 4,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Comparison",
-    "difficulty": "Medium",
-    "question": "RRSP vs life insurance tax?",
+    "question": "What is the stop-loss rule in life insurance taxation?",
     "options": [
-      "Same",
-      "RRSP contribution deductible, withdrawal taxable income; Life death benefit tax-free but premiums not deductible (except business)",
-      "Life premiums deductible",
-      "RRSP death benefit tax-free"
+      "Prevents claiming artificial losses by transferring policy at loss to non-arm's length person",
+      "Allows unlimited losses",
+      "Applies to term only",
+      "No such rule exists"
     ],
-    "correctAnswer": 1,
-    "explanation": "RRSP deductible taxable on withdrawal, life death tax-free premiums non-deductible.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Stop-loss under ITA prevents creating artificial loss by transferring policy to related party or affiliate to trigger loss. Loss denied.",
+    "topic": "Stop-Loss",
+    "difficulty": "Hard"
   },
   {
     "id": 5,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Assignment",
-    "difficulty": "Medium",
-    "question": "Absolute assignment tax?",
+    "question": "What is Adjusted Cost Basis (ACB) of a life policy?",
     "options": [
-      "Never taxable",
-      "Always tax-free",
-      "Only if family",
-      "May trigger disposition if for consideration, gain taxable"
+      "Premiums paid minus Net Cost of Pure Insurance (NCPI)",
+      "Total premiums paid only",
+      "Cash value only",
+      "Face amount"
     ],
-    "correctAnswer": 3,
-    "explanation": "Absolute assignment for value may trigger gain.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "ACB = cumulative premiums - NCPI. Used to calculate taxable gain on surrender, loan, or disposition. ACB can become zero.",
+    "topic": "ACB",
+    "difficulty": "Medium"
   },
   {
     "id": 6,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Withdrawal",
-    "difficulty": "Hard",
-    "question": "Partial withdrawal (partial surrender) tax? - Scenario 50 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of capital dividend?",
     "options": [
-      "Never taxable",
-      "Always capital gain",
-      "Taxable gain if proceeds exceed ACB portion allocated",
-      "Tax-free"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 2,
-    "explanation": "Partial disposition gain = proceeds - ACB portion.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 7,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Annuity",
-    "difficulty": "Hard",
-    "question": "Prescribed annuity taxation?",
+    "question": "Taxation concept: What is the tax treatment of estate freeze?",
     "options": [
-      "Non-prescribed tax-free",
-      "Both same",
-      "Prescribed fully taxable",
-      "Prescribed: interest and capital blended level taxed, non-prescribed: accrual"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "Prescribed annuity level tax, non-prescribed accrual method.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 8,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Stop-Loss",
-    "difficulty": "Hard",
-    "question": "Stop-loss rule ITA?",
+    "question": "Taxation concept: What is the tax treatment of policy surrender gain?",
     "options": [
-      "No such rule",
-      "Only for group",
-      "Prevents using policy loss to offset gain in related transactions",
-      "Only for term"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 2,
-    "explanation": "Stop-loss prevents artificial losses on transfers.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 9,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Death Benefit",
-    "difficulty": "Easy",
-    "question": "Death benefit named beneficiary tax treatment ITA? - Scenario 46 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of death benefit?",
     "options": [
-      "Taxable income",
-      "Tax-free to beneficiary not income",
-      "Capital gain",
-      "50% taxable"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 1,
-    "explanation": "ITA death benefit lump sum generally tax-free to named beneficiary.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 10,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Stop-Loss",
-    "difficulty": "Hard",
-    "question": "Stop-loss rule ITA? - Scenario 40 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of disability benefit?",
     "options": [
-      "Prevents using policy loss to offset gain in related transactions",
-      "Only for group",
-      "Only for term",
-      "No such rule"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "Stop-loss prevents artificial losses on transfers.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 11,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Assignment",
-    "difficulty": "Medium",
-    "question": "Policy as collateral assignment tax? - Scenario 37 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of critical illness benefit?",
     "options": [
-      "Deemed disposition always",
-      "No disposition, no tax at assignment",
-      "Capital gain",
-      "Taxable at assignment"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 1,
-    "explanation": "Collateral assignment not disposition, no tax at that time.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 12,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Loan",
-    "difficulty": "Hard",
-    "question": "Policy loan taxable when? - Scenario 49 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of seg fund guarantee?",
     "options": [
-      "Only whole life",
-      "Always taxable",
-      "Never taxable",
-      "When loan exceeds ACB excess taxable income T5"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "ITA 148 loan is disposition excess over ACB income.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 13,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Surrender",
-    "difficulty": "Hard",
-    "question": "Full surrender tax? - Scenario 36 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of RRSP to RRIF?",
     "options": [
-      "Gain = CSV + loans - ACB taxable income",
-      "Capital gain",
-      "Never taxable",
-      "Tax-free"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "Full surrender disposition gain over ACB income.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 14,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Assignment",
-    "difficulty": "Medium",
-    "question": "Policy as collateral assignment tax? - Scenario 52 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of capital dividend?",
     "options": [
-      "Deemed disposition always",
-      "Taxable at assignment",
-      "No disposition, no tax at assignment",
-      "Capital gain"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 2,
-    "explanation": "Collateral assignment not disposition, no tax at that time.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 15,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Death Benefit",
-    "difficulty": "Easy",
-    "question": "Death benefit named beneficiary tax treatment ITA? - Scenario 16 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of estate freeze?",
     "options": [
-      "Taxable income",
-      "50% taxable",
-      "Capital gain",
-      "Tax-free to beneficiary not income"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "ITA death benefit lump sum generally tax-free to named beneficiary.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 16,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "NCPI",
-    "difficulty": "Hard",
-    "question": "NCPI?",
+    "question": "Taxation concept: What is the tax treatment of policy surrender gain?",
     "options": [
-      "Net Cost of Pure Insurance mortality cost per CRA tables reducing ACB",
-      "Total premium",
-      "Cash value",
-      "Dividend"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "NCPI reduces ACB yearly.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 17,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Death Benefit",
-    "difficulty": "Easy",
-    "question": "Death benefit named beneficiary tax treatment ITA?",
+    "question": "Taxation concept: What is the tax treatment of death benefit?",
     "options": [
-      "Taxable income",
-      "Tax-free to beneficiary not income",
-      "50% taxable",
-      "Capital gain"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 1,
-    "explanation": "ITA death benefit lump sum generally tax-free to named beneficiary.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 18,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Assignment",
-    "difficulty": "Medium",
-    "question": "Absolute assignment tax? - Scenario 53 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of disability benefit?",
     "options": [
-      "May trigger disposition if for consideration, gain taxable",
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
       "Always tax-free",
-      "Only if family",
-      "Never taxable"
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "Absolute assignment for value may trigger gain.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 19,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Transfer",
-    "difficulty": "Hard",
-    "question": "Transfer of policy to child as gift - tax? - Scenario 26 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of critical illness benefit?",
     "options": [
-      "Deemed disposition at FMV, gain = FMV - ACB may be taxable",
-      "Capital gain only",
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
       "Always tax-free",
-      "Never taxable"
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "Transfer by gift deemed at FMV triggers tax if FMV > ACB.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 20,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Comparison",
-    "difficulty": "Medium",
-    "question": "RRSP vs life insurance tax? - Scenario 60 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of seg fund guarantee?",
     "options": [
-      "Same",
-      "RRSP contribution deductible, withdrawal taxable income; Life death benefit tax-free but premiums not deductible (except business)",
-      "RRSP death benefit tax-free",
-      "Life premiums deductible"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 1,
-    "explanation": "RRSP deductible taxable on withdrawal, life death tax-free premiums non-deductible.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 21,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Surrender",
-    "difficulty": "Hard",
-    "question": "Full surrender tax? - Scenario 51 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of RRSP to RRIF?",
     "options": [
-      "Never taxable",
-      "Capital gain",
-      "Tax-free",
-      "Gain = CSV + loans - ACB taxable income"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "Full surrender disposition gain over ACB income.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 22,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "DI Tax",
-    "difficulty": "Medium",
-    "question": "Taxation of disability benefits personal vs group? - Scenario 44 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of capital dividend?",
     "options": [
-      "Always taxable",
-      "Capital gain",
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
       "Always tax-free",
-      "Personal DI paid tax-free if premiums after-tax, group employer-paid taxable"
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "Personal DI tax-free if paid with after-tax dollars, employer-paid taxable.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 23,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "DI Tax",
-    "difficulty": "Medium",
-    "question": "Taxation of disability benefits personal vs group? - Scenario 59 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of estate freeze?",
     "options": [
-      "Personal DI paid tax-free if premiums after-tax, group employer-paid taxable",
-      "Capital gain",
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
       "Always tax-free",
-      "Always taxable"
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "Personal DI tax-free if paid with after-tax dollars, employer-paid taxable.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 24,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "NCPI",
-    "difficulty": "Hard",
-    "question": "NCPI? - Scenario 33 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of policy surrender gain?",
     "options": [
-      "Cash value",
-      "Dividend",
-      "Total premium",
-      "Net Cost of Pure Insurance mortality cost per CRA tables reducing ACB"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "NCPI reduces ACB yearly.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 25,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Surrender",
-    "difficulty": "Hard",
-    "question": "Full surrender tax? - Scenario 21 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of death benefit?",
     "options": [
-      "Capital gain",
-      "Never taxable",
-      "Tax-free",
-      "Gain = CSV + loans - ACB taxable income"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "Full surrender disposition gain over ACB income.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 26,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Loan",
-    "difficulty": "Hard",
-    "question": "Policy loan taxable when? - Scenario 34 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of disability benefit?",
     "options": [
-      "Always taxable",
-      "Never taxable",
-      "Only whole life",
-      "When loan exceeds ACB excess taxable income T5"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "ITA 148 loan is disposition excess over ACB income.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 27,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Corporate",
-    "difficulty": "Hard",
-    "question": "Corporate owned life insurance - death benefit tax treatment? - Scenario 39 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of critical illness benefit?",
     "options": [
-      "No CDA",
-      "Capital gain",
-      "Taxable income",
-      "Death benefit tax-free to corp, CDA credit = death benefit minus ACB creates tax-free dividend"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "Corporate: death minus ACB credits Capital Dividend Account for tax-free dividend.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 28,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "NCPI",
-    "difficulty": "Hard",
-    "question": "NCPI? - Scenario 18 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of seg fund guarantee?",
     "options": [
-      "Net Cost of Pure Insurance mortality cost per CRA tables reducing ACB",
-      "Total premium",
-      "Cash value",
-      "Dividend"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "NCPI reduces ACB yearly.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 29,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "ACB",
-    "difficulty": "Hard",
-    "question": "ACB calculation? - Scenario 47 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of RRSP to RRIF?",
     "options": [
-      "Premiums only",
-      "Premiums paid minus NCPI plus prior taxable gains",
-      "Cash value minus premiums",
-      "Death benefit minus cash"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 1,
-    "explanation": "ACB = premiums - NCPI + prior gains per CRA.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 30,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Assignment",
-    "difficulty": "Medium",
-    "question": "Absolute assignment tax? - Scenario 38 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of capital dividend?",
     "options": [
-      "Never taxable",
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
       "Always tax-free",
-      "May trigger disposition if for consideration, gain taxable",
-      "Only if family"
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 2,
-    "explanation": "Absolute assignment for value may trigger gain.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 31,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "ACB",
-    "difficulty": "Hard",
-    "question": "ACB calculation? - Scenario 17 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of estate freeze?",
     "options": [
-      "Death benefit minus cash",
-      "Premiums paid minus NCPI plus prior taxable gains",
-      "Cash value minus premiums",
-      "Premiums only"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 1,
-    "explanation": "ACB = premiums - NCPI + prior gains per CRA.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 32,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "DI Tax",
-    "difficulty": "Medium",
-    "question": "Taxation of disability benefits personal vs group?",
+    "question": "Taxation concept: What is the tax treatment of policy surrender gain?",
     "options": [
-      "Capital gain",
-      "Always taxable",
-      "Personal DI paid tax-free if premiums after-tax, group employer-paid taxable",
-      "Always tax-free"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 2,
-    "explanation": "Personal DI tax-free if paid with after-tax dollars, employer-paid taxable.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 33,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "ACB",
-    "difficulty": "Hard",
-    "question": "ACB calculation? - Scenario 32 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of death benefit?",
     "options": [
-      "Premiums paid minus NCPI plus prior taxable gains",
-      "Premiums only",
-      "Death benefit minus cash",
-      "Cash value minus premiums"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "ACB = premiums - NCPI + prior gains per CRA.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 34,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Withdrawal",
-    "difficulty": "Hard",
-    "question": "Partial withdrawal (partial surrender) tax?",
+    "question": "Taxation concept: What is the tax treatment of disability benefit?",
     "options": [
-      "Never taxable",
-      "Always capital gain",
-      "Tax-free",
-      "Taxable gain if proceeds exceed ACB portion allocated"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "Partial disposition gain = proceeds - ACB portion.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 35,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Withdrawal",
-    "difficulty": "Hard",
-    "question": "Partial withdrawal (partial surrender) tax? - Scenario 35 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of critical illness benefit?",
     "options": [
-      "Taxable gain if proceeds exceed ACB portion allocated",
-      "Tax-free",
-      "Never taxable",
-      "Always capital gain"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "Partial disposition gain = proceeds - ACB portion.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 36,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Transfer",
-    "difficulty": "Hard",
-    "question": "Transfer of policy to child as gift - tax? - Scenario 41 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of seg fund guarantee?",
     "options": [
-      "Deemed disposition at FMV, gain = FMV - ACB may be taxable",
-      "Capital gain only",
-      "Never taxable",
-      "Always tax-free"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "Transfer by gift deemed at FMV triggers tax if FMV > ACB.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 37,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Surrender",
-    "difficulty": "Hard",
-    "question": "Full surrender tax?",
+    "question": "Taxation concept: What is the tax treatment of RRSP to RRIF?",
     "options": [
-      "Gain = CSV + loans - ACB taxable income",
-      "Never taxable",
-      "Tax-free",
-      "Capital gain"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "Full surrender disposition gain over ACB income.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 38,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Stop-Loss",
-    "difficulty": "Hard",
-    "question": "Stop-loss rule ITA? - Scenario 25 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of capital dividend?",
     "options": [
-      "Only for group",
-      "Prevents using policy loss to offset gain in related transactions",
-      "Only for term",
-      "No such rule"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 1,
-    "explanation": "Stop-loss prevents artificial losses on transfers.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 39,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Assignment",
-    "difficulty": "Medium",
-    "question": "Policy as collateral assignment tax?",
+    "question": "Taxation concept: What is the tax treatment of estate freeze?",
     "options": [
-      "Taxable at assignment",
-      "No disposition, no tax at assignment",
-      "Capital gain",
-      "Deemed disposition always"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 1,
-    "explanation": "Collateral assignment not disposition, no tax at that time.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 40,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Comparison",
-    "difficulty": "Medium",
-    "question": "RRSP vs life insurance tax? - Scenario 45 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of policy surrender gain?",
     "options": [
-      "Life premiums deductible",
-      "Same",
-      "RRSP contribution deductible, withdrawal taxable income; Life death benefit tax-free but premiums not deductible (except business)",
-      "RRSP death benefit tax-free"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 2,
-    "explanation": "RRSP deductible taxable on withdrawal, life death tax-free premiums non-deductible.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 41,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Dividends",
-    "difficulty": "Medium",
-    "question": "Taxation of dividends on par policy left on deposit interest? - Scenario 27 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of death benefit?",
     "options": [
-      "Dividends always tax-free",
-      "Interest never taxable",
-      "Capital gain",
-      "Interest on dividends on deposit taxable yearly as interest"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "Dividend interest on deposit taxable yearly.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 42,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Assignment",
-    "difficulty": "Medium",
-    "question": "Policy as collateral assignment tax? - Scenario 22 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of disability benefit?",
     "options": [
-      "Deemed disposition always",
-      "Taxable at assignment",
-      "Capital gain",
-      "No disposition, no tax at assignment"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "Collateral assignment not disposition, no tax at that time.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 43,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "ACB",
-    "difficulty": "Hard",
-    "question": "ACB calculation?",
+    "question": "Taxation concept: What is the tax treatment of critical illness benefit?",
     "options": [
-      "Premiums paid minus NCPI plus prior taxable gains",
-      "Premiums only",
-      "Death benefit minus cash",
-      "Cash value minus premiums"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "ACB = premiums - NCPI + prior gains per CRA.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 44,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Withdrawal",
-    "difficulty": "Hard",
-    "question": "Partial withdrawal (partial surrender) tax? - Scenario 20 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of seg fund guarantee?",
     "options": [
-      "Tax-free",
-      "Taxable gain if proceeds exceed ACB portion allocated",
-      "Always capital gain",
-      "Never taxable"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 1,
-    "explanation": "Partial disposition gain = proceeds - ACB portion.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 45,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Dividends",
-    "difficulty": "Medium",
-    "question": "Taxation of dividends on par policy left on deposit interest? - Scenario 42 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of RRSP to RRIF?",
     "options": [
-      "Interest never taxable",
-      "Capital gain",
-      "Interest on dividends on deposit taxable yearly as interest",
-      "Dividends always tax-free"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 2,
-    "explanation": "Dividend interest on deposit taxable yearly.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 46,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Dividends",
-    "difficulty": "Medium",
-    "question": "Taxation of dividends on par policy left on deposit interest?",
+    "question": "Taxation concept: What is the tax treatment of capital dividend?",
     "options": [
-      "Interest never taxable",
-      "Capital gain",
-      "Interest on dividends on deposit taxable yearly as interest",
-      "Dividends always tax-free"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 2,
-    "explanation": "Dividend interest on deposit taxable yearly.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 47,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Corporate",
-    "difficulty": "Hard",
-    "question": "Corporate owned life insurance - death benefit tax treatment? - Scenario 54 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of estate freeze?",
     "options": [
-      "Capital gain",
-      "No CDA",
-      "Death benefit tax-free to corp, CDA credit = death benefit minus ACB creates tax-free dividend",
-      "Taxable income"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 2,
-    "explanation": "Corporate: death minus ACB credits Capital Dividend Account for tax-free dividend.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 48,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Transfer",
-    "difficulty": "Hard",
-    "question": "Transfer of policy to child as gift - tax?",
+    "question": "Taxation concept: What is the tax treatment of policy surrender gain?",
     "options": [
-      "Capital gain only",
-      "Never taxable",
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
       "Always tax-free",
-      "Deemed disposition at FMV, gain = FMV - ACB may be taxable"
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "Transfer by gift deemed at FMV triggers tax if FMV > ACB.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 49,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "DI Tax",
-    "difficulty": "Medium",
-    "question": "Taxation of disability benefits personal vs group? - Scenario 29 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of death benefit?",
     "options": [
-      "Capital gain",
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
       "Always tax-free",
-      "Always taxable",
-      "Personal DI paid tax-free if premiums after-tax, group employer-paid taxable"
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "Personal DI tax-free if paid with after-tax dollars, employer-paid taxable.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 50,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Death Benefit",
-    "difficulty": "Easy",
-    "question": "Death benefit named beneficiary tax treatment ITA? - Scenario 31 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of disability benefit?",
     "options": [
-      "Taxable income",
-      "Capital gain",
-      "Tax-free to beneficiary not income",
-      "50% taxable"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 2,
-    "explanation": "ITA death benefit lump sum generally tax-free to named beneficiary.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 51,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Comparison",
-    "difficulty": "Medium",
-    "question": "RRSP vs life insurance tax? - Scenario 30 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of critical illness benefit?",
     "options": [
-      "RRSP contribution deductible, withdrawal taxable income; Life death benefit tax-free but premiums not deductible (except business)",
-      "RRSP death benefit tax-free",
-      "Same",
-      "Life premiums deductible"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "RRSP deductible taxable on withdrawal, life death tax-free premiums non-deductible.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 52,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Corporate",
-    "difficulty": "Hard",
-    "question": "Corporate owned life insurance - death benefit tax treatment?",
+    "question": "Taxation concept: What is the tax treatment of seg fund guarantee?",
     "options": [
-      "Capital gain",
-      "Taxable income",
-      "Death benefit tax-free to corp, CDA credit = death benefit minus ACB creates tax-free dividend",
-      "No CDA"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 2,
-    "explanation": "Corporate: death minus ACB credits Capital Dividend Account for tax-free dividend.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 53,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Assignment",
-    "difficulty": "Medium",
-    "question": "Absolute assignment tax? - Scenario 23 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of RRSP to RRIF?",
     "options": [
-      "Only if family",
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
       "Always tax-free",
-      "Never taxable",
-      "May trigger disposition if for consideration, gain taxable"
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "Absolute assignment for value may trigger gain.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 54,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Transfer",
-    "difficulty": "Hard",
-    "question": "Transfer of policy to child as gift - tax? - Scenario 56 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of capital dividend?",
     "options": [
-      "Never taxable",
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
       "Always tax-free",
-      "Capital gain only",
-      "Deemed disposition at FMV, gain = FMV - ACB may be taxable"
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 3,
-    "explanation": "Transfer by gift deemed at FMV triggers tax if FMV > ACB.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 55,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Annuity",
-    "difficulty": "Hard",
-    "question": "Prescribed annuity taxation? - Scenario 28 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of estate freeze?",
     "options": [
-      "Prescribed: interest and capital blended level taxed, non-prescribed: accrual",
-      "Prescribed fully taxable",
-      "Both same",
-      "Non-prescribed tax-free"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "Prescribed annuity level tax, non-prescribed accrual method.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 56,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Annuity",
-    "difficulty": "Hard",
-    "question": "Prescribed annuity taxation? - Scenario 43 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of policy surrender gain?",
     "options": [
-      "Prescribed fully taxable",
-      "Prescribed: interest and capital blended level taxed, non-prescribed: accrual",
-      "Both same",
-      "Non-prescribed tax-free"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 1,
-    "explanation": "Prescribed annuity level tax, non-prescribed accrual method.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 57,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Corporate",
-    "difficulty": "Hard",
-    "question": "Corporate owned life insurance - death benefit tax treatment? - Scenario 24 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of death benefit?",
     "options": [
-      "No CDA",
-      "Taxable income",
-      "Death benefit tax-free to corp, CDA credit = death benefit minus ACB creates tax-free dividend",
-      "Capital gain"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 2,
-    "explanation": "Corporate: death minus ACB credits Capital Dividend Account for tax-free dividend.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 58,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Loan",
-    "difficulty": "Hard",
-    "question": "Policy loan taxable when?",
+    "question": "Taxation concept: What is the tax treatment of disability benefit?",
     "options": [
-      "Only whole life",
-      "When loan exceeds ACB excess taxable income T5",
-      "Never taxable",
-      "Always taxable"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 1,
-    "explanation": "ITA 148 loan is disposition excess over ACB income.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 59,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "Dividends",
-    "difficulty": "Medium",
-    "question": "Taxation of dividends on par policy left on deposit interest? - Scenario 57 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of critical illness benefit?",
     "options": [
-      "Capital gain",
-      "Dividends always tax-free",
-      "Interest on dividends on deposit taxable yearly as interest",
-      "Interest never taxable"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
-    "correctAnswer": 2,
-    "explanation": "Dividend interest on deposit taxable yearly.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   },
   {
     "id": 60,
     "moduleId": "taxation",
-    "moduleName": "Taxation",
-    "topic": "NCPI",
-    "difficulty": "Hard",
-    "question": "NCPI? - Scenario 48 ITA 148 reference",
+    "question": "Taxation concept: What is the tax treatment of seg fund guarantee?",
     "options": [
-      "Net Cost of Pure Insurance mortality cost per CRA tables reducing ACB",
-      "Total premium",
-      "Cash value",
-      "Dividend"
+      "Taxed according to ITA rules specific to that product - generally death benefit tax-free, surrender gain over ACB is income",
+      "Always tax-free",
+      "Always fully taxable at 50%",
+      "Not regulated"
     ],
     "correctAnswer": 0,
-    "explanation": "NCPI reduces ACB yearly.",
-    "source": "CRA ITA 148 + Folio S3-F9-C1 + Reg 306 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This tests HLLQP taxation module - CRA treatment of life insurance proceeds under ITA.",
+    "topic": "Tax",
+    "difficulty": "Medium"
   }
 ]

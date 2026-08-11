@@ -2,650 +2,650 @@
   {
     "id": 1,
     "moduleId": "seg_funds",
-    "question": "What is DSC vs no-load in seg fund? (Case 37)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "DSC surrender charge for early redemption, no-load no upfront sales charge DSC declining surrender charge e.g., 6 years."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "DSC declining surrender charge e.g., 6 years.",
-    "topic": "Fees",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 2,
     "moduleId": "seg_funds",
-    "question": "Seg fund vs mutual fund main difference? (Case 46)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Seg fund is insurance contract with guarantees and beneficiary designation, mutual fund is securities Seg funds are insurance, offer guarantees and bypass probate."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Seg funds are insurance, offer guarantees and bypass probate.",
-    "topic": "Difference",
-    "difficulty": "Easy",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 3,
     "moduleId": "seg_funds",
-    "question": "What is market value adjustment?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Adjustment if surrender before maturity may reduce guarantee MVA may apply on early surrender."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "MVA may apply on early surrender.",
-    "topic": "MVA",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 4,
     "moduleId": "seg_funds",
-    "question": "Creditor protection seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "May offer creditor protection if named beneficiary is spouse, child, parent - per provincial insurance law Creditor protection if qualified beneficiary per Insurance Act."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Creditor protection if qualified beneficiary per Insurance Act.",
-    "topic": "Creditor",
-    "difficulty": "Hard",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 5,
     "moduleId": "seg_funds",
-    "question": "Maturity guarantee in seg fund? (Case 47)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Guarantees % of deposits at maturity date e.g., 75% after 10+ years Maturity guarantee e.g., 75% after 10 years."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Maturity guarantee e.g., 75% after 10 years.",
-    "topic": "Maturity Guarantee",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 6,
     "moduleId": "seg_funds",
-    "question": "Seg fund with RRSP/RRIF? (Case 55)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Held inside RRSP, guarantees apply, but probate advantage lost inside registered plan Seg funds inside RRSP lose probate bypass, guarantees remain."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Seg funds inside RRSP lose probate bypass, guarantees remain.",
-    "topic": "Registered",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 7,
     "moduleId": "seg_funds",
-    "question": "Maturity guarantee in seg fund? (Case 17)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Guarantees % of deposits at maturity date e.g., 75% after 10+ years Maturity guarantee e.g., 75% after 10 years."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Maturity guarantee e.g., 75% after 10 years.",
-    "topic": "Maturity Guarantee",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 8,
     "moduleId": "seg_funds",
-    "question": "Death benefit guarantee in seg fund? (Case 48)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Guarantees % of deposits on death e.g., 75-100% Death guarantee protects deposits on death."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Death guarantee protects deposits on death.",
-    "topic": "Death Guarantee",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 9,
     "moduleId": "seg_funds",
-    "question": "What is DSC vs no-load in seg fund? (Case 22)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "DSC surrender charge for early redemption, no-load no upfront sales charge DSC declining surrender charge e.g., 6 years."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "DSC declining surrender charge e.g., 6 years.",
-    "topic": "Fees",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 10,
     "moduleId": "seg_funds",
-    "question": "What is market value adjustment? (Case 41)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Adjustment if surrender before maturity may reduce guarantee MVA may apply on early surrender."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "MVA may apply on early surrender.",
-    "topic": "MVA",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 11,
     "moduleId": "seg_funds",
-    "question": "10-day free look for seg fund? (Case 59)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "10 days to cancel and get refund Free look 10 days for new seg fund contract."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Free look 10 days for new seg fund contract.",
-    "topic": "Free Look",
-    "difficulty": "Easy",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 12,
     "moduleId": "seg_funds",
-    "question": "10-day free look for seg fund? (Case 29)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "10 days to cancel and get refund Free look 10 days for new seg fund contract."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Free look 10 days for new seg fund contract.",
-    "topic": "Free Look",
-    "difficulty": "Easy",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 13,
     "moduleId": "seg_funds",
-    "question": "Death benefit guarantee in seg fund? (Case 18)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Guarantees % of deposits on death e.g., 75-100% Death guarantee protects deposits on death."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Death guarantee protects deposits on death.",
-    "topic": "Death Guarantee",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 14,
     "moduleId": "seg_funds",
-    "question": "Seg fund contract structure?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Groups of funds held separately from insurer general assets Segregated funds held separate from insurer assets."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds held separate from insurer assets.",
-    "topic": "Structure",
-    "difficulty": "Easy",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 15,
     "moduleId": "seg_funds",
-    "question": "What is MER in seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Management expense ratio ongoing fee for fund management MER includes management, operating, insurance fee for guarantees."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "MER includes management, operating, insurance fee for guarantees.",
-    "topic": "MER",
-    "difficulty": "Easy",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 16,
     "moduleId": "seg_funds",
-    "question": "Beneficiary designation advantage seg fund? (Case 35)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Bypasses probate and estate, direct to beneficiary Seg fund beneficiary bypasses probate like life insurance."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
-    "topic": "Beneficiary",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 17,
     "moduleId": "seg_funds",
-    "question": "Taxation of non-registered seg fund withdrawal? (Case 24)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Gain = market value - ACB minus portion of guarantee fee, capital gain Seg fund gain is capital gain: proceeds minus ACB."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Seg fund gain is capital gain: proceeds minus ACB.",
-    "topic": "Tax",
-    "difficulty": "Hard",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 18,
     "moduleId": "seg_funds",
-    "question": "What is MER in seg fund? (Case 38)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Management expense ratio ongoing fee for fund management MER includes management, operating, insurance fee for guarantees."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "MER includes management, operating, insurance fee for guarantees.",
-    "topic": "MER",
-    "difficulty": "Easy",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 19,
     "moduleId": "seg_funds",
-    "question": "Seg fund contract structure? (Case 58)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Groups of funds held separately from insurer general assets Segregated funds held separate from insurer assets."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds held separate from insurer assets.",
-    "topic": "Structure",
-    "difficulty": "Easy",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 20,
     "moduleId": "seg_funds",
-    "question": "What is reset in seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Locks in market gains raising guarantee level, may extend maturity Reset locks gains raising guarantees, restarts maturity clock."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Reset locks gains raising guarantees, restarts maturity clock.",
-    "topic": "Reset",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 21,
     "moduleId": "seg_funds",
-    "question": "What is DSC vs no-load in seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "DSC surrender charge for early redemption, no-load no upfront sales charge DSC declining surrender charge e.g., 6 years."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "DSC declining surrender charge e.g., 6 years.",
-    "topic": "Fees",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 22,
     "moduleId": "seg_funds",
-    "question": "Best practice explaining seg fund? (Case 57)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Explain guarantees cost, MER higher than mutual fund, guarantees %, maturity date, resets Must explain guarantee costs and limitations."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Must explain guarantee costs and limitations.",
-    "topic": "Disclosure",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 23,
     "moduleId": "seg_funds",
-    "question": "What is MER in seg fund? (Case 23)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Management expense ratio ongoing fee for fund management MER includes management, operating, insurance fee for guarantees."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "MER includes management, operating, insurance fee for guarantees.",
-    "topic": "MER",
-    "difficulty": "Easy",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 24,
     "moduleId": "seg_funds",
-    "question": "Maturity guarantee in seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Guarantees % of deposits at maturity date e.g., 75% after 10+ years Maturity guarantee e.g., 75% after 10 years."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Maturity guarantee e.g., 75% after 10 years.",
-    "topic": "Maturity Guarantee",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 25,
     "moduleId": "seg_funds",
-    "question": "Death benefit in registered seg fund? (Case 45)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Paid directly to named beneficiary outside estate if designated Registered seg with beneficiary bypasses estate."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Registered seg with beneficiary bypasses estate.",
-    "topic": "Estate",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 26,
     "moduleId": "seg_funds",
-    "question": "Creditor protection seg fund? (Case 21)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "May offer creditor protection if named beneficiary is spouse, child, parent - per provincial insurance law Creditor protection if qualified beneficiary per Insurance Act."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Creditor protection if qualified beneficiary per Insurance Act.",
-    "topic": "Creditor",
-    "difficulty": "Hard",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 27,
     "moduleId": "seg_funds",
-    "question": "Best practice explaining seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Explain guarantees cost, MER higher than mutual fund, guarantees %, maturity date, resets Must explain guarantee costs and limitations."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Must explain guarantee costs and limitations.",
-    "topic": "Disclosure",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 28,
     "moduleId": "seg_funds",
-    "question": "Beneficiary designation advantage seg fund? (Case 20)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Bypasses probate and estate, direct to beneficiary Seg fund beneficiary bypasses probate like life insurance."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
-    "topic": "Beneficiary",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 29,
     "moduleId": "seg_funds",
-    "question": "Beneficiary designation advantage seg fund? (Case 50)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Bypasses probate and estate, direct to beneficiary Seg fund beneficiary bypasses probate like life insurance."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
-    "topic": "Beneficiary",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 30,
     "moduleId": "seg_funds",
-    "question": "What is market value adjustment? (Case 56)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Adjustment if surrender before maturity may reduce guarantee MVA may apply on early surrender."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "MVA may apply on early surrender.",
-    "topic": "MVA",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 31,
     "moduleId": "seg_funds",
-    "question": "Seg fund vs mutual fund main difference? (Case 31)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Seg fund is insurance contract with guarantees and beneficiary designation, mutual fund is securities Seg funds are insurance, offer guarantees and bypass probate."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Seg funds are insurance, offer guarantees and bypass probate.",
-    "topic": "Difference",
-    "difficulty": "Easy",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 32,
     "moduleId": "seg_funds",
-    "question": "Taxation of non-registered seg fund withdrawal? (Case 39)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Gain = market value - ACB minus portion of guarantee fee, capital gain Seg fund gain is capital gain: proceeds minus ACB."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Seg fund gain is capital gain: proceeds minus ACB.",
-    "topic": "Tax",
-    "difficulty": "Hard",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 33,
     "moduleId": "seg_funds",
-    "question": "Death benefit guarantee in seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Guarantees % of deposits on death e.g., 75-100% Death guarantee protects deposits on death."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Death guarantee protects deposits on death.",
-    "topic": "Death Guarantee",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 34,
     "moduleId": "seg_funds",
-    "question": "What is reset in seg fund? (Case 34)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Locks in market gains raising guarantee level, may extend maturity Reset locks gains raising guarantees, restarts maturity clock."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Reset locks gains raising guarantees, restarts maturity clock.",
-    "topic": "Reset",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 35,
     "moduleId": "seg_funds",
-    "question": "Seg fund with RRSP/RRIF?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Held inside RRSP, guarantees apply, but probate advantage lost inside registered plan Seg funds inside RRSP lose probate bypass, guarantees remain."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Seg funds inside RRSP lose probate bypass, guarantees remain.",
-    "topic": "Registered",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 36,
     "moduleId": "seg_funds",
-    "question": "Taxation of non-registered seg fund withdrawal?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Gain = market value - ACB minus portion of guarantee fee, capital gain Seg fund gain is capital gain: proceeds minus ACB."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Seg fund gain is capital gain: proceeds minus ACB.",
-    "topic": "Tax",
-    "difficulty": "Hard",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 37,
     "moduleId": "seg_funds",
-    "question": "Death benefit in registered seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Paid directly to named beneficiary outside estate if designated Registered seg with beneficiary bypasses estate."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Registered seg with beneficiary bypasses estate.",
-    "topic": "Estate",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 38,
     "moduleId": "seg_funds",
-    "question": "What is DSC vs no-load in seg fund? (Case 52)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "DSC surrender charge for early redemption, no-load no upfront sales charge DSC declining surrender charge e.g., 6 years."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "DSC declining surrender charge e.g., 6 years.",
-    "topic": "Fees",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 39,
     "moduleId": "seg_funds",
-    "question": "Beneficiary designation advantage seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Bypasses probate and estate, direct to beneficiary Seg fund beneficiary bypasses probate like life insurance."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
-    "topic": "Beneficiary",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 40,
     "moduleId": "seg_funds",
-    "question": "Creditor protection seg fund? (Case 36)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "May offer creditor protection if named beneficiary is spouse, child, parent - per provincial insurance law Creditor protection if qualified beneficiary per Insurance Act."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Creditor protection if qualified beneficiary per Insurance Act.",
-    "topic": "Creditor",
-    "difficulty": "Hard",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 41,
     "moduleId": "seg_funds",
-    "question": "Seg fund contract structure? (Case 28)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Groups of funds held separately from insurer general assets Segregated funds held separate from insurer assets."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds held separate from insurer assets.",
-    "topic": "Structure",
-    "difficulty": "Easy",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 42,
     "moduleId": "seg_funds",
-    "question": "Creditor protection seg fund? (Case 51)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "May offer creditor protection if named beneficiary is spouse, child, parent - per provincial insurance law Creditor protection if qualified beneficiary per Insurance Act."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Creditor protection if qualified beneficiary per Insurance Act.",
-    "topic": "Creditor",
-    "difficulty": "Hard",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 43,
     "moduleId": "seg_funds",
-    "question": "Death benefit in registered seg fund? (Case 30)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Paid directly to named beneficiary outside estate if designated Registered seg with beneficiary bypasses estate."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Registered seg with beneficiary bypasses estate.",
-    "topic": "Estate",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 44,
     "moduleId": "seg_funds",
-    "question": "Taxation of non-registered seg fund withdrawal? (Case 54)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Gain = market value - ACB minus portion of guarantee fee, capital gain Seg fund gain is capital gain: proceeds minus ACB."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Seg fund gain is capital gain: proceeds minus ACB.",
-    "topic": "Tax",
-    "difficulty": "Hard",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 45,
     "moduleId": "seg_funds",
-    "question": "Maturity guarantee in seg fund? (Case 32)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Guarantees % of deposits at maturity date e.g., 75% after 10+ years Maturity guarantee e.g., 75% after 10 years."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Maturity guarantee e.g., 75% after 10 years.",
-    "topic": "Maturity Guarantee",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 46,
     "moduleId": "seg_funds",
-    "question": "Death benefit guarantee in seg fund? (Case 33)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Guarantees % of deposits on death e.g., 75-100% Death guarantee protects deposits on death."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Death guarantee protects deposits on death.",
-    "topic": "Death Guarantee",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 47,
     "moduleId": "seg_funds",
-    "question": "Best practice explaining seg fund? (Case 27)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Explain guarantees cost, MER higher than mutual fund, guarantees %, maturity date, resets Must explain guarantee costs and limitations."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Must explain guarantee costs and limitations.",
-    "topic": "Disclosure",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 48,
     "moduleId": "seg_funds",
-    "question": "10-day free look for seg fund? (Case 44)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "10 days to cancel and get refund Free look 10 days for new seg fund contract."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Free look 10 days for new seg fund contract.",
-    "topic": "Free Look",
-    "difficulty": "Easy",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 49,
     "moduleId": "seg_funds",
-    "question": "Seg fund with RRSP/RRIF? (Case 25)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Held inside RRSP, guarantees apply, but probate advantage lost inside registered plan Seg funds inside RRSP lose probate bypass, guarantees remain."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Seg funds inside RRSP lose probate bypass, guarantees remain.",
-    "topic": "Registered",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 50,
     "moduleId": "seg_funds",
-    "question": "What is reset in seg fund? (Case 19)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Locks in market gains raising guarantee level, may extend maturity Reset locks gains raising guarantees, restarts maturity clock."
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass\n\nSeg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options."
     ],
     "correctAnswer": 0,
-    "explanation": "Reset locks gains raising guarantees, restarts maturity clock.",
-    "topic": "Reset",
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
     "difficulty": "Medium",
     "isFlashcard": true
   }

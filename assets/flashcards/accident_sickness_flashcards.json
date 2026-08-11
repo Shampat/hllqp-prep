@@ -2,650 +2,650 @@
   {
     "id": 1,
     "moduleId": "accident_sickness",
-    "question": "Benefit period in DI/accident? (Case 33)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Limits how long benefits payable Benefit period = max duration paid."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Benefit period = max duration paid.",
-    "topic": "Benefit Period",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 2,
     "moduleId": "accident_sickness",
-    "question": "What is waiver of premium in health?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Waives premiums during total disability as defined WOP in health waives premiums while disabled."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "WOP in health waives premiums while disabled.",
-    "topic": "WOP",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 3,
     "moduleId": "accident_sickness",
-    "question": "What is pre-existing condition clause? (Case 24)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Condition existing before coverage may be excluded or limited for period Pre-existing may have exclusion period."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Pre-existing may have exclusion period.",
-    "topic": "Pre-existing",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 4,
     "moduleId": "accident_sickness",
-    "question": "What is deductible in health insurance? (Case 22)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Amount insured pays before insurer pays Deductible is insured's initial out-of-pocket."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Deductible is insured's initial out-of-pocket.",
-    "topic": "Deductible",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 5,
     "moduleId": "accident_sickness",
-    "question": "What is rehabilitation benefit in accident? (Case 59)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Pays costs to retrain or rehab after covered accident Rehab benefit helps return to work."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Rehab benefit helps return to work.",
-    "topic": "Benefits",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 6,
     "moduleId": "accident_sickness",
-    "question": "What is common exclusion in AD&S? (Case 21)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "War, self-inflicted injury, criminal act, aviation unless passenger Standard exclusions: war, suicide attempt, criminal, drug abuse, etc."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Standard exclusions: war, suicide attempt, criminal, drug abuse, etc.",
-    "topic": "Exclusions",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 7,
     "moduleId": "accident_sickness",
-    "question": "What is common exclusion in AD&S? (Case 36)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "War, self-inflicted injury, criminal act, aviation unless passenger Standard exclusions: war, suicide attempt, criminal, drug abuse, etc."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Standard exclusions: war, suicide attempt, criminal, drug abuse, etc.",
-    "topic": "Exclusions",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 8,
     "moduleId": "accident_sickness",
-    "question": "What is waiver of premium in health? (Case 30)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Waives premiums during total disability as defined WOP in health waives premiums while disabled."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "WOP in health waives premiums while disabled.",
-    "topic": "WOP",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 9,
     "moduleId": "accident_sickness",
-    "question": "What is guaranteed renewable health? (Case 25)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Insurer must renew but can increase premium by class Guaranteed renewable = renew right, premium can change by class."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Guaranteed renewable = renew right, premium can change by class.",
-    "topic": "Renewability",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 10,
     "moduleId": "accident_sickness",
-    "question": "What is non-cancellable? (Case 41)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Cannot cancel nor increase premium individually during term Non-can is strongest renewability, premium guaranteed."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Non-can is strongest renewability, premium guaranteed.",
-    "topic": "Renewability",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 11,
     "moduleId": "accident_sickness",
-    "question": "What is rehabilitation benefit in accident?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Pays costs to retrain or rehab after covered accident Rehab benefit helps return to work."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Rehab benefit helps return to work.",
-    "topic": "Benefits",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 12,
     "moduleId": "accident_sickness",
-    "question": "AD&D pays? (Case 46)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Death/dismemberment due to accident per definition AD&D only covers accidental as defined."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "AD&D only covers accidental as defined.",
-    "topic": "AD&D",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 13,
     "moduleId": "accident_sickness",
-    "question": "What is accidental death benefit rider on life? (Case 43)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Extra benefit if death due to accident as defined AD rider adds amount for accidental death."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "AD rider adds amount for accidental death.",
-    "topic": "Riders",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 14,
     "moduleId": "accident_sickness",
-    "question": "What does hospital cash rider pay?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Fixed amount per day hospitalized regardless actual cost Hospital cash pays per diem fixed benefit."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Hospital cash pays per diem fixed benefit.",
-    "topic": "Riders",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 15,
     "moduleId": "accident_sickness",
-    "question": "What does hospital cash rider pay? (Case 57)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Fixed amount per day hospitalized regardless actual cost Hospital cash pays per diem fixed benefit."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Hospital cash pays per diem fixed benefit.",
-    "topic": "Riders",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 16,
     "moduleId": "accident_sickness",
-    "question": "What is specially protected loss in AD&D? (Case 20)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Losses like sight, limbs where benefit may be higher Special losses have specific definitions and amounts."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Special losses have specific definitions and amounts.",
-    "topic": "AD&D",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 17,
     "moduleId": "accident_sickness",
-    "question": "Elimination period in health? (Case 47)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Period after disability before benefits start Elimination reduces short claims."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination reduces short claims.",
-    "topic": "Waiting",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 18,
     "moduleId": "accident_sickness",
-    "question": "What is deductible in health insurance? (Case 52)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Amount insured pays before insurer pays Deductible is insured's initial out-of-pocket."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Deductible is insured's initial out-of-pocket.",
-    "topic": "Deductible",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 19,
     "moduleId": "accident_sickness",
-    "question": "What is rehabilitation benefit in accident? (Case 44)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Pays costs to retrain or rehab after covered accident Rehab benefit helps return to work."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Rehab benefit helps return to work.",
-    "topic": "Benefits",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 20,
     "moduleId": "accident_sickness",
-    "question": "What is rehabilitation benefit in accident? (Case 29)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Pays costs to retrain or rehab after covered accident Rehab benefit helps return to work."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Rehab benefit helps return to work.",
-    "topic": "Benefits",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 21,
     "moduleId": "accident_sickness",
-    "question": "What is accidental means vs accidental result?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Means = accidental cause, Result = accidental outcome regardless cause Some policies cover accidental means stricter than result."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Some policies cover accidental means stricter than result.",
-    "topic": "AD&D",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 22,
     "moduleId": "accident_sickness",
-    "question": "What is guaranteed renewable health?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Insurer must renew but can increase premium by class Guaranteed renewable = renew right, premium can change by class."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Guaranteed renewable = renew right, premium can change by class.",
-    "topic": "Renewability",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 23,
     "moduleId": "accident_sickness",
-    "question": "What does hospital cash rider pay? (Case 42)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Fixed amount per day hospitalized regardless actual cost Hospital cash pays per diem fixed benefit."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Hospital cash pays per diem fixed benefit.",
-    "topic": "Riders",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 24,
     "moduleId": "accident_sickness",
-    "question": "What is accidental death benefit rider on life? (Case 28)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Extra benefit if death due to accident as defined AD rider adds amount for accidental death."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "AD rider adds amount for accidental death.",
-    "topic": "Riders",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 25,
     "moduleId": "accident_sickness",
-    "question": "What is waiver of premium in health? (Case 45)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Waives premiums during total disability as defined WOP in health waives premiums while disabled."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "WOP in health waives premiums while disabled.",
-    "topic": "WOP",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 26,
     "moduleId": "accident_sickness",
-    "question": "What is specially protected loss in AD&D?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Losses like sight, limbs where benefit may be higher Special losses have specific definitions and amounts."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Special losses have specific definitions and amounts.",
-    "topic": "AD&D",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 27,
     "moduleId": "accident_sickness",
-    "question": "What is accidental means vs accidental result? (Case 49)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Means = accidental cause, Result = accidental outcome regardless cause Some policies cover accidental means stricter than result."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Some policies cover accidental means stricter than result.",
-    "topic": "AD&D",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 28,
     "moduleId": "accident_sickness",
-    "question": "What is deductible in health insurance?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Amount insured pays before insurer pays Deductible is insured's initial out-of-pocket."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Deductible is insured's initial out-of-pocket.",
-    "topic": "Deductible",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 29,
     "moduleId": "accident_sickness",
-    "question": "What is pre-existing condition clause? (Case 54)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Condition existing before coverage may be excluded or limited for period Pre-existing may have exclusion period."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Pre-existing may have exclusion period.",
-    "topic": "Pre-existing",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 30,
     "moduleId": "accident_sickness",
-    "question": "Elimination period in health?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Period after disability before benefits start Elimination reduces short claims."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination reduces short claims.",
-    "topic": "Waiting",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 31,
     "moduleId": "accident_sickness",
-    "question": "What is co-insurance? (Case 23)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Insured and insurer share costs after deductible per percentage Co-insurance splits eligible expenses after deductible."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Co-insurance splits eligible expenses after deductible.",
-    "topic": "Co-insurance",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 32,
     "moduleId": "accident_sickness",
-    "question": "Benefit period in DI/accident? (Case 18)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Limits how long benefits payable Benefit period = max duration paid."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Benefit period = max duration paid.",
-    "topic": "Benefit Period",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 33,
     "moduleId": "accident_sickness",
-    "question": "What is accidental death benefit rider on life? (Case 58)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Extra benefit if death due to accident as defined AD rider adds amount for accidental death."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "AD rider adds amount for accidental death.",
-    "topic": "Riders",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 34,
     "moduleId": "accident_sickness",
-    "question": "AD&D pays?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Death/dismemberment due to accident per definition AD&D only covers accidental as defined."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "AD&D only covers accidental as defined.",
-    "topic": "AD&D",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 35,
     "moduleId": "accident_sickness",
-    "question": "What is accidental means vs accidental result? (Case 19)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Means = accidental cause, Result = accidental outcome regardless cause Some policies cover accidental means stricter than result."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Some policies cover accidental means stricter than result.",
-    "topic": "AD&D",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 36,
     "moduleId": "accident_sickness",
-    "question": "Elimination period in health? (Case 32)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Period after disability before benefits start Elimination reduces short claims."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination reduces short claims.",
-    "topic": "Waiting",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 37,
     "moduleId": "accident_sickness",
-    "question": "What is pre-existing condition clause?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Condition existing before coverage may be excluded or limited for period Pre-existing may have exclusion period."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Pre-existing may have exclusion period.",
-    "topic": "Pre-existing",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 38,
     "moduleId": "accident_sickness",
-    "question": "What is specially protected loss in AD&D? (Case 50)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Losses like sight, limbs where benefit may be higher Special losses have specific definitions and amounts."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Special losses have specific definitions and amounts.",
-    "topic": "AD&D",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 39,
     "moduleId": "accident_sickness",
-    "question": "What is co-insurance?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Insured and insurer share costs after deductible per percentage Co-insurance splits eligible expenses after deductible."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Co-insurance splits eligible expenses after deductible.",
-    "topic": "Co-insurance",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 40,
     "moduleId": "accident_sickness",
-    "question": "What is pre-existing condition clause? (Case 39)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Condition existing before coverage may be excluded or limited for period Pre-existing may have exclusion period."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Pre-existing may have exclusion period.",
-    "topic": "Pre-existing",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 41,
     "moduleId": "accident_sickness",
-    "question": "What is waiver of premium in health? (Case 60)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Waives premiums during total disability as defined WOP in health waives premiums while disabled."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "WOP in health waives premiums while disabled.",
-    "topic": "WOP",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 42,
     "moduleId": "accident_sickness",
-    "question": "What is specially protected loss in AD&D? (Case 35)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Losses like sight, limbs where benefit may be higher Special losses have specific definitions and amounts."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Special losses have specific definitions and amounts.",
-    "topic": "AD&D",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 43,
     "moduleId": "accident_sickness",
-    "question": "What is common exclusion in AD&S? (Case 51)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "War, self-inflicted injury, criminal act, aviation unless passenger Standard exclusions: war, suicide attempt, criminal, drug abuse, etc."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Standard exclusions: war, suicide attempt, criminal, drug abuse, etc.",
-    "topic": "Exclusions",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 44,
     "moduleId": "accident_sickness",
-    "question": "What is co-insurance? (Case 53)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Insured and insurer share costs after deductible per percentage Co-insurance splits eligible expenses after deductible."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Co-insurance splits eligible expenses after deductible.",
-    "topic": "Co-insurance",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 45,
     "moduleId": "accident_sickness",
-    "question": "What is non-cancellable? (Case 56)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Cannot cancel nor increase premium individually during term Non-can is strongest renewability, premium guaranteed."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Non-can is strongest renewability, premium guaranteed.",
-    "topic": "Renewability",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 46,
     "moduleId": "accident_sickness",
-    "question": "What is co-insurance? (Case 38)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Insured and insurer share costs after deductible per percentage Co-insurance splits eligible expenses after deductible."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Co-insurance splits eligible expenses after deductible.",
-    "topic": "Co-insurance",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 47,
     "moduleId": "accident_sickness",
-    "question": "AD&D pays? (Case 31)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Death/dismemberment due to accident per definition AD&D only covers accidental as defined."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "AD&D only covers accidental as defined.",
-    "topic": "AD&D",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 48,
     "moduleId": "accident_sickness",
-    "question": "What does hospital cash rider pay? (Case 27)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Fixed amount per day hospitalized regardless actual cost Hospital cash pays per diem fixed benefit."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Hospital cash pays per diem fixed benefit.",
-    "topic": "Riders",
-    "difficulty": "Easy",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 49,
     "moduleId": "accident_sickness",
-    "question": "What is non-cancellable?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Cannot cancel nor increase premium individually during term Non-can is strongest renewability, premium guaranteed."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Non-can is strongest renewability, premium guaranteed.",
-    "topic": "Renewability",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   },
   {
     "id": 50,
     "moduleId": "accident_sickness",
-    "question": "What is non-cancellable? (Case 26)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Cannot cancel nor increase premium individually during term Non-can is strongest renewability, premium guaranteed."
+      "Waiting period after disability before benefits start - longer elimination = lower premium\n\nElimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable."
     ],
     "correctAnswer": 0,
-    "explanation": "Non-can is strongest renewability, premium guaranteed.",
-    "topic": "Renewability",
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
     "difficulty": "Medium",
     "isFlashcard": true
   }

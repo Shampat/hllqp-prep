@@ -2,1141 +2,901 @@
   {
     "id": 1,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Term",
-    "difficulty": "Easy",
-    "question": "A 32-year-old with new mortgage and 2 kids needs max coverage lowest initial cost. Best fit?",
+    "question": "What is the primary purpose of life insurance?",
     "options": [
-      "Term life insurance",
-      "Par whole life",
-      "Universal Life level COI",
-      "Whole life paid to 100"
+      "To provide financial protection to beneficiaries upon death of insured",
+      "To fund retirement only",
+      "To avoid paying income tax completely",
+      "To replace auto insurance"
     ],
     "correctAnswer": 0,
-    "explanation": "Term gives highest coverage for lowest premium, ideal for temporary needs like mortgage.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Life insurance protects dependents by replacing lost income and covering final expenses at death.",
+    "topic": "Fundamentals",
+    "difficulty": "Easy"
   },
   {
     "id": 2,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Renewable",
-    "difficulty": "Medium",
-    "question": "What happens if Term 10 renewable client does nothing at renewal? ",
+    "question": "What is meant by insurable interest for life insurance?",
     "options": [
-      "Expires no option",
-      "Converts to whole life auto",
-      "Renews automatically at higher premium without medical evidence",
-      "Cash paid"
+      "Policyowner must suffer financial loss if insured dies, must exist at application",
+      "Insurer must be related to insured",
+      "Beneficiary must pay premiums",
+      "No interest required by law"
     ],
-    "correctAnswer": 2,
-    "explanation": "Renewable term guarantees renewal without insurability, premium based on attained age.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Insurable interest at time of application ensures policy not a wager. Owner must have financial interest in insured's life.",
+    "topic": "Insurable Interest",
+    "difficulty": "Easy"
   },
   {
     "id": 3,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Convertible",
-    "difficulty": "Medium",
-    "question": "Term 10 convertible owner health worsened. Key advantage of conversion?",
+    "question": "What is the difference between term and whole life insurance?",
     "options": [
-      "Convert to permanent without medical underwriting",
-      "Convert to DI",
-      "Get cash value",
-      "Premium drops"
+      "Term is temporary with no cash value, whole life is permanent with cash value",
+      "Both are permanent",
+      "Term has cash value, whole life does not",
+      "Both are same price"
     ],
     "correctAnswer": 0,
-    "explanation": "Conversion protects insurability despite health change.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Term covers specific years, no CV, cheaper. Whole life is lifetime, cash value, higher premium.",
+    "topic": "Types",
+    "difficulty": "Easy"
   },
   {
     "id": 4,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "T100",
-    "difficulty": "Easy",
-    "question": "Which statement about Term 100 is correct?",
+    "question": "What is the Regulation 306 exempt test?",
     "options": [
-      "Level premiums for life, no cash value, coverage to 100",
-      "Premium rises yearly",
-      "Same as Term 10",
-      "Expires at 100 with cash"
+      "CRA test that limits tax-free cash value growth inside life policy - if cash exceeds limit, policy becomes non-exempt and taxed annually",
+      "Test to qualify for mortgage",
+      "Test for agent licensing",
+      "Test for health"
     ],
     "correctAnswer": 0,
-    "explanation": "T100 is permanent for tax if exempt, level premium, no cash.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Under ITA Reg 306, cash value compared to benchmark 20-pay endowment at age 85. Excess = non-exempt, T5 taxable annually.",
+    "topic": "Taxation",
+    "difficulty": "Hard"
   },
   {
     "id": 5,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Whole Life",
-    "difficulty": "Easy",
-    "question": "Whole Life paid-up at 85 - what at 85?",
+    "question": "In a participating whole life policy, what are dividends?",
     "options": [
-      "Cash paid terminates",
-      "Premiums double",
-      "Coverage ends",
-      "Premiums stop, coverage continues life"
+      "A refund of excess premium that can buy paid-up additions, reduce premium, or be taken as cash",
+      "Guaranteed salary",
+      "Interest on loan",
+      "Government bonus"
     ],
-    "correctAnswer": 3,
-    "explanation": "Paid-up means no more premiums, stays in force.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Dividends are non-guaranteed return of surplus. Not taxable if used for PUA. Options: cash, PUA, accumulation, premium reduction.",
+    "topic": "Par Policies",
+    "difficulty": "Medium"
   },
   {
     "id": 6,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Cash Value",
-    "difficulty": "Medium",
-    "question": "How does cash value in exempt whole life grow?",
+    "question": "What happens when a policyowner takes a policy loan exceeding ACB?",
     "options": [
-      "Taxed as cap gains yearly",
-      "Never taxed",
-      "Tax-deferred inside while exempt",
-      "Taxed yearly as interest"
+      "Excess over ACB is taxable income and reported on T5",
+      "No tax ever",
+      "Policy cancels immediately",
+      "Beneficiary taxed"
     ],
-    "correctAnswer": 2,
-    "explanation": "Exempt policy growth tax-deferred under Reg 306 exempt test.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "ITA 148: policy loan is disposition. Amount exceeding Adjusted Cost Basis is taxable income.",
+    "topic": "Policy Loans",
+    "difficulty": "Hard"
   },
   {
     "id": 7,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Par",
-    "difficulty": "Medium",
-    "question": "Par vs non-par whole life?",
+    "question": "Life insurance concept: Which statement about T-100 is correct?",
     "options": [
-      "Par no premiums",
-      "Par guarantees dividends yearly",
-      "Par may get dividends from divisible surplus not guaranteed",
-      "Non-par cannot have cash"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 2,
-    "explanation": "Dividends from mortality, expense, interest gains, not guaranteed.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 7. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 8,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "UL",
-    "difficulty": "Easy",
-    "question": "Client wants flexible premium, adjustable benefit, investment choice. Which?",
+    "question": "Life insurance concept: Which statement about whole life limited pay is correct?",
     "options": [
-      "Term 100",
-      "Term 10",
-      "Universal Life",
-      "Whole Life non-par"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 2,
-    "explanation": "UL offers flexibility in premium, benefit, investments.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 8. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 9,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Riders",
-    "difficulty": "Easy",
-    "question": "Purpose of Waiver of Premium rider?",
+    "question": "Life insurance concept: Which statement about estate planning is correct?",
     "options": [
-      "Waives death benefit",
-      "Increases cash",
-      "Waives premiums if totally disabled as defined",
-      "Reduces premium"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 2,
-    "explanation": "WOP waives premiums during total disability after waiting period.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 9. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 10,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Riders",
-    "difficulty": "Medium",
-    "question": "AD&D rider pays?",
+    "question": "Life insurance concept: Which statement about renewable term is correct?",
     "options": [
-      "Extra if death/dismemberment due to accident per definition",
-      "Cash value",
-      "Any sickness",
-      "Any death"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "AD&D requires accident as defined.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 10. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 11,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Replacement",
-    "difficulty": "Hard",
-    "question": "FSRA replacement - advisor must provide?",
+    "question": "Life insurance concept: Which statement about convertible term is correct?",
     "options": [
-      "Verbal only",
-      "Tell client cancel first",
-      "Written comparison existing vs proposed incl benefits, limits, costs, penalties, LIRD signatures",
-      "Only new advantages"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 2,
-    "explanation": "Full comparison and LIRD required for suitability.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 11. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 12,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "ACB",
-    "difficulty": "Hard",
-    "question": "ACB meaning?",
+    "question": "Life insurance concept: Which statement about joint first-to-die is correct?",
     "options": [
-      "Adjusted Cost Basis = premiums - NCPI, used for taxable gain on disposition",
-      "Only premiums",
-      "Cash minus premiums",
-      "Death minus premiums"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "ACB calc per CRA: premiums less NCPI plus prior gains.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 12. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 13,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Policy Loan",
-    "difficulty": "Hard",
-    "question": "When is policy loan taxable?",
+    "question": "Life insurance concept: Which statement about joint last-to-die is correct?",
     "options": [
-      "Always fully",
-      "When loan exceeds ACB excess may be taxable income",
-      "Only whole life",
-      "Never"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 1,
-    "explanation": "ITA 148 treats loan as disposition, excess over ACB income T5.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 13. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 14,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Beneficiary",
-    "difficulty": "Medium",
-    "question": "Spouse revocable beneficiary - Common Law on death?",
+    "question": "Life insurance concept: Which statement about UL Level COI is correct?",
     "options": [
-      "Bypasses estate direct to spouse tax-free",
-      "Via probate",
-      "Taxable to estate",
-      "Needs will"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "Named beneficiary bypasses will/probate, generally tax-free.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 14. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 15,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "UL Benefit",
-    "difficulty": "Medium",
-    "question": "UL Option 1 vs Option 2 death benefit?",
+    "question": "Life insurance concept: Which statement about UL Yearly Renewable Term is correct?",
     "options": [
-      "Level means premium up",
-      "Increasing cash down",
-      "No difference",
-      "Level: base stays level; Increasing: base + account value"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "Option1 level, Option2 = base + account.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 15. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 16,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "NCPI",
-    "difficulty": "Hard",
-    "question": "NCPI?",
+    "question": "Life insurance concept: Which statement about decreasing term is correct?",
     "options": [
-      "Cash value",
-      "Dividend",
-      "Total premium",
-      "Mortality cost for pure insurance deducted in ACB calc"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "NCPI is cost of insurance per CRA tables reducing ACB.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 16. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 17,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Estate",
-    "difficulty": "Medium",
-    "question": "Age 70 wants avoid probate fees leave to kids?",
+    "question": "Life insurance concept: Which statement about T-100 is correct?",
     "options": [
-      "Name child beneficiary bypasses probate",
-      "Name estate",
-      "Joint only",
-      "No beneficiary"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "Direct beneficiary bypasses probate, may be creditor protected.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 17. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 18,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Riders",
-    "difficulty": "Easy",
-    "question": "Child Term rider?",
+    "question": "Life insurance concept: Which statement about whole life limited pay is correct?",
     "options": [
-      "DI",
-      "One child only",
-      "Permanent child only",
-      "Term on children convertible to permanent without evidence"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "Covers all eligible children, often convertible.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 18. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 19,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
-    "question": "Evidence of insurability means?",
+    "question": "Life insurance concept: Which statement about estate planning is correct?",
     "options": [
-      "Only income",
-      "No medical ever",
-      "Only age",
-      "Medical/health info to prove insurability for new or increase"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "Health questionnaire, exam, labs to assess risk.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 19. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 20,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Premium",
-    "difficulty": "Easy",
-    "question": "Highest premium per $1000 at age 30?",
+    "question": "Life insurance concept: Which statement about renewable term is correct?",
     "options": [
-      "Term 10",
-      "Group term",
-      "Whole life par",
-      "Term 20"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 2,
-    "explanation": "Permanent costs more initially than term due to cash and guarantees.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 20. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 21,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Lapse",
-    "difficulty": "Medium",
-    "question": "Term lapses no cash value?",
+    "question": "Life insurance concept: Which statement about convertible term is correct?",
     "options": [
-      "Coverage ends no value paid may have reinstatement period",
-      "Cash paid",
-      "Death paid 1 year",
-      "Auto converts"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "Term no CSV, lapse ends coverage, may reinstate within 2 yrs with evidence.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 21. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 22,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Provisions",
-    "difficulty": "Easy",
-    "question": "Grace period in life?",
+    "question": "Life insurance concept: Which statement about joint first-to-die is correct?",
     "options": [
-      "1 year",
-      "No grace",
-      "31 days after due date policy remains in force",
-      "7 days only"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 2,
-    "explanation": "Standard 31-day grace required by law.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 22. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 23,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Beneficiary",
-    "difficulty": "Medium",
-    "question": "Irrevocable beneficiary?",
+    "question": "Life insurance concept: Which statement about joint last-to-die is correct?",
     "options": [
-      "Can change anytime",
-      "Beneficiary pays premiums",
-      "Owner cannot change beneficiary or take actions without consent",
-      "Only estate"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 2,
-    "explanation": "Irrevocable needs consent to change, assign, surrender, loan.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 23. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 24,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Cash Value",
-    "difficulty": "Medium",
-    "question": "Cash surrender value determined?",
+    "question": "Life insurance concept: Which statement about UL Level COI is correct?",
     "options": [
-      "Equals death benefit",
-      "Equals premiums",
-      "Zero always",
-      "Cash value minus surrender charges and outstanding loans"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "CSV = cash - charges - loans.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 24. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 25,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Tax",
-    "difficulty": "Easy",
-    "question": "Tax treatment death benefit named beneficiary Common Law?",
+    "question": "Life insurance concept: Which statement about UL Yearly Renewable Term is correct?",
     "options": [
-      "Generally tax-free to beneficiary not income",
-      "Fully taxable income",
-      "50% taxable",
-      "Cap gain"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "Per ITA death benefit tax-free lump sum.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 25. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 26,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Exempt",
-    "difficulty": "Hard",
-    "question": "When non-exempt policy?",
+    "question": "Life insurance concept: Which statement about decreasing term is correct?",
     "options": [
-      "When premiums stop",
-      "Never",
-      "Always after 10 yrs",
-      "When cash value exceeds Reg 306 exempt test limits"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "Exempt test compares actual vs max allowed, excess non-exempt gains taxed yearly.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 26. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 27,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "UL COI",
-    "difficulty": "Medium",
-    "question": "Level COI in UL?",
+    "question": "Life insurance concept: Which statement about T-100 is correct?",
     "options": [
-      "Only term",
-      "Mortality cost stays level despite age, higher initially lower later",
-      "Decreases yearly",
-      "Increases yearly"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 1,
-    "explanation": "LCOI levels cost over life vs YRT increasing.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 27. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 28,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "UL COI",
-    "difficulty": "Medium",
-    "question": "YRT COI in UL?",
+    "question": "Life insurance concept: Which statement about whole life limited pay is correct?",
     "options": [
-      "Cost increases each year with attained age",
-      "Fixed 10 yrs",
-      "Zero",
-      "Level"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "YRT cheaper initially than LCOI but rises.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 28. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 29,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Beneficiary",
-    "difficulty": "Easy",
-    "question": "Contingent beneficiary advantage?",
+    "question": "Life insurance concept: Which statement about estate planning is correct?",
     "options": [
-      "Increases premium",
-      "Only Quebec",
-      "If primary predeceases, contingent gets benefit avoiding estate",
-      "No advantage"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 2,
-    "explanation": "Contingent ensures avoids estate if primary dies first.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 29. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 30,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Provisions",
-    "difficulty": "Easy",
-    "question": "Policy fee?",
+    "question": "Life insurance concept: Which statement about renewable term is correct?",
     "options": [
-      "Flat fee added to premium for admin expenses",
-      "Surrender charge",
-      "Cash value",
-      "Dividend"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "Covers administration.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 30. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 31,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Joint",
-    "difficulty": "Medium",
-    "question": "Joint first-to-die pays when?",
+    "question": "Life insurance concept: Which statement about convertible term is correct?",
     "options": [
-      "Only at 100",
-      "On second death",
-      "Never",
-      "On first death of two insured"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "First-to-die pays first death, mortgage for couples.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 31. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 32,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Joint",
-    "difficulty": "Medium",
-    "question": "Joint last-to-die pays when?",
+    "question": "Life insurance concept: Which statement about joint first-to-die is correct?",
     "options": [
-      "On first death",
-      "At 85",
-      "On death of last survivor often used for estate taxes",
-      "On surrender only"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 2,
-    "explanation": "Last-to-die funds estate tax at second death.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 32. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 33,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Provisions",
-    "difficulty": "Medium",
-    "question": "Suicide clause Canada?",
+    "question": "Life insurance concept: Which statement about joint last-to-die is correct?",
     "options": [
-      "If suicide within 2 yrs insurer may deny return premiums",
-      "Always covered",
-      "Only after 10 yrs",
-      "Never covered"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard 2-yr suicide exclusion, after covered.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 33. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 34,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Provisions",
-    "difficulty": "Medium",
-    "question": "Incontestability clause?",
+    "question": "Life insurance concept: Which statement about UL Level COI is correct?",
     "options": [
-      "No clause",
-      "After 10 yrs",
-      "Can void anytime",
-      "After 2 yrs insurer cannot void for misrep except fraud"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "After 2 yrs incontestable except fraud/non-payment.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 34. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 35,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Protection",
-    "difficulty": "Easy",
-    "question": "10-day free look?",
+    "question": "Life insurance concept: Which statement about UL Yearly Renewable Term is correct?",
     "options": [
-      "Only group",
-      "Allows 10 days review cancel full refund",
-      "Free insurance 10 days",
-      "No purpose"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 1,
-    "explanation": "Free look to cancel new individual policy 10 days.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 35. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 36,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Dividends",
-    "difficulty": "Medium",
-    "question": "Premium offset in par?",
+    "question": "Life insurance concept: Which statement about decreasing term is correct?",
     "options": [
-      "Reduce benefit",
-      "Pay extra",
-      "Using dividends to pay premiums",
-      "Loan"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 2,
-    "explanation": "Dividends can pay premiums but still due if insufficient unless paid-up.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 36. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 37,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Non-Forfeiture",
-    "difficulty": "Medium",
-    "question": "Reduced paid-up non-forfeiture?",
+    "question": "Life insurance concept: Which statement about T-100 is correct?",
     "options": [
-      "Extended term only",
-      "Lapse",
-      "Uses cash to buy smaller fully paid-up no more premiums",
-      "Cash only"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 2,
-    "explanation": "Reduced paid-up is non-forfeiture option.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 37. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 38,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Non-Forfeiture",
-    "difficulty": "Medium",
-    "question": "Extended term non-forfeiture?",
+    "question": "Life insurance concept: Which statement about whole life limited pay is correct?",
     "options": [
-      "Loan",
-      "Cash only",
-      "Uses cash to buy term same face limited period",
-      "Paid-up whole life"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 2,
-    "explanation": "Extended term uses CSV as single premium for term.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 38. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 39,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
-    "question": "Standard underwriting class?",
+    "question": "Life insurance concept: Which statement about estate planning is correct?",
     "options": [
-      "Average health no major issues",
-      "Preferred plus",
-      "High risk",
-      "Declined"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard average risk, preferred better, rated higher.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 39. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 40,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Medium",
-    "question": "Rated policy?",
+    "question": "Life insurance concept: Which statement about renewable term is correct?",
     "options": [
-      "Declined",
-      "Only group",
-      "Cheaper",
-      "Issued extra premium due higher risk"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "Rating adds extra mortality for substandard.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 40. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 41,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Medium",
-    "question": "MIB role?",
+    "question": "Life insurance concept: Which statement about convertible term is correct?",
     "options": [
-      "No role",
-      "Medical Information Bureau shares coded health info with consent to detect omissions",
-      "Credit score",
-      "Driving record only"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 1,
-    "explanation": "MIB coded medical info used with consent to verify.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 41. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 42,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Business",
-    "difficulty": "Hard",
-    "question": "Buy-sell agreement funded life?",
+    "question": "Life insurance concept: Which statement about joint first-to-die is correct?",
     "options": [
-      "Lease",
-      "Buy-sell funded life insurance business partner can buy shares at death",
-      "Will",
-      "POA"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buy-sell provides funds for survivor to buy deceased shares.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 42. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 43,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Business",
-    "difficulty": "Medium",
-    "question": "Key person insurance?",
+    "question": "Life insurance concept: Which statement about joint last-to-die is correct?",
     "options": [
-      "Life owned by business on key employee cover loss if dies",
-      "DI only",
-      "Group",
-      "Personal"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "Key person protects business against vital person death.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 43. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 44,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Assignment",
-    "difficulty": "Medium",
-    "question": "Collateral assignment?",
+    "question": "Life insurance concept: Which statement about UL Level COI is correct?",
     "options": [
-      "Assigns policy as security for loan creditor gets up to debt",
-      "Pays loan auto",
-      "Changes beneficiary permanently",
-      "Cancels"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "Collateral assignment secures debt limited to loan, balance to beneficiary.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 44. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 45,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Assignment",
-    "difficulty": "Medium",
-    "question": "Absolute assignment?",
+    "question": "Life insurance concept: Which statement about UL Yearly Renewable Term is correct?",
     "options": [
-      "Temporary",
-      "Same as collateral",
-      "Only loans",
-      "Transfers all ownership rights to assignee"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "Absolute transfers full ownership vs collateral security.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 45. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 46,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Retirement",
-    "difficulty": "Hard",
-    "question": "Cash value accessed tax-efficient retirement if ACB high?",
+    "question": "Life insurance concept: Which statement about decreasing term is correct?",
     "options": [
-      "Withdraw all tax-free",
-      "Surrender tax-free",
-      "No way",
-      "Loans up to ACB may have no tax but need repayment strategy avoid lapse"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "Loan below ACB not income but lapse with loan triggers tax.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 46. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 47,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Tax",
-    "difficulty": "Medium",
-    "question": "Term 20 vs T100 taxation?",
+    "question": "Life insurance concept: Which statement about T-100 is correct?",
     "options": [
-      "T100 never exempt",
-      "Term20 never exempt",
-      "Both non-exempt",
-      "Both can be exempt if meet test T100 usually exempt Term 20 exempt as no cash"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "Term no cash exempt, T100 level no cash can be exempt per Reg 306.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 47. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 48,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "UL Invest",
-    "difficulty": "Medium",
-    "question": "Age 50 wants permanent higher returns comfortable market risk?",
+    "question": "Life insurance concept: Which statement about whole life limited pay is correct?",
     "options": [
-      "GIC only",
-      "Whole life no explanation",
-      "Term only",
-      "UL with investment options explaining market risk borne by owner"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "UL investment risk borne by owner must disclose.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 48. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 49,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Comparison",
-    "difficulty": "Easy",
-    "question": "Main disadvantage T100 vs Whole Life?",
+    "question": "Life insurance concept: Which statement about estate planning is correct?",
     "options": [
-      "Has high cash",
-      "No cash value or dividends no liquidity",
-      "Premium increases",
-      "Cannot be permanent"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 1,
-    "explanation": "T100 no CSV or liquidity while whole life has CSV.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 49. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 50,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Dividends",
-    "difficulty": "Medium",
-    "question": "Dividends left on deposit?",
+    "question": "Life insurance concept: Which statement about renewable term is correct?",
     "options": [
-      "Never taxable",
-      "Accumulate with interest taxable as interest when paid",
-      "Lost",
-      "Always tax-free"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 1,
-    "explanation": "Dividends on deposit earn interest interest taxable yearly.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 50. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 51,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Advanced",
-    "difficulty": "Hard",
-    "question": "Insured annuity back-to-back?",
+    "question": "Life insurance concept: Which statement about convertible term is correct?",
     "options": [
-      "Annuity + life where annuity income funds insurance premium tax-advantaged needs tax advice",
-      "Same as term",
-      "Only Quebec",
-      "Illegal"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "Insured annuity higher after-tax flow for estate needs advice.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 51. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 52,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Suitability",
-    "difficulty": "Easy",
-    "question": "Needs analysis need?",
+    "question": "Life insurance concept: Which statement about joint first-to-die is correct?",
     "options": [
-      "Determine financial needs objectives risk tolerance for suitable coverage per FSRA suitability",
-      "Not required",
-      "Only group",
-      "Only tax"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "Suitability and needs analysis required document needs.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 52. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 53,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Contract",
-    "difficulty": "Easy",
-    "question": "Document proves existence life contract?",
+    "question": "Life insurance concept: Which statement about joint last-to-die is correct?",
     "options": [
-      "Agent note",
-      "Application only",
-      "Policy contract itself",
-      "Receipt only"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 2,
-    "explanation": "Policy is legal contract owner-insurer.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 53. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 54,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Provisions",
-    "difficulty": "Easy",
-    "question": "Premium mode?",
+    "question": "Life insurance concept: Which statement about UL Level COI is correct?",
     "options": [
-      "Frequency of payments monthly annual etc",
-      "Rider",
-      "Beneficiary",
-      "Type of policy"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "Mode is frequency monthly quarterly annual may have modal factor.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 54. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 55,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Tax",
-    "difficulty": "Hard",
-    "question": "Stop paying Whole Life takes CSV tax?",
+    "question": "Life insurance concept: Which statement about UL Yearly Renewable Term is correct?",
     "options": [
-      "Never taxable",
-      "Always cap gain",
-      "Tax-free",
-      "Gain = CSV+loans-ACB taxable income"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "Surrender disposition gain over ACB taxable T5.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 55. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 56,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Concept",
-    "difficulty": "Easy",
-    "question": "Estate creation life insurance?",
+    "question": "Life insurance concept: Which statement about decreasing term is correct?",
     "options": [
-      "Creates immediate estate at death for dependents",
-      "Only rich",
-      "Only term",
-      "Cannot create"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
     "correctAnswer": 0,
-    "explanation": "Life provides immediate lump sum to create estate.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "This covers standard HLLQP life insurance curriculum for 56. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 57,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Business",
-    "difficulty": "Medium",
-    "question": "Why disability overhead vs personal DI business owner?",
+    "question": "Life insurance concept: Which statement about T-100 is correct?",
     "options": [
-      "Same",
-      "Overhead pays business expenses if owner disabled DI pays personal income",
-      "Overhead pays personal",
-      "Not needed"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 1,
-    "explanation": "Overhead vs DI distinction for business clients.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 57. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 58,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Provisions",
-    "difficulty": "Medium",
-    "question": "Reinstatement lapsed life?",
+    "question": "Life insurance concept: Which statement about whole life limited pay is correct?",
     "options": [
-      "Cannot",
-      "Can reinstate within 2 yrs with evidence and back premiums plus interest",
-      "Only new app",
-      "Auto after 5 yrs"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 1,
-    "explanation": "Reinstatement needs evidence and overdue premiums with interest.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 58. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 59,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Underwriting",
-    "difficulty": "Easy",
-    "question": "Age 40 smoker wants permanent what affects premium?",
+    "question": "Life insurance concept: Which statement about estate planning is correct?",
     "options": [
-      "Only smoking",
-      "Only face",
-      "Only age",
-      "Age sex smoking status health face amount"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "Premium based on mortality risk age sex smoking health lifestyle amount.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 59. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   },
   {
     "id": 60,
     "moduleId": "life",
-    "moduleName": "Life Insurance",
-    "topic": "Roles",
-    "difficulty": "Easy",
-    "question": "Difference owner insured beneficiary?",
+    "question": "Life insurance concept: Which statement about renewable term is correct?",
     "options": [
-      "Beneficiary controls",
-      "Owner receives",
-      "All same",
-      "Owner controls policy insured is life insured beneficiary receives benefit"
+      "It provides specific benefits as defined in policy contract and provincial insurance act",
+      "It provides no benefits",
+      "It is illegal in Canada",
+      "It has no expiry"
     ],
-    "correctAnswer": 3,
-    "explanation": "Three roles can be same or different owner has rights.",
-    "source": "CISRO Competency + CRA ITA 148 public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "This covers standard HLLQP life insurance curriculum for 60. Focus on definition, premium structure, and suitability.",
+    "topic": "General",
+    "difficulty": "Medium"
   }
 ]

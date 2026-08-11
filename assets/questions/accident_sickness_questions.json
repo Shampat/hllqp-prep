@@ -2,1141 +2,901 @@
   {
     "id": 1,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Benefit Period",
-    "difficulty": "Easy",
-    "question": "Benefit period in DI/accident? (Case 33)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Limits premium paying",
-      "Free look",
-      "Same as elimination",
-      "Limits how long benefits payable"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "Benefit period = max duration paid.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 2,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "WOP",
-    "difficulty": "Easy",
-    "question": "What is waiver of premium in health?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Waives benefit",
-      "Increases premium",
-      "Waives premiums during total disability as defined",
-      "Reduces coverage"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "WOP in health waives premiums while disabled.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 3,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Pre-existing",
-    "difficulty": "Medium",
-    "question": "What is pre-existing condition clause? (Case 24)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Never covered",
-      "Always covered",
-      "Condition existing before coverage may be excluded or limited for period",
-      "Only after 10 years"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "Pre-existing may have exclusion period.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 4,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Deductible",
-    "difficulty": "Easy",
-    "question": "What is deductible in health insurance? (Case 22)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Benefit",
-      "Premium",
-      "Amount insured pays before insurer pays",
-      "Amount insurer pays first"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "Deductible is insured's initial out-of-pocket.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 5,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Benefits",
-    "difficulty": "Medium",
-    "question": "What is rehabilitation benefit in accident? (Case 59)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Pays death only",
-      "No benefit",
-      "Pays costs to retrain or rehab after covered accident",
-      "Only if sickness"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "Rehab benefit helps return to work.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 6,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Exclusions",
-    "difficulty": "Medium",
-    "question": "What is common exclusion in AD&S? (Case 21)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Accidental death",
-      "All accidents covered",
-      "War, self-inflicted injury, criminal act, aviation unless passenger",
-      "Dismemberment"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "Standard exclusions: war, suicide attempt, criminal, drug abuse, etc.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 7,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Exclusions",
-    "difficulty": "Medium",
-    "question": "What is common exclusion in AD&S? (Case 36)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Accidental death",
-      "All accidents covered",
-      "War, self-inflicted injury, criminal act, aviation unless passenger",
-      "Dismemberment"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "Standard exclusions: war, suicide attempt, criminal, drug abuse, etc.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 8,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "WOP",
-    "difficulty": "Easy",
-    "question": "What is waiver of premium in health? (Case 30)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Increases premium",
-      "Reduces coverage",
-      "Waives benefit",
-      "Waives premiums during total disability as defined"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "WOP in health waives premiums while disabled.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 9,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Renewability",
-    "difficulty": "Medium",
-    "question": "What is guaranteed renewable health? (Case 25)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Premium never increases",
-      "Can cancel anytime",
-      "Cannot renew",
-      "Insurer must renew but can increase premium by class"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "Guaranteed renewable = renew right, premium can change by class.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 10,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Renewability",
-    "difficulty": "Medium",
-    "question": "What is non-cancellable? (Case 41)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Cannot cancel nor increase premium individually during term",
-      "Only group",
-      "Premium can increase anytime",
-      "Can cancel anytime"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Non-can is strongest renewability, premium guaranteed.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 11,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Benefits",
-    "difficulty": "Medium",
-    "question": "What is rehabilitation benefit in accident?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "No benefit",
-      "Only if sickness",
-      "Pays death only",
-      "Pays costs to retrain or rehab after covered accident"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "Rehab benefit helps return to work.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 12,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "AD&D",
-    "difficulty": "Easy",
-    "question": "AD&D pays? (Case 46)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Disability income",
-      "Death/dismemberment due to accident per definition",
-      "Sickness only",
-      "Any death"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 1,
-    "explanation": "AD&D only covers accidental as defined.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 13,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Riders",
-    "difficulty": "Easy",
-    "question": "What is accidental death benefit rider on life? (Case 43)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Cash value",
-      "Sickness extra",
-      "Any death extra",
-      "Extra benefit if death due to accident as defined"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "AD rider adds amount for accidental death.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 14,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Riders",
-    "difficulty": "Easy",
-    "question": "What does hospital cash rider pay?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "No benefit",
-      "Only if surgery",
-      "Fixed amount per day hospitalized regardless actual cost",
-      "Actual expenses only"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "Hospital cash pays per diem fixed benefit.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 15,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Riders",
-    "difficulty": "Easy",
-    "question": "What does hospital cash rider pay? (Case 57)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Fixed amount per day hospitalized regardless actual cost",
-      "Actual expenses only",
-      "Only if surgery",
-      "No benefit"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Hospital cash pays per diem fixed benefit.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 16,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "AD&D",
-    "difficulty": "Medium",
-    "question": "What is specially protected loss in AD&D? (Case 20)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Only death",
-      "Any loss",
-      "Losses like sight, limbs where benefit may be higher",
-      "Sickness"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "Special losses have specific definitions and amounts.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 17,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Waiting",
-    "difficulty": "Easy",
-    "question": "Elimination period in health? (Case 47)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Free look",
-      "Period after disability before benefits start",
-      "Period before app",
-      "Grace"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 1,
-    "explanation": "Elimination reduces short claims.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 18,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Deductible",
-    "difficulty": "Easy",
-    "question": "What is deductible in health insurance? (Case 52)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Amount insured pays before insurer pays",
-      "Benefit",
-      "Amount insurer pays first",
-      "Premium"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Deductible is insured's initial out-of-pocket.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 19,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Benefits",
-    "difficulty": "Medium",
-    "question": "What is rehabilitation benefit in accident? (Case 44)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "No benefit",
-      "Pays death only",
-      "Only if sickness",
-      "Pays costs to retrain or rehab after covered accident"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "Rehab benefit helps return to work.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 20,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Benefits",
-    "difficulty": "Medium",
-    "question": "What is rehabilitation benefit in accident? (Case 29)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Pays costs to retrain or rehab after covered accident",
-      "No benefit",
-      "Only if sickness",
-      "Pays death only"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Rehab benefit helps return to work.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 21,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "AD&D",
-    "difficulty": "Medium",
-    "question": "What is accidental means vs accidental result?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Means = sickness",
-      "Result = only means",
-      "Same",
-      "Means = accidental cause, Result = accidental outcome regardless cause"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "Some policies cover accidental means stricter than result.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 22,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Renewability",
-    "difficulty": "Medium",
-    "question": "What is guaranteed renewable health?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Insurer must renew but can increase premium by class",
-      "Premium never increases",
-      "Can cancel anytime",
-      "Cannot renew"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Guaranteed renewable = renew right, premium can change by class.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 23,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Riders",
-    "difficulty": "Easy",
-    "question": "What does hospital cash rider pay? (Case 42)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Actual expenses only",
-      "Fixed amount per day hospitalized regardless actual cost",
-      "Only if surgery",
-      "No benefit"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 1,
-    "explanation": "Hospital cash pays per diem fixed benefit.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 24,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Riders",
-    "difficulty": "Easy",
-    "question": "What is accidental death benefit rider on life? (Case 28)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Extra benefit if death due to accident as defined",
-      "Cash value",
-      "Any death extra",
-      "Sickness extra"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "AD rider adds amount for accidental death.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 25,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "WOP",
-    "difficulty": "Easy",
-    "question": "What is waiver of premium in health? (Case 45)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Reduces coverage",
-      "Waives benefit",
-      "Increases premium",
-      "Waives premiums during total disability as defined"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "WOP in health waives premiums while disabled.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 26,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "AD&D",
-    "difficulty": "Medium",
-    "question": "What is specially protected loss in AD&D?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Losses like sight, limbs where benefit may be higher",
-      "Sickness",
-      "Only death",
-      "Any loss"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Special losses have specific definitions and amounts.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 27,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "AD&D",
-    "difficulty": "Medium",
-    "question": "What is accidental means vs accidental result? (Case 49)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Means = accidental cause, Result = accidental outcome regardless cause",
-      "Result = only means",
-      "Means = sickness",
-      "Same"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Some policies cover accidental means stricter than result.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 28,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Deductible",
-    "difficulty": "Easy",
-    "question": "What is deductible in health insurance?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Benefit",
-      "Amount insured pays before insurer pays",
-      "Amount insurer pays first",
-      "Premium"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 1,
-    "explanation": "Deductible is insured's initial out-of-pocket.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 29,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Pre-existing",
-    "difficulty": "Medium",
-    "question": "What is pre-existing condition clause? (Case 54)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Only after 10 years",
-      "Never covered",
-      "Condition existing before coverage may be excluded or limited for period",
-      "Always covered"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "Pre-existing may have exclusion period.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 30,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Waiting",
-    "difficulty": "Easy",
-    "question": "Elimination period in health?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Period after disability before benefits start",
-      "Period before app",
-      "Grace",
-      "Free look"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination reduces short claims.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 31,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Co-insurance",
-    "difficulty": "Easy",
-    "question": "What is co-insurance? (Case 23)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Premium sharing",
-      "Insured pays 100%",
-      "Insurer pays 100%",
-      "Insured and insurer share costs after deductible per percentage"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "Co-insurance splits eligible expenses after deductible.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 32,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Benefit Period",
-    "difficulty": "Easy",
-    "question": "Benefit period in DI/accident? (Case 18)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Same as elimination",
-      "Free look",
-      "Limits how long benefits payable",
-      "Limits premium paying"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "Benefit period = max duration paid.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 33,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Riders",
-    "difficulty": "Easy",
-    "question": "What is accidental death benefit rider on life? (Case 58)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Sickness extra",
-      "Extra benefit if death due to accident as defined",
-      "Cash value",
-      "Any death extra"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 1,
-    "explanation": "AD rider adds amount for accidental death.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 34,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "AD&D",
-    "difficulty": "Easy",
-    "question": "AD&D pays?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Sickness only",
-      "Death/dismemberment due to accident per definition",
-      "Any death",
-      "Disability income"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 1,
-    "explanation": "AD&D only covers accidental as defined.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 35,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "AD&D",
-    "difficulty": "Medium",
-    "question": "What is accidental means vs accidental result? (Case 19)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Means = accidental cause, Result = accidental outcome regardless cause",
-      "Result = only means",
-      "Means = sickness",
-      "Same"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Some policies cover accidental means stricter than result.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 36,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Waiting",
-    "difficulty": "Easy",
-    "question": "Elimination period in health? (Case 32)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Period after disability before benefits start",
-      "Period before app",
-      "Grace",
-      "Free look"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination reduces short claims.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 37,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Pre-existing",
-    "difficulty": "Medium",
-    "question": "What is pre-existing condition clause?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Condition existing before coverage may be excluded or limited for period",
-      "Only after 10 years",
-      "Never covered",
-      "Always covered"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Pre-existing may have exclusion period.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 38,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "AD&D",
-    "difficulty": "Medium",
-    "question": "What is specially protected loss in AD&D? (Case 50)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Any loss",
-      "Losses like sight, limbs where benefit may be higher",
-      "Only death",
-      "Sickness"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 1,
-    "explanation": "Special losses have specific definitions and amounts.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 39,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Co-insurance",
-    "difficulty": "Easy",
-    "question": "What is co-insurance?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Insurer pays 100%",
-      "Insured pays 100%",
-      "Insured and insurer share costs after deductible per percentage",
-      "Premium sharing"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "Co-insurance splits eligible expenses after deductible.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 40,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Pre-existing",
-    "difficulty": "Medium",
-    "question": "What is pre-existing condition clause? (Case 39)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Never covered",
-      "Always covered",
-      "Only after 10 years",
-      "Condition existing before coverage may be excluded or limited for period"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "Pre-existing may have exclusion period.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 41,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "WOP",
-    "difficulty": "Easy",
-    "question": "What is waiver of premium in health? (Case 60)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Waives premiums during total disability as defined",
-      "Waives benefit",
-      "Reduces coverage",
-      "Increases premium"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "WOP in health waives premiums while disabled.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 42,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "AD&D",
-    "difficulty": "Medium",
-    "question": "What is specially protected loss in AD&D? (Case 35)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Sickness",
-      "Losses like sight, limbs where benefit may be higher",
-      "Only death",
-      "Any loss"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 1,
-    "explanation": "Special losses have specific definitions and amounts.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 43,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Exclusions",
-    "difficulty": "Medium",
-    "question": "What is common exclusion in AD&S? (Case 51)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "War, self-inflicted injury, criminal act, aviation unless passenger",
-      "Dismemberment",
-      "Accidental death",
-      "All accidents covered"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard exclusions: war, suicide attempt, criminal, drug abuse, etc.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 44,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Co-insurance",
-    "difficulty": "Easy",
-    "question": "What is co-insurance? (Case 53)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Insured and insurer share costs after deductible per percentage",
-      "Insured pays 100%",
-      "Premium sharing",
-      "Insurer pays 100%"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Co-insurance splits eligible expenses after deductible.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 45,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Renewability",
-    "difficulty": "Medium",
-    "question": "What is non-cancellable? (Case 56)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Can cancel anytime",
-      "Cannot cancel nor increase premium individually during term",
-      "Premium can increase anytime",
-      "Only group"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 1,
-    "explanation": "Non-can is strongest renewability, premium guaranteed.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 46,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Co-insurance",
-    "difficulty": "Easy",
-    "question": "What is co-insurance? (Case 38)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Premium sharing",
-      "Insured and insurer share costs after deductible per percentage",
-      "Insured pays 100%",
-      "Insurer pays 100%"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 1,
-    "explanation": "Co-insurance splits eligible expenses after deductible.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 47,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "AD&D",
-    "difficulty": "Easy",
-    "question": "AD&D pays? (Case 31)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Any death",
-      "Disability income",
-      "Sickness only",
-      "Death/dismemberment due to accident per definition"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "AD&D only covers accidental as defined.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 48,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Riders",
-    "difficulty": "Easy",
-    "question": "What does hospital cash rider pay? (Case 27)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Actual expenses only",
-      "No benefit",
-      "Fixed amount per day hospitalized regardless actual cost",
-      "Only if surgery"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "Hospital cash pays per diem fixed benefit.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 49,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Renewability",
-    "difficulty": "Medium",
-    "question": "What is non-cancellable?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Only group",
-      "Premium can increase anytime",
-      "Can cancel anytime",
-      "Cannot cancel nor increase premium individually during term"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "Non-can is strongest renewability, premium guaranteed.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 50,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Renewability",
-    "difficulty": "Medium",
-    "question": "What is non-cancellable? (Case 26)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Premium can increase anytime",
-      "Cannot cancel nor increase premium individually during term",
-      "Can cancel anytime",
-      "Only group"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 1,
-    "explanation": "Non-can is strongest renewability, premium guaranteed.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 51,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "AD&D",
-    "difficulty": "Medium",
-    "question": "What is accidental means vs accidental result? (Case 34)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Means = sickness",
-      "Same",
-      "Result = only means",
-      "Means = accidental cause, Result = accidental outcome regardless cause"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "Some policies cover accidental means stricter than result.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 52,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Renewability",
-    "difficulty": "Medium",
-    "question": "What is guaranteed renewable health? (Case 55)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Cannot renew",
-      "Premium never increases",
-      "Insurer must renew but can increase premium by class",
-      "Can cancel anytime"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "Guaranteed renewable = renew right, premium can change by class.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 53,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Waiting",
-    "difficulty": "Easy",
-    "question": "Elimination period in health? (Case 17)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Period after disability before benefits start",
-      "Free look",
-      "Period before app",
-      "Grace"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Elimination reduces short claims.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 54,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Renewability",
-    "difficulty": "Medium",
-    "question": "What is guaranteed renewable health? (Case 40)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Can cancel anytime",
-      "Cannot renew",
-      "Premium never increases",
-      "Insurer must renew but can increase premium by class"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "Guaranteed renewable = renew right, premium can change by class.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 55,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Deductible",
-    "difficulty": "Easy",
-    "question": "What is deductible in health insurance? (Case 37)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Amount insured pays before insurer pays",
-      "Premium",
-      "Benefit",
-      "Amount insurer pays first"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
     "correctAnswer": 0,
-    "explanation": "Deductible is insured's initial out-of-pocket.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 56,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Exclusions",
-    "difficulty": "Medium",
-    "question": "What is common exclusion in AD&S?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Accidental death",
-      "War, self-inflicted injury, criminal act, aviation unless passenger",
-      "All accidents covered",
-      "Dismemberment"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 1,
-    "explanation": "Standard exclusions: war, suicide attempt, criminal, drug abuse, etc.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 57,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Riders",
-    "difficulty": "Easy",
-    "question": "What is accidental death benefit rider on life?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Any death extra",
-      "Sickness extra",
-      "Cash value",
-      "Extra benefit if death due to accident as defined"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 3,
-    "explanation": "AD rider adds amount for accidental death.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 58,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Benefit Period",
-    "difficulty": "Easy",
-    "question": "Benefit period in DI/accident? (Case 48)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Limits premium paying",
-      "Free look",
-      "Limits how long benefits payable",
-      "Same as elimination"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "Benefit period = max duration paid.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 59,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "AD&D",
-    "difficulty": "Easy",
-    "question": "AD&D pays? (Case 16)",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Disability income",
-      "Death/dismemberment due to accident per definition",
-      "Sickness only",
-      "Any death"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 1,
-    "explanation": "AD&D only covers accidental as defined.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   },
   {
     "id": 60,
     "moduleId": "accident_sickness",
-    "moduleName": "Accident & Sickness",
-    "topic": "Benefit Period",
-    "difficulty": "Easy",
-    "question": "Benefit period in DI/accident?",
+    "question": "What does the disability elimination period mean?",
     "options": [
-      "Free look",
-      "Same as elimination",
-      "Limits how long benefits payable",
-      "Limits premium paying"
+      "Waiting period after disability before benefits start - longer elimination = lower premium",
+      "Period when premium doubled",
+      "Period when coverage ends",
+      "Period for claim approval only"
     ],
-    "correctAnswer": 2,
-    "explanation": "Benefit period = max duration paid.",
-    "source": "CISRO A&S Competency + FSRA",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Elimination period is deductible in days (30/60/90/120). Insured must be disabled through this period before benefits payable.",
+    "topic": "Disability",
+    "difficulty": "Medium"
   }
 ]

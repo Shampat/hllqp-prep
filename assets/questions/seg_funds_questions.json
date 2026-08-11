@@ -2,1141 +2,901 @@
   {
     "id": 1,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Fees",
-    "difficulty": "Medium",
-    "question": "What is DSC vs no-load in seg fund? (Case 37)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "No-load has DSC",
-      "Same",
-      "DSC surrender charge for early redemption, no-load no upfront sales charge",
-      "DSC no charge"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 2,
-    "explanation": "DSC declining surrender charge e.g., 6 years.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 2,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Difference",
-    "difficulty": "Easy",
-    "question": "Seg fund vs mutual fund main difference? (Case 46)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Seg fund no guarantee",
-      "Seg fund is insurance contract with guarantees and beneficiary designation, mutual fund is securities",
-      "Same",
-      "Mutual fund is insurance"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Seg funds are insurance, offer guarantees and bypass probate.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 3,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "MVA",
-    "difficulty": "Medium",
-    "question": "What is market value adjustment?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Adjustment if surrender before maturity may reduce guarantee",
-      "No adjustment",
-      "Only at death",
-      "Always increases"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "MVA may apply on early surrender.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 4,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Creditor",
-    "difficulty": "Hard",
-    "question": "Creditor protection seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Always protected",
-      "Never protected",
-      "May offer creditor protection if named beneficiary is spouse, child, parent - per provincial insurance law",
-      "Only if estate"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 2,
-    "explanation": "Creditor protection if qualified beneficiary per Insurance Act.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 5,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Maturity Guarantee",
-    "difficulty": "Medium",
-    "question": "Maturity guarantee in seg fund? (Case 47)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Guarantees % of deposits at maturity date e.g., 75% after 10+ years",
-      "Guarantees gains",
-      "Guarantees 100% anytime",
-      "No guarantee"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Maturity guarantee e.g., 75% after 10 years.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 6,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Registered",
-    "difficulty": "Medium",
-    "question": "Seg fund with RRSP/RRIF? (Case 55)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "No guarantee inside RRSP",
-      "Cannot hold",
-      "Held inside RRSP, guarantees apply, but probate advantage lost inside registered plan",
-      "RRSP not allowed"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 2,
-    "explanation": "Seg funds inside RRSP lose probate bypass, guarantees remain.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 7,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Maturity Guarantee",
-    "difficulty": "Medium",
-    "question": "Maturity guarantee in seg fund? (Case 17)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "No guarantee",
-      "Guarantees % of deposits at maturity date e.g., 75% after 10+ years",
-      "Guarantees 100% anytime",
-      "Guarantees gains"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Maturity guarantee e.g., 75% after 10 years.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 8,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Death Guarantee",
-    "difficulty": "Medium",
-    "question": "Death benefit guarantee in seg fund? (Case 48)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Guarantees 200%",
-      "Guarantees % of deposits on death e.g., 75-100%",
-      "Guarantees market value only",
-      "No death benefit"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Death guarantee protects deposits on death.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 9,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Fees",
-    "difficulty": "Medium",
-    "question": "What is DSC vs no-load in seg fund? (Case 22)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Same",
-      "DSC no charge",
-      "No-load has DSC",
-      "DSC surrender charge for early redemption, no-load no upfront sales charge"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 3,
-    "explanation": "DSC declining surrender charge e.g., 6 years.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 10,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "MVA",
-    "difficulty": "Medium",
-    "question": "What is market value adjustment? (Case 41)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Adjustment if surrender before maturity may reduce guarantee",
-      "Always increases",
-      "No adjustment",
-      "Only at death"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "MVA may apply on early surrender.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 11,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Free Look",
-    "difficulty": "Easy",
-    "question": "10-day free look for seg fund? (Case 59)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "10 days to cancel and get refund",
-      "30 days",
-      "Only for mutual funds",
-      "No free look"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Free look 10 days for new seg fund contract.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 12,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Free Look",
-    "difficulty": "Easy",
-    "question": "10-day free look for seg fund? (Case 29)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "30 days",
-      "10 days to cancel and get refund",
-      "Only for mutual funds",
-      "No free look"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Free look 10 days for new seg fund contract.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 13,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Death Guarantee",
-    "difficulty": "Medium",
-    "question": "Death benefit guarantee in seg fund? (Case 18)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "No death benefit",
-      "Guarantees % of deposits on death e.g., 75-100%",
-      "Guarantees market value only",
-      "Guarantees 200%"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Death guarantee protects deposits on death.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 14,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Structure",
-    "difficulty": "Easy",
-    "question": "Seg fund contract structure?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "No segregation",
-      "Mutual fund",
-      "Groups of funds held separately from insurer general assets",
-      "General assets"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 2,
-    "explanation": "Segregated funds held separate from insurer assets.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 15,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "MER",
-    "difficulty": "Easy",
-    "question": "What is MER in seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "No fee",
-      "Premium",
-      "One-time fee",
-      "Management expense ratio ongoing fee for fund management"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 3,
-    "explanation": "MER includes management, operating, insurance fee for guarantees.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 16,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Beneficiary",
-    "difficulty": "Medium",
-    "question": "Beneficiary designation advantage seg fund? (Case 35)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Taxable more",
-      "Goes via estate always",
-      "No beneficiary",
-      "Bypasses probate and estate, direct to beneficiary"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 3,
-    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 17,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Tax",
-    "difficulty": "Hard",
-    "question": "Taxation of non-registered seg fund withdrawal? (Case 24)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Tax-free",
-      "Fully income",
-      "Gain = market value - ACB minus portion of guarantee fee, capital gain",
-      "50% income"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 2,
-    "explanation": "Seg fund gain is capital gain: proceeds minus ACB.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 18,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "MER",
-    "difficulty": "Easy",
-    "question": "What is MER in seg fund? (Case 38)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "One-time fee",
-      "Management expense ratio ongoing fee for fund management",
-      "Premium",
-      "No fee"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "MER includes management, operating, insurance fee for guarantees.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 19,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Structure",
-    "difficulty": "Easy",
-    "question": "Seg fund contract structure? (Case 58)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "General assets",
-      "No segregation",
-      "Mutual fund",
-      "Groups of funds held separately from insurer general assets"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 3,
-    "explanation": "Segregated funds held separate from insurer assets.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 20,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Reset",
-    "difficulty": "Medium",
-    "question": "What is reset in seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "No reset",
-      "Lowers guarantee",
-      "Cancels guarantee",
-      "Locks in market gains raising guarantee level, may extend maturity"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 3,
-    "explanation": "Reset locks gains raising guarantees, restarts maturity clock.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 21,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Fees",
-    "difficulty": "Medium",
-    "question": "What is DSC vs no-load in seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Same",
-      "DSC surrender charge for early redemption, no-load no upfront sales charge",
-      "DSC no charge",
-      "No-load has DSC"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "DSC declining surrender charge e.g., 6 years.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 22,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Disclosure",
-    "difficulty": "Medium",
-    "question": "Best practice explaining seg fund? (Case 57)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Explain guarantees cost, MER higher than mutual fund, guarantees %, maturity date, resets",
-      "Say same as GIC",
-      "No need explain",
-      "Say guaranteed 100% anytime"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Must explain guarantee costs and limitations.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 23,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "MER",
-    "difficulty": "Easy",
-    "question": "What is MER in seg fund? (Case 23)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Premium",
-      "No fee",
-      "One-time fee",
-      "Management expense ratio ongoing fee for fund management"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 3,
-    "explanation": "MER includes management, operating, insurance fee for guarantees.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 24,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Maturity Guarantee",
-    "difficulty": "Medium",
-    "question": "Maturity guarantee in seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Guarantees % of deposits at maturity date e.g., 75% after 10+ years",
-      "No guarantee",
-      "Guarantees 100% anytime",
-      "Guarantees gains"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Maturity guarantee e.g., 75% after 10 years.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 25,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Estate",
-    "difficulty": "Medium",
-    "question": "Death benefit in registered seg fund? (Case 45)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Goes to insurer",
-      "Paid directly to named beneficiary outside estate if designated",
-      "Via estate always",
-      "Lost"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Registered seg with beneficiary bypasses estate.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 26,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Creditor",
-    "difficulty": "Hard",
-    "question": "Creditor protection seg fund? (Case 21)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Only if estate",
-      "Never protected",
-      "May offer creditor protection if named beneficiary is spouse, child, parent - per provincial insurance law",
-      "Always protected"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 2,
-    "explanation": "Creditor protection if qualified beneficiary per Insurance Act.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 27,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Disclosure",
-    "difficulty": "Medium",
-    "question": "Best practice explaining seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Explain guarantees cost, MER higher than mutual fund, guarantees %, maturity date, resets",
-      "Say guaranteed 100% anytime",
-      "No need explain",
-      "Say same as GIC"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Must explain guarantee costs and limitations.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 28,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Beneficiary",
-    "difficulty": "Medium",
-    "question": "Beneficiary designation advantage seg fund? (Case 20)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Bypasses probate and estate, direct to beneficiary",
-      "No beneficiary",
-      "Goes via estate always",
-      "Taxable more"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 29,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Beneficiary",
-    "difficulty": "Medium",
-    "question": "Beneficiary designation advantage seg fund? (Case 50)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Bypasses probate and estate, direct to beneficiary",
-      "Taxable more",
-      "Goes via estate always",
-      "No beneficiary"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 30,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "MVA",
-    "difficulty": "Medium",
-    "question": "What is market value adjustment? (Case 56)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Always increases",
-      "No adjustment",
-      "Only at death",
-      "Adjustment if surrender before maturity may reduce guarantee"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 3,
-    "explanation": "MVA may apply on early surrender.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 31,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Difference",
-    "difficulty": "Easy",
-    "question": "Seg fund vs mutual fund main difference? (Case 31)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Seg fund no guarantee",
-      "Same",
-      "Mutual fund is insurance",
-      "Seg fund is insurance contract with guarantees and beneficiary designation, mutual fund is securities"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 3,
-    "explanation": "Seg funds are insurance, offer guarantees and bypass probate.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 32,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Tax",
-    "difficulty": "Hard",
-    "question": "Taxation of non-registered seg fund withdrawal? (Case 39)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Tax-free",
-      "Gain = market value - ACB minus portion of guarantee fee, capital gain",
-      "50% income",
-      "Fully income"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Seg fund gain is capital gain: proceeds minus ACB.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 33,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Death Guarantee",
-    "difficulty": "Medium",
-    "question": "Death benefit guarantee in seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Guarantees % of deposits on death e.g., 75-100%",
-      "Guarantees market value only",
-      "Guarantees 200%",
-      "No death benefit"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Death guarantee protects deposits on death.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 34,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Reset",
-    "difficulty": "Medium",
-    "question": "What is reset in seg fund? (Case 34)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "No reset",
-      "Locks in market gains raising guarantee level, may extend maturity",
-      "Lowers guarantee",
-      "Cancels guarantee"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Reset locks gains raising guarantees, restarts maturity clock.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 35,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Registered",
-    "difficulty": "Medium",
-    "question": "Seg fund with RRSP/RRIF?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Held inside RRSP, guarantees apply, but probate advantage lost inside registered plan",
-      "RRSP not allowed",
-      "No guarantee inside RRSP",
-      "Cannot hold"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Seg funds inside RRSP lose probate bypass, guarantees remain.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 36,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Tax",
-    "difficulty": "Hard",
-    "question": "Taxation of non-registered seg fund withdrawal?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Fully income",
-      "Gain = market value - ACB minus portion of guarantee fee, capital gain",
-      "50% income",
-      "Tax-free"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Seg fund gain is capital gain: proceeds minus ACB.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 37,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Estate",
-    "difficulty": "Medium",
-    "question": "Death benefit in registered seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Via estate always",
-      "Paid directly to named beneficiary outside estate if designated",
-      "Lost",
-      "Goes to insurer"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Registered seg with beneficiary bypasses estate.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 38,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Fees",
-    "difficulty": "Medium",
-    "question": "What is DSC vs no-load in seg fund? (Case 52)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "DSC surrender charge for early redemption, no-load no upfront sales charge",
-      "No-load has DSC",
-      "DSC no charge",
-      "Same"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "DSC declining surrender charge e.g., 6 years.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 39,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Beneficiary",
-    "difficulty": "Medium",
-    "question": "Beneficiary designation advantage seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "No beneficiary",
-      "Taxable more",
-      "Bypasses probate and estate, direct to beneficiary",
-      "Goes via estate always"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 2,
-    "explanation": "Seg fund beneficiary bypasses probate like life insurance.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 40,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Creditor",
-    "difficulty": "Hard",
-    "question": "Creditor protection seg fund? (Case 36)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Never protected",
-      "Only if estate",
-      "Always protected",
-      "May offer creditor protection if named beneficiary is spouse, child, parent - per provincial insurance law"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 3,
-    "explanation": "Creditor protection if qualified beneficiary per Insurance Act.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 41,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Structure",
-    "difficulty": "Easy",
-    "question": "Seg fund contract structure? (Case 28)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Groups of funds held separately from insurer general assets",
-      "No segregation",
-      "Mutual fund",
-      "General assets"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds held separate from insurer assets.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 42,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Creditor",
-    "difficulty": "Hard",
-    "question": "Creditor protection seg fund? (Case 51)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Never protected",
-      "Only if estate",
-      "May offer creditor protection if named beneficiary is spouse, child, parent - per provincial insurance law",
-      "Always protected"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 2,
-    "explanation": "Creditor protection if qualified beneficiary per Insurance Act.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 43,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Estate",
-    "difficulty": "Medium",
-    "question": "Death benefit in registered seg fund? (Case 30)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Paid directly to named beneficiary outside estate if designated",
-      "Lost",
-      "Via estate always",
-      "Goes to insurer"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Registered seg with beneficiary bypasses estate.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 44,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Tax",
-    "difficulty": "Hard",
-    "question": "Taxation of non-registered seg fund withdrawal? (Case 54)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Gain = market value - ACB minus portion of guarantee fee, capital gain",
-      "Tax-free",
-      "Fully income",
-      "50% income"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Seg fund gain is capital gain: proceeds minus ACB.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 45,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Maturity Guarantee",
-    "difficulty": "Medium",
-    "question": "Maturity guarantee in seg fund? (Case 32)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Guarantees 100% anytime",
-      "Guarantees gains",
-      "Guarantees % of deposits at maturity date e.g., 75% after 10+ years",
-      "No guarantee"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 2,
-    "explanation": "Maturity guarantee e.g., 75% after 10 years.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 46,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Death Guarantee",
-    "difficulty": "Medium",
-    "question": "Death benefit guarantee in seg fund? (Case 33)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Guarantees % of deposits on death e.g., 75-100%",
-      "No death benefit",
-      "Guarantees market value only",
-      "Guarantees 200%"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Death guarantee protects deposits on death.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 47,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Disclosure",
-    "difficulty": "Medium",
-    "question": "Best practice explaining seg fund? (Case 27)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Say same as GIC",
-      "Explain guarantees cost, MER higher than mutual fund, guarantees %, maturity date, resets",
-      "No need explain",
-      "Say guaranteed 100% anytime"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Must explain guarantee costs and limitations.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 48,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Free Look",
-    "difficulty": "Easy",
-    "question": "10-day free look for seg fund? (Case 44)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "30 days",
-      "10 days to cancel and get refund",
-      "Only for mutual funds",
-      "No free look"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Free look 10 days for new seg fund contract.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 49,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Registered",
-    "difficulty": "Medium",
-    "question": "Seg fund with RRSP/RRIF? (Case 25)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Held inside RRSP, guarantees apply, but probate advantage lost inside registered plan",
-      "RRSP not allowed",
-      "No guarantee inside RRSP",
-      "Cannot hold"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Seg funds inside RRSP lose probate bypass, guarantees remain.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 50,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Reset",
-    "difficulty": "Medium",
-    "question": "What is reset in seg fund? (Case 19)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Locks in market gains raising guarantee level, may extend maturity",
-      "No reset",
-      "Cancels guarantee",
-      "Lowers guarantee"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Reset locks gains raising guarantees, restarts maturity clock.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 51,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Registered",
-    "difficulty": "Medium",
-    "question": "Seg fund with RRSP/RRIF? (Case 40)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Cannot hold",
-      "Held inside RRSP, guarantees apply, but probate advantage lost inside registered plan",
-      "No guarantee inside RRSP",
-      "RRSP not allowed"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Seg funds inside RRSP lose probate bypass, guarantees remain.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 52,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Reset",
-    "difficulty": "Medium",
-    "question": "What is reset in seg fund? (Case 49)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Cancels guarantee",
-      "Lowers guarantee",
-      "No reset",
-      "Locks in market gains raising guarantee level, may extend maturity"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 3,
-    "explanation": "Reset locks gains raising guarantees, restarts maturity clock.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 53,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Difference",
-    "difficulty": "Easy",
-    "question": "Seg fund vs mutual fund main difference?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Seg fund no guarantee",
-      "Seg fund is insurance contract with guarantees and beneficiary designation, mutual fund is securities",
-      "Mutual fund is insurance",
-      "Same"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Seg funds are insurance, offer guarantees and bypass probate.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 54,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Difference",
-    "difficulty": "Easy",
-    "question": "Seg fund vs mutual fund main difference? (Case 16)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Mutual fund is insurance",
-      "Seg fund no guarantee",
-      "Same",
-      "Seg fund is insurance contract with guarantees and beneficiary designation, mutual fund is securities"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 3,
-    "explanation": "Seg funds are insurance, offer guarantees and bypass probate.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 55,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Estate",
-    "difficulty": "Medium",
-    "question": "Death benefit in registered seg fund? (Case 60)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Lost",
-      "Goes to insurer",
-      "Via estate always",
-      "Paid directly to named beneficiary outside estate if designated"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 3,
-    "explanation": "Registered seg with beneficiary bypasses estate.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 56,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "MER",
-    "difficulty": "Easy",
-    "question": "What is MER in seg fund? (Case 53)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Management expense ratio ongoing fee for fund management",
-      "One-time fee",
-      "No fee",
-      "Premium"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "MER includes management, operating, insurance fee for guarantees.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 57,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Disclosure",
-    "difficulty": "Medium",
-    "question": "Best practice explaining seg fund? (Case 42)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Say same as GIC",
-      "No need explain",
-      "Say guaranteed 100% anytime",
-      "Explain guarantees cost, MER higher than mutual fund, guarantees %, maturity date, resets"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 3,
-    "explanation": "Must explain guarantee costs and limitations.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 58,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "MVA",
-    "difficulty": "Medium",
-    "question": "What is market value adjustment? (Case 26)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Adjustment if surrender before maturity may reduce guarantee",
-      "No adjustment",
-      "Always increases",
-      "Only at death"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "MVA may apply on early surrender.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 59,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Structure",
-    "difficulty": "Easy",
-    "question": "Seg fund contract structure? (Case 43)",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Groups of funds held separately from insurer general assets",
-      "General assets",
-      "No segregation",
-      "Mutual fund"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
     "correctAnswer": 0,
-    "explanation": "Segregated funds held separate from insurer assets.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   },
   {
     "id": 60,
     "moduleId": "seg_funds",
-    "moduleName": "Segregated Funds",
-    "topic": "Free Look",
-    "difficulty": "Easy",
-    "question": "10-day free look for seg fund?",
+    "question": "What is a key advantage of segregated funds over mutual funds?",
     "options": [
-      "Only for mutual funds",
-      "10 days to cancel and get refund",
-      "30 days",
-      "No free look"
+      "Potential creditor protection and guarantee of 75-100% principal at maturity/death plus estate bypass",
+      "No management fees",
+      "Guaranteed 20% return",
+      "No risk"
     ],
-    "correctAnswer": 1,
-    "explanation": "Free look 10 days for new seg fund contract.",
-    "source": "CISRO Seg Funds + FSRA public",
-    "jurisdiction": "Common Law Excludes Quebec",
-    "lastVerified": "2026-05-01"
+    "correctAnswer": 0,
+    "explanation": "Seg funds are insurance contracts: provide maturity and death guarantees (75-100%), creditor protection if named beneficiary is spouse/child/parent, bypass probate, reset options.",
+    "topic": "Seg Funds",
+    "difficulty": "Medium"
   }
 ]
