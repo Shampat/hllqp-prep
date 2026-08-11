@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import '../models/module.dart';
+import '../providers/theme_provider.dart';
 import 'quiz_screen.dart';
 import 'mock_exam_screen.dart';
 import 'flashcard_screen.dart';
@@ -9,31 +11,51 @@ class HomeScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final themeProv = Provider.of<ThemeProvider>(context);
+    final isDark = themeProv.isDark;
+    final bottomPadding = MediaQuery.of(context).padding.bottom;
+
     return Scaffold(
-      appBar: AppBar(title: const Text('HLLQP Prep - Canada', style: TextStyle(fontSize:16)), backgroundColor: Colors.indigo, foregroundColor: Colors.white),
+      appBar: AppBar(
+        title: const Text('HLLQP Prep - Canada', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
+        actions: [
+          // Only moon/sun - no logo
+          IconButton(
+            icon: Icon(isDark? Icons.light_mode : Icons.dark_mode_outlined),
+            onPressed: () => themeProv.toggle(),
+          ),
+          const SizedBox(width: 8),
+        ],
+      ),
       body: Column(
         children: [
           Expanded(
             child: GridView.builder(
-              padding: const EdgeInsets.all(8),
-              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2, childAspectRatio: 1.1, crossAxisSpacing: 8, mainAxisSpacing: 8),
+              padding: const EdgeInsets.all(12),
+              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                crossAxisCount: 2,
+                childAspectRatio: 1.0,
+                crossAxisSpacing: 12,
+                mainAxisSpacing: 12,
+              ),
               itemCount: allModules.length,
               itemBuilder: (context, index) {
                 final m = allModules[index];
                 return Card(
                   child: InkWell(
                     onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => QuizScreen(module: m))),
-                    child: Center(
-                      child: Padding(
-                        padding: const EdgeInsets.all(8),
-                        child: Column(
-                          mainAxisSize: MainAxisSize.min,
-                          children: [
-                            Text(m.icon, style: const TextStyle(fontSize: 28)),
-                            const SizedBox(height: 8),
-                            Text(m.name, textAlign: TextAlign.center, style: const TextStyle(fontWeight: FontWeight.w600, fontSize: 12), maxLines: 3),
-                          ],
-                        ),
+                    borderRadius: BorderRadius.circular(12),
+                    child: Padding(
+                      padding: const EdgeInsets.all(10),
+                      child: Column(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Text(m.icon, style: const TextStyle(fontSize: 30)),
+                          const SizedBox(height: 10),
+                          Text(m.name, textAlign: TextAlign.center, style: const TextStyle(fontWeight: FontWeight.w600, fontSize: 13), maxLines: 2, overflow: TextOverflow.ellipsis),
+                          const SizedBox(height: 4),
+                          Text(m.description, textAlign: TextAlign.center, style: TextStyle(fontSize: 10, color: isDark? Colors.white60 : Colors.black54), maxLines: 2, overflow: TextOverflow.ellipsis),
+                        ],
                       ),
                     ),
                   ),
@@ -41,13 +63,15 @@ class HomeScreen extends StatelessWidget {
               },
             ),
           ),
+          // FIX Samsung nav - add extra bottom padding
           SafeArea(
-            child: Padding(
-              padding: const EdgeInsets.all(8),
+            child: Container(
+              padding: EdgeInsets.fromLTRB(12, 8, 12, 12 + bottomPadding),
+              color: isDark? const Color(0xFF121212) : Colors.white,
               child: Row(children: [
-                Expanded(child: ElevatedButton(onPressed: ()=> Navigator.push(context, MaterialPageRoute(builder: (_)=> const MockExamScreen())), style: ElevatedButton.styleFrom(backgroundColor: Colors.indigo, foregroundColor: Colors.white), child: const Text('📝 Mock Exam (100Q)', style: TextStyle(fontSize:12)))),
-                const SizedBox(width:8),
-                Expanded(child: ElevatedButton(onPressed: ()=> Navigator.push(context, MaterialPageRoute(builder: (_)=> const FlashcardScreen())), style: ElevatedButton.styleFrom(backgroundColor: Colors.deepOrange, foregroundColor: Colors.white), child: const Text('🃏 Flashcards', style: TextStyle(fontSize:12)))),
+                Expanded(child: ElevatedButton(onPressed: ()=> Navigator.push(context, MaterialPageRoute(builder: (_)=> const MockExamScreen())), style: ElevatedButton.styleFrom(padding: const EdgeInsets.symmetric(vertical: 14)), child: const Text('📝 Mock 100Q'))),
+                const SizedBox(width: 10),
+                Expanded(child: ElevatedButton(onPressed: ()=> Navigator.push(context, MaterialPageRoute(builder: (_)=> const FlashcardScreen())), style: ElevatedButton.styleFrom(backgroundColor: Colors.deepOrange, padding: const EdgeInsets.symmetric(vertical: 14)), child: const Text('🃏 Flashcards'))),
               ]),
             ),
           ),

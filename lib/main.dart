@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'providers/quiz_provider.dart';
+import 'providers/theme_provider.dart';
 import 'screens/home_screen.dart';
 
 void main() {
@@ -12,13 +13,22 @@ class HLLQPApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ChangeNotifierProvider(
-      create: (_) => QuizProvider(),
-      child: MaterialApp(
-        title: 'HLLQP Prep',
-        debugShowCheckedModeBanner: false,
-        theme: ThemeData(useMaterial3: true, colorScheme: ColorScheme.fromSeed(seedColor: Colors.indigo)),
-        home: const HomeScreen(),
+    return MultiProvider(
+      providers: [
+        ChangeNotifierProvider(create: (_) => QuizProvider()),
+        ChangeNotifierProvider(create: (_) => ThemeProvider()),
+      ],
+      child: Consumer<ThemeProvider>(
+        builder: (context, themeProv, _) {
+          return MaterialApp(
+            title: 'HLLQP Prep - Canada',
+            debugShowCheckedModeBanner: false,
+            theme: themeProv.lightTheme,
+            darkTheme: themeProv.darkTheme,
+            themeMode: themeProv.isDark? ThemeMode.dark : ThemeMode.light,
+            home: const HomeScreen(),
+          );
+        },
       ),
     );
   }
