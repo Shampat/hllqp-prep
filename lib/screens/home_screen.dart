@@ -1,81 +1,53 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../models/module.dart';
-import '../providers/theme_provider.dart';
-import 'quiz_screen.dart';
-import 'mock_exam_screen.dart';
-import 'flashcard_screen.dart';
+import '../services/premium_service.dart';
+import '../widgets/banner_ad_widget.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
-
   @override
   Widget build(BuildContext context) {
-    final themeProv = Provider.of<ThemeProvider>(context);
-    final isDark = themeProv.isDark;
-    final bottomPadding = MediaQuery.of(context).padding.bottom;
-
+    final premium = context.watch<PremiumService>();
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('HLLQP Prep - Canada', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
-        actions: [
-          // Only moon/sun - no logo
-          IconButton(
-            icon: Icon(isDark? Icons.light_mode : Icons.dark_mode_outlined),
-            onPressed: () => themeProv.toggle(),
-          ),
-          const SizedBox(width: 8),
-        ],
-      ),
-      body: Column(
-        children: [
-          Expanded(
-            child: GridView.builder(
-              padding: const EdgeInsets.all(12),
-              gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 2,
-                childAspectRatio: 1.0,
-                crossAxisSpacing: 12,
-                mainAxisSpacing: 12,
-              ),
-              itemCount: allModules.length,
-              itemBuilder: (context, index) {
-                final m = allModules[index];
-                return Card(
-                  child: InkWell(
-                    onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => QuizScreen(module: m))),
-                    borderRadius: BorderRadius.circular(12),
-                    child: Padding(
-                      padding: const EdgeInsets.all(10),
-                      child: Column(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: [
-                          Text(m.icon, style: const TextStyle(fontSize: 30)),
-                          const SizedBox(height: 10),
-                          Text(m.name, textAlign: TextAlign.center, style: const TextStyle(fontWeight: FontWeight.w600, fontSize: 13), maxLines: 2, overflow: TextOverflow.ellipsis),
-                          const SizedBox(height: 4),
-                          Text(m.description, textAlign: TextAlign.center, style: TextStyle(fontSize: 10, color: isDark? Colors.white60 : Colors.black54), maxLines: 2, overflow: TextOverflow.ellipsis),
-                        ],
-                      ),
+      appBar: AppBar(title: const Text('HLLQP Prep'), centerTitle: true),
+      body: SafeArea(
+        child: Column(
+          children: [
+            Expanded(
+              child: GridView.builder(
+                padding: const EdgeInsets.all(12),
+                gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                  crossAxisCount: 2, crossAxisSpacing: 12, mainAxisSpacing: 12, childAspectRatio: 1.1),
+                itemCount: 9,
+                itemBuilder: (c, i) {
+                  final locked = premium.isModuleLocked(i);
+                  return Card(
+                    color: locked? Colors.grey.shade200 : Colors.white,
+                    child: Stack(
+                      children: [
+                        Center(child: Text('Module ${i+1}\n${locked? '🔒' : 'FREE'}', textAlign: TextAlign.center)),
+                        if (!locked) Positioned(top: 6, left: 6, child: Container(padding: const EdgeInsets.symmetric(h:4,v:2), decoration: BoxDecoration(color: Colors.green, borderRadius: BorderRadius.circular(4)), child: const Text('FREE', style: TextStyle(color: Colors.white, fontSize: 10)))),
+                        if (locked) const Positioned(top: 6, right: 6, child: Icon(Icons.lock, size: 16)),
+                      ],
                     ),
-                  ),
-                );
-              },
+                  );
+                },
+              ),
             ),
-          ),
-          // FIX Samsung nav - add extra bottom padding
-          SafeArea(
-            child: Container(
-              padding: EdgeInsets.fromLTRB(12, 8, 12, 12 + bottomPadding),
-              color: isDark? const Color(0xFF121212) : Colors.white,
-              child: Row(children: [
-                Expanded(child: ElevatedButton(onPressed: ()=> Navigator.push(context, MaterialPageRoute(builder: (_)=> const MockExamScreen())), style: ElevatedButton.styleFrom(padding: const EdgeInsets.symmetric(vertical: 14)), child: const Text('📝 Mock 100Q'))),
-                const SizedBox(width: 10),
-                Expanded(child: ElevatedButton(onPressed: ()=> Navigator.push(context, MaterialPageRoute(builder: (_)=> const FlashcardScreen())), style: ElevatedButton.styleFrom(backgroundColor: Colors.deepOrange, padding: const EdgeInsets.symmetric(vertical: 14)), child: const Text('🃏 Flashcards'))),
-              ]),
+            const BannerAdWidget(),
+            const SizedBox(height: 8),
+            Padding(
+              padding: const EdgeInsets.fromLTRB(12,0,12,8),
+              child: Row(
+                children: [
+                  Expanded(child: SizedBox(height: 42, child: ElevatedButton(onPressed: (){}, child: const Text('Mock Exam', style: TextStyle(fontSize: 13))))),
+                  const SizedBox(width: 12),
+                  Expanded(child: SizedBox(height: 42, child: ElevatedButton(onPressed: (){}, child: const Text('Flashcards', style: TextStyle(fontSize: 13))))),
+                ],
+              ),
             ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }
