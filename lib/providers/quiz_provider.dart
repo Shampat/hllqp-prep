@@ -84,9 +84,11 @@ class QuizProvider extends ChangeNotifier {
       }
 
       final restored = <Question>[];
+      final seen = <String>{};
       for (final value in decoded) {
-        final question = byId[value.toString()];
-        if (question == null) return null;
+        final key = value.toString();
+        final question = byId[key];
+        if (question == null || !seen.add(key)) return null;
         restored.add(question);
       }
       return restored.length == questions.length ? restored : null;
@@ -107,12 +109,13 @@ class QuizProvider extends ChangeNotifier {
       final prefs = await SharedPreferences.getInstance();
 
       final savedOrder = resume ? prefs.getString('${module.id}_order') : null;
-      _questions = _restoreSavedOrder(loadedQuestions, savedOrder) ?? loadedQuestions;
+      final restoredOrder = _restoreSavedOrder(loadedQuestions, savedOrder);
+      final canResumeSavedAnswers = resume && restoredOrder != null;
 
-      // A new session gets a new question order. A resumed session reuses the
-      // stored id order so saved answer indexes still refer to the same items.
-      if (savedOrder == null || _restoreSavedOrder(loadedQuestions, savedOrder) == null) {
-        _questions.shuffle();
+      if (restoredOrder != null) {
+        _questions = restoredOrder;
+      } else {
+        _questions = loadedQuestions..shuffle();
       }
 
       _currentIndex = 0;
@@ -121,7 +124,10 @@ class QuizProvider extends ChangeNotifier {
       _selectedAnswer = null;
       _showExplanation = false;
 
-      if (resume) {
+      // Answers are index-based, so they are restored only when the exact
+      // question-id order that produced them was also restored successfully.
+      // Legacy progress without a saved order is intentionally discarded.
+      if (canResumeSavedAnswers) {
         final savedIdx = prefs.getInt('${module.id}_index');
         final savedAns = prefs.getString('${module.id}_answers');
         final savedScore = prefs.getInt('${module.id}_score');
@@ -147,12 +153,20 @@ class QuizProvider extends ChangeNotifier {
         }
       }
 
-      // Persist the actual order used for this session. This also repairs old
-      // saved progress that predates question-order persistence.
+      // Persist the exact order used by this session so future resumes are safe.
       await prefs.setString(
         '${module.id}_order',
         json.encode(_questions.map((q) => q.id.toString()).toList()),
       );
+
+      if (!canResumeSavedAnswers) {
+        await prefs.setInt('${module.id}_index', 0);
+        await prefs.setString(
+          '${module.id}_answers',
+          json.encode(_userAnswers),
+        );
+        await prefs.setInt('${module.id}_score', 0);
+      }
     } catch (e) {
       debugPrint('Error loading ${module.id}: $e');
     }
