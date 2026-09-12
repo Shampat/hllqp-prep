@@ -1,0 +1,29 @@
+name: Question Bank Validation
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'assets/questions/**'
+      - 'tool/validate_question_bank.py'
+      - '.github/workflows/question-bank-validation.yml'
+  pull_request:
+    paths:
+      - 'assets/questions/**'
+      - 'tool/validate_question_bank.py'
+      - '.github/workflows/question-bank-validation.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate active HLLQP question banks
+        run: python tool/validate_question_bank.py
