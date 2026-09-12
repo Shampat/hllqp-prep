@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 import '../models/module.dart';
 import '../services/premium_service.dart';
 import '../widgets/banner_ad_widget.dart';
+import 'flashcard_screen.dart';
 import 'mock_exam_screen.dart';
 import 'paywall_screen.dart';
 import 'quiz_screen.dart';
@@ -133,7 +134,12 @@ class HomeScreen extends StatelessWidget {
                     child: SizedBox(
                       height: 42,
                       child: ElevatedButton(
-                        onPressed: () {},
+                        onPressed: () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(builder: (_) => const FlashcardScreen()),
+                          );
+                        },
                         child: const Text('Flashcards', style: TextStyle(fontSize: 13)),
                       ),
                     ),
