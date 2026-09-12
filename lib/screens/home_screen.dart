@@ -1,11 +1,20 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import '../models/module.dart';
 import '../services/premium_service.dart';
 import '../widgets/banner_ad_widget.dart';
 import 'mock_exam_screen.dart';
+import 'paywall_screen.dart';
+import 'quiz_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
+
+  Color _moduleColor(String hex) {
+    final value = int.tryParse(hex.replaceFirst('#', ''), radix: 16) ?? 0x3F51B5;
+    return Color(0xFF000000 | value);
+  }
+
   @override
   Widget build(BuildContext context) {
     final premium = context.watch<PremiumService>();
@@ -18,18 +27,82 @@ class HomeScreen extends StatelessWidget {
               child: GridView.builder(
                 padding: const EdgeInsets.all(12),
                 gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                  crossAxisCount: 2, crossAxisSpacing: 12, mainAxisSpacing: 12, childAspectRatio: 1.1),
-                itemCount: 9,
-                itemBuilder: (c, i) {
+                  crossAxisCount: 2,
+                  crossAxisSpacing: 12,
+                  mainAxisSpacing: 12,
+                  childAspectRatio: 1.05,
+                ),
+                itemCount: allModules.length,
+                itemBuilder: (context, i) {
+                  final module = allModules[i];
                   final locked = premium.isModuleLocked(i);
+                  final accent = _moduleColor(module.color);
                   return Card(
-                    color: locked? Colors.grey.shade200 : Colors.white,
-                    child: Stack(
-                      children: [
-                        Center(child: Text('Module ${i+1}\n${locked? '🔒' : 'FREE'}', textAlign: TextAlign.center)),
-                        if (!locked) Positioned(top: 6, left: 6, child: Container(padding: const EdgeInsets.symmetric(h:4,v:2), decoration: BoxDecoration(color: Colors.green, borderRadius: BorderRadius.circular(4)), child: const Text('FREE', style: TextStyle(color: Colors.white, fontSize: 10)))),
-                        if (locked) const Positioned(top: 6, right: 6, child: Icon(Icons.lock, size: 16)),
-                      ],
+                    clipBehavior: Clip.antiAlias,
+                    color: locked ? Colors.grey.shade200 : Colors.white,
+                    child: InkWell(
+                      onTap: () {
+                        if (locked) {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(builder: (_) => const PaywallScreen()),
+                          );
+                          return;
+                        }
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (_) => QuizScreen(module: module)),
+                        );
+                      },
+                      child: Padding(
+                        padding: const EdgeInsets.all(12),
+                        child: Stack(
+                          children: [
+                            Column(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              children: [
+                                Text(module.icon, style: const TextStyle(fontSize: 30)),
+                                const SizedBox(height: 8),
+                                SizedBox(
+                                  width: double.infinity,
+                                  child: Text(
+                                    module.name,
+                                    textAlign: TextAlign.center,
+                                    maxLines: 2,
+                                    overflow: TextOverflow.ellipsis,
+                                    style: const TextStyle(fontSize: 14, fontWeight: FontWeight.w700),
+                                  ),
+                                ),
+                                const SizedBox(height: 5),
+                                Text(
+                                  module.description,
+                                  textAlign: TextAlign.center,
+                                  maxLines: 2,
+                                  overflow: TextOverflow.ellipsis,
+                                  style: TextStyle(fontSize: 10, color: Colors.grey.shade700),
+                                ),
+                              ],
+                            ),
+                            Positioned(
+                              top: 0,
+                              left: 0,
+                              child: Container(
+                                padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                                decoration: BoxDecoration(
+                                  color: locked ? Colors.grey.shade600 : accent,
+                                  borderRadius: BorderRadius.circular(4),
+                                ),
+                                child: Text(
+                                  locked ? 'PRO' : 'FREE',
+                                  style: const TextStyle(color: Colors.white, fontSize: 9, fontWeight: FontWeight.bold),
+                                ),
+                              ),
+                            ),
+                            if (locked)
+                              const Positioned(top: 0, right: 0, child: Icon(Icons.lock, size: 17)),
+                          ],
+                        ),
+                      ),
                     ),
                   );
                 },
@@ -38,7 +111,7 @@ class HomeScreen extends StatelessWidget {
             const BannerAdWidget(),
             const SizedBox(height: 8),
             Padding(
-              padding: const EdgeInsets.fromLTRB(12,0,12,8),
+              padding: const EdgeInsets.fromLTRB(12, 0, 12, 8),
               child: Row(
                 children: [
                   Expanded(
@@ -48,9 +121,7 @@ class HomeScreen extends StatelessWidget {
                         onPressed: () {
                           Navigator.push(
                             context,
-                            MaterialPageRoute(
-                              builder: (_) => const MockExamScreen(),
-                            ),
+                            MaterialPageRoute(builder: (_) => const MockExamScreen()),
                           );
                         },
                         child: const Text('Mock Exam', style: TextStyle(fontSize: 13)),
@@ -58,7 +129,15 @@ class HomeScreen extends StatelessWidget {
                     ),
                   ),
                   const SizedBox(width: 12),
-                  Expanded(child: SizedBox(height: 42, child: ElevatedButton(onPressed: (){}, child: const Text('Flashcards', style: TextStyle(fontSize: 13))))),
+                  Expanded(
+                    child: SizedBox(
+                      height: 42,
+                      child: ElevatedButton(
+                        onPressed: () {},
+                        child: const Text('Flashcards', style: TextStyle(fontSize: 13)),
+                      ),
+                    ),
+                  ),
                 ],
               ),
             ),
