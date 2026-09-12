@@ -37,6 +37,6 @@ class ThemeProvider extends ChangeNotifier {
     scaffoldBackgroundColor: const Color(0xFF121212),
     appBarTheme: const AppBarTheme(backgroundColor: Color(0xFF1A1A2E), foregroundColor: Colors.white, elevation: 0),
     cardTheme: const CardThemeData(color: Color(0xFF1E1E1E), elevation: 2),
-    elevatedButtonTheme: ElevatedButtonThemeData(style: ElevatedButton.styleFrom(backgroundColor: Color(0xFF3949AB), foregroundColor: Colors.white)),
+    elevatedButtonTheme: ElevatedButtonThemeData(style: ElevatedButton.styleFrom(backgroundColor: const Color(0xFF3949AB), foregroundColor: Colors.white)),
   );
 }
