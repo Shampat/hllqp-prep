@@ -6,6 +6,7 @@ import '../models/question.dart';
 import '../models/module.dart';
 import '../providers/theme_provider.dart';
 import '../services/premium_service.dart';
+import '../widgets/banner_ad_widget.dart';
 
 class FlashcardScreen extends StatefulWidget {
   const FlashcardScreen({super.key});
@@ -82,6 +83,9 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
       appBar: AppBar(title: const Text('Flashcards', style: TextStyle(fontWeight: FontWeight.bold)), centerTitle: true),
       body: Column(
         children: [
+          const SizedBox(height: 8),
+          const BannerAdWidget(),
+          const SizedBox(height: 8),
           Container(
             height: 56,
             color: isDark ? const Color(0xFF1E1E1E) : Colors.white,
