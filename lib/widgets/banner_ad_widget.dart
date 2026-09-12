@@ -64,13 +64,19 @@ class _BannerAdWidgetState extends State<BannerAdWidget> {
       return const SizedBox.shrink();
     }
 
-    if (!_loaded || _ad == null) return const SizedBox.shrink();
-
-    return Container(
-      margin: const EdgeInsets.only(bottom: 6),
-      height: _ad!.size.height.toDouble(),
-      alignment: Alignment.center,
-      child: AdWidget(ad: _ad!),
+    // Reserve the standard banner height for free users so question/card
+    // content does not jump when the ad finishes loading.
+    return SizedBox(
+      height: AdSize.banner.height.toDouble(),
+      child: Center(
+        child: _loaded && _ad != null
+            ? SizedBox(
+                width: _ad!.size.width.toDouble(),
+                height: _ad!.size.height.toDouble(),
+                child: AdWidget(ad: _ad!),
+              )
+            : const SizedBox.shrink(),
+      ),
     );
   }
 }
