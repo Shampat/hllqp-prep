@@ -36,20 +36,14 @@ class HomeScreen extends StatelessWidget {
                 itemCount: allModules.length,
                 itemBuilder: (context, i) {
                   final module = allModules[i];
-                  final locked = premium.isModuleLocked(i);
+                  final fullyFree = premium.isFullyFreeModule(i);
+                  final preview = !premium.isPro && !fullyFree;
                   final accent = _moduleColor(module.color);
                   return Card(
                     clipBehavior: Clip.antiAlias,
-                    color: locked ? Colors.grey.shade200 : Colors.white,
+                    color: Colors.white,
                     child: InkWell(
                       onTap: () {
-                        if (locked) {
-                          Navigator.push(
-                            context,
-                            MaterialPageRoute(builder: (_) => const PaywallScreen()),
-                          );
-                          return;
-                        }
                         Navigator.push(
                           context,
                           MaterialPageRoute(builder: (_) => QuizScreen(module: module)),
@@ -76,7 +70,7 @@ class HomeScreen extends StatelessWidget {
                                 ),
                                 const SizedBox(height: 5),
                                 Text(
-                                  module.description,
+                                  preview ? '10 questions free · 50 with Pro' : module.description,
                                   textAlign: TextAlign.center,
                                   maxLines: 2,
                                   overflow: TextOverflow.ellipsis,
@@ -90,17 +84,15 @@ class HomeScreen extends StatelessWidget {
                               child: Container(
                                 padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
                                 decoration: BoxDecoration(
-                                  color: locked ? Colors.grey.shade600 : accent,
+                                  color: accent,
                                   borderRadius: BorderRadius.circular(4),
                                 ),
                                 child: Text(
-                                  locked ? 'PRO' : 'FREE',
+                                  premium.isPro ? 'PRO' : (fullyFree ? 'FREE' : '10 FREE'),
                                   style: const TextStyle(color: Colors.white, fontSize: 9, fontWeight: FontWeight.bold),
                                 ),
                               ),
                             ),
-                            if (locked)
-                              const Positioned(top: 0, right: 0, child: Icon(Icons.lock, size: 17)),
                           ],
                         ),
                       ),
@@ -122,10 +114,17 @@ class HomeScreen extends StatelessWidget {
                         onPressed: () {
                           Navigator.push(
                             context,
-                            MaterialPageRoute(builder: (_) => const MockExamScreen()),
+                            MaterialPageRoute(
+                              builder: (_) => premium.isPro
+                                  ? const MockExamScreen()
+                                  : const PaywallScreen(),
+                            ),
                           );
                         },
-                        child: const Text('Mock Exam', style: TextStyle(fontSize: 13)),
+                        child: Text(
+                          premium.isPro ? 'Mock Exam' : 'Mock Exam · PRO',
+                          style: const TextStyle(fontSize: 13),
+                        ),
                       ),
                     ),
                   ),
