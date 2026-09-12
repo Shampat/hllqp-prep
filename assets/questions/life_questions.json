@@ -2,901 +2,601 @@
   {
     "id": 1,
     "moduleId": "life",
-    "question": "What is the primary purpose of life insurance?",
-    "options": [
-      "Not applicable under Insurance Act",
-      "No such provision exists",
-      "Provide tax-free death benefit to replace income and pay final taxes and liabilities",
-      "Taxed as employment income at source"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Creates immediate estate at death.",
-    "topic": "Fundamentals",
+    "question": "A couple has two young children and relies mainly on one spouse's salary. What is the main financial risk life insurance is designed to address if that spouse dies unexpectedly?",
+    "options": ["Temporary loss of investment income only", "The survivor's loss of income and the family's resulting cash needs", "Routine medical expenses during retirement", "Short-term fluctuations in mortgage interest rates"],
+    "correctAnswer": 1,
+    "explanation": "Life insurance creates liquidity at death to help replace lost income and fund debts, taxes, education and other family needs. It is not primarily an investment-return or health-expense product.",
+    "topic": "Needs",
     "difficulty": "Easy"
   },
   {
     "id": 2,
     "moduleId": "life",
-    "question": "When must insurable interest exist for life insurance?",
-    "options": [
-      "No such provision exists",
-      "Automatically void",
-      "At time of application to prevent wagering",
-      "Not applicable under Insurance Act"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Must have financial interest.",
-    "topic": "Interest",
-    "difficulty": "Easy"
+    "question": "Maya wants to estimate how much life insurance she needs by adding mortgage debt, final expenses, education funding and a capital amount for survivor income, then subtracting existing liquid assets and insurance. Which approach is she using?",
+    "options": ["Human life value approach", "Needs analysis approach", "Capital preservation approach only", "Replacement-cost accounting"],
+    "correctAnswer": 1,
+    "explanation": "A needs analysis measures specific obligations and survivor needs, then offsets them with available assets and existing coverage. Human life value focuses more directly on the present value of future earnings.",
+    "topic": "Needs",
+    "difficulty": "Medium"
   },
   {
     "id": 3,
     "moduleId": "life",
-    "question": "What is renewable term insurance?",
-    "options": [
-      "Guarantees renewal without medical evidence, premium increases by age band",
-      "Automatically void",
-      "No such provision exists",
-      "Taxed as employment income at source"
-    ],
+    "question": "A 40-year-old parent earns $90,000 annually and wants insurance mainly to replace future employment income for dependants. Which method is most directly focused on that objective?",
+    "options": ["Human life value approach", "Probate-cost method", "Cash surrender value method", "Estate equalization method"],
     "correctAnswer": 0,
-    "explanation": "Protects insurability.",
-    "topic": "Term",
-    "difficulty": "Easy"
+    "explanation": "The human life value approach estimates the economic value of future earnings that would be lost at death. It is different from a detailed needs analysis of individual liabilities and goals.",
+    "topic": "Needs",
+    "difficulty": "Medium"
   },
   {
     "id": 4,
     "moduleId": "life",
-    "question": "What is convertible term insurance?",
-    "options": [
-      "Taxed as employment income at source",
-      "No such provision exists",
-      "Allows conversion to permanent without medical within conversion period",
-      "Automatically void"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Protects future insurability.",
+    "question": "Jordan needs $500,000 of coverage for 20 years while a mortgage and child-raising costs are highest. Which product is generally the most straightforward fit?",
+    "options": ["20-year level term insurance", "Whole life with paid-up additions", "Immediate life annuity", "Deferred annuity"],
+    "correctAnswer": 0,
+    "explanation": "Level term insurance is commonly used for a large, temporary need because it provides a stated death benefit for a defined period at relatively low initial cost.",
     "topic": "Term",
-    "difficulty": "Medium"
+    "difficulty": "Easy"
   },
   {
     "id": 5,
     "moduleId": "life",
-    "question": "What is joint first-to-die life insurance?",
-    "options": [
-      "Automatically void",
-      "Taxed as employment income at source",
-      "Not applicable under Insurance Act",
-      "Pays on first death of two insureds, used for mortgage and income replacement"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Ends at first death.",
-    "topic": "Joint",
+    "question": "A client owns renewable term insurance. At renewal, which change is most typical if the policy remains within its guaranteed renewal provisions?",
+    "options": ["The client must prove insurability again", "The premium usually rises based on attained age or the renewal schedule", "The death benefit automatically doubles", "The policy automatically becomes whole life"],
+    "correctAnswer": 1,
+    "explanation": "Renewable term generally allows renewal without new medical evidence, but premiums commonly increase at renewal according to the contract's schedule.",
+    "topic": "Term",
     "difficulty": "Medium"
   },
   {
     "id": 6,
     "moduleId": "life",
-    "question": "What is joint last-to-die life insurance?",
-    "options": [
-      "Automatically void",
-      "Pays on second death, used for estate taxes and capital gains",
-      "Not applicable under Insurance Act",
-      "Taxed as employment income at source"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Pays at second death.",
-    "topic": "Joint",
+    "question": "Why can a term conversion privilege be valuable to a client whose health has deteriorated?",
+    "options": ["It may allow conversion to eligible permanent insurance without new medical evidence, subject to the contract", "It guarantees a lower premium than the original term premium", "It allows the client to increase coverage without limit", "It converts the policy into an annuity"],
+    "correctAnswer": 0,
+    "explanation": "Conversion protects future insurability by allowing a qualifying term policy to be exchanged for eligible permanent coverage without fresh medical underwriting, within contractual limits.",
+    "topic": "Term",
     "difficulty": "Medium"
   },
   {
     "id": 7,
     "moduleId": "life",
-    "question": "What is Term to 100 insurance?",
-    "options": [
-      "Automatically void",
-      "Taxed as employment income at source",
-      "Permanent insurance to age 100 with no cash value and low-cost permanent coverage",
-      "No such provision exists"
-    ],
-    "correctAnswer": 2,
-    "explanation": "No cash value.",
-    "topic": "Permanent",
+    "question": "Which client need is decreasing term insurance most naturally suited to?",
+    "options": ["A debt that is expected to decline over time", "A permanent estate-tax liability expected at second death", "A lifelong charitable legacy with a fixed target amount", "A retirement-income need beginning immediately"],
+    "correctAnswer": 0,
+    "explanation": "Decreasing term is designed for needs that fall over time, such as certain declining debt obligations. Permanent or level coverage is generally better for permanent needs.",
+    "topic": "Term",
     "difficulty": "Medium"
   },
   {
     "id": 8,
     "moduleId": "life",
-    "question": "What is 20-pay whole life?",
-    "options": [
-      "Premiums for 20 years then paid-up for life with cash value and dividends if participating",
-      "Automatically void",
-      "Not applicable under Insurance Act",
-      "No such provision exists"
-    ],
+    "question": "A client wants lifetime protection, guaranteed cash values and a fixed premium schedule. Which product most closely matches those priorities?",
+    "options": ["Whole life insurance", "Annual renewable term", "Term-certain annuity", "Accidental death insurance only"],
     "correctAnswer": 0,
-    "explanation": "Faster paid-up.",
-    "topic": "Whole Life",
+    "explanation": "Whole life is permanent insurance and commonly provides guaranteed death benefits, fixed premium structures and guaranteed cash values, subject to the specific contract.",
+    "topic": "Permanent",
     "difficulty": "Medium"
   },
   {
     "id": 9,
     "moduleId": "life",
-    "question": "What is Level COI in universal life?",
-    "options": [
-      "Automatically void",
-      "Taxed as employment income at source",
-      "Not applicable under Insurance Act",
-      "Level cost of insurance for life, higher in early years, best for long-term accumulation"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Stable cost.",
-    "topic": "UL",
-    "difficulty": "Hard"
+    "question": "What distinguishes a limited-pay whole life policy from a life-pay whole life policy?",
+    "options": ["Coverage ends when premium payments end", "Premiums are concentrated into a shorter payment period while coverage can continue for life", "It has no cash value", "It can never be participating"],
+    "correctAnswer": 1,
+    "explanation": "With limited-pay whole life, premiums are paid for a defined shorter period, such as 20 years, while the policy remains in force as paid-up permanent coverage afterward if all required premiums are paid.",
+    "topic": "Permanent",
+    "difficulty": "Medium"
   },
   {
     "id": 10,
     "moduleId": "life",
-    "question": "What is YRT COI in universal life?",
-    "options": [
-      "Automatically void",
-      "Yearly renewable term COI that increases annually with attained age",
-      "Not applicable under Insurance Act",
-      "Taxed as employment income at source"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Cheaper early.",
-    "topic": "UL",
+    "question": "A client is comparing yearly renewable term cost of insurance (YRT COI) with level COI inside universal life. Which statement is generally correct?",
+    "options": ["YRT COI tends to rise with attained age, while level COI spreads insurance cost more evenly over time", "Level COI always produces a higher death benefit than YRT COI", "YRT COI is guaranteed to be cheaper over the client's lifetime", "Level COI eliminates all policy charges"],
+    "correctAnswer": 0,
+    "explanation": "YRT COI generally increases as the insured ages, while level COI is designed to remain more stable. Which is preferable depends on policy design, duration and funding strategy.",
+    "topic": "Permanent",
     "difficulty": "Hard"
   },
   {
     "id": 11,
     "moduleId": "life",
-    "question": "What are the five par dividend options?",
-    "options": [
-      "Cash, paid-up additions, accumulation at interest, premium reduction, term addition",
-      "Taxed as employment income at source",
-      "No such provision exists",
-      "Not applicable under Insurance Act"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Dividends not guaranteed.",
-    "topic": "Par",
+    "question": "A universal life policy has an investment account that performs worse than illustrated. What is the most important risk to explain to the client?",
+    "options": ["The insurer must increase the death benefit", "Insufficient values may require higher future funding or could threaten policy sustainability", "The policy automatically becomes participating whole life", "Poor investment performance has no effect on the policy"],
+    "correctAnswer": 1,
+    "explanation": "Universal life combines insurance charges with a policy account. If credited values are lower than expected, additional funding may be required to keep the policy sustainable.",
+    "topic": "Universal Life",
     "difficulty": "Medium"
   },
   {
     "id": 12,
     "moduleId": "life",
-    "question": "What is a paid-up addition (PUA)?",
-    "options": [
-      "Fully paid-up permanent insurance purchased with dividend, increases cash value and death benefit",
-      "Automatically void",
-      "Taxed as employment income at source",
-      "No such provision exists"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Increases CSV.",
-    "topic": "Par",
+    "question": "A participating whole life policy declares a dividend. Which statement is most accurate?",
+    "options": ["Dividends are guaranteed once the policy is issued", "Dividends are not guaranteed and may vary with the insurer's participating account experience", "Dividends must always be taken in cash", "Dividends are the same as policy loans"],
+    "correctAnswer": 1,
+    "explanation": "Participating policy dividends depend on actual participating account experience and are not guaranteed. Clients may have several dividend options depending on the contract.",
+    "topic": "Participating",
     "difficulty": "Medium"
   },
   {
     "id": 13,
     "moduleId": "life",
-    "question": "What is cash surrender value?",
-    "options": [
-      "Automatically void",
-      "Amount payable to owner on surrender after surrender charges and fees",
-      "Not applicable under Insurance Act",
-      "No such provision exists"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Living benefit.",
-    "topic": "CSV",
-    "difficulty": "Easy"
+    "question": "A client uses participating policy dividends to buy paid-up additions. What is the usual effect?",
+    "options": ["The additions provide extra paid-up permanent insurance and can increase cash value and death benefit", "The base policy becomes term insurance", "The policy loses all cash value", "The insured must undergo medical underwriting every year"],
+    "correctAnswer": 0,
+    "explanation": "Paid-up additions use dividends to purchase small amounts of additional permanent insurance that are fully paid up and generally increase both death benefit and cash value.",
+    "topic": "Participating",
+    "difficulty": "Medium"
   },
   {
     "id": 14,
     "moduleId": "life",
-    "question": "What happens when cash value exceeds Regulation 306 exempt limit?",
-    "options": [
-      "Policy becomes non-exempt and excess growth taxed annually with T5 slip",
-      "Automatically void",
-      "No such provision exists",
-      "Not applicable under Insurance Act"
-    ],
+    "question": "What does cash surrender value represent?",
+    "options": ["The amount payable to the owner if the policy is surrendered, subject to the contract and any outstanding obligations", "The guaranteed death benefit payable only to the beneficiary", "The annual premium refund", "The insurer's commission reserve"],
     "correctAnswer": 0,
-    "explanation": "Benchmark is 20-pay endowment at 85.",
-    "topic": "Exempt",
-    "difficulty": "Hard"
+    "explanation": "Cash surrender value is the amount available to the policyowner on surrender after applying the policy's terms, including any applicable loans or charges.",
+    "topic": "Cash Value",
+    "difficulty": "Easy"
   },
   {
     "id": 15,
     "moduleId": "life",
-    "question": "How is a policy loan taxed under ITA 148?",
-    "options": [
-      "Taxed as employment income at source",
-      "No such provision exists",
-      "Not applicable under Insurance Act",
-      "Excess of loan over ACB is taxable income, loan is a disposition"
-    ],
-    "correctAnswer": 3,
-    "explanation": "ACB = premiums - NCPI.",
+    "question": "Why is the adjusted cost basis (ACB) of a life insurance policy important for Canadian tax purposes?",
+    "options": ["It helps determine taxable policy gains on certain dispositions and can affect the capital dividend account for corporate-owned insurance", "It determines whether the beneficiary pays probate fees", "It fixes the insured's mortality rating", "It determines the policy's face amount"],
+    "correctAnswer": 0,
+    "explanation": "ACB is a tax concept used in determining income inclusions on certain policy dispositions. For corporate-owned life insurance, it also affects the amount that may be credited to the capital dividend account.",
     "topic": "Tax",
     "difficulty": "Hard"
   },
   {
     "id": 16,
     "moduleId": "life",
-    "question": "What is ACB in life insurance?",
-    "options": [
-      "Not applicable under Insurance Act",
-      "Taxed as employment income at source",
-      "No such provision exists",
-      "Adjusted cost basis equals premiums paid minus NCPI, used to calculate taxable gain"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Declines over time.",
+    "question": "Which statement about the ACB of a life insurance policy is most accurate?",
+    "options": ["It is always equal to total premiums paid", "It is determined under the Income Tax Act formula and is affected by factors such as premiums and the net cost of pure insurance; it may decline over time", "It is always equal to cash surrender value", "It is set by the beneficiary"],
+    "correctAnswer": 1,
+    "explanation": "ACB is defined by tax legislation and is not simply 'premiums minus NCPI' in every situation. Premiums, NCPI and certain other policy transactions can affect it.",
     "topic": "Tax",
     "difficulty": "Hard"
   },
   {
     "id": 17,
     "moduleId": "life",
-    "question": "What is NCPI?",
-    "options": [
-      "Net cost of pure insurance, CRA deemed mortality cost deducted to calculate ACB",
-      "Automatically void",
-      "Taxed as employment income at source",
-      "Not applicable under Insurance Act"
-    ],
+    "question": "A policyowner takes a policy loan directly from the insurer. Which statement is most accurate for Canadian tax purposes?",
+    "options": ["A policy loan can be treated as a disposition and may create taxable income depending on the policy's ACB and the applicable tax rules", "Every policy loan is completely tax-free", "Every policy loan is fully taxable", "A policy loan is taxed as employment income"],
     "correctAnswer": 0,
-    "explanation": "Rises with age.",
+    "explanation": "Under section 148, a policy loan is a special tax event and may produce an income inclusion depending on the amount and the policy's ACB. It should not be treated like an ordinary bank loan.",
     "topic": "Tax",
     "difficulty": "Hard"
   },
   {
     "id": 18,
     "moduleId": "life",
-    "question": "How is gain taxed on surrender?",
-    "options": [
-      "No such provision exists",
-      "Not applicable under Insurance Act",
-      "CSV minus ACB is taxable as income under ITA 148",
-      "Taxed as employment income at source"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Disposition taxed.",
+    "question": "A policyowner fully surrenders a permanent life policy for proceeds greater than the policy's ACB. What is the general tax consequence?",
+    "options": ["The excess may be included in income as a policy gain", "The excess is always a capital gain", "The entire surrender value is tax-free", "The insurer deducts employment tax at source"],
+    "correctAnswer": 0,
+    "explanation": "For a taxable disposition such as a surrender, the amount by which proceeds of disposition exceed the policy's ACB may be included in income under the life-insurance policy rules.",
     "topic": "Tax",
     "difficulty": "Medium"
   },
   {
     "id": 19,
     "moduleId": "life",
-    "question": "What is collateral assignment?",
-    "options": [
-      "Not applicable under Insurance Act",
-      "Automatically void",
-      "Assign policy as collateral for loan, creditor gets limited rights to cash value",
-      "No such provision exists"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Security for bank loan.",
-    "topic": "Assignment",
-    "difficulty": "Medium"
+    "question": "What is the main tax advantage of an exempt life insurance policy's investment component while the policy remains exempt?",
+    "options": ["The policyholder is generally not taxed annually on the policy's internal investment income as it accrues", "All premiums are deductible from employment income", "Every withdrawal is automatically tax-free", "The death benefit becomes deductible to the beneficiary"],
+    "correctAnswer": 0,
+    "explanation": "Canada's exempt-policy regime generally prevents annual taxation to the policyholder on internal investment income while the policy remains exempt, subject to the tax rules governing later transactions.",
+    "topic": "Tax",
+    "difficulty": "Hard"
   },
   {
     "id": 20,
     "moduleId": "life",
-    "question": "What is absolute assignment?",
-    "options": [
-      "Taxed as employment income at source",
-      "Transfer all ownership rights to new owner",
-      "No such provision exists",
-      "Automatically void"
-    ],
-    "correctAnswer": 1,
-    "explanation": "New owner gets all rights.",
-    "topic": "Assignment",
-    "difficulty": "Medium"
+    "question": "For policies issued after 2016, why should an advisor avoid teaching the old '20-pay endowment at age 85' benchmark as the current exempt-test rule?",
+    "options": ["Because the exempt-policy rules were revised for post-2016 policies and the old benchmark describes the prior regime", "Because exempt testing was abolished", "Because all permanent policies are automatically non-exempt", "Because exempt testing applies only to term insurance"],
+    "correctAnswer": 0,
+    "explanation": "The federal exempt-policy rules were revised for policies issued after 2016. Older rules may still matter for grandfathered policies, but the old 20-pay/age-85 benchmark should not be presented as the current rule for new policies.",
+    "topic": "Tax",
+    "difficulty": "Hard"
   },
   {
     "id": 21,
     "moduleId": "life",
-    "question": "What is a revocable beneficiary?",
-    "options": [
-      "No such provision exists",
-      "Automatically void",
-      "Taxed as employment income at source",
-      "Owner can change beneficiary without beneficiary consent, default type"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Can change anytime.",
-    "topic": "Beneficiary",
-    "difficulty": "Easy"
+    "question": "A business assigns a life policy to a bank as security for a loan while retaining ownership subject to the lender's interest. What type of assignment is this?",
+    "options": ["Collateral assignment", "Absolute assignment", "Beneficiary designation", "Policy conversion"],
+    "correctAnswer": 0,
+    "explanation": "A collateral assignment gives the lender specified rights in the policy as security while the policyowner generally retains the remaining ownership rights.",
+    "topic": "Ownership",
+    "difficulty": "Medium"
   },
   {
     "id": 22,
     "moduleId": "life",
-    "question": "What is an irrevocable beneficiary?",
-    "options": [
-      "No such provision exists",
-      "Owner cannot change without beneficiary written consent, vested right",
-      "Taxed as employment income at source",
-      "Not applicable under Insurance Act"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Needs consent.",
-    "topic": "Beneficiary",
+    "question": "What is the key effect of an absolute assignment of a life insurance policy?",
+    "options": ["It transfers ownership rights to the assignee, subject to the policy and applicable law", "It merely names a new contingent beneficiary", "It temporarily lowers the death benefit", "It converts the policy to term insurance"],
+    "correctAnswer": 0,
+    "explanation": "An absolute assignment transfers the owner's rights in the policy to another person or entity, unlike a collateral assignment, which is limited to securing a debt.",
+    "topic": "Ownership",
     "difficulty": "Medium"
   },
   {
     "id": 23,
     "moduleId": "life",
-    "question": "What is a contingent beneficiary?",
-    "options": [
-      "No such provision exists",
-      "Backup beneficiary if primary beneficiary predeceases insured",
-      "Taxed as employment income at source",
-      "Automatically void"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Second in line.",
+    "question": "What is the main feature of a revocable beneficiary designation?",
+    "options": ["The policyowner can generally change the beneficiary without that beneficiary's consent, subject to applicable law and contract terms", "The beneficiary owns the policy automatically", "The beneficiary can never be changed", "The beneficiary must be a creditor"],
+    "correctAnswer": 0,
+    "explanation": "A revocable designation normally lets the policyowner change the beneficiary without obtaining that beneficiary's consent.",
     "topic": "Beneficiary",
     "difficulty": "Easy"
   },
   {
     "id": 24,
     "moduleId": "life",
-    "question": "What is a preferred beneficiary under Insurance Act?",
-    "options": [
-      "No such provision exists",
-      "Automatically void",
-      "Not applicable under Insurance Act",
-      "Spouse, child, parent, grandchild with statutory creditor protection"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Creditor protected.",
+    "question": "A policyowner has named an irrevocable beneficiary. Which action generally requires that beneficiary's consent?",
+    "options": ["Changing the beneficiary designation", "Paying the regular premium", "Requesting an annual statement", "Changing the mailing address"],
+    "correctAnswer": 0,
+    "explanation": "An irrevocable beneficiary has protected rights under provincial insurance law. The policyowner generally cannot revoke or change that designation without the required consent.",
     "topic": "Beneficiary",
     "difficulty": "Medium"
   },
   {
     "id": 25,
     "moduleId": "life",
-    "question": "What is waiver of premium rider?",
-    "options": [
-      "Automatically void",
-      "Waives premiums if totally disabled after elimination period",
-      "Taxed as employment income at source",
-      "No such provision exists"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Keeps policy in force.",
-    "topic": "Rider",
-    "difficulty": "Medium"
+    "question": "Why would a policyowner name a contingent beneficiary?",
+    "options": ["To receive the proceeds if the primary beneficiary cannot receive them, for example because the primary beneficiary dies first", "To become the policyowner immediately", "To guarantee creditor protection in every circumstance", "To eliminate the need for underwriting"],
+    "correctAnswer": 0,
+    "explanation": "A contingent beneficiary is a backup recipient if the primary beneficiary cannot take the proceeds.",
+    "topic": "Beneficiary",
+    "difficulty": "Easy"
   },
   {
     "id": 26,
     "moduleId": "life",
-    "question": "What is accidental death and dismemberment rider?",
-    "options": [
-      "No such provision exists",
-      "Pays additional benefit if death by accident, double indemnity",
-      "Not applicable under Insurance Act",
-      "Taxed as employment income at source"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Accidental only.",
-    "topic": "Rider",
-    "difficulty": "Easy"
+    "question": "Which statement about creditor protection from a life insurance beneficiary designation is safest for a Canada-wide exam-prep question?",
+    "options": ["Certain family beneficiary designations or irrevocable designations may provide protection under provincial law, but the exact rules and exceptions depend on jurisdiction and circumstances", "Any named beneficiary gives complete creditor protection across Canada", "Only an estate beneficiary creates creditor protection", "Creditor protection applies only to term insurance"],
+    "correctAnswer": 0,
+    "explanation": "Creditor protection is governed largely by provincial insurance law and can depend on the relationship, jurisdiction, timing and other facts. A Canada-wide question should avoid an absolute rule.",
+    "topic": "Beneficiary",
+    "difficulty": "Hard"
   },
   {
     "id": 27,
     "moduleId": "life",
-    "question": "What is guaranteed insurability rider?",
-    "options": [
-      "No such provision exists",
-      "Automatically void",
-      "Not applicable under Insurance Act",
-      "Allows purchase of additional insurance without medical at life events"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Marriage, birth, etc.",
-    "topic": "Rider",
+    "question": "A client wants premiums waived if a qualifying total disability prevents work. Which rider addresses that need?",
+    "options": ["Waiver of premium rider", "Guaranteed insurability rider", "Accidental death rider", "Term conversion rider"],
+    "correctAnswer": 0,
+    "explanation": "A waiver of premium rider can waive required premiums after the rider's qualifying disability conditions and waiting period are met.",
+    "topic": "Riders",
     "difficulty": "Medium"
   },
   {
     "id": 28,
     "moduleId": "life",
-    "question": "What is payor benefit rider?",
-    "options": [
-      "Waives premiums on juvenile policy if payor dies or becomes disabled",
-      "Automatically void",
-      "Taxed as employment income at source",
-      "Not applicable under Insurance Act"
-    ],
+    "question": "A healthy 30-year-old expects future family growth and wants the option to buy more insurance later without new medical evidence at specified dates or events. Which rider is most relevant?",
+    "options": ["Guaranteed insurability rider", "Waiver of premium rider", "Accidental death rider", "Automatic premium loan provision"],
     "correctAnswer": 0,
-    "explanation": "For child policy.",
-    "topic": "Rider",
+    "explanation": "A guaranteed insurability option allows additional coverage to be purchased at specified times or events without new evidence of insurability, subject to contractual limits.",
+    "topic": "Riders",
     "difficulty": "Medium"
   },
   {
     "id": 29,
     "moduleId": "life",
-    "question": "What is return of premium rider on term?",
-    "options": [
-      "Returns premiums if insured survives term, expensive rider",
-      "Not applicable under Insurance Act",
-      "Automatically void",
-      "No such provision exists"
-    ],
+    "question": "What is the main limitation of relying on an accidental death benefit rider instead of adequate base life insurance?",
+    "options": ["It pays only when the death meets the rider's definition of an accident and exclusions do not apply", "It always costs more than whole life", "It never pays a lump sum", "It requires no beneficiary"],
     "correctAnswer": 0,
-    "explanation": "ROP term.",
-    "topic": "Rider",
+    "explanation": "Accidental death coverage is narrower than ordinary life insurance because payment depends on the cause and circumstances of death satisfying the rider's terms.",
+    "topic": "Riders",
     "difficulty": "Medium"
   },
   {
     "id": 30,
     "moduleId": "life",
-    "question": "What is decreasing term insurance?",
-    "options": [
-      "Not applicable under Insurance Act",
-      "Death benefit decreases over time with level premium, matches mortgage",
-      "Taxed as employment income at source",
-      "Automatically void"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Matches declining debt.",
-    "topic": "Term",
-    "difficulty": "Easy"
+    "question": "A homeowner is deciding between individually owned term insurance and lender-provided mortgage creditor insurance. Which advantage often favours individual term insurance?",
+    "options": ["The policyowner generally controls the beneficiary and coverage can remain in force even if the mortgage lender changes, subject to policy terms", "It always has no underwriting", "Its death benefit automatically falls with the mortgage balance", "The lender must own the policy"],
+    "correctAnswer": 0,
+    "explanation": "Individual term insurance generally gives the insured greater control over ownership and beneficiary designation and is not tied to a specific lender in the same way as creditor insurance.",
+    "topic": "Needs",
+    "difficulty": "Medium"
   },
   {
     "id": 31,
     "moduleId": "life",
-    "question": "What is human life value approach?",
-    "options": [
-      "Calculates present value of future earnings to determine insurance need",
-      "No such provision exists",
-      "Automatically void",
-      "Not applicable under Insurance Act"
-    ],
+    "question": "A corporation depends heavily on its founder to generate revenue. Which use of life insurance most directly addresses the financial loss if the founder dies?",
+    "options": ["Key person insurance", "Juvenile insurance", "Mortgage creditor insurance", "Prescribed annuity"],
     "correctAnswer": 0,
-    "explanation": "Income replacement method.",
-    "topic": "Needs",
+    "explanation": "Key person insurance provides liquidity to the business after the death of an important employee or owner whose loss could reduce earnings or create transition costs.",
+    "topic": "Business",
     "difficulty": "Medium"
   },
   {
     "id": 32,
     "moduleId": "life",
-    "question": "What is needs analysis approach?",
-    "options": [
-      "No such provision exists",
-      "Calculates estate needs: final taxes, debts, income replacement, education",
-      "Automatically void",
-      "Taxed as employment income at source"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Comprehensive.",
-    "topic": "Needs",
+    "question": "Two shareholders have a buy-sell agreement requiring the survivor to purchase the deceased shareholder's shares. What is the primary purpose of life insurance in this arrangement?",
+    "options": ["Provide liquidity to fund the share purchase at death", "Guarantee the company's future profits", "Eliminate the need for a valuation formula", "Avoid all income tax on the shares"],
+    "correctAnswer": 0,
+    "explanation": "Life insurance can supply cash when a shareholder dies so the agreed purchase can be completed without forcing the survivor or corporation to find funds at a difficult time.",
+    "topic": "Business",
     "difficulty": "Medium"
   },
   {
     "id": 33,
     "moduleId": "life",
-    "question": "What is estate creation need?",
-    "options": [
-      "Not applicable under Insurance Act",
-      "Taxed as employment income at source",
-      "Automatically void",
-      "Creates immediate estate at death to pay final taxes and liabilities"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Immediate estate.",
-    "topic": "Needs",
-    "difficulty": "Medium"
+    "question": "A private corporation receives life insurance proceeds on the death of an insured shareholder. What amount is generally relevant to the addition to the corporation's capital dividend account?",
+    "options": ["The death benefit less the policy's ACB immediately before death, subject to the Income Tax Act", "The total premiums ever paid", "The cash surrender value only", "The shareholder's adjusted cost base of the company shares"],
+    "correctAnswer": 0,
+    "explanation": "For corporate-owned life insurance, the CDA addition generally reflects life insurance proceeds received because of death less the policy's ACB immediately before death, subject to statutory rules.",
+    "topic": "Business",
+    "difficulty": "Hard"
   },
   {
     "id": 34,
     "moduleId": "life",
-    "question": "What is mortgage protection need?",
-    "options": [
-      "Term insurance matching mortgage balance to pay mortgage if death",
-      "Not applicable under Insurance Act",
-      "Automatically void",
-      "No such provision exists"
-    ],
+    "question": "A parent intends to leave a family cottage to one child and wants the other child to receive comparable value without forcing a sale of the cottage. Which life-insurance strategy could help?",
+    "options": ["Estate equalization", "Term conversion", "Automatic premium loan", "Policy loan arbitrage"],
     "correctAnswer": 0,
-    "explanation": "Vs creditor insurance.",
-    "topic": "Needs",
-    "difficulty": "Easy"
+    "explanation": "Life insurance can provide cash to one beneficiary while another receives an illiquid asset, helping equalize inheritances without forcing the estate to sell property.",
+    "topic": "Estate",
+    "difficulty": "Medium"
   },
   {
     "id": 35,
     "moduleId": "life",
-    "question": "What is key person insurance?",
-    "options": [
-      "No such provision exists",
-      "Automatically void",
-      "Taxed as employment income at source",
-      "Business insures key employee, business is owner and beneficiary"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Protects business.",
-    "topic": "Business",
+    "question": "Why can a named beneficiary designation help with estate liquidity and administration?",
+    "options": ["Proceeds generally pass directly to the named beneficiary rather than through the estate, subject to applicable law and valid designations", "The proceeds become taxable employment income", "The beneficiary becomes executor automatically", "The policy is exempt from all creditor claims in every case"],
+    "correctAnswer": 0,
+    "explanation": "A valid named beneficiary usually allows insurance proceeds to bypass the estate, which can speed payment and may avoid probate-related costs on those proceeds.",
+    "topic": "Estate",
     "difficulty": "Medium"
   },
   {
     "id": 36,
     "moduleId": "life",
-    "question": "What is buy-sell funding with life insurance?",
-    "options": [
-      "No such provision exists",
-      "Automatically void",
-      "Taxed as employment income at source",
-      "Funds purchase of deceased partner shares, ensures business continuity"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Criss-cross or entity.",
-    "topic": "Business",
+    "question": "A couple wants one policy that pays when the first spouse dies to help the survivor pay debts and replace income. Which structure best fits?",
+    "options": ["Joint first-to-die life insurance", "Joint last-to-die life insurance", "Term-certain annuity", "Single-life deferred annuity"],
+    "correctAnswer": 0,
+    "explanation": "Joint first-to-die insurance pays at the first insured death and is often used for family income, debt and business needs that arise immediately.",
+    "topic": "Joint Life",
     "difficulty": "Medium"
   },
   {
     "id": 37,
     "moduleId": "life",
-    "question": "What is a life annuity?",
-    "options": [
-      "Taxed as employment income at source",
-      "Not applicable under Insurance Act",
-      "Automatically void",
-      "Pays income for life, protects against longevity risk"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Longevity insurance.",
-    "topic": "Annuity",
-    "difficulty": "Easy"
+    "question": "A couple expects a large tax liability only after the second spouse dies because of spousal rollover planning during the first estate. Which product can be especially suitable?",
+    "options": ["Joint last-to-die permanent life insurance", "Decreasing term insurance", "Accidental death insurance", "Immediate term-certain annuity"],
+    "correctAnswer": 0,
+    "explanation": "Joint last-to-die coverage pays after the second insured death and is commonly considered for estate taxes and other liabilities expected at that time.",
+    "topic": "Joint Life",
+    "difficulty": "Medium"
   },
   {
     "id": 38,
     "moduleId": "life",
-    "question": "What is a term certain annuity?",
-    "options": [
-      "No such provision exists",
-      "Not applicable under Insurance Act",
-      "Automatically void",
-      "Pays income for fixed period only, no life contingency"
-    ],
-    "correctAnswer": 3,
-    "explanation": "No life contingency.",
-    "topic": "Annuity",
-    "difficulty": "Easy"
+    "question": "A whole life policyowner stops paying premiums. The contract contains an automatic premium loan provision and has sufficient cash value. What does the provision generally do?",
+    "options": ["Uses a policy loan against available cash value to pay the premium and help prevent immediate lapse", "Cancels the policy immediately", "Increases the death benefit without cost", "Converts the policy to an annuity"],
+    "correctAnswer": 0,
+    "explanation": "An automatic premium loan can use available policy value to cover an unpaid premium. The resulting loan accrues interest and can reduce net values if not repaid.",
+    "topic": "Policy Administration",
+    "difficulty": "Medium"
   },
   {
     "id": 39,
     "moduleId": "life",
-    "question": "What is joint life annuity?",
-    "options": [
-      "Taxed as employment income at source",
-      "Automatically void",
-      "Pays income while either annuitant alive",
-      "Not applicable under Insurance Act"
-    ],
-    "correctAnswer": 2,
-    "explanation": "For couples.",
-    "topic": "Annuity",
+    "question": "A policy has lapsed for non-payment. What is usually required for reinstatement?",
+    "options": ["Meeting the policy's reinstatement conditions, which may include evidence of insurability and payment of overdue amounts with interest", "Naming a new beneficiary only", "Converting the policy to term insurance", "Waiting until the insured reaches retirement age"],
+    "correctAnswer": 0,
+    "explanation": "Reinstatement is contractual. Insurers commonly require an application, evidence of insurability and payment of overdue premiums or other amounts within the permitted period.",
+    "topic": "Policy Administration",
     "difficulty": "Medium"
   },
   {
     "id": 40,
     "moduleId": "life",
-    "question": "What is guarantee period in annuities?",
-    "options": [
-      "No such provision exists",
-      "Minimum years payments guaranteed even if annuitant dies early",
-      "Automatically void",
-      "Not applicable under Insurance Act"
-    ],
-    "correctAnswer": 1,
-    "explanation": "10-year common.",
-    "topic": "Annuity",
-    "difficulty": "Easy"
+    "question": "A whole life owner no longer wants to pay premiums but still wants permanent coverage. Which non-forfeiture option is designed for that goal?",
+    "options": ["Reduced paid-up insurance", "Extended term insurance", "Full surrender for cash", "Policy loan only"],
+    "correctAnswer": 0,
+    "explanation": "Reduced paid-up insurance uses policy value to purchase a smaller amount of fully paid-up permanent coverage with no further premiums.",
+    "topic": "Non-forfeiture",
+    "difficulty": "Medium"
   },
   {
     "id": 41,
     "moduleId": "life",
-    "question": "What is prescribed annuity taxation?",
-    "options": [
-      "Taxed as employment income at source",
-      "No such provision exists",
-      "Automatically void",
-      "Level blended taxable portion each year using prescribed mortality tables"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Non-registered life annuities.",
-    "topic": "Tax",
-    "difficulty": "Hard"
+    "question": "What does the extended term insurance non-forfeiture option generally do?",
+    "options": ["Uses policy value to buy term insurance for the original or specified face amount for as long as the value can support it", "Creates a smaller paid-up whole life policy", "Pays the cash value immediately while keeping full permanent coverage", "Waives all future premiums because of disability"],
+    "correctAnswer": 0,
+    "explanation": "Extended term uses available value as a single premium for temporary insurance. The duration depends on the amount of value and the contract's terms.",
+    "topic": "Non-forfeiture",
+    "difficulty": "Medium"
   },
   {
     "id": 42,
     "moduleId": "life",
-    "question": "What is non-prescribed annuity taxation?",
-    "options": [
-      "Taxed as employment income at source",
-      "Automatically void",
-      "Accrual method, more interest taxed in early years, less later",
-      "No such provision exists"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Front-loaded.",
-    "topic": "Tax",
-    "difficulty": "Hard"
+    "question": "A life policy contains a suicide exclusion for the first two policy years. The insured dies by suicide during that exclusion period. What is the usual contractual result?",
+    "options": ["The death benefit is not payable under the ordinary death claim, and the contract typically specifies a refund such as premiums paid, subject to its terms", "The full death benefit must always be paid", "The policy automatically becomes incontestable", "The beneficiary receives cash surrender value plus the full face amount"],
+    "correctAnswer": 0,
+    "explanation": "Life policies commonly contain an early suicide exclusion. The precise refund or payment is determined by the contract and applicable law, so exam-prep wording should not overstate one universal formula.",
+    "topic": "Claims",
+    "difficulty": "Easy"
   },
   {
     "id": 43,
     "moduleId": "life",
-    "question": "What is accumulation annuity?",
-    "options": [
-      "Deferred annuity accumulating interest until annuitization",
-      "Taxed as employment income at source",
-      "Not applicable under Insurance Act",
-      "Automatically void"
-    ],
+    "question": "What is the purpose of an incontestability provision in life insurance?",
+    "options": ["After the statutory or contractual contestability period, it limits the insurer's ability to void the policy for misrepresentation, subject to applicable exceptions such as fraud where permitted", "It prevents the owner from changing beneficiaries", "It guarantees that every claim will be paid", "It prevents premium increases on renewable term insurance"],
     "correctAnswer": 0,
-    "explanation": "Growth phase.",
-    "topic": "Annuity",
+    "explanation": "Incontestability limits challenges after the specified period but is not an unconditional guarantee of payment. Exceptions and statutory wording can vary.",
+    "topic": "Claims",
     "difficulty": "Medium"
   },
   {
     "id": 44,
     "moduleId": "life",
-    "question": "What is a settlement option for beneficiaries?",
-    "options": [
-      "No such provision exists",
-      "Not applicable under Insurance Act",
-      "Beneficiary can choose lump sum, life income, or term certain",
-      "Automatically void"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Choice at claim.",
-    "topic": "Settlement",
+    "question": "If an insured's age was misstated on a life application and the policy contains a misstatement-of-age provision, what is the usual remedy?",
+    "options": ["Adjust the benefit or premium to what the correct age would have purchased, according to the contract", "Void the policy automatically in every case", "Pay double the death benefit", "Convert the policy to an annuity"],
+    "correctAnswer": 0,
+    "explanation": "Misstatement-of-age clauses generally adjust policy values or benefits to reflect the correct age rather than automatically voiding coverage.",
+    "topic": "Claims",
     "difficulty": "Easy"
   },
   {
     "id": 45,
     "moduleId": "life",
-    "question": "What is lapse in life insurance?",
-    "options": [
-      "Taxed as employment income at source",
-      "Policy terminates when premiums not paid and cash value exhausted",
-      "Not applicable under Insurance Act",
-      "Automatically void"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Loss of coverage.",
-    "topic": "Lapse",
-    "difficulty": "Easy"
+    "question": "A healthy applicant qualifies for a preferred risk class. What does that usually mean?",
+    "options": ["The applicant has mortality characteristics better than the insurer's standard class and may receive a lower premium", "The policy has no exclusions", "The insurer waives all future premiums", "The applicant can never be re-underwritten for any future purchase"],
+    "correctAnswer": 0,
+    "explanation": "Preferred underwriting classes reflect lower expected mortality relative to standard risks and can result in more favourable pricing.",
+    "topic": "Underwriting",
+    "difficulty": "Medium"
   },
   {
     "id": 46,
     "moduleId": "life",
-    "question": "What is reinstatement?",
-    "options": [
-      "Taxed as employment income at source",
-      "No such provision exists",
-      "Not applicable under Insurance Act",
-      "Restore lapsed policy within 2 years with evidence of insurability and back premiums plus interest"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Requires insurability.",
-    "topic": "Lapse",
+    "question": "An underwriter applies a 150% mortality rating to an applicant. What does this generally indicate?",
+    "options": ["The applicant presents higher-than-standard mortality risk and will pay a higher premium than a standard risk for comparable coverage", "The death benefit is reduced by 50%", "The applicant has preferred health", "The policy is automatically declined"],
+    "correctAnswer": 0,
+    "explanation": "A percentage or table rating is a way to price substandard mortality risk. It increases the cost rather than necessarily declining the application.",
+    "topic": "Underwriting",
     "difficulty": "Medium"
   },
   {
     "id": 47,
     "moduleId": "life",
-    "question": "What is automatic premium loan (APL)?",
-    "options": [
-      "Taxed as employment income at source",
-      "Automatically void",
-      "Not applicable under Insurance Act",
-      "Automatically pays premium from cash value to prevent lapse"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Prevents lapse.",
-    "topic": "Lapse",
+    "question": "When is a flat extra premium most likely to be used?",
+    "options": ["For a specific additional hazard that may be temporary or not well represented by an age-based percentage rating", "Only for preferred risks", "Only when the client chooses paid-up additions", "Only after a death claim"],
+    "correctAnswer": 0,
+    "explanation": "A flat extra adds a specified charge per amount of insurance and is often used for particular hazards, including some occupational, aviation or temporary risks.",
+    "topic": "Underwriting",
     "difficulty": "Medium"
   },
   {
     "id": 48,
     "moduleId": "life",
-    "question": "What are non-forfeiture options?",
-    "options": [
-      "Taxed as employment income at source",
-      "Automatically void",
-      "Not applicable under Insurance Act",
-      "Cash surrender, reduced paid-up insurance, extended term insurance"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Required by law.",
-    "topic": "Non-forfeiture",
-    "difficulty": "Medium"
+    "question": "An applicant submits the first premium with an application and receives a temporary insurance agreement. Which statement is safest?",
+    "options": ["Any interim coverage depends on the agreement's eligibility conditions, limits and effective-date rules", "Full permanent coverage always begins immediately regardless of insurability", "No coverage can ever exist before policy delivery", "The temporary agreement guarantees approval of the permanent policy"],
+    "correctAnswer": 0,
+    "explanation": "Temporary or conditional coverage is governed by the written agreement. It may provide interim protection, but only if its conditions and limits are satisfied.",
+    "topic": "Underwriting",
+    "difficulty": "Hard"
   },
   {
     "id": 49,
     "moduleId": "life",
-    "question": "What is reduced paid-up insurance?",
-    "options": [
-      "Use cash value as single premium for smaller paid-up permanent policy",
-      "Automatically void",
-      "Not applicable under Insurance Act",
-      "Taxed as employment income at source"
-    ],
+    "question": "Why is complete disclosure of material facts important when applying for life insurance?",
+    "options": ["Material misrepresentation or non-disclosure can affect the insurer's decision and may jeopardize coverage or a later claim", "Only financial information matters", "The insurer cannot rely on application answers after issue", "Disclosure matters only for term insurance"],
     "correctAnswer": 0,
-    "explanation": "No further premiums.",
-    "topic": "Non-forfeiture",
+    "explanation": "Life insurance underwriting depends on material information supplied by the applicant and insured. Inaccurate or incomplete material information can have serious contractual consequences.",
+    "topic": "Application",
     "difficulty": "Medium"
   },
   {
     "id": 50,
     "moduleId": "life",
-    "question": "What is extended term insurance?",
-    "options": [
-      "Taxed as employment income at source",
-      "No such provision exists",
-      "Use cash value as single premium for term insurance equal to original face amount",
-      "Not applicable under Insurance Act"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Term duration depends on CSV.",
-    "topic": "Non-forfeiture",
+    "question": "A 68-year-old client wants to leave a guaranteed amount to heirs, has adequate retirement income and can afford permanent premiums. Which product characteristic is most relevant?",
+    "options": ["Lifetime death-benefit protection", "A short renewable term ending in five years", "A high-risk investment account with no insurance", "A term-certain annuity that ends before death"],
+    "correctAnswer": 0,
+    "explanation": "For a permanent estate objective, lifetime protection is generally more aligned with the need than short-duration coverage, assuming affordability and suitability.",
+    "topic": "Suitability",
     "difficulty": "Medium"
   },
   {
     "id": 51,
     "moduleId": "life",
-    "question": "What is the suicide clause?",
-    "options": [
-      "If suicide within 2 years, insurer returns premiums, not face amount",
-      "No such provision exists",
-      "Automatically void",
-      "Taxed as employment income at source"
-    ],
+    "question": "A client wants the lowest initial premium for a 10-year temporary need and has no stated need for cash accumulation. Which recommendation is most likely to be suitable?",
+    "options": ["Level term insurance matching the need period", "Whole life with maximum paid-up additions", "Universal life funded for long-term accumulation", "Joint last-to-die permanent insurance"],
     "correctAnswer": 0,
-    "explanation": "After 2 years pays face.",
-    "topic": "Clause",
-    "difficulty": "Easy"
+    "explanation": "Term insurance is generally the simplest fit for a defined temporary need when permanent protection and cash accumulation are not objectives.",
+    "topic": "Suitability",
+    "difficulty": "Hard"
   },
   {
     "id": 52,
     "moduleId": "life",
-    "question": "What is incontestability clause?",
-    "options": [
-      "Not applicable under Insurance Act",
-      "After 2 years insurer cannot void for misrepresentation except fraud",
-      "Automatically void",
-      "No such provision exists"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Protects owner.",
-    "topic": "Clause",
-    "difficulty": "Medium"
+    "question": "A client wants permanent coverage but has an uncertain cash flow and is attracted to universal life because of premium flexibility. What should the advisor emphasize?",
+    "options": ["Flexibility does not remove the need for adequate funding; charges and investment performance can affect long-term policy sustainability", "Premiums can be skipped indefinitely with no effect", "The death benefit is guaranteed regardless of funding", "Universal life has no insurance charges"],
+    "correctAnswer": 0,
+    "explanation": "Universal life can offer flexible funding, but the account must remain sufficient to support charges and guarantees. Illustrations should not be treated as guarantees.",
+    "topic": "Suitability",
+    "difficulty": "Hard"
   },
   {
     "id": 53,
     "moduleId": "life",
-    "question": "What is misstatement of age clause?",
-    "options": [
-      "Automatically void",
-      "Not applicable under Insurance Act",
-      "Taxed as employment income at source",
-      "Benefit adjusted to what premium would purchase at correct age"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Not voided.",
-    "topic": "Clause",
-    "difficulty": "Easy"
+    "question": "A policyowner names the estate as beneficiary. Compared with naming an individual beneficiary directly, what is a likely consequence?",
+    "options": ["The proceeds generally become part of the estate and may be exposed to estate administration, creditor claims and probate-related costs depending on jurisdiction", "The insurer refuses the designation", "The proceeds are always tax-deductible", "The death benefit is automatically reduced"],
+    "correctAnswer": 0,
+    "explanation": "Naming the estate directs proceeds into the estate rather than directly to an individual beneficiary. That can affect timing, probate and creditor exposure.",
+    "topic": "Beneficiary",
+    "difficulty": "Medium"
   },
   {
     "id": 54,
     "moduleId": "life",
-    "question": "What is standard age in underwriting?",
-    "options": [
-      "Taxed as employment income at source",
-      "Age nearest birthday at application for pricing",
-      "Automatically void",
-      "No such provision exists"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Underwriting age.",
-    "topic": "UW",
-    "difficulty": "Easy"
+    "question": "An employee leaves a group life plan and has a contractual conversion privilege. What is the key benefit of exercising it within the permitted period?",
+    "options": ["The employee may obtain eligible individual life coverage without new evidence of insurability, subject to the plan and individual policy terms", "The employee receives the group policy's cash value", "The employer must continue paying premiums forever", "The employee can choose unlimited coverage"],
+    "correctAnswer": 0,
+    "explanation": "Group conversion privileges protect insurability when group coverage ends, but the amount, product choices, deadlines and premiums are governed by the contract and applicable law.",
+    "topic": "Group Life",
+    "difficulty": "Medium"
   },
   {
     "id": 55,
     "moduleId": "life",
-    "question": "What is substandard rating?",
-    "options": [
-      "Higher premium due to risk, +50%, +100%, etc.",
-      "Not applicable under Insurance Act",
-      "No such provision exists",
-      "Taxed as employment income at source"
-    ],
+    "question": "A corporation owns a policy on a shareholder and is also beneficiary. Which statement is most important from a planning perspective?",
+    "options": ["Ownership, beneficiary designation, tax treatment and the shareholders' agreement should be coordinated because each affects how proceeds are used", "Corporate ownership automatically makes all premiums tax-deductible", "The shareholder personally owns the cash value", "The corporation cannot receive life insurance proceeds"],
     "correctAnswer": 0,
-    "explanation": "Rated policy.",
-    "topic": "UW",
-    "difficulty": "Medium"
+    "explanation": "Corporate-owned life insurance must fit the broader legal, tax and shareholder planning structure. Premium deductibility is limited and should never be assumed merely because the corporation owns the policy.",
+    "topic": "Business",
+    "difficulty": "Hard"
   },
   {
     "id": 56,
     "moduleId": "life",
-    "question": "What is preferred risk classification?",
-    "options": [
-      "Taxed as employment income at source",
-      "Automatically void",
-      "Better than standard health, lower premium",
-      "Not applicable under Insurance Act"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Healthier lives.",
-    "topic": "UW",
-    "difficulty": "Easy"
+    "question": "A client borrows from a bank and assigns a life policy as collateral. How does this differ from taking a policy loan directly from the insurer?",
+    "options": ["A bank collateral loan is a separate borrowing and is not itself a policy loan under the life-insurance tax rules, though other tax rules can still apply", "Both transactions are always treated identically for tax purposes", "A bank loan always creates a taxable policy gain", "A collateral loan cancels the policy"],
+    "correctAnswer": 0,
+    "explanation": "A collateral bank loan and an insurer policy loan are legally and tax-wise different transactions. The collateral assignment secures the bank debt; it does not by itself convert the borrowing into a policy loan.",
+    "topic": "Tax",
+    "difficulty": "Hard"
   },
   {
     "id": 57,
     "moduleId": "life",
-    "question": "What is flat extra rating?",
-    "options": [
-      "Extra dollars per $1000 for temporary hazard",
-      "Taxed as employment income at source",
-      "Not applicable under Insurance Act",
-      "No such provision exists"
-    ],
+    "question": "A business uses proceeds of a policy loan to earn business income and wants to deduct the interest. Which statement is most accurate?",
+    "options": ["Interest may be deductible if the statutory conditions are met, including required insurer verification and appropriate income-earning use", "Policy-loan interest is always deductible", "Policy-loan interest is never deductible", "The deduction depends only on the beneficiary designation"],
     "correctAnswer": 0,
-    "explanation": "Limited period.",
-    "topic": "UW",
-    "difficulty": "Medium"
+    "explanation": "CRA guidance says policy-loan interest can be deductible when the borrowed money is used to earn income and the conditions in the Income Tax Act are met, including insurer verification on the prescribed form.",
+    "topic": "Tax",
+    "difficulty": "Hard"
   },
   {
     "id": 58,
     "moduleId": "life",
-    "question": "What is temporary insurance agreement (TIA)?",
-    "options": [
-      "Automatically void",
-      "Taxed as employment income at source",
-      "Not applicable under Insurance Act",
-      "Interim coverage if premium submitted with application"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Conditional on insurability.",
-    "topic": "Application",
+    "question": "Why should an advisor periodically review an existing life insurance plan?",
+    "options": ["Client needs, family circumstances, debts, business interests and policy performance can change, affecting suitability", "A review automatically increases the death benefit", "Policies must be replaced every five years", "Reviews are needed only for term insurance"],
+    "correctAnswer": 0,
+    "explanation": "Insurance planning is not a one-time exercise. Changes in the client's life or policy performance can create a need to adjust coverage, ownership, beneficiaries or funding.",
+    "topic": "Review",
     "difficulty": "Medium"
   },
   {
     "id": 59,
     "moduleId": "life",
-    "question": "What is conditional receipt?",
-    "options": [
-      "Automatically void",
-      "Coverage starts at application if found insurable",
-      "Taxed as employment income at source",
-      "Not applicable under Insurance Act"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Starts if insurable.",
-    "topic": "Application",
-    "difficulty": "Medium"
+    "question": "A client is considering replacing an existing permanent policy with a new one. What should the advisor do first?",
+    "options": ["Compare the existing and proposed contracts, identify lost guarantees or values, costs and new contestability or underwriting risks, and follow applicable replacement rules", "Cancel the old policy before applying for the new one", "Assume a newer policy is always better", "Ignore surrender charges because they are temporary"],
+    "correctAnswer": 0,
+    "explanation": "Replacement can create significant disadvantages, including loss of guarantees, surrender costs and a new contestability period. The advisor must assess suitability and comply with applicable replacement requirements.",
+    "topic": "Replacement",
+    "difficulty": "Hard"
   },
   {
     "id": 60,
     "moduleId": "life",
-    "question": "What is binding receipt?",
-    "options": [
-      "Coverage starts at application regardless of insurability",
-      "Not applicable under Insurance Act",
-      "No such provision exists",
-      "Taxed as employment income at source"
-    ],
+    "question": "A 45-year-old business owner has a spouse, two children, a $450,000 mortgage, a shareholder agreement, and a permanent tax liability expected at death. What is the best first step before recommending specific life policies?",
+    "options": ["Complete a comprehensive needs analysis that separates personal, business and permanent estate needs, then match coverage types and ownership to each need", "Buy one universal life policy for every need without analysis", "Use only the mortgage balance as the insurance amount", "Choose whichever policy has the highest illustrated cash value"],
     "correctAnswer": 0,
-    "explanation": "Unconditional.",
-    "topic": "Application",
-    "difficulty": "Medium"
+    "explanation": "Complex clients often have several distinct insurance needs with different durations, ownership structures and beneficiaries. The advisor should quantify and separate those needs before selecting products.",
+    "topic": "Scenario",
+    "difficulty": "Hard"
   }
 ]
