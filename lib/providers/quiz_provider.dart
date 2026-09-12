@@ -22,13 +22,17 @@ class QuizProvider extends ChangeNotifier {
   bool get showExplanation => _showExplanation;
   bool get isLoading => _isLoading;
   ModuleInfo? get currentModule => _currentModule;
-  Question get currentQuestion => _questions.isEmpty? throw Exception("No questions") : _questions[_currentIndex];
+  Question get currentQuestion => _questions.isEmpty
+      ? throw Exception("No questions")
+      : _questions[_currentIndex];
   int get totalQuestions => _questions.length;
-  bool get isLastQuestion => _questions.isEmpty? true : _currentIndex == _questions.length - 1;
-  double get progress => _questions.isEmpty? 0 : (_currentIndex + 1) / _questions.length;
+  bool get isLastQuestion =>
+      _questions.isEmpty ? true : _currentIndex == _questions.length - 1;
+  double get progress =>
+      _questions.isEmpty ? 0 : (_currentIndex + 1) / _questions.length;
 
   // NEEDED FOR MOCK EXAM
-  void setCustomQuestions(List<Question> qs, ModuleInfo module){
+  void setCustomQuestions(List<Question> qs, ModuleInfo module) {
     _questions = qs;
     _currentModule = module;
     _currentIndex = 0;
@@ -41,37 +45,74 @@ class QuizProvider extends ChangeNotifier {
   }
 
   Future<void> saveProgress() async {
-    if(_currentModule==null) return;
+    if (_currentModule == null) return;
     final prefs = await SharedPreferences.getInstance();
     await prefs.setInt('${_currentModule!.id}_index', _currentIndex);
-    await prefs.setString('${_currentModule!.id}_answers', json.encode(_userAnswers));
+    await prefs.setString(
+      '${_currentModule!.id}_answers',
+      json.encode(_userAnswers),
+    );
     await prefs.setInt('${_currentModule!.id}_score', _score);
+    await prefs.setString(
+      '${_currentModule!.id}_order',
+      json.encode(_questions.map((q) => q.id.toString()).toList()),
+    );
   }
 
-  Future<void> loadModule(ModuleInfo module, {bool resume=true}) async {
+  bool _isValidAnswerList(dynamic decoded, int questionCount) {
+    if (decoded is! List || decoded.length != questionCount) return false;
+    for (final value in decoded) {
+      if (value is! int || value < -1 || value > 3) return false;
+    }
+    return true;
+  }
+
+  List<Question>? _restoreSavedOrder(
+    List<Question> questions,
+    String? savedOrder,
+  ) {
+    if (savedOrder == null) return null;
+    try {
+      final decoded = json.decode(savedOrder);
+      if (decoded is! List || decoded.length != questions.length) return null;
+
+      final byId = <String, Question>{};
+      for (final question in questions) {
+        final key = question.id.toString();
+        if (byId.containsKey(key)) return null;
+        byId[key] = question;
+      }
+
+      final restored = <Question>[];
+      for (final value in decoded) {
+        final question = byId[value.toString()];
+        if (question == null) return null;
+        restored.add(question);
+      }
+      return restored.length == questions.length ? restored : null;
+    } catch (_) {
+      return null;
+    }
+  }
+
+  Future<void> loadModule(ModuleInfo module, {bool resume = true}) async {
     _isLoading = true;
     _currentModule = module;
     notifyListeners();
+
     try {
       final String data = await rootBundle.loadString(module.assetFile);
       final List<dynamic> jsonList = json.decode(data);
-      _questions = jsonList.map((e) => Question.fromJson(e)).toList();
-      _questions.shuffle();
+      final loadedQuestions = jsonList.map((e) => Question.fromJson(e)).toList();
+      final prefs = await SharedPreferences.getInstance();
 
-      for(int i=1;i<_questions.length;i++){
-        if(_questions[i].question.toLowerCase().trim()==_questions[i-1].question.toLowerCase().trim()){
-          int swap=-1;
-          for(int j=i+1;j<_questions.length;j++){
-            if(_questions[j].question.toLowerCase().trim()!=_questions[i-1].question.toLowerCase().trim()){
-              swap=j;break;
-            }
-          }
-          if(swap!=-1){
-            var tmp=_questions[i];
-            _questions[i]=_questions[swap];
-            _questions[swap]=tmp;
-          }
-        }
+      final savedOrder = resume ? prefs.getString('${module.id}_order') : null;
+      _questions = _restoreSavedOrder(loadedQuestions, savedOrder) ?? loadedQuestions;
+
+      // A new session gets a new question order. A resumed session reuses the
+      // stored id order so saved answer indexes still refer to the same items.
+      if (savedOrder == null || _restoreSavedOrder(loadedQuestions, savedOrder) == null) {
+        _questions.shuffle();
       }
 
       _currentIndex = 0;
@@ -80,30 +121,49 @@ class QuizProvider extends ChangeNotifier {
       _selectedAnswer = null;
       _showExplanation = false;
 
-      if(resume){
-        final prefs = await SharedPreferences.getInstance();
-        int? savedIdx = prefs.getInt('${module.id}_index');
-        String? savedAns = prefs.getString('${module.id}_answers');
-        int? savedScore = prefs.getInt('${module.id}_score');
-        if(savedIdx!=null && savedAns!=null && savedIdx < _questions.length){
-          _currentIndex = savedIdx;
-          _userAnswers = List<int>.from(json.decode(savedAns));
-          _score = savedScore?? 0;
-          _selectedAnswer = _userAnswers[_currentIndex]!=-1? _userAnswers[_currentIndex] : null;
-          _showExplanation = _userAnswers[_currentIndex]!=-1;
+      if (resume) {
+        final savedIdx = prefs.getInt('${module.id}_index');
+        final savedAns = prefs.getString('${module.id}_answers');
+        final savedScore = prefs.getInt('${module.id}_score');
+
+        if (savedIdx != null &&
+            savedIdx >= 0 &&
+            savedIdx < _questions.length &&
+            savedAns != null) {
+          try {
+            final decodedAnswers = json.decode(savedAns);
+            if (_isValidAnswerList(decodedAnswers, _questions.length)) {
+              _currentIndex = savedIdx;
+              _userAnswers = List<int>.from(decodedAnswers);
+              _score = savedScore ?? 0;
+              _selectedAnswer = _userAnswers[_currentIndex] != -1
+                  ? _userAnswers[_currentIndex]
+                  : null;
+              _showExplanation = _userAnswers[_currentIndex] != -1;
+            }
+          } catch (_) {
+            // Ignore incompatible or corrupted saved progress.
+          }
         }
       }
 
+      // Persist the actual order used for this session. This also repairs old
+      // saved progress that predates question-order persistence.
+      await prefs.setString(
+        '${module.id}_order',
+        json.encode(_questions.map((q) => q.id.toString()).toList()),
+      );
     } catch (e) {
       debugPrint('Error loading ${module.id}: $e');
     }
+
     _isLoading = false;
     notifyListeners();
   }
 
   void selectAnswer(int index) {
     int prev = _userAnswers[_currentIndex];
-    if(prev!=-1 && prev==currentQuestion.correctAnswer){
+    if (prev != -1 && prev == currentQuestion.correctAnswer) {
       _score--;
     }
     _selectedAnswer = index;
@@ -117,8 +177,10 @@ class QuizProvider extends ChangeNotifier {
   void nextQuestion() {
     if (_currentIndex < _questions.length - 1) {
       _currentIndex++;
-      _selectedAnswer = _userAnswers[_currentIndex]!=-1? _userAnswers[_currentIndex] : null;
-      _showExplanation = _userAnswers[_currentIndex]!=-1;
+      _selectedAnswer = _userAnswers[_currentIndex] != -1
+          ? _userAnswers[_currentIndex]
+          : null;
+      _showExplanation = _userAnswers[_currentIndex] != -1;
       saveProgress();
       notifyListeners();
     }
@@ -127,8 +189,10 @@ class QuizProvider extends ChangeNotifier {
   void previousQuestion() {
     if (_currentIndex > 0) {
       _currentIndex--;
-      _selectedAnswer = _userAnswers[_currentIndex]!=-1? _userAnswers[_currentIndex] : null;
-      _showExplanation = _userAnswers[_currentIndex]!=-1;
+      _selectedAnswer = _userAnswers[_currentIndex] != -1
+          ? _userAnswers[_currentIndex]
+          : null;
+      _showExplanation = _userAnswers[_currentIndex] != -1;
       saveProgress();
       notifyListeners();
     }
@@ -140,11 +204,12 @@ class QuizProvider extends ChangeNotifier {
     _selectedAnswer = null;
     _showExplanation = false;
     _userAnswers = List.filled(_questions.length, -1);
-    if(_currentModule!=null){
+    if (_currentModule != null) {
       final prefs = await SharedPreferences.getInstance();
       await prefs.remove('${_currentModule!.id}_index');
       await prefs.remove('${_currentModule!.id}_answers');
       await prefs.remove('${_currentModule!.id}_score');
+      await prefs.remove('${_currentModule!.id}_order');
     }
     notifyListeners();
   }
