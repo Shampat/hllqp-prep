@@ -8,7 +8,6 @@ import '../providers/theme_provider.dart';
 
 class FlashcardScreen extends StatefulWidget {
   const FlashcardScreen({super.key});
-
   @override
   State<FlashcardScreen> createState() => _FlashcardScreenState();
 }
@@ -21,9 +20,6 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
   String? loadError;
   ModuleInfo? selectedModule;
 
-  String flashcardAssetFor(ModuleInfo m) =>
-      'assets/flashcards/${m.id}_flashcards.json';
-
   @override
   void initState() {
     super.initState();
@@ -35,86 +31,63 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
     setState(() {
       isLoading = true;
       loadError = null;
-      selectedModule = m;
     });
-
     try {
-      String data;
-      try {
-        data = await rootBundle.loadString(flashcardAssetFor(m));
-      } catch (_) {
-        // Fall back to the validated question bank if a dedicated flashcard
-        // asset is ever missing for a study section.
-        data = await rootBundle.loadString(m.assetFile);
-      }
-
+      // Flashcards deliberately use the same validated source-of-truth as the
+      // quiz. The old assets/flashcards banks pre-date the 2026 content audit
+      // and can contain stale or contradictory rules.
+      final data = await rootBundle.loadString(m.assetFile);
       final decoded = json.decode(data);
       if (decoded is! List) {
-        throw const FormatException('Flashcard asset must contain a JSON list.');
+        throw const FormatException('Expected a JSON array');
       }
-
-      final loaded = decoded
-          .map((e) => Question.fromJson(Map<String, dynamic>.from(e as Map)))
-          .where((q) => q.question.trim().isNotEmpty && q.options.isNotEmpty)
-          .toList();
+      final loaded = decoded.map((e) => Question.fromJson(e as Map<String, dynamic>)).toList();
       loaded.shuffle();
-
       if (!mounted) return;
       setState(() {
         cards = loaded.take(50).toList();
         index = 0;
         showAnswer = false;
+        selectedModule = m;
         isLoading = false;
       });
-    } catch (e) {
-      debugPrint('Failed to load flashcards for ${m.id}: $e');
+    } catch (e, st) {
+      debugPrint('Flashcard load failed for ${m.id}: $e\n$st');
       if (!mounted) return;
       setState(() {
         cards = [];
         index = 0;
         showAnswer = false;
+        selectedModule = m;
+        loadError = 'Could not load ${m.name} flashcards.';
         isLoading = false;
-        loadError = 'Could not load flashcards for ${m.name}.';
       });
     }
   }
 
   void _toggleAnswer() {
-    if (cards.isEmpty) return;
-    setState(() => showAnswer = !showAnswer);
+    if (cards.isNotEmpty) setState(() => showAnswer = !showAnswer);
   }
 
   void _prev() {
-    if (index > 0) {
-      setState(() {
-        index--;
-        showAnswer = false;
-      });
-    }
+    if (index > 0) setState(() { index--; showAnswer = false; });
   }
 
   void _next() {
-    if (index < cards.length - 1) {
-      setState(() {
-        index++;
-        showAnswer = false;
-      });
-    }
+    if (index < cards.length - 1) setState(() { index++; showAnswer = false; });
   }
 
   @override
   Widget build(BuildContext context) {
     final isDark = Provider.of<ThemeProvider>(context).isDark;
+    final bottomPad = MediaQuery.of(context).padding.bottom;
 
     return Scaffold(
-      backgroundColor:
-          isDark ? const Color(0xFF121212) : const Color(0xFFF5F7FB),
+      backgroundColor: isDark ? const Color(0xFF121212) : const Color(0xFFF5F7FB),
       appBar: AppBar(
-        title: const Text('Flashcards',
-            style: TextStyle(fontWeight: FontWeight.bold)),
+        title: const Text('Flashcards', style: TextStyle(fontWeight: FontWeight.bold)),
         centerTitle: true,
-        backgroundColor:
-            isDark ? const Color(0xFF1A1A2E) : Colors.white,
+        backgroundColor: isDark ? const Color(0xFF1A1A2E) : Colors.white,
         foregroundColor: isDark ? Colors.white : Colors.black87,
         elevation: 0,
       ),
@@ -130,21 +103,15 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
               itemCount: allModules.length,
               itemBuilder: (context, i) {
                 final m = allModules[i];
-                final selected = selectedModule?.id == m.id;
+                final sel = selectedModule?.id == m.id;
                 return ChoiceChip(
                   label: Text(
                     '${m.icon} ${m.name}',
-                    style: TextStyle(
-                      fontSize: 12,
-                      color: selected
-                          ? Colors.white
-                          : (isDark ? Colors.white70 : Colors.black87),
-                    ),
+                    style: TextStyle(fontSize: 12, color: sel ? Colors.white : (isDark ? Colors.white70 : Colors.black87)),
                   ),
-                  selected: selected,
+                  selected: sel,
                   selectedColor: Colors.indigo,
-                  backgroundColor:
-                      isDark ? const Color(0xFF2A2A2A) : Colors.grey[100],
+                  backgroundColor: isDark ? const Color(0xFF2A2A2A) : Colors.grey[100],
                   onSelected: (_) => _loadCards(m),
                 );
               },
@@ -158,27 +125,11 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      Text(
-                        selectedModule?.name ?? '',
-                        style: const TextStyle(
-                            fontSize: 12,
-                            color: Colors.grey,
-                            fontWeight: FontWeight.w600),
-                      ),
+                      Text(selectedModule?.name ?? '', style: const TextStyle(fontSize: 12, color: Colors.grey, fontWeight: FontWeight.w600)),
                       Container(
-                        padding: const EdgeInsets.symmetric(
-                            horizontal: 10, vertical: 4),
-                        decoration: BoxDecoration(
-                          color: Colors.indigo,
-                          borderRadius: BorderRadius.circular(20),
-                        ),
-                        child: Text(
-                          '${index + 1} / ${cards.length}',
-                          style: const TextStyle(
-                              color: Colors.white,
-                              fontWeight: FontWeight.bold,
-                              fontSize: 12),
-                        ),
+                        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                        decoration: BoxDecoration(color: Colors.indigo, borderRadius: BorderRadius.circular(20)),
+                        child: Text('${index + 1} / ${cards.length}', style: const TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 12)),
                       ),
                     ],
                   ),
@@ -189,8 +140,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                       value: (index + 1) / cards.length,
                       minHeight: 6,
                       backgroundColor: Colors.grey[200],
-                      valueColor:
-                          const AlwaysStoppedAnimation(Colors.indigo),
+                      valueColor: const AlwaysStoppedAnimation(Colors.indigo),
                     ),
                   ),
                 ],
@@ -206,15 +156,11 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                           child: Column(
                             mainAxisSize: MainAxisSize.min,
                             children: [
-                              const Icon(Icons.style_outlined, size: 48),
+                              Text(loadError ?? 'No cards available', textAlign: TextAlign.center),
                               const SizedBox(height: 12),
-                              Text(loadError ?? 'No flashcards found.'),
-                              const SizedBox(height: 12),
-                              OutlinedButton(
-                                onPressed: selectedModule == null
-                                    ? null
-                                    : () => _loadCards(selectedModule!),
-                                child: const Text('Try Again'),
+                              ElevatedButton(
+                                onPressed: selectedModule == null ? null : () => _loadCards(selectedModule!),
+                                child: const Text('Retry'),
                               ),
                             ],
                           ),
@@ -226,11 +172,8 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                           onTap: _toggleAnswer,
                           child: Card(
                             elevation: 8,
-                            color: isDark
-                                ? const Color(0xFF1E1E1E)
-                                : Colors.white,
-                            shape: RoundedRectangleBorder(
-                                borderRadius: BorderRadius.circular(20)),
+                            color: isDark ? const Color(0xFF1E1E1E) : Colors.white,
+                            shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
                             child: Padding(
                               padding: const EdgeInsets.all(24),
                               child: SingleChildScrollView(
@@ -239,14 +182,7 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                                   children: [
                                     Text(
                                       'Q${index + 1}: ${cards[index].question}',
-                                      style: TextStyle(
-                                        fontSize: 18,
-                                        fontWeight: FontWeight.bold,
-                                        height: 1.4,
-                                        color: isDark
-                                            ? Colors.white
-                                            : Colors.black87,
-                                      ),
+                                      style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold, height: 1.4, color: isDark ? Colors.white : Colors.black87),
                                     ),
                                     const SizedBox(height: 20),
                                     if (showAnswer) ...[
@@ -255,43 +191,18 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                                       Container(
                                         padding: const EdgeInsets.all(12),
                                         decoration: BoxDecoration(
-                                          color: isDark
-                                              ? const Color(0xFF1B5E20)
-                                              : Colors.green[50],
-                                          borderRadius:
-                                              BorderRadius.circular(12),
+                                          color: isDark ? const Color(0xFF1B5E20) : Colors.green[50],
+                                          borderRadius: BorderRadius.circular(12),
                                         ),
                                         child: Text(
                                           'Answer: ${cards[index].options[cards[index].correctAnswer]}',
-                                          style: TextStyle(
-                                            fontSize: 16,
-                                            color: isDark
-                                                ? Colors.white
-                                                : Colors.green[800],
-                                            fontWeight: FontWeight.bold,
-                                          ),
+                                          style: TextStyle(fontSize: 16, color: isDark ? Colors.white : Colors.green[800], fontWeight: FontWeight.bold),
                                         ),
                                       ),
                                       const SizedBox(height: 16),
-                                      Text(
-                                        cards[index].explanation,
-                                        style: TextStyle(
-                                          fontSize: 14,
-                                          height: 1.5,
-                                          color: isDark
-                                              ? Colors.white70
-                                              : Colors.black87,
-                                        ),
-                                      ),
+                                      Text(cards[index].explanation, style: TextStyle(fontSize: 14, height: 1.5, color: isDark ? Colors.white70 : Colors.black87)),
                                     ] else
-                                      Text(
-                                        'Tap to reveal answer',
-                                        style: TextStyle(
-                                          color: isDark
-                                              ? Colors.white54
-                                              : Colors.grey,
-                                        ),
-                                      ),
+                                      Text('Tap to reveal answer', style: TextStyle(color: isDark ? Colors.white54 : Colors.grey)),
                                   ],
                                 ),
                               ),
@@ -302,10 +213,9 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
           ),
           if (cards.isNotEmpty)
             SafeArea(
-              top: false,
               child: Container(
                 color: isDark ? const Color(0xFF121212) : Colors.white,
-                padding: const EdgeInsets.fromLTRB(16, 8, 16, 16),
+                padding: EdgeInsets.fromLTRB(16, 8, 16, 16 + bottomPad),
                 child: Column(
                   mainAxisSize: MainAxisSize.min,
                   children: [
@@ -313,10 +223,8 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                       width: double.infinity,
                       child: ElevatedButton(
                         onPressed: _toggleAnswer,
-                        style: ElevatedButton.styleFrom(
-                            padding: const EdgeInsets.symmetric(vertical: 14)),
-                        child: Text(
-                            showAnswer ? 'Hide Answer' : 'Show Answer'),
+                        style: ElevatedButton.styleFrom(padding: const EdgeInsets.symmetric(vertical: 14)),
+                        child: Text(showAnswer ? 'Hide Answer' : 'Show Answer'),
                       ),
                     ),
                     const SizedBox(height: 12),
@@ -325,31 +233,18 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                         Expanded(
                           child: ElevatedButton(
                             onPressed: index > 0 ? _prev : null,
-                            style: ElevatedButton.styleFrom(
-                                padding:
-                                    const EdgeInsets.symmetric(vertical: 14)),
+                            style: ElevatedButton.styleFrom(padding: const EdgeInsets.symmetric(vertical: 14)),
                             child: const Text('Previous'),
                           ),
                         ),
                         const SizedBox(width: 12),
-                        Text(
-                          '${index + 1}/${cards.length}',
-                          style: TextStyle(
-                              fontWeight: FontWeight.bold,
-                              color:
-                                  isDark ? Colors.white : Colors.black87),
-                        ),
+                        Text('${index + 1}/${cards.length}', style: TextStyle(fontWeight: FontWeight.bold, color: isDark ? Colors.white : Colors.black87)),
                         const SizedBox(width: 12),
                         Expanded(
                           child: ElevatedButton(
-                            onPressed:
-                                index < cards.length - 1 ? _next : null,
-                            style: ElevatedButton.styleFrom(
-                                padding:
-                                    const EdgeInsets.symmetric(vertical: 14)),
-                            child: Text(index == cards.length - 1
-                                ? 'Done'
-                                : 'Next'),
+                            onPressed: index < cards.length - 1 ? _next : null,
+                            style: ElevatedButton.styleFrom(padding: const EdgeInsets.symmetric(vertical: 14)),
+                            child: Text(index == cards.length - 1 ? 'Done' : 'Next'),
                           ),
                         ),
                       ],
