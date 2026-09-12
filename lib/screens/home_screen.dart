@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../services/premium_service.dart';
 import '../widgets/banner_ad_widget.dart';
+import 'mock_exam_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -40,7 +41,22 @@ class HomeScreen extends StatelessWidget {
               padding: const EdgeInsets.fromLTRB(12,0,12,8),
               child: Row(
                 children: [
-                  Expanded(child: SizedBox(height: 42, child: ElevatedButton(onPressed: (){}, child: const Text('Mock Exam', style: TextStyle(fontSize: 13))))),
+                  Expanded(
+                    child: SizedBox(
+                      height: 42,
+                      child: ElevatedButton(
+                        onPressed: () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                              builder: (_) => const MockExamScreen(),
+                            ),
+                          );
+                        },
+                        child: const Text('Mock Exam', style: TextStyle(fontSize: 13)),
+                      ),
+                    ),
+                  ),
                   const SizedBox(width: 12),
                   Expanded(child: SizedBox(height: 42, child: ElevatedButton(onPressed: (){}, child: const Text('Flashcards', style: TextStyle(fontSize: 13))))),
                 ],
