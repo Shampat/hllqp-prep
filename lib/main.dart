@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'providers/quiz_provider.dart';
 import 'providers/theme_provider.dart';
+import 'services/ad_service.dart';
 import 'services/billing_service.dart';
 import 'services/premium_service.dart';
 import 'services/purchase_verification_service.dart';
@@ -15,7 +16,11 @@ void main() async {
     BillingService.instance.setVerifier(PurchaseVerificationService.verify);
   }
 
-  await BillingService.instance.init();
+  await Future.wait([
+    BillingService.instance.init(),
+    AdService.initialize(),
+  ]);
+
   runApp(const HLLQPApp());
 }
 
