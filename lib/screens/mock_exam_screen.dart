@@ -132,7 +132,7 @@ class _MockExamScreenState extends State<MockExamScreen> {
       );
     }
 
-    final mockModule = ModuleInfo(
+    const mockModule = ModuleInfo(
       id: 'mock',
       name: 'Comprehensive LLQP Mock',
       assetFile: 'assets/questions/life_questions.json',
@@ -175,7 +175,7 @@ class _MockExamScreenState extends State<MockExamScreen> {
                         Navigator.push(
                           context,
                           MaterialPageRoute(
-                            builder: (_) => QuizScreen(module: mockModule),
+                            builder: (_) => const QuizScreen(module: mockModule),
                           ),
                         );
                       }
