@@ -30,15 +30,17 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
   }
 
   Future<void> _loadCards(ModuleInfo m) async {
+    final moduleIndex = allModules.indexWhere((module) => module.id == m.id);
+    final limit = moduleIndex < 0
+        ? null
+        : PremiumService.instance.questionLimitForModule(moduleIndex);
+
     setState(() { isLoading = true; loadError = null; });
     try {
       final data = await rootBundle.loadString(m.assetFile);
       final decoded = json.decode(data);
       if (decoded is! List) throw const FormatException('Expected a JSON array');
       var loaded = decoded.map((e) => Question.fromJson(Map<String, dynamic>.from(e as Map))).toList();
-      final moduleIndex = allModules.indexWhere((module) => module.id == m.id);
-      final premium = Provider.of<PremiumService>(context, listen: false);
-      final limit = moduleIndex < 0 ? null : premium.questionLimitForModule(moduleIndex);
       if (limit != null && loaded.length > limit) {
         loaded.sort((a, b) => a.id.compareTo(b.id));
         loaded = loaded.take(limit).toList();
@@ -83,9 +85,6 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
       appBar: AppBar(title: const Text('Flashcards', style: TextStyle(fontWeight: FontWeight.bold)), centerTitle: true),
       body: Column(
         children: [
-          const SizedBox(height: 8),
-          const BannerAdWidget(),
-          const SizedBox(height: 8),
           Container(
             height: 56,
             color: isDark ? const Color(0xFF1E1E1E) : Colors.white,
@@ -107,6 +106,10 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                 );
               },
             ),
+          ),
+          const Padding(
+            padding: EdgeInsets.only(top: 8),
+            child: BannerAdWidget(),
           ),
           if (isPreview && !isLoading)
             const Padding(
