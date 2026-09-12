@@ -85,6 +85,12 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
       appBar: AppBar(title: const Text('Flashcards', style: TextStyle(fontWeight: FontWeight.bold)), centerTitle: true),
       body: Column(
         children: [
+          // Keep the ad directly under the app bar and separated from the
+          // interactive module chips below it.
+          const Padding(
+            padding: EdgeInsets.symmetric(vertical: 8),
+            child: BannerAdWidget(),
+          ),
           Container(
             height: 56,
             color: isDark ? const Color(0xFF1E1E1E) : Colors.white,
@@ -106,10 +112,6 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                 );
               },
             ),
-          ),
-          const Padding(
-            padding: EdgeInsets.only(top: 8),
-            child: BannerAdWidget(),
           ),
           if (isPreview && !isLoading)
             const Padding(
