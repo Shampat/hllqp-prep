@@ -24,9 +24,15 @@ class HomeScreen extends StatelessWidget {
       body: SafeArea(
         child: Column(
           children: [
+            // Keep the ad outside the scrolling module grid so cards can never
+            // move behind or underneath the ad surface.
+            const Padding(
+              padding: EdgeInsets.symmetric(vertical: 8),
+              child: BannerAdWidget(),
+            ),
             Expanded(
               child: GridView.builder(
-                padding: const EdgeInsets.all(12),
+                padding: const EdgeInsets.fromLTRB(12, 4, 12, 12),
                 gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                   crossAxisCount: 2,
                   crossAxisSpacing: 12,
@@ -101,8 +107,6 @@ class HomeScreen extends StatelessWidget {
                 },
               ),
             ),
-            const BannerAdWidget(),
-            const SizedBox(height: 8),
             Padding(
               padding: const EdgeInsets.fromLTRB(12, 0, 12, 8),
               child: Row(
