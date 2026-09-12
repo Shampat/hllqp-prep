@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 import '../models/module.dart';
 import '../providers/quiz_provider.dart';
 import '../providers/theme_provider.dart';
+import '../services/premium_service.dart';
 import 'result_screen.dart';
 
 class QuizScreen extends StatefulWidget {
@@ -18,7 +19,16 @@ class _QuizScreenState extends State<QuizScreen> {
   void initState() {
     super.initState();
     WidgetsBinding.instance.addPostFrameCallback((_) {
-      Provider.of<QuizProvider>(context, listen: false).loadModule(widget.module);
+      // Mock questions are injected by MockExamScreen and must not be replaced
+      // by the placeholder asset file when QuizScreen opens.
+      if (widget.module.id == 'mock') return;
+      final moduleIndex = allModules.indexWhere((m) => m.id == widget.module.id);
+      final premium = Provider.of<PremiumService>(context, listen: false);
+      final limit = moduleIndex < 0 ? null : premium.questionLimitForModule(moduleIndex);
+      Provider.of<QuizProvider>(context, listen: false).loadModule(
+        widget.module,
+        maxQuestions: limit,
+      );
     });
   }
 
@@ -61,7 +71,6 @@ class _QuizScreenState extends State<QuizScreen> {
                   Color? bg;
                   IconData? icon;
                   Color? textColor;
-                  
                   if (provider.showExplanation) {
                     if (isCorrect) {
                       bg = isDark? const Color(0xFF1B5E20) : Colors.green.shade100;
@@ -76,15 +85,9 @@ class _QuizScreenState extends State<QuizScreen> {
                       textColor = isDark? Colors.white70 : Colors.black87;
                     }
                   } else {
-                    if (isSelected) {
-                      bg = isDark? const Color(0xFF303F9F) : Colors.indigo.shade50;
-                      textColor = isDark? Colors.white : Colors.black87;
-                    } else {
-                      bg = isDark? const Color(0xFF1E1E1E) : Colors.white;
-                      textColor = isDark? Colors.white : Colors.black87;
-                    }
+                    bg = isSelected ? (isDark? const Color(0xFF303F9F) : Colors.indigo.shade50) : (isDark? const Color(0xFF1E1E1E) : Colors.white);
+                    textColor = isDark? Colors.white : Colors.black87;
                   }
-                  
                   return Padding(
                     padding: const EdgeInsets.only(bottom: 8),
                     child: Card(
@@ -136,11 +139,7 @@ class _QuizScreenState extends State<QuizScreen> {
                     flex: 2,
                     child: ElevatedButton.icon(
                       icon: Icon(provider.isLastQuestion? Icons.flag : Icons.arrow_forward),
-                      style: ElevatedButton.styleFrom(
-                        backgroundColor: provider.showExplanation? Colors.indigo : Colors.grey[400],
-                        foregroundColor: Colors.white,
-                        padding: const EdgeInsets.symmetric(vertical: 14),
-                      ),
+                      style: ElevatedButton.styleFrom(backgroundColor: provider.showExplanation? Colors.indigo : Colors.grey[400], foregroundColor: Colors.white, padding: const EdgeInsets.symmetric(vertical: 14)),
                       onPressed: provider.showExplanation? () {
                         if (provider.isLastQuestion) {
                           Navigator.pushReplacement(context, MaterialPageRoute(builder: (_) => ResultScreen(provider: provider)));
