@@ -130,8 +130,6 @@ class _PaywallScreenState extends State<PaywallScreen> {
               const Divider(),
               const SizedBox(height: 8),
               OutlinedButton.icon(onPressed: _busy ? null : _testUnlock, icon: const Icon(Icons.science_outlined), label: const Text('Closed-test unlock')),
-              const SizedBox(height: 6),
-              const Text('Visible only in builds created with ALLOW_TEST_UNLOCK=true.', textAlign: TextAlign.center, style: TextStyle(fontSize: 11, color: Colors.grey)),
             ],
             const SizedBox(height: 12),
             TextButton(onPressed: () => Navigator.pop(context), child: const Text('Continue with 190 free questions')),
