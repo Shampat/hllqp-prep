@@ -11,6 +11,9 @@ class PremiumService extends ChangeNotifier {
     'isPremium',
   ];
 
+  static const int fullyFreeModuleCount = 2;
+  static const int freePreviewQuestionCount = 10;
+
   /// Explicitly opt in for closed-test builds with:
   /// --dart-define=ALLOW_TEST_UNLOCK=true
   static const bool allowTestUnlock = bool.fromEnvironment(
@@ -42,7 +45,16 @@ class PremiumService extends ChangeNotifier {
     }
   }
 
-  bool isModuleLocked(int index) => _isPro ? false : index > 1;
+  bool isFullyFreeModule(int index) => index < fullyFreeModuleCount;
+
+  /// All study modules can be opened. Free users receive the complete first
+  /// two modules and a stable 10-question preview of every remaining module.
+  bool isModuleLocked(int index) => false;
+
+  int? questionLimitForModule(int index) {
+    if (_isPro || isFullyFreeModule(index)) return null;
+    return freePreviewQuestionCount;
+  }
 
   Future<void> setPro(bool value) async {
     if (_isPro == value) return;
