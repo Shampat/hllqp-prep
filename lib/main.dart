@@ -5,16 +5,11 @@ import 'providers/theme_provider.dart';
 import 'services/ad_service.dart';
 import 'services/billing_service.dart';
 import 'services/premium_service.dart';
-import 'services/purchase_verification_service.dart';
 import 'screens/home_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await PremiumService.init();
-
-  if (PurchaseVerificationService.isConfigured) {
-    BillingService.instance.setVerifier(PurchaseVerificationService.verify);
-  }
 
   await Future.wait([
     BillingService.instance.init(),

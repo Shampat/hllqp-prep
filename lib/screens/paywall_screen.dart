@@ -53,7 +53,7 @@ class _PaywallScreenState extends State<PaywallScreen> {
         _busy = false;
         _message = started
             ? 'Purchase started. Complete it in the store to unlock Pro.'
-            : (BillingService.instance.canProcessPurchases ? 'The purchase could not be started.' : 'Purchase verification is not configured for this build.');
+            : (BillingService.instance.canProcessPurchases ? 'The purchase could not be started.' : 'Store billing is unavailable on this device.');
       });
     } catch (_) {
       if (!mounted) return;
@@ -69,7 +69,7 @@ class _PaywallScreenState extends State<PaywallScreen> {
       if (!mounted) return;
       setState(() {
         _busy = false;
-        _message = started ? 'Restore requested. Verified purchases will unlock automatically.' : 'Purchase verification is not configured for this build.';
+        _message = started ? 'Restore requested. Previous purchases will unlock automatically.' : 'Store billing is unavailable on this device.';
       });
     } catch (_) {
       if (!mounted) return;
