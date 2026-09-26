@@ -52,7 +52,7 @@ class _PaywallScreenState extends State<PaywallScreen> {
       setState(() {
         _busy = false;
         _message = started
-            ? 'Purchase started. Complete it in the store to unlock Pro.'
+            ? null
             : (BillingService.instance.canProcessPurchases ? 'The purchase could not be started.' : 'Store billing is unavailable on this device.');
       });
     } catch (_) {
@@ -74,18 +74,6 @@ class _PaywallScreenState extends State<PaywallScreen> {
     } catch (_) {
       if (!mounted) return;
       setState(() { _busy = false; _message = 'Could not restore purchases.'; });
-    }
-  }
-
-  Future<void> _testUnlock() async {
-    if (_busy || !PremiumService.allowTestUnlock) return;
-    setState(() => _busy = true);
-    try {
-      await context.read<PremiumService>().unlockPro();
-      if (!mounted) return;
-      Navigator.pop(context);
-    } finally {
-      if (mounted) setState(() => _busy = false);
     }
   }
 
@@ -124,12 +112,6 @@ class _PaywallScreenState extends State<PaywallScreen> {
             if (_message != null) ...[
               const SizedBox(height: 12),
               Text(_message!, textAlign: TextAlign.center, style: TextStyle(color: Theme.of(context).colorScheme.error)),
-            ],
-            if (PremiumService.allowTestUnlock) ...[
-              const SizedBox(height: 16),
-              const Divider(),
-              const SizedBox(height: 8),
-              OutlinedButton.icon(onPressed: _busy ? null : _testUnlock, icon: const Icon(Icons.science_outlined), label: const Text('Closed-test unlock')),
             ],
             const SizedBox(height: 12),
             TextButton(onPressed: () => Navigator.pop(context), child: const Text('Continue with 190 free questions')),

@@ -14,13 +14,6 @@ class PremiumService extends ChangeNotifier {
   static const int fullyFreeModuleCount = 2;
   static const int freePreviewQuestionCount = 10;
 
-  /// Explicitly opt in for closed-test builds with:
-  /// --dart-define=ALLOW_TEST_UNLOCK=true
-  static const bool allowTestUnlock = bool.fromEnvironment(
-    'ALLOW_TEST_UNLOCK',
-    defaultValue: false,
-  );
-
   static late SharedPreferences _prefs;
   bool _isPro = false;
 
@@ -63,12 +56,4 @@ class PremiumService extends ChangeNotifier {
     notifyListeners();
   }
 
-  /// Closed-testing convenience path. This is unavailable unless the build
-  /// explicitly opts in with ALLOW_TEST_UNLOCK=true.
-  Future<void> unlockPro() async {
-    if (!allowTestUnlock) {
-      throw StateError('Test premium unlock is disabled for this build.');
-    }
-    await setPro(true);
-  }
 }
