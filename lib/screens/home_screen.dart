@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../models/module.dart';
+import '../services/consent_service.dart';
 import '../services/premium_service.dart';
 import '../widgets/banner_ad_widget.dart';
 import 'flashcard_screen.dart';
@@ -8,11 +9,40 @@ import 'mock_exam_screen.dart';
 import 'paywall_screen.dart';
 import 'quiz_screen.dart';
 
-class HomeScreen extends StatelessWidget {
+class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
+  @override
+  State<HomeScreen> createState() => _HomeScreenState();
+}
+
+class _HomeScreenState extends State<HomeScreen> {
+  bool _privacyOptionsRequired = false;
+
+  @override
+  void initState() {
+    super.initState();
+    _refreshPrivacyOptionsRequirement();
+  }
+
+  Future<void> _refreshPrivacyOptionsRequirement() async {
+    final required = await ConsentService.instance.isPrivacyOptionsRequired();
+
+    if (!mounted) return;
+
+    setState(() {
+      _privacyOptionsRequired = required;
+    });
+  }
+
+  Future<void> _showPrivacyOptions() async {
+    await ConsentService.instance.showPrivacyOptions();
+    await _refreshPrivacyOptionsRequirement();
+  }
+
   Color _moduleColor(String hex) {
-    final value = int.tryParse(hex.replaceFirst('#', ''), radix: 16) ?? 0x3F51B5;
+    final value =
+        int.tryParse(hex.replaceFirst('#', ''), radix: 16) ?? 0x3F51B5;
     return Color(0xFF000000 | value);
   }
 
@@ -20,7 +50,27 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final premium = context.watch<PremiumService>();
     return Scaffold(
-      appBar: AppBar(title: const Text('HLLQP Prep'), centerTitle: true),
+      appBar: AppBar(
+        title: const Text('HLLQP Prep'),
+        centerTitle: true,
+        actions: [
+          if (_privacyOptionsRequired)
+            PopupMenuButton<String>(
+              tooltip: 'More options',
+              onSelected: (value) {
+                if (value == 'privacy') {
+                  _showPrivacyOptions();
+                }
+              },
+              itemBuilder: (context) => const [
+                PopupMenuItem<String>(
+                  value: 'privacy',
+                  child: Text('Privacy choices'),
+                ),
+              ],
+            ),
+        ],
+      ),
       body: SafeArea(
         child: Column(
           children: [
@@ -52,7 +102,8 @@ class HomeScreen extends StatelessWidget {
                       onTap: () {
                         Navigator.push(
                           context,
-                          MaterialPageRoute(builder: (_) => QuizScreen(module: module)),
+                          MaterialPageRoute(
+                              builder: (_) => QuizScreen(module: module)),
                         );
                       },
                       child: Padding(
@@ -62,7 +113,8 @@ class HomeScreen extends StatelessWidget {
                             Column(
                               mainAxisAlignment: MainAxisAlignment.center,
                               children: [
-                                Text(module.icon, style: const TextStyle(fontSize: 30)),
+                                Text(module.icon,
+                                    style: const TextStyle(fontSize: 30)),
                                 const SizedBox(height: 8),
                                 SizedBox(
                                   width: double.infinity,
@@ -71,16 +123,22 @@ class HomeScreen extends StatelessWidget {
                                     textAlign: TextAlign.center,
                                     maxLines: 2,
                                     overflow: TextOverflow.ellipsis,
-                                    style: const TextStyle(fontSize: 14, fontWeight: FontWeight.w700),
+                                    style: const TextStyle(
+                                        fontSize: 14,
+                                        fontWeight: FontWeight.w700),
                                   ),
                                 ),
                                 const SizedBox(height: 5),
                                 Text(
-                                  preview ? '10 questions free · 50 with Pro' : module.description,
+                                  preview
+                                      ? '10 questions free · 50 with Pro'
+                                      : module.description,
                                   textAlign: TextAlign.center,
                                   maxLines: 2,
                                   overflow: TextOverflow.ellipsis,
-                                  style: TextStyle(fontSize: 10, color: Colors.grey.shade700),
+                                  style: TextStyle(
+                                      fontSize: 10,
+                                      color: Colors.grey.shade700),
                                 ),
                               ],
                             ),
@@ -88,14 +146,20 @@ class HomeScreen extends StatelessWidget {
                               top: 0,
                               left: 0,
                               child: Container(
-                                padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 2),
+                                padding: const EdgeInsets.symmetric(
+                                    horizontal: 6, vertical: 2),
                                 decoration: BoxDecoration(
                                   color: accent,
                                   borderRadius: BorderRadius.circular(4),
                                 ),
                                 child: Text(
-                                  premium.isPro ? 'PRO' : (fullyFree ? 'FREE' : '10 FREE'),
-                                  style: const TextStyle(color: Colors.white, fontSize: 9, fontWeight: FontWeight.bold),
+                                  premium.isPro
+                                      ? 'PRO'
+                                      : (fullyFree ? 'FREE' : '10 FREE'),
+                                  style: const TextStyle(
+                                      color: Colors.white,
+                                      fontSize: 9,
+                                      fontWeight: FontWeight.bold),
                                 ),
                               ),
                             ),
@@ -140,10 +204,12 @@ class HomeScreen extends StatelessWidget {
                         onPressed: () {
                           Navigator.push(
                             context,
-                            MaterialPageRoute(builder: (_) => const FlashcardScreen()),
+                            MaterialPageRoute(
+                                builder: (_) => const FlashcardScreen()),
                           );
                         },
-                        child: const Text('Flashcards', style: TextStyle(fontSize: 13)),
+                        child: const Text('Flashcards',
+                            style: TextStyle(fontSize: 13)),
                       ),
                     ),
                   ),

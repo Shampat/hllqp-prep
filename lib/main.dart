@@ -4,6 +4,7 @@ import 'providers/quiz_provider.dart';
 import 'providers/theme_provider.dart';
 import 'services/ad_service.dart';
 import 'services/billing_service.dart';
+import 'services/consent_service.dart';
 import 'services/premium_service.dart';
 import 'screens/home_screen.dart';
 
@@ -11,10 +12,15 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await PremiumService.init();
 
-  await Future.wait([
+  final results = await Future.wait([
     BillingService.instance.init(),
-    AdService.initialize(),
+    ConsentService.instance.gatherConsent(),
   ]);
+
+  final canRequestAds = results[1] as bool;
+  if (canRequestAds) {
+    await AdService.initialize();
+  }
 
   runApp(const HLLQPApp());
 }

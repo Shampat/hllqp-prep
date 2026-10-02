@@ -3,6 +3,7 @@ import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:provider/provider.dart';
 
 import '../services/ad_service.dart';
+import '../services/consent_service.dart';
 import '../services/premium_service.dart';
 
 class BannerAdWidget extends StatefulWidget {
@@ -17,9 +18,13 @@ class _BannerAdWidgetState extends State<BannerAdWidget> {
   bool _loaded = false;
   bool _started = false;
 
-  void _loadIfNeeded() {
+  Future<void> _loadIfNeeded() async {
     if (_started || context.read<PremiumService>().isPro) return;
     _started = true;
+
+    final canRequestAds = await ConsentService.instance.canRequestAds();
+    if (!canRequestAds || !mounted) return;
+
     _ad = AdService.createBannerAd(
       onLoaded: (ad) {
         if (!mounted) {
